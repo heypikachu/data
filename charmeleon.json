@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "species": "charmeleon",
+  "name": "Charmeleon",
+  "number": "0005",
+  "japanese": { "kanji": "リザード", "romaji": "Rizādo", "spelling": "Lizardo" },
+  "types": ["Fogo"],
+  "species_name": "Pokémon Chama",
+  "height": "1,1 m",
+  "weight": "19,0 kg",
+  "records": {
+    "scarlet": {
+      "review_status": "approved",
+      "game_name": "Pokémon Scarlet",
+      "gen": "IX",
+      "console": "Nintendo Switch",
+      "stats": [58, 64, 58, 80, 65, 80],
+      "stat_names": ["HP", "Ataque", "Defesa", "At. Especial", "Def. Especial", "Velocidade"],
+      "types": ["Fogo"],
+      "abilities": "Blaze (Principal) · Solar Power (Oculta)",
+      "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
+      "obtaining": "Transfira um Charmander do Pokémon HOME e evolua no nível 16.",
+      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "moves_by_method": {
+        "level": [
+          {"name": "Scratch", "method": "level", "type": "Normal", "category": "Físico", "power": 40, "level": 1},
+          {"name": "Growl", "method": "level", "type": "Normal", "category": "Status", "power": "—", "level": 1},
+          {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
+          {"name": "Smokescreen", "method": "level", "type": "Normal", "category": "Status", "power": "—", "level": 1},
+          {"name": "Dragon Breath", "method": "level", "type": "Dragão", "category": "Especial", "power": 60, "level": 12},
+          {"name": "Fire Fang", "method": "level", "type": "Fogo", "category": "Físico", "power": 65, "level": 19},
+          {"name": "Slash", "method": "level", "type": "Normal", "category": "Físico", "power": 70, "level": 24},
+          {"name": "Flamethrower", "method": "level", "type": "Fogo", "category": "Especial", "power": 90, "level": 30},
+          {"name": "Scary Face", "method": "level", "type": "Normal", "category": "Status", "power": "—", "level": 37},
+          {"name": "Fire Spin", "method": "level", "type": "Fogo", "category": "Especial", "power": 35, "level": 42},
+          {"name": "Inferno", "method": "level", "type": "Fogo", "category": "Especial", "power": 100, "level": 48},
+          {"name": "Flare Blitz", "method": "level", "type": "Fogo", "category": "Físico", "power": 120, "level": 54}
+        ],
+        "tm": [],
+        "egg": [],
+        "tutor": []
+      },
+      "ev_yield": [0, 0, 0, 1, 0, 1],
+      "availability": "confirmed",
+      "learnset_origin": "editorial-crosscheck-gen9-scarlet",
+      "learnset_complete": true,
+      "learnset_review_status": "aprendizado_direto_por_nivel_validado",
+      "obtaining_status": "verified_core",
+      "encounters": [
+        {
+          "pokemon": "Charmeleon",
+          "kind": "transfer",
+          "location": "Pokémon HOME",
+          "method": "Transferência",
+          "details": "Não é encontrado selvagem em Paldea. Transfira de outro jogo.",
+          "source_key": "home"
+        }
+      ],
+      "pokedex_entries": {
+        "status": "verified_theme",
+        "base": {
+          "text_ptbr": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+          "theme_id": "garras-fogo"
+        }
+      },
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/5.png"
+    }
+  }
+}
