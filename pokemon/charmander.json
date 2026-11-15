@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "species": "charmander",
+  "name": "Charmander",
+  "number": "0004",
+  "species_name": "Pokémon Lagarto",
+  "types": ["Fogo"],
+  "records": {
+    "scarlet": {
+      "review_status": "approved",
+      "game_name": "Pokémon Scarlet",
+      "gen": "IX",
+      "stats": [39, 52, 43, 60, 50, 65],
+      "stat_names": ["HP", "Ataque", "Defesa", "At. Especial", "Def. Especial", "Velocidade"],
+      "obtaining": "Transfira um Charmander do Pokémon HOME ou capture em eventos especiais.",
+      "pokedex_entry": "A chama na ponta da cauda indica sua força vital. Se estiver saudável, queima intensamente.",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/4.png"
+    }
+  }
+}
