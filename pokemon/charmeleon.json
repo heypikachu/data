@@ -49,13 +49,13 @@
       "encounters": [
         {
           "pokemon": "Charmeleon",
-          "kind": "transfer",
-          "location": "Pokémon HOME",
-          "method": "Transferência",
-          "details": "Não é encontrado selvagem em Paldea. Transfira de outro jogo.",
-          "source_key": "home"
+          "kind": "wild",
+          "location": "Zona Norte",
+          "method": "Captura",
+          "details": "Teste de localização"
         }
       ],
+      "obtaining_source_keys": ["home"],
       "pokedex_entries": {
         "status": "verified_theme",
         "base": {
