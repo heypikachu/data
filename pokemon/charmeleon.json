@@ -10,6 +10,8 @@
   "weight": "19,0 kg",
   "records": {
     "scarlet": {
+     "evolves_from": "Charmander no nível 16",
+      "evolves_to": "Charizard no nível 36",
       "review_status": "approved",
       "game_name": "Pokémon Scarlet",
       "gen": "IX",
@@ -67,3 +69,4 @@
     }
   }
 }
+
