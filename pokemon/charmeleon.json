@@ -22,7 +22,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Quando balança sua cauda em chamas, eleva a temperatura a níveis insuportavelmente altos.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -80,7 +80,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Lutas violentas excitam este Pokémon. Quando provocado, pode expelir chamas azuis.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -138,7 +138,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "É muito cabeça-quente por natureza, então procura oponentes constantemente. Só se acalma quando vence.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -209,7 +209,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Tem uma natureza bárbara. Em batalha, chicoteia sua cauda flamejante e corta com garras afiadas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -280,7 +280,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Se fica agitado durante a batalha, expele chamas intensas, incinerando seus arredores.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -353,7 +353,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Charmeleon destrói seus oponentes usando suas garras afiadas. Em seu estado excitado, a chama de sua cauda cresce num tom azulado.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -421,7 +421,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Charmeleon destrói seus oponentes usando suas garras afiadas. Em seu estado excitado, a chama de sua cauda cresce num tom azulado.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -489,7 +489,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Suas garras afiadas destroem os oponentes sem remorso. Se encontrar um inimigo forte, fica agitado, e sua chama cresce num tom azulado.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -578,7 +578,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Agita-se com sua cauda para derrubar o oponente. Depois, rasga o adversário caído com garras afiadas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -657,7 +657,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Quando balança sua cauda em chamas, eleva a temperatura do ar a níveis insuportavelmente altos.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -736,7 +736,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -820,7 +820,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -904,7 +904,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -996,7 +996,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "É muito cabeça-quente por natureza, então procura oponentes constantemente. Só se acalma quando vence.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1090,7 +1090,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Tem uma natureza bárbara. Em batalha, chicoteia sua cauda flamejante e corta com garras afiadas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1184,7 +1184,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1278,7 +1278,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1372,7 +1372,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1466,7 +1466,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1560,7 +1560,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Agita-se com sua cauda para derrubar o oponente. Depois, rasga o adversário caído com garras afiadas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1651,7 +1651,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Quando balança sua cauda em chamas, eleva a temperatura do ar a níveis insuportavelmente altos.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1742,7 +1742,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Charmeleon destrói seus oponentes impiedosamente com suas garras afiadas. Se encontra um inimigo forte, fica agressivo. Nesse estado excitado, a chama na ponta de sua cauda arde num tom azul-esbranquiçado.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1841,7 +1841,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Charmeleon destrói seus oponentes impiedosamente com suas garras afiadas. Se encontra um inimigo forte, fica agressivo. Nesse estado excitado, a chama na ponta de sua cauda arde num tom azul-esbranquiçado.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -1940,7 +1940,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Este Pokémon não possui entrada na Pokédex em Sun, Moon, Ultra Sun e Ultra Moon.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2025,7 +2025,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Este Pokémon não possui entrada na Pokédex em Sun, Moon, Ultra Sun e Ultra Moon.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2110,7 +2110,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Este Pokémon não possui entrada na Pokédex em Sun, Moon, Ultra Sun e Ultra Moon.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2202,7 +2202,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Este Pokémon não possui entrada na Pokédex em Sun, Moon, Ultra Sun e Ultra Moon.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2294,7 +2294,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Lutas violentas excitam este Pokémon. Quando excitado, pode expelir chamas azul-esbranquiçadas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2365,7 +2365,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Lutas violentas excitam este Pokémon. Quando excitado, pode expelir chamas azul-esbranquiçadas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2436,7 +2436,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Tem uma natureza bárbara. Em batalha, chicoteia sua cauda flamejante e corta com garras afiadas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2530,7 +2530,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Se fica agitado durante a batalha, expele chamas intensas, incinerando seus arredores.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2624,7 +2624,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2707,7 +2707,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Evolua um Charmander no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Nas montanhas rochosas onde Charmeleon vivem, suas caudas flamejantes brilham à noite como estrelas.",
       "moves_by_method": {
         "level": [
           {"name": "Ember", "method": "level", "type": "Fogo", "category": "Especial", "power": 40, "level": 1},
@@ -2790,7 +2790,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Transfira um Charmander do Pokémon HOME e evolua no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Quando balança sua cauda em chamas, a temperatura ao seu redor sobe cada vez mais, atormentando seus oponentes.",
       "moves_by_method": {
         "level": [
           {"name": "Scratch", "method": "level", "type": "Normal", "category": "Físico", "power": 40, "level": 1},
@@ -2880,7 +2880,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Transfira um Charmander do Pokémon HOME e evolua no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "É muito cabeça-quente por natureza, então procura oponentes constantemente para batalhar. Sua agressividade não será aplacada se não vencer.",
       "moves_by_method": {
         "level": [
           {"name": "Scratch", "method": "level", "type": "Normal", "category": "Físico", "power": 40, "level": 1},
@@ -2970,7 +2970,7 @@
       "abilities": "Blaze (Principal) · Solar Power (Oculta)",
       "breeding": "Grupos de ovos: Monstro e Dragão · 87,5% macho / 12,5% fêmea.",
       "obtaining": "Transfira um Charmander do Pokémon HOME e evolua no nível 16.",
-      "pokedex_entry": "Charmeleon destrói montanhas com suas garras afiadas. Seu fogo queima com mais intensidade em batalhas acirradas.",
+      "pokedex_entry": "Agita-se com sua cauda para derrubar o oponente. Depois, rasga o adversário caído com garras afiadas.",
       "moves_by_method": {
         "level": [
           {"name": "Growl", "method": "level", "type": "Normal", "category": "Status", "power": "—", "level": 1},
