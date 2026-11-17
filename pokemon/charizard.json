@@ -92,15 +92,15 @@
     "lead": "Participações confirmadas de Charizard em jogos derivados da franquia Pokémon, com foco em onde ele aparece, como funciona e de que forma pode ser obtido em cada experiência.",
     "entries": [
       {
-        "game": "Pokkén Tournament",
-        "year": 2015,
-        "category": "Luta",
+        "game": "Pokémon Pinball",
+        "year": 1999,
+        "category": "Pinball",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/2/2a/Pokk%C3%A9n_Charizard.png",
-          "alt": "Arte oficial de Charizard em Pokkén Tournament"
+          "url": "https://archives.bulbagarden.net/media/upload/0/07/Pin006.png",
+          "alt": "Ícone de Charizard em Pokémon Pinball"
         },
-        "description": "Charizard integra o elenco jogável como um Battle Pokémon voltado para combate direto, usando golpes como Flamethrower, Fire Punch e Flare Blitz.",
-        "obtaining": "Já faz parte do elenco do jogo. Durante o Synergy Burst, Mega Evolui para Mega Charizard X e libera o Burst Attack Searing Blaze."
+        "description": "Em Pokémon Pinball, Charizard aparece como parte da linha evolutiva de Charmander e entra no Pokédex do jogo como uma evolução importante dentro da progressão da mesa.",
+        "obtaining": "É obtido por evolução. Para registrar Charizard, o jogador precisa evoluir Charmeleon durante a partida."
       },
       {
         "game": "Pokémon Snap",
@@ -114,92 +114,15 @@
         "obtaining": "Não é recrutável. O papel do jogador é registrar boas fotos de Charizard para o relatório fotográfico do professor."
       },
       {
-        "game": "Pokémon Mystery Dungeon: Rescue Team DX",
-        "year": 2020,
+        "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
+        "year": 2005,
         "category": "Dungeon RPG",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/5/5f/MDP_RTDX_006.png",
-          "alt": "Retrato de Charizard de Pokémon Mystery Dungeon: Rescue Team DX"
+          "url": "https://archives.bulbagarden.net/media/upload/c/c6/MDP_RT_006.png",
+          "alt": "Retrato de Charizard em Pokémon Mystery Dungeon"
         },
-        "description": "Charizard pode atuar como aliado de exploração, trazendo mobilidade ofensiva e golpes de fogo muito úteis nas dungeons.",
-        "obtaining": "Pode ser recrutado em Mt. Faraway, entre os andares 50F e 59F. Também pode surgir pela evolução da linha de Charmander dentro do progresso do jogador."
-      },
-      {
-        "game": "Pokémon Shuffle",
-        "year": 2015,
-        "category": "Puzzle",
-        "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/0/0c/Shuffle006.png",
-          "alt": "Ícone de Charizard em Pokémon Shuffle"
-        },
-        "description": "No puzzle, Charizard atua como peça do tipo Fogo, com a habilidade Burn, e ainda possui acesso às Mega Evoluções X e Y para efeitos especiais no tabuleiro.",
-        "obtaining": "É encontrado no estágio Expert EX9. Depois de capturado, passa a poder ser usado normalmente nas fases em que sua tipagem for útil."
-      },
-      {
-        "game": "Pokémon Masters EX",
-        "year": 2019,
-        "category": "Batalha em duplas",
-        "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/6/63/MastersIcon0006.png",
-          "alt": "Retrato de Charizard em Pokémon Masters EX"
-        },
-        "description": "Charizard aparece em várias duplas de Mestres, sendo uma das espécies mais representadas do jogo, inclusive com Mega e Gigantamax.",
-        "obtaining": "Pode ser obtido em Scouts específicos, como Sygna Suit Red & Charizard, Leon & Charizard e Blue (Classic) & Charizard, dependendo do banner ativo."
-      },
-      {
-        "game": "Pokémon Café ReMix",
-        "year": 2021,
-        "category": "Puzzle e gestão",
-        "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/e/ed/Caf%C3%A9ReMix0006.png/70px-Caf%C3%A9ReMix0006.png",
-          "alt": "Ícone de Charizard em Pokémon Café ReMix"
-        },
-        "description": "No café, Charizard trabalha como Pokémon de equipe e se destaca em pedidos com foco em Entrées, além de possuir variantes especiais com outras especialidades.",
-        "obtaining": "Pode entrar na equipe por Delivery, eventos temáticos ou passes especiais, conforme a versão do Charizard disponível em cada período."
-      },
-      {
-        "game": "Pokémon UNITE",
-        "year": 2021,
-        "category": "MOBA",
-        "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/3/3f/UNITE_Charizard.png",
-          "alt": "Arte oficial de Charizard em Pokémon UNITE"
-        },
-        "description": "Charizard é um All-Rounder corpo a corpo. Em batalha, começa como Charmander, evolui para Charmeleon e atinge sua forma final durante a partida.",
-        "obtaining": "Fica disponível ao obter a Unite License. No jogo base, também pode ser escolhido entre algumas licenças iniciais dependendo da versão e do tutorial."
-      },
-      {
-        "game": "New Pokémon Snap",
-        "year": 2021,
-        "category": "Fotografia",
-        "icon": {
-          "url": "https://images.wikidexcdn.net/mwuploads/wikidex/a/ac/latest/20210503195157/Charizard_NPS.png",
-          "alt": "Ícone de Charizard em New Pokémon Snap"
-        },
-        "description": "Aparece em Fireflow Volcano, cercado por magma e outros Pokémon de ambiente vulcânico, rendendo cenas fortes para o Photodex.",
-        "obtaining": "Não é obtido como parceiro. Ele pode ser fotografado em Fireflow Volcano a partir do nível de pesquisa 2."
-      },
-      {
-        "game": "Pokémon Sleep",
-        "year": 2023,
-        "category": "Sono e coleta",
-        "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/c/cc/Sleep_Style_0006-1.png",
-          "alt": "Estilo de sono de Charizard em Pokémon Sleep"
-        },
-        "description": "Em Sleep, Charizard pode ser estudado em diferentes estilos de sono e ainda servir como ajudante, contribuindo com ingredientes e sua habilidade principal.",
-        "obtaining": "Pode aparecer em Greengrass Isle, Taupe Hollow e Amber Canyon conforme o progresso do Snorlax. Depois de fazer amizade com ele, Charizard pode integrar sua equipe."
-      },
-      {
-        "game": "Pokémon Pinball",
-        "year": 1999,
-        "category": "Pinball",
-        "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/0/07/Pin006.png",
-          "alt": "Ícone de Charizard em Pokémon Pinball"
-        },
-        "description": "Em Pokémon Pinball, Charizard aparece como parte da linha evolutiva de Charmander e entra no Pokédex do jogo como uma evolução importante dentro da progressão da mesa.",
-        "obtaining": "É obtido por evolução. Para registrar Charizard, o jogador precisa evoluir Charmeleon durante a partida."
+        "description": "Na série Mystery Dungeon, Charizard pode atuar como aliado nas expedições, usando seus golpes de fogo em batalhas por turnos dentro das dungeons.",
+        "obtaining": "Pode entrar para a equipe por recrutamento ou pela evolução da própria linha de Charmander, conforme o progresso do jogador."
       },
       {
         "game": "Pokémon Trozei!",
@@ -213,19 +136,19 @@
         "obtaining": "Sua raridade é classificada como rara, então ele aparece como um encontro mais especial dentro do jogo."
       },
       {
-        "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
-        "year": 2005,
+        "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
+        "year": 2007,
         "category": "Dungeon RPG",
         "icon": {
           "url": "https://archives.bulbagarden.net/media/upload/c/c6/MDP_RT_006.png",
           "alt": "Retrato de Charizard em Pokémon Mystery Dungeon"
         },
-        "description": "Na série Mystery Dungeon, Charizard pode atuar como aliado nas expedições, usando seus golpes de fogo em batalhas por turnos dentro das dungeons.",
-        "obtaining": "Pode entrar para a equipe por recrutamento ou pela evolução da própria linha de Charmander, conforme o progresso do jogador."
+        "description": "Nos jogos Explorers, Charizard continua aparecendo como um Pokémon recrutável e voltado para combate ofensivo em equipes de exploração.",
+        "obtaining": "Pode ser recrutado em dungeons específicas do pós-jogo ou obtido pela evolução da família de Charmander, dependendo da jornada do jogador."
       },
       {
-        "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness / Sky",
-        "year": 2007,
+        "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+        "year": 2009,
         "category": "Dungeon RPG",
         "icon": {
           "url": "https://archives.bulbagarden.net/media/upload/c/c6/MDP_RT_006.png",
@@ -268,6 +191,17 @@
         "obtaining": "Pode ser usado por guerreiros compatíveis após ligação com a espécie, além de poder surgir pela evolução da linha de Charmander."
       },
       {
+        "game": "Pokkén Tournament",
+        "year": 2015,
+        "category": "Luta",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/2/2a/Pokk%C3%A9n_Charizard.png",
+          "alt": "Arte oficial de Charizard em Pokkén Tournament"
+        },
+        "description": "Charizard integra o elenco jogável como um Battle Pokémon voltado para combate direto, usando golpes como Flamethrower, Fire Punch e Flare Blitz.",
+        "obtaining": "Já faz parte do elenco do jogo. Durante o Synergy Burst, Mega Evolui para Mega Charizard X e libera o Burst Attack Searing Blaze."
+      },
+      {
         "game": "Pokémon Picross",
         "year": 2015,
         "category": "Puzzle",
@@ -277,6 +211,17 @@
         },
         "description": "No game de nonogramas, Charizard aparece como um dos Pokémon desbloqueáveis, contribuindo com habilidades úteis para resolver quebra-cabeças.",
         "obtaining": "É obtido ao completar o painel correspondente do Pokémon dentro da progressão do jogo."
+      },
+      {
+        "game": "Pokémon Shuffle",
+        "year": 2015,
+        "category": "Puzzle",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/0/0c/Shuffle006.png",
+          "alt": "Ícone de Charizard em Pokémon Shuffle"
+        },
+        "description": "No puzzle, Charizard atua como peça do tipo Fogo, com a habilidade Burn, e ainda possui acesso às Mega Evoluções X e Y para efeitos especiais no tabuleiro.",
+        "obtaining": "É encontrado no estágio Expert EX9. Depois de capturado, passa a poder ser usado normalmente nas fases em que sua tipagem for útil."
       },
       {
         "game": "Pokémon GO",
@@ -301,6 +246,17 @@
         "obtaining": "O elemento associado a Charizard é desbloqueado como item de suporte dentro do sistema de progressão e melhorias do jogo."
       },
       {
+        "game": "Pokémon Masters EX",
+        "year": 2019,
+        "category": "Batalha em duplas",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/6/63/MastersIcon0006.png",
+          "alt": "Retrato de Charizard em Pokémon Masters EX"
+        },
+        "description": "Charizard aparece em várias duplas de Mestres, sendo uma das espécies mais representadas do jogo, inclusive com Mega e Gigantamax.",
+        "obtaining": "Pode ser obtido em Scouts específicos, como Sygna Suit Red & Charizard, Leon & Charizard e Blue (Classic) & Charizard, dependendo do banner ativo."
+      },
+      {
         "game": "Pokémon Rumble Rush",
         "year": 2019,
         "category": "Ação",
@@ -312,8 +268,63 @@
         "obtaining": "Pode ser encontrado nas fases e expedições do jogo, entrando no conjunto de Pokémon disponíveis conforme o avanço nas ilhas e áreas especiais."
       },
       {
+        "game": "Pokémon Mystery Dungeon: Rescue Team DX",
+        "year": 2020,
+        "category": "Dungeon RPG",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/5/5f/MDP_RTDX_006.png",
+          "alt": "Retrato de Charizard de Pokémon Mystery Dungeon: Rescue Team DX"
+        },
+        "description": "Charizard pode atuar como aliado de exploração, trazendo mobilidade ofensiva e golpes de fogo muito úteis nas dungeons.",
+        "obtaining": "Pode ser recrutado em Mt. Faraway, entre os andares 50F e 59F. Também pode surgir pela evolução da linha de Charmander dentro do progresso do jogador."
+      },
+      {
+        "game": "New Pokémon Snap",
+        "year": 2021,
+        "category": "Fotografia",
+        "icon": {
+          "url": "https://images.wikidexcdn.net/mwuploads/wikidex/a/ac/latest/20210503195157/Charizard_NPS.png",
+          "alt": "Ícone de Charizard em New Pokémon Snap"
+        },
+        "description": "Aparece em Fireflow Volcano, cercado por magma e outros Pokémon de ambiente vulcânico, rendendo cenas fortes para o Photodex.",
+        "obtaining": "Não é obtido como parceiro. Ele pode ser fotografado em Fireflow Volcano a partir do nível de pesquisa 2."
+      },
+      {
+        "game": "Pokémon Café ReMix",
+        "year": 2021,
+        "category": "Puzzle e gestão",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/e/ed/Caf%C3%A9ReMix0006.png/70px-Caf%C3%A9ReMix0006.png",
+          "alt": "Ícone de Charizard em Pokémon Café ReMix"
+        },
+        "description": "No café, Charizard trabalha como Pokémon de equipe e se destaca em pedidos com foco em Entrées, além de possuir variantes especiais com outras especialidades.",
+        "obtaining": "Pode entrar na equipe por Delivery, eventos temáticos ou passes especiais, conforme a versão do Charizard disponível em cada período."
+      },
+      {
+        "game": "Pokémon UNITE",
+        "year": 2021,
+        "category": "MOBA",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/3/3f/UNITE_Charizard.png",
+          "alt": "Arte oficial de Charizard em Pokémon UNITE"
+        },
+        "description": "Charizard é um All-Rounder corpo a corpo. Em batalha, começa como Charmander, evolui para Charmeleon e atinge sua forma final durante a partida.",
+        "obtaining": "Fica disponível ao obter a Unite License. No jogo base, também pode ser escolhido entre algumas licenças iniciais dependendo da versão e do tutorial."
+      },
+      {
+        "game": "Pokémon Sleep",
+        "year": 2023,
+        "category": "Sono e coleta",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/c/cc/Sleep_Style_0006-1.png",
+          "alt": "Estilo de sono de Charizard em Pokémon Sleep"
+        },
+        "description": "Em Sleep, Charizard pode ser estudado em diferentes estilos de sono e ainda servir como ajudante, contribuindo com ingredientes e sua habilidade principal.",
+        "obtaining": "Pode aparecer em Greengrass Isle, Taupe Hollow e Amber Canyon conforme o progresso do Snorlax. Depois de fazer amizade com ele, Charizard pode integrar sua equipe."
+      },
+      {
         "game": "Pokémon Pokopia",
-        "year": 2007,
+        "year": 2026,
         "category": "Minigames",
         "icon": {
           "url": "https://archives.bulbagarden.net/media/upload/a/ab/Menu_Pokopia_0006.png",
