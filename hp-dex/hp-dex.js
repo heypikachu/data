@@ -308,6 +308,29 @@ async function hpDexRender() {
     });
   }
 
+  function escapeHtml(value) {
+    return String(value == null ? '' : value).replace(/[&<>"']/g,
+      c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  // Catálogo global por espécie: cada forma aparece uma vez, mesmo fora do jogo atual.
+  // A disponibilidade continua vinculada exclusivamente ao registro do jogo ativo.
+  function catalogoFormas() {
+    const catalogo = new Map();
+    for (const rec of Object.values(POKEDEX_DATA.records || {})) {
+      for (const forma of (rec.forms || [])) {
+        if (!forma.name) continue;
+        const chave = forma.name.trim().toLocaleLowerCase('pt-BR');
+        if (!catalogo.has(chave)) catalogo.set(chave, forma);
+      }
+    }
+    return Array.from(catalogo.values());
+  }
+  function formaDisponivelNoJogo(forma, rec) {
+    return (rec.forms || []).find(f => (f.name || '').trim().toLocaleLowerCase('pt-BR') ===
+      (forma.name || '').trim().toLocaleLowerCase('pt-BR')) || null;
+  }
+
   // A forma selecionada modifica também a ficha de batalha, não só o sprite.
   function formaAtual(rec) {
     return (rec.forms || []).find(f => f.sprite && f.sprite === SPRITE_ATUAL_FORMA) || null;
@@ -333,7 +356,7 @@ async function hpDexRender() {
     document.getElementById('gamemeta').textContent = `Geração ${rec.gen} ${String.fromCharCode(183)} Dados por edição`;
     document.getElementById('gendercontrols').style.display = rec.gen === 'I' ? 'none' : ''; // Sem sexo na Geração I
     document.getElementById('coverage').textContent = rec.review_status === 'approved' ? 'REVISADO' : 'COBERTURA PARCIAL';
-    document.getElementById('formBadge').textContent = Array.isArray(rec.forms) && rec.forms.length ? rec.forms.length : 1;
+    document.getElementById('formBadge').textContent = catalogoFormas().length || 1;
     
     document.getElementById('hero-status').innerHTML = `<span>🔥 ${POKEDEX_DATA.species_name}</span><span>📏 ${(selectedForm && selectedForm.height) || POKEDEX_DATA.height}</span><span>⚖ ${(selectedForm && selectedForm.weight) || POKEDEX_DATA.weight}</span>`;
     document.getElementById('contexttext').innerHTML = `<strong>Modo ${rec.game_name} ativado.</strong> ${selectedForm ? `Forma: ${selectedForm.name}. ` : ''}Dados específicos desta edição.`;
@@ -459,32 +482,52 @@ async function hpDexRender() {
       };
     }
     
-    const openForms = () => { 
+    const openForms = () => {
       const rec = POKEDEX_DATA.records[CURRENT_GAME];
-      const forms = (Array.isArray(rec.forms) && rec.forms.length ? rec.forms : [{ name: POKEDEX_DATA.name + ' (forma padrão)', sprite: rec.sprite || `${DEX_HOME_SPRITES}6.png`, detail: 'Nenhuma outra forma cadastrada para este jogo.' }]);
+      const formas = catalogoFormas();
       const lista = document.getElementById('formChoices');
+      const jogo = rec.game_name || GAME_NAMES[CURRENT_GAME] || 'jogo selecionado';
+      // Nunca usar sprites de outras edições para selecionar uma forma indisponível.
+      lista.innerHTML = formas.map((forma, idx) => {
+        const disponivel = formaDisponivelNoJogo(forma, rec);
+        const sprite = (disponivel || forma).sprite || rec.sprite;
+        const ativa = !!disponivel && (SPRITE_ATUAL_FORMA === (disponivel.sprite || rec.sprite) ||
+          (!SPRITE_ATUAL_FORMA && idx === 0));
+        const nome = escapeHtml(forma.name);
+        const aviso = `A forma ${forma.name} não está disponível em ${jogo}.`;
+        if (!disponivel) return `
+          <div class="form-card hp-form-unavailable" role="button" aria-disabled="true"
+            tabindex="0" title="${escapeHtml(aviso)}" data-form-idx="${idx}">
+            <div class="form-pic"><img src="${sprite}" alt="${nome}" loading="lazy"></div>
+            <div class="form-desc"><strong>${nome}</strong><small>Indisponível neste jogo</small></div>
+            <span class="hp-form-lock" aria-hidden="true">⊘</span>
+            <span class="hp-form-tooltip" role="tooltip">${escapeHtml(aviso)}</span>
+          </div>`;
+        return `
+          <button type="button" class="form-card hp-form-available${ativa ? ' active' : ''}"
+            data-form-idx="${idx}" aria-pressed="${ativa}" title="Selecionar ${nome}">
+            <div class="form-pic"><img src="${sprite}" alt="${nome}" loading="lazy"></div>
+            <div class="form-desc"><strong>${nome}</strong>
+              <small>${escapeHtml(disponivel.detail || 'Disponível neste jogo')}</small></div>
+          </button>`;
+      }).join('');
 
-      lista.innerHTML = forms.map((f, idx) => `
-        <div class="form-card${SPRITE_ATUAL_FORMA === (f.sprite || rec.sprite) ? ' active' : ''}" data-idx="${idx}" data-sprite="${f.sprite || rec.sprite}">
-          <div class="form-pic"><img src="${f.sprite || rec.sprite}" alt="${f.name}"></div>
-          <div class="form-desc">
-            <strong>${f.name}</strong>
-            <small>${f.detail || 'Forma original'}</small>
-          </div>
-        </div>
-      `).join('');
-
-      lista.querySelectorAll('.form-card').forEach(card => {
+      lista.querySelectorAll('.hp-form-available').forEach(card => {
         card.onclick = () => {
-          const sprite = card.getAttribute('data-sprite');
-          SPRITE_ATUAL_FORMA = (sprite === rec.sprite) ? null : sprite;
-          renderizarPagina(); // Atualiza tipo, stats, habilidade, defesas e imagem.
-          lista.querySelectorAll('.form-card').forEach(c => c.classList.remove('active'));
+          const forma = formas[Number(card.getAttribute('data-form-idx'))];
+          const escolhida = formaDisponivelNoJogo(forma, rec);
+          if (!escolhida) return;
+          SPRITE_ATUAL_FORMA = (escolhida.name === POKEDEX_DATA.name) ? null : (escolhida.sprite || null);
+          renderizarPagina();
+          lista.querySelectorAll('.form-card').forEach(c => {
+            c.classList.remove('active');
+            if (c.matches('button')) c.setAttribute('aria-pressed','false');
+          });
           card.classList.add('active');
+          card.setAttribute('aria-pressed','true');
         };
       });
-
-      document.getElementById('formModal').classList.add('open'); 
+      document.getElementById('formModal').classList.add('open');
     };
     if(document.getElementById('formsbtn')) document.getElementById('formsbtn').onclick = openForms; 
     if(document.getElementById('formsInline')) document.getElementById('formsInline').onclick = openForms;
