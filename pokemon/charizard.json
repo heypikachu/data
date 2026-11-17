@@ -26,6 +26,13 @@
     "female": 12.5
   },
   "growth_rate": "Médio-lento",
+  "pokedex_color": "Vermelho",
+  "debut_generation": "I",
+  "experience_at_level_100": 1059860,
+  "pokedex_habitat": {
+    "name": "Montanhas",
+    "description": "Classificação histórica de habitat da Pokédex, presente nos jogos da Geração III."
+  },
   "morphology": {
     "body_shape": {
       "label": "Formato corporal",
