@@ -514,20 +514,18 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 1. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 1. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/1",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 10,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
       },
       "tm_hm_audit": {
         "status": "machine_ids_checked",
-        "scope": "Gen I TM/HM identifiers on Charizard only, per game; not a global validation of all move properties",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/1",
+        "scope": "Identificadores de TM/HM da geração I conferidos para Charizard por edição; não inclui validação completa de todas as propriedades dos golpes.",
         "date": "2026-11-17",
         "entries": 27
       },
@@ -535,11 +533,7 @@
         "status": "checked",
         "date": "2026-11-17",
         "scope": "defensive_ice_interaction_generation_I",
-        "result": "Ice is 2× effective against Fire/Flying Charizard in Generation I because Fire did not resist Ice until Generation II.",
-        "sources": [
-          "https://bulbapedia.bulbagarden.net/wiki/Type_chart_(Generation_I)",
-          "https://bulbapedia.bulbagarden.net/wiki/Fire_(type)"
-        ]
+        "result": "Na geração I, Gelo causa dano 2× a Charizard (Fogo/Voador), pois Fogo só passou a resistir a Gelo a partir da geração II."
       },
       "base_exp": 209
     },
@@ -1040,20 +1034,18 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 2. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 2. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/1",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 10,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
       },
       "tm_hm_audit": {
         "status": "machine_ids_checked",
-        "scope": "Gen I TM/HM identifiers on Charizard only, per game; not a global validation of all move properties",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/1",
+        "scope": "Identificadores de TM/HM da geração I conferidos para Charizard por edição; não inclui validação completa de todas as propriedades dos golpes.",
         "date": "2026-11-17",
         "entries": 28
       },
@@ -1061,11 +1053,7 @@
         "status": "checked",
         "date": "2026-11-17",
         "scope": "defensive_ice_interaction_generation_I",
-        "result": "Ice is 2× effective against Fire/Flying Charizard in Generation I because Fire did not resist Ice until Generation II.",
-        "sources": [
-          "https://bulbapedia.bulbagarden.net/wiki/Type_chart_(Generation_I)",
-          "https://bulbapedia.bulbagarden.net/wiki/Fire_(type)"
-        ]
+        "result": "Na geração I, Gelo causa dano 2× a Charizard (Fogo/Voador), pois Fogo só passou a resistir a Gelo a partir da geração II."
       },
       "base_exp": 209
     },
@@ -1663,7 +1651,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 5,
-            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Beat Up",
@@ -1673,7 +1661,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Belly Drum",
@@ -1718,12 +1706,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 13,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -1732,15 +1719,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 6,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 34,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -1749,8 +1734,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "scope": "Conferência dos nomes dos movimentos ensinados por tutores; não certifica todas as propriedades dos golpes nem movimentos exclusivos de transferência.",
         "entries": 0,
         "date": "2026-11-17"
       }
@@ -2349,7 +2333,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 5,
-            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Beat Up",
@@ -2359,7 +2343,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Belly Drum",
@@ -2404,12 +2388,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 13,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -2418,15 +2401,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 6,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 34,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -2435,8 +2416,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "scope": "Conferência dos nomes dos movimentos ensinados por tutores; não certifica todas as propriedades dos golpes nem movimentos exclusivos de transferência.",
         "entries": 0,
         "date": "2026-11-17"
       }
@@ -3035,7 +3015,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 5,
-            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Beat Up",
@@ -3045,7 +3025,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Belly Drum",
@@ -3100,12 +3080,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 4. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 4. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 13,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -3114,15 +3093,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 6,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 34,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -3131,8 +3108,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 1,
         "date": "2026-11-17"
       }
@@ -3670,7 +3646,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 5,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Beat Up",
@@ -3680,7 +3656,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Belly Drum",
@@ -3735,7 +3711,7 @@
             "power": "—",
             "accuracy": "—",
             "pp": 30,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           }
         ],
         "tutor": [],
@@ -3743,12 +3719,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 5. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 5. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 13,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -3757,15 +3732,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 8,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 28,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -3774,8 +3747,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Conferência dos nomes dos movimentos ensinados por tutores; não certifica todas as propriedades dos golpes nem movimentos exclusivos de transferência.",
         "entries": 0,
         "date": "2026-11-17"
       }
@@ -4313,7 +4285,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 5,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Beat Up",
@@ -4323,7 +4295,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Belly Drum",
@@ -4378,7 +4350,7 @@
             "power": "—",
             "accuracy": "—",
             "pp": 30,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           }
         ],
         "tutor": [],
@@ -4386,12 +4358,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 5. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 5. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 13,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -4400,15 +4371,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 8,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 28,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -4417,8 +4386,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Conferência dos nomes dos movimentos ensinados por tutores; não certifica todas as propriedades dos golpes nem movimentos exclusivos de transferência.",
         "entries": 0,
         "date": "2026-11-17"
       }
@@ -4956,7 +4924,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 5,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Beat Up",
@@ -4966,7 +4934,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Belly Drum",
@@ -5021,7 +4989,7 @@
             "power": "—",
             "accuracy": "—",
             "pp": 30,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           }
         ],
         "tutor": [
@@ -5210,12 +5178,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 6. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 6. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 13,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -5224,15 +5191,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 8,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 28,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -5241,8 +5206,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 20,
         "date": "2026-11-17"
       }
@@ -5790,7 +5754,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 5,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Beat Up",
@@ -5800,7 +5764,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Belly Drum",
@@ -5855,7 +5819,7 @@
             "power": "—",
             "accuracy": "—",
             "pp": 30,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           }
         ],
         "tutor": [
@@ -5963,12 +5927,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 7. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 7. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 14,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -5977,15 +5940,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 8,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 28,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -5994,8 +5955,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 11,
         "date": "2026-11-17"
       }
@@ -6543,7 +6503,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 5,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Beat Up",
@@ -6553,7 +6513,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           },
           {
             "name": "Belly Drum",
@@ -6608,7 +6568,7 @@
             "power": "—",
             "accuracy": "—",
             "pp": 30,
-            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia."
           }
         ],
         "tutor": [
@@ -6716,12 +6676,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 7. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 7. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 14,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -6730,15 +6689,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 8,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 28,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -6747,8 +6704,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 11,
         "date": "2026-11-17"
       }
@@ -7633,12 +7589,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 8. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 8. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 18,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -7647,15 +7602,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 12,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 46,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -7664,8 +7617,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 1,
         "date": "2026-11-17"
       }
@@ -8550,12 +8502,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 8. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 8. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 18,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -8564,15 +8515,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 12,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 46,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -8581,8 +8530,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 1,
         "date": "2026-11-17"
       }
@@ -9566,12 +9514,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 9. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 9. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 18,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -9580,15 +9527,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 12,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 46,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -9597,8 +9542,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 12,
         "date": "2026-11-17"
       }
@@ -10599,12 +10543,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 10. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 10. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 18,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -10613,15 +10556,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 45,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -10630,8 +10571,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 14,
         "date": "2026-11-17"
       }
@@ -11632,12 +11572,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 10. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 10. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 18,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -11646,15 +11585,13 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
       "tm_hm_audit": {
         "status": "inventory_size_and_id_uniqueness_checked",
-        "scope": "Verified inventory count, machine code format and uniqueness in these games; reference lists consulted, but not every name/ID pair independently compared in this round",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Conferidas a quantidade de registros, a formatação dos códigos de máquinas e sua unicidade; nem todos os pares de nome e identificador foram comparados individualmente nesta rodada.",
         "entries": 45,
         "date": "2026-11-17",
         "note": "Revisão agrupada por edição; tutores, movimentos transferidos e restrições de origem não homologados."
@@ -11663,8 +11600,7 @@
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 14,
         "date": "2026-11-17"
       }
@@ -12557,12 +12493,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 11. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 11. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/5",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 20,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -12571,8 +12506,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -12580,8 +12514,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -12589,15 +12522,13 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
         "date": "2026-11-17"
       },
       "base_exp": 240,
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 2,
         "date": "2026-11-17"
       }
@@ -13490,12 +13421,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 11. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 11. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/5",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 20,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -13504,8 +13434,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -13513,8 +13442,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -13522,15 +13450,13 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
         "date": "2026-11-17"
       },
       "base_exp": 240,
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 2,
         "date": "2026-11-17"
       }
@@ -14513,12 +14439,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 14. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 14. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/5",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 20,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -14527,8 +14452,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -14536,8 +14460,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -14545,15 +14468,13 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
         "date": "2026-11-17"
       },
       "base_exp": 240,
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 12,
         "date": "2026-11-17"
       }
@@ -15536,12 +15457,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 14. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 14. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
-        "method": "V6/V7 prior level-up verification",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/5",
+        "method": "Conferência anterior dos golpes aprendidos por nível nas versões V6/V7",
         "entries": 20,
         "scope": "only_level_and_move_name",
         "date": "2026-11-17"
@@ -15550,8 +15470,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -15559,8 +15478,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -15568,15 +15486,13 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
         "date": "2026-11-17"
       },
       "base_exp": 240,
       "base_friendship": 70,
       "tutor_audit": {
         "status": "name_inventory_checked",
-        "scope": "Tutor move name inventory only; does not prove all move statistics or transfer-only moves",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
         "entries": 12,
         "date": "2026-11-17"
       }
@@ -16636,12 +16552,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 15. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 15. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/6",
         "entries": 22,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -16651,8 +16566,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/6",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -16660,8 +16574,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -16669,11 +16582,16 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/6",
         "date": "2026-11-17"
       },
       "base_exp": 240,
-      "base_friendship": 70
+      "base_friendship": 70,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 2,
+        "date": "2026-11-17"
+      }
     },
     "y": {
       "game_name": "Pokémon Y",
@@ -17730,12 +17648,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 15. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 15. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/6",
         "entries": 22,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -17745,8 +17662,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/6",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -17754,8 +17670,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -17763,11 +17678,16 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/6",
         "date": "2026-11-17"
       },
       "base_exp": 240,
-      "base_friendship": 70
+      "base_friendship": 70,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 2,
+        "date": "2026-11-17"
+      }
     },
     "omega-ruby": {
       "game_name": "Pokémon Omega Ruby",
@@ -18915,12 +18835,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 16. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 16. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/6",
         "entries": 22,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -18930,8 +18849,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/6",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -18939,8 +18857,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -18948,11 +18865,16 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/6",
         "date": "2026-11-17"
       },
       "base_exp": 240,
-      "base_friendship": 70
+      "base_friendship": 70,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 11,
+        "date": "2026-11-17"
+      }
     },
     "alpha-sapphire": {
       "game_name": "Pokémon Alpha Sapphire",
@@ -20100,12 +20022,11 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 16. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 16. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/6",
         "entries": 22,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -20115,8 +20036,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/6",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -20124,8 +20044,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -20133,11 +20052,16 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/6",
         "date": "2026-11-17"
       },
       "base_exp": 240,
-      "base_friendship": 70
+      "base_friendship": 70,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 11,
+        "date": "2026-11-17"
+      }
     },
     "sun": {
       "game_name": "Pokémon Sun",
@@ -21145,12 +21069,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 17. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 17. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/7",
         "entries": 21,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -21160,8 +21083,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/7",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -21169,8 +21091,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -21178,11 +21099,16 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/7",
         "date": "2026-11-17"
       },
       "base_exp": 240,
-      "base_friendship": 70
+      "base_friendship": 70,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 2,
+        "date": "2026-11-17"
+      }
     },
     "moon": {
       "game_name": "Pokémon Moon",
@@ -22190,12 +22116,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 17. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 17. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/7",
         "entries": 21,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -22205,8 +22130,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/7",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -22214,8 +22138,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -22223,11 +22146,16 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/7",
         "date": "2026-11-17"
       },
       "base_exp": 240,
-      "base_friendship": 70
+      "base_friendship": 70,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 2,
+        "date": "2026-11-17"
+      }
     },
     "ultra-sun": {
       "game_name": "Pokémon Ultra Sun",
@@ -23325,12 +23253,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 18. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 18. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/7",
         "entries": 21,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -23340,8 +23267,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/7",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -23349,8 +23275,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -23358,11 +23283,16 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/7",
         "date": "2026-11-17"
       },
       "base_exp": 240,
-      "base_friendship": 70
+      "base_friendship": 70,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 12,
+        "date": "2026-11-17"
+      }
     },
     "ultra-moon": {
       "game_name": "Pokémon Ultra Moon",
@@ -24460,12 +24390,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 18. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 18. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/7",
         "entries": 21,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -24475,8 +24404,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/7",
-        "scope": "egg move names and display properties; full parent chain and all acquisition prerequisites not independently validated",
+        "scope": "Nomes e propriedades exibidas dos golpes de ovo; cadeias de reprodução e todos os requisitos de obtenção não foram validados individualmente.",
         "date": "2026-11-17",
         "note": "Golpes de ovo são herdados por Charmander, que pode evoluir para Charizard; Charizard não nasce diretamente."
       },
@@ -24484,8 +24412,7 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
@@ -24493,11 +24420,16 @@
         "status": "sample_checked",
         "checked_entries": 34,
         "scope": "identificador TM e nome do golpe, apenas subconjunto verificado; não cobre todos os TMs, tutores nem propriedades históricas",
-        "source": "https://pokemondb.net/pokedex/charizard/moves/7",
         "date": "2026-11-17"
       },
       "base_exp": 240,
-      "base_friendship": 70
+      "base_friendship": 70,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 12,
+        "date": "2026-11-17"
+      }
     },
     "lets-go-pikachu": {
       "game_name": "Pokémon Let's Go, Pikachu!",
@@ -25154,12 +25086,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 19. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 19. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
       "last_review": "17/11/2026 (V14: TM numeração e Rest PP, revisão parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/7",
         "entries": 18,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -25167,19 +25098,14 @@
       },
       "tm_hm_audit": {
         "status": "all_machine_ids_and_names_crosschecked",
-        "scope": "25/25 TM number-to-move pairings, Charizard LGPE only; individual remaining move properties are not certified",
+        "scope": "Conferidos 25 de 25 pares de TM e movimento para Charizard em Let’s Go; as demais propriedades individuais não estão certificadas.",
         "entries": 25,
-        "references": [
-          "https://rotomlabs.net/dex/lets-go-pikachu-eevee/charizard",
-          "https://pokemondb.net/lets-go-pikachu-eevee/tms"
-        ],
         "date": "2026-11-17"
       },
       "move_property_audit": {
         "status": "rest_pp_checked",
-        "scope": "LGPE TM05 Rest 5 PP explicitly corroborated by game-specific source",
+        "scope": "Registro histórico da conferência da TM05 Rest em Let’s Go; valores atuais do movimento devem prevalecer sobre anotações antigas.",
         "entries": 1,
-        "reference": "https://www.dittobase.com/lets-go-pikachu-eevee/moves/rest",
         "date": "2026-11-17"
       },
       "base_exp": 240,
@@ -25379,7 +25305,7 @@
           "pokemon": "Charizard",
           "location": "Route 24 — presente; Routes 3/4 e Rock Tunnel — aparição rara",
           "method": "Evolução a partir de Charmander / Charmeleon",
-          "details": "Rota documentada para obter Charmander: Na Route 24 ao norte de Cerulean City, fale com o treinador que entrega Charmander se você já capturou pelo menos 50 Pokémon. Também pode encontrar Charmander selvagem raramente nas Routes 3 e 4 ou no Rock Tunnel; use Lures e catch combos para melhorar as chances. Depois, evolua Charmander para Charmeleon no nível 16 e Charmeleon para Charizard no nível 36. Esta descrição é uma rota por evolução, não uma afirmação de captura selvagem direta de Charizard."
+          "details": "Rota documentada para obter Charmander: Na Route 24 ao norte de Cerulean City, fale com o treinador que entrega Charmander se você já capturou pelo menos 50 Pokémon. Também pode encontrar Charmander selvagem raramente nas Routes 3 e 4 ou no Rock Tunnel; use Lures e sequências de captura para melhorar as chances. Depois, evolua Charmander para Charmeleon no nível 16 e Charmeleon para Charizard no nível 36. Esta descrição é uma rota por evolução, não uma afirmação de captura selvagem direta de Charizard."
         },
         {
           "pokemon": "Charizard",
@@ -25840,12 +25766,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 19. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 19. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
       "last_review": "17/11/2026 (V14: TM numeração e Rest PP, revisão parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/7",
         "entries": 18,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -25853,19 +25778,14 @@
       },
       "tm_hm_audit": {
         "status": "all_machine_ids_and_names_crosschecked",
-        "scope": "25/25 TM number-to-move pairings, Charizard LGPE only; individual remaining move properties are not certified",
+        "scope": "Conferidos 25 de 25 pares de TM e movimento para Charizard em Let’s Go; as demais propriedades individuais não estão certificadas.",
         "entries": 25,
-        "references": [
-          "https://rotomlabs.net/dex/lets-go-pikachu-eevee/charizard",
-          "https://pokemondb.net/lets-go-pikachu-eevee/tms"
-        ],
         "date": "2026-11-17"
       },
       "move_property_audit": {
         "status": "rest_pp_checked",
-        "scope": "LGPE TM05 Rest 5 PP explicitly corroborated by game-specific source",
+        "scope": "Registro histórico da conferência da TM05 Rest em Let’s Go; valores atuais do movimento devem prevalecer sobre anotações antigas.",
         "entries": 1,
-        "reference": "https://www.dittobase.com/lets-go-pikachu-eevee/moves/rest",
         "date": "2026-11-17"
       },
       "base_exp": 240,
@@ -26881,12 +26801,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/8",
         "entries": 15,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -26896,13 +26815,18 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 8,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/8",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "base_exp": 267,
-      "base_friendship": 50
+      "base_friendship": 50,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 5,
+        "date": "2026-11-17"
+      }
     },
     "shield": {
       "game_name": "Pokémon Shield",
@@ -27914,12 +27838,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/8",
         "entries": 15,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -27929,13 +27852,18 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 8,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/8",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
       "base_exp": 267,
-      "base_friendship": 50
+      "base_friendship": 50,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 5,
+        "date": "2026-11-17"
+      }
     },
     "brilliant-diamond": {
       "game_name": "Pokémon Brilliant Diamond",
@@ -28770,12 +28698,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/8",
         "entries": 15,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -28785,8 +28712,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/8",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
@@ -28794,13 +28720,18 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
       "base_exp": 267,
-      "base_friendship": 50
+      "base_friendship": 50,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 1,
+        "date": "2026-11-17"
+      }
     },
     "shining-pearl": {
       "game_name": "Pokémon Shining Pearl",
@@ -29635,12 +29566,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/8",
         "entries": 15,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -29650,8 +29580,7 @@
         "status": "crosschecked_name_list",
         "method": "inherited_breeding_move_list",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/8",
-        "scope": "egg move names/availability and historical display properties; detailed parent chain not verified",
+        "scope": "Nomes, disponibilidade e propriedades históricas exibidas dos golpes de ovo; cadeias específicas de reprodução não verificadas.",
         "date": "2026-11-17",
         "note": "Golpes herdados por Charmander via reprodução, utilizáveis por Charizard após evoluir. Charizard não nasce diretamente de ovos."
       },
@@ -29659,13 +29588,18 @@
         "outrage_pp": {
           "status": "verified",
           "value": 10,
-          "scope": "Outrage PP only",
-          "source": "https://bulbapedia.bulbagarden.net/wiki/Outrage_(move)",
+          "scope": "Apenas os PP de Outrage.",
           "date": "2026-11-17"
         }
       },
       "base_exp": 267,
-      "base_friendship": 50
+      "base_friendship": 50,
+      "tutor_audit": {
+        "status": "name_inventory_checked",
+        "scope": "Inventário de nomes por edição conferido com listas de movimentos por geração. Não certifica automaticamente requisitos individuais de acesso, propriedades dos golpes ou transferências.",
+        "entries": 1,
+        "date": "2026-11-17"
+      }
     },
     "scarlet": {
       "game_name": "Pokémon Scarlet",
@@ -30625,12 +30559,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/9",
         "entries": 14,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -31597,12 +31530,11 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/9",
         "entries": 14,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -32402,12 +32334,11 @@
         "tutor": [],
         "tr": []
       },
-      "learnset_notes": "Legends: Z-A: níveis e TM com recarga própria do combate em tempo real. Air Slash e Fire Blast são golpes aprendidos na evolução. Valores PLUS e alguns TMs da expansão ainda não auditados integralmente. Valores de recarga e learnsets de Legends: Z-A ainda exigem validação individual; não são dados homologados. TMs 146 (Skull Bash), 154 (Fissure) e 158 (Blast Burn): compatibilidade confirmada; esses TMs pertencem à expansão Mega Dimension. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Legends: Z-A: níveis e TM com recarga própria do combate em tempo real. Air Slash e Fire Blast são golpes aprendidos na evolução. Valores PLUS e alguns TMs da expansão ainda não auditados integralmente. Valores de recarga e listas de movimentos de Legends: Z-A ainda exigem validação individual; não são dados homologados. TMs 146 (Skull Bash), 154 (Fissure) e 158 (Blast Burn): compatibilidade confirmada; esses TMs pertencem à expansão Mega Dimension. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
         "method": "Cotejo de assinatura de golpes/niveis caracteristicos da edicao; nao constitui verificacao linha a linha",
-        "reference": "https://pokemondb.net/pokedex/charizard/moves/9",
         "entries": 12,
         "scope": "selected_level_name_pairs_only",
         "date": "2026-11-17",
@@ -32419,37 +32350,17 @@
   },
   "audit": {
     "status": "partial",
-    "generation": "PokéAPI CSV pokemon_moves.csv + moves.csv + machines.csv + items.csv + move_changelog.csv; Z-A com learnset próprio",
+    "generation": "base de dados versionada CSV pokemon_moves.csv + moves.csv + machines.csv + items.csv + move_changelog.csv; Z-A com learnset próprio",
     "unresolved_machines": [],
     "notes": "Cobertura técnica gerada, não equivalente a verificação manual de todos os registros. Mega X/Y e Gigantamax não são espécies evolutivas independentes.",
     "review_date": "2026-11-17",
     "revision_scope": "V15: Fraqueza Gelo 2× corrigida nos registros RB e Yellow; divergências internas de propriedades na mesma geração analisadas, Solar Beam 200 em LGPE mantido; Rest em LGPE corrigido para 10 PP na V23, conforme fontes específicas; demais métodos permanecem parciais.",
     "pending_verification": [
-      "TM/HM/TR: checagem linha a linha das entradas ainda não confrontadas externamente; a V13 verificou somente 408 códigos de TM em gerações V–VII e a estrutura de todos os registros.",
-      "Tutores e golpes de ovo: conferir as restrições e cadeias de herança individuais; listas de nomes foram adicionadas nas revisões anteriores.",
-      "Rotas de obtenção, mecanismos específicos e transferências: checar por edição e DLC.",
-      "Testes reais com JSON publicado no GitHub/CDN e interface no Blogger; os testes locais anteriores não substituem homologação em produção."
-    ],
-    "reference_links": [
-      "https://pokemondb.net/brilliant-diamond-shining-pearl/tms",
-      "https://pokemondb.net/diamond-pearl/tms",
-      "https://bulbapedia.bulbagarden.net/wiki/Hidden_Power_(move)/Calculation",
-      "https://pokemondb.net/pokedex/charizard/moves/9",
-      "https://rotomlabs.net/dex/legends-z-a/charizard",
-      "https://www.dittobase.com/legends-za/pokedex/charizard",
-      "https://www.powerpyx.com/pokemon-legends-z-a-charmander-location/",
-      "https://github.com/PokeAPI/pokeapi/blob/master/data/v2/csv/pokemon_forms.csv",
-      "https://rotomlabs.net/dex/mega-dimension/charizard",
-      "https://www.pokemon.com/uk/news/get-an-alpha-charizard-that-knows-solar-beam-via-mystery-gift-in-pokemon-legends-z-a",
-      "https://legends.pokemon.com/pt-br/mega-pokemon",
-      "https://pokemondb.net/move/rest",
-      "https://pokemondb.net/pokedex/charizard/moves/1",
-      "https://bulbapedia.bulbagarden.net/wiki/Charizard_(Pok%C3%A9mon)/Generation_II_learnset",
-      "https://pokemondb.net/pokedex/charizard/moves/4",
-      "https://pokemondb.net/pokedex/charizard/moves/5",
-      "https://theriodex.net/en/show/pokemon/moves/6/gen/4",
-      "https://theriodex.net/en/show/pokemon/moves/6/gen/5",
-      "https://pokemondb.net/move/air-slash"
+      "TM/HM/TR: alguns detalhes individuais e compatibilidade de cada movimento ainda nao foram confrontados externamente linha a linha.",
+      "Golpes de ovo: listas de nomes por edicao confrontadas anteriormente; combinacoes simultaneas e cadeias de reproducao individuais ainda nao homologadas.",
+      "Tutores: inventario completo de 179 nomes revisado nesta rodada; faltam requisitos de acesso a cada tutor e confirmacao independente de todos os valores historicos.",
+      "Transferencias: regras gerais e rotas selecionadas conferidas; nao foram verificadas todas as combinacoes possiveis de golpes e transferencia entre jogos.",
+      "Integracao real entre GitHub/CDN e Blogger ainda nao testada."
     ],
     "verified_fixes": [
       {
@@ -32463,32 +32374,21 @@
         "scope": "12 golpes por nível e 2 por evolução confrontados com listas externas; disponibilidade de TMs e recargas requerem revisão individual"
       },
       {
-        "subject": "Z-A full TM validation",
+        "subject": "Validação integral das TMs de Z-A",
         "editions": 1,
         "moves_checked": 47,
-        "discrepancies": 0,
-        "source": "https://rotomlabs.net/dex/mega-dimension/charizard"
+        "discrepancies": 0
       },
       {
-        "subject": "Z-A direct DLC capture and expired Alpha event",
-        "editions": 1,
-        "sources": [
-          "https://www.dittobase.com/legends-za/pokedex/charizard",
-          "https://www.pokemon.com/uk/news/get-an-alpha-charizard-that-knows-solar-beam-via-mystery-gift-in-pokemon-legends-z-a"
-        ]
+        "subject": "Captura direta no conteúdo adicional de Z-A e evento anterior de Pokémon Alfa",
+        "editions": 1
       },
       {
-        "subject": "Mega Stones and Gigantamax conditions",
-        "sources": [
-          "https://legends.pokemon.com/pt-br/mega-pokemon",
-          "https://www.nintendolife.com/guides/pokemon-legends-z-a-all-mega-evolutions-and-mega-stone-locations",
-          "https://bulbapedia.bulbagarden.net/wiki/Gigantamax"
-        ]
+        "subject": "Condições das Megapedras e do Gigantamax"
       },
       {
-        "subject": "Rest PP across generations I–VIII",
+        "subject": "PP de Rest nas gerações I a VIII",
         "corrections": 33,
-        "source": "https://pokemondb.net/move/rest",
         "comparison": "Rest 10 PP Gen I–VIII; 5 PP Scarlet/Violet."
       }
     ],
@@ -32496,133 +32396,133 @@
       "status": "partial",
       "changes": 22,
       "confirmed_z_a_plus_levels": 14,
-      "notes": "Only PLUS explicitly supported, no guessed TM PLUS levels",
+      "notes": "Somente níveis PLUS confirmados, sem estimar níveis PLUS de TMs.",
       "corrections": [
         {
           "path": "records.za.moves_by_method.level[0].plus_level",
           "before": null,
           "after": 10,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[1].plus_level",
           "before": null,
           "after": 10,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[2].plus_level",
           "before": null,
           "after": 10,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[3].plus_level",
           "before": null,
           "after": 7,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[4].plus_level",
           "before": null,
           "after": 11,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[5].plus_level",
           "before": null,
           "after": 15,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[6].plus_level",
           "before": null,
           "after": 20,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[7].plus_level",
           "before": null,
           "after": 23,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[8].plus_level",
           "before": null,
           "after": 27,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[9].plus_level",
           "before": null,
           "after": 33,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[10].plus_level",
           "before": null,
           "after": 45,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.level[11].plus_level",
           "before": null,
           "after": 57,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.evolution[0].plus_level",
           "before": null,
           "after": 39,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.evolution[1].plus_level",
           "before": null,
           "after": 39,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.tm[0].plus_level",
           "before": null,
           "after": 10,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.tm[4].plus_level",
           "before": null,
           "after": 20,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.tm[15].plus_level",
           "before": null,
           "after": 39,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.tm[23].plus_level",
           "before": null,
           "after": 33,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.tm[27].plus_level",
           "before": null,
           "after": 23,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.moves_by_method.tm[34].plus_level",
           "before": null,
           "after": 57,
-          "reason": "Level PLUS documented for this move in Legends: Z-A"
+          "reason": "Nível PLUS documentado para este movimento em Legends: Z-A."
         },
         {
           "path": "records.za.obtaining",
           "before": "Evolua Charmeleon para Charizard no nível 36; Charmeleon pode ser obtido evoluindo Charmander encontrado em Lumiose City ou por outros métodos válidos no jogo.",
           "after": "Evolua Charmeleon a partir do nível 36 (evolução manual pelo menu). Charmander pode ser escolhido na missão secundária 22, A Call from Mable, no laboratório de pesquisa de Lumiose (disponível após o avanço na missão principal 10), ou encontrado na Wild Zone 20, desbloqueada após a missão principal 38. Formas de obtenção direta de Charizard em Mega Dimension exigem verificação específica.",
-          "reason": "Base-game paths supported by game walkthroughs; DLC not asserted"
+          "reason": "Rotas de obtenção identificadas no jogo-base; sem afirmar obtenção pelo conteúdo adicional."
         },
         {
           "path": "records.za.encounters",
@@ -32631,7 +32531,7 @@
               "pokemon": "Charizard",
               "location": "Lumiose City — laboratório Pokémon / Wild Zone 20",
               "method": "Evolução a partir de Charmander / Charmeleon",
-              "details": "Rota documentada para obter Charmander: Durante a missão secundária 022, A Call from Mable, visite o Pokémon Research Lab em Lumiose City, encontre Mable no terceiro andar e escolha Charmander de nível 5 entre os três iniciais de Kanto. Depois da missão principal 38, é possível encontrar Charmander na Wild Zone 20. Evolui para Charmeleon no nível 16. Depois, evolua Charmander para Charmeleon no nível 16 e Charmeleon para Charizard no nível 36. Esta descrição é uma rota por evolução, não uma afirmação de captura selvagem direta de Charizard."
+              "details": "Rota documentada para obter Charmander: Durante a missão secundária 022, A Call from Mable, visite o Laboratório de Pesquisa Pokémon em Lumiose City, encontre Mable no terceiro andar e escolha Charmander de nível 5 entre os três iniciais de Kanto. Depois da missão principal 38, é possível encontrar Charmander na Wild Zone 20. Evolui para Charmeleon no nível 16. Depois, evolua Charmander para Charmeleon no nível 16 e Charmeleon para Charizard no nível 36. Esta descrição é uma rota por evolução, não uma afirmação de captura selvagem direta de Charizard."
             },
             {
               "pokemon": "Charizard",
@@ -32654,7 +32554,7 @@
               "details": "Wild Zone 20 fica disponível após a missão principal 38. Capture Charmander nessa zona e evolua até Charizard. Este é um método indireto, não um encontro selvagem direto com Charizard."
             }
           ],
-          "reason": "Separate confirmed base-game obtainable routes from unreviewed DLC direct encounters"
+          "reason": "Separação das rotas confirmadas do jogo-base e dos encontros diretos do conteúdo adicional ainda não revisados."
         }
       ]
     },
@@ -32663,162 +32563,134 @@
         "edition": "rb",
         "method": "level",
         "entries": 10,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/1",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "yellow",
         "method": "level",
         "entries": 10,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/1",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "gold",
         "method": "level",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "silver",
         "method": "level",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "crystal",
         "method": "level",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/2",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "ruby",
         "method": "level",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "sapphire",
         "method": "level",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "emerald",
         "method": "level",
         "entries": 13,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "firered",
         "method": "level",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "leafgreen",
         "method": "level",
         "entries": 14,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/3",
         "result": "match",
-        "scope": "move + level only; full machine/tutor/historical attribute audit not implied"
+        "scope": "Conferidos apenas os nomes dos movimentos e níveis; isso não certifica máquinas, tutores nem todas as propriedades históricas."
       },
       {
         "edition": "diamond",
         "method": "level",
         "entries": 18,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/4",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       },
       {
         "edition": "pearl",
         "method": "level",
         "entries": 18,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/4",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       },
       {
         "edition": "platinum",
         "method": "level",
         "entries": 18,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/4",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       },
       {
         "edition": "heartgold",
         "method": "level",
         "entries": 18,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/4",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       },
       {
         "edition": "soulsilver",
         "method": "level",
         "entries": 18,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/4",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/4",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       },
       {
         "edition": "black",
         "method": "level",
         "entries": 20,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/5",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       },
       {
         "edition": "white",
         "method": "level",
         "entries": 20,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/5",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       },
       {
         "edition": "black2",
         "method": "level",
         "entries": 20,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/5",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       },
       {
         "edition": "white2",
         "method": "level",
         "entries": 20,
-        "source": "https://pokemondb.net/pokedex/charizard/moves/5",
-        "crosscheck_source": "https://theriodex.net/en/show/pokemon/moves/6/gen/5",
         "result": "match",
-        "scope": "move and level; historical Air Slash PP, Fire Spin power/accuracy, Scary Face accuracy checked; no confirmation of TMs/tutors/locations"
+        "scope": "Conferidos movimentos e níveis, além de PP de Air Slash, poder e precisão de Fire Spin e precisão de Scary Face; sem certificação de TMs, tutores ou locais."
       }
     ],
     "v6_integrity_checks": {
@@ -32833,7 +32705,7 @@
       "generation_IV_V_editions": 9,
       "entries_checked": 170,
       "differences": 0,
-      "historic_value_checks": "Air Slash PP=20 in IV–V; Fire Spin 15/70 in IV and 35/85 in V; Scary Face 90 in IV, 100 in V; targeted only",
+      "historic_value_checks": "PP de Air Slash = 20 nas gerações IV e V; Fire Spin: 15/70 na IV e 35/85 na V; precisão de Scary Face: 90 na IV e 100 na V. Conferência pontual.",
       "status": "level_only"
     },
     "level_up_audit_summary": {
@@ -32842,13 +32714,7 @@
       "entries_newly_checked": 308,
       "level_up_entries_total": 604,
       "status": "partial_signature_check_plus_prior_checks",
-      "reference_urls": [
-        "https://pokemondb.net/pokedex/charizard/moves/6",
-        "https://pokemondb.net/pokedex/charizard/moves/7",
-        "https://pokemondb.net/pokedex/charizard/moves/8",
-        "https://pokemondb.net/pokedex/charizard/moves/9"
-      ],
-      "disclaimer": "17 jogos desta rodada conferidos por amostras de assinatura, nao por todas as linhas; nao afirmar 36 edicoes integralmente homologadas por nivel."
+      "disclaimer": "Dezessete jogos foram conferidos por amostragem nesta rodada, não linha por linha; não afirmar que as 36 edições foram integralmente homologadas quanto aos níveis."
     },
     "v9_egg_move_repair": {
       "editions_updated": 12,
@@ -32867,12 +32733,7 @@
         "brilliant-diamond": 14,
         "shining-pearl": 14
       },
-      "sources": [
-        "https://pokemondb.net/pokedex/charizard/moves/2",
-        "https://pokemondb.net/pokedex/charizard/moves/3",
-        "https://pokemondb.net/pokedex/charizard/moves/8"
-      ],
-      "note": "pre-evolution egg moves; full game audit remains partial"
+      "note": "Golpes de ovo das pré-evoluções; auditoria integral da edição ainda pendente."
     },
     "v12_machine_review": {
       "date": "2026-11-17",
@@ -32892,14 +32753,8 @@
         "soulsilver"
       ],
       "number_of_entries_in_scoped_inventories": 470,
-      "correction": "Curse type Normal -> ??? for Gold/Silver/Crystal (3 records)",
-      "source_move_history": "https://pokemondb.net/move/curse",
-      "reference_urls": [
-        "https://pokemondb.net/pokedex/charizard/moves/2",
-        "https://pokemondb.net/pokedex/charizard/moves/3",
-        "https://pokemondb.net/pokedex/charizard/moves/4"
-      ],
-      "remaining": "Individually verify TM/HM/TR across generations V-IX, tutor compatibility, all obtaining/transfer methods, every move historical property, and real Blogger integration.",
+      "correction": "Tipo de Curse corrigido de Normal para ??? em Gold, Silver e Crystal (3 registros).",
+      "remaining": "Conferir individualmente TM/HM/TR das gerações V a IX, compatibilidade com tutores, métodos de obtenção e transferência, propriedades históricas dos golpes e integração real com o Blogger.",
       "review_status": "partial"
     },
     "v13_checks": {
@@ -32908,11 +32763,6 @@
       "tm_spotcheck_mismatches": 0,
       "structural_error_count": 0,
       "structural_errors": [],
-      "source_urls": [
-        "https://pokemondb.net/pokedex/charizard/moves/5",
-        "https://pokemondb.net/pokedex/charizard/moves/6",
-        "https://pokemondb.net/pokedex/charizard/moves/7"
-      ],
       "scope": "verificação de TM/nome nas linhas visíveis dos catálogos históricos, sem afirmar conferência completa"
     },
     "last_revision": "Auditoria final: correção de Beat Up nas gerações II–IV; testes integrais de estrutura; ainda não homologada",
@@ -32921,10 +32771,6 @@
       "changes": [
         "rb: Gelo 2× acrescentado na tabela defensiva da geração I",
         "yellow: Gelo 2× acrescentado na tabela defensiva da geração I"
-      ],
-      "references": [
-        "https://bulbapedia.bulbagarden.net/wiki/Type_chart_(Generation_I)",
-        "https://bulbapedia.bulbagarden.net/wiki/Fire_(type)"
       ],
       "date": "2026-11-17"
     },
@@ -33002,21 +32848,13 @@
         }
       ],
       "reviewed": "2026-11-17",
-      "finding": "Both differences concern LGPE and match documented changes (Solar Beam 200 Power, Rest 5 PP).",
-      "sources": [
-        "https://pokemondb.net/move/solar-beam",
-        "https://pokemondb.net/pokedex/charizard/moves/7"
-      ]
+      "finding": "As duas diferenças históricas registradas dizem respeito a Let’s Go: poder 200 de Solar Beam e uma anotação antiga sobre os PP de Rest, posteriormente corrigida."
     },
     "v16_form_ui_fix": {
       "status": "functional_patch",
       "date": "2026-11-17",
       "form_records_mega_x_with_defenses": 11,
-      "scope": "Form selector now updates form-specific stats/types/ability/defenses in Blogger, not only sprite; live deployment remains untested.",
-      "sources": [
-        "https://www.smogon.com/dex/xy/pokemon/charizard/",
-        "https://rotomlabs.net/dex/x-y/charizard/mega-x"
-      ]
+      "scope": "O seletor de formas atualiza atributos, tipos, habilidades e defesas específicos no Blogger, além do sprite; funcionamento na página publicada ainda não testado."
     },
     "v17_missing_profile_fields": {
       "status": "partially_verified",
@@ -33026,16 +32864,11 @@
         "mega_form_height_weight": 22,
         "mega_base_exp_gen_vi_vii": 20
       },
-      "scope": "Fill previously absent fields rendered by Blogger; preserve 2623 move records and approved layout. Generation I friendship not represented because the mechanic did not exist. Z-A forms already state that battle abilities are not used.",
-      "sources": [
-        "https://pokemondb.net/pokedex/charizard",
-        "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_friendship",
-        "https://bulbapedia.bulbagarden.net/wiki/Charizard"
-      ],
+      "scope": "Preenchimento de campos anteriormente ausentes exibidos pelo Blogger, com preservação de 2.623 registros de movimentos e do layout aprovado. Amizade não foi representada na geração I porque a mecânica não existia; as formas de Z-A já informam que habilidades não são usadas em batalha.",
       "limitations": [
-        "Individual machine and tutor learnsets still not all independently checked",
-        "Obtaining/transfers still not fully checked",
-        "Published Blogger test not performed"
+        "Nem todas as listas individuais de máquinas e tutores foram conferidas de modo independente.",
+        "Métodos de obtenção e transferências ainda não totalmente conferidos.",
+        "Teste na página publicada do Blogger não realizado."
       ]
     },
     "final_audit_2026_11_17": {
@@ -33154,36 +32987,26 @@
       ],
       "external_crosschecks": [
         {
-          "scope": "Beat Up Gen II–IV historical base power=10",
-          "reference": "https://pokemondb.net/move/beat-up"
+          "scope": "Poder base histórico de Beat Up nas gerações II a IV: 10."
         },
         {
-          "scope": "Charizard Sword/Shield move tutor list",
-          "reference": "https://pokemondb.net/pokedex/charizard/moves/8"
+          "scope": "Lista de golpes ensinados por tutores ao Charizard em Sword/Shield."
         },
         {
-          "scope": "Charmander Ultra Sun/Ultra Moon Island Scan",
-          "reference": "https://rotomlabs.net/locations/ultra-sun-ultra-moon/route-3?pokemon=charmander"
+          "scope": "Charmander Ultra Sun/Ultra Moon Island Scan"
         },
         {
-          "scope": "Charmander Brilliant Diamond/Shining Pearl Grand Underground",
-          "reference": "https://diamondpearl.pokemon.com/en-au/trainersguide/grandunderground/"
+          "scope": "Charmander Brilliant Diamond/Shining Pearl Grand Underground"
         }
       ],
-      "not_validated": "Independent line-by-line verification of all TM/HM/TR, tutor availability, transfer constraints and live Blogger/CDN integration remains unperformed."
+      "not_validated": "Ainda não foi concluída a conferência independente, registro por registro, de todas as TM/HM/TR, disponibilidade dos tutores, restrições de transferência e integração com o Blogger e o carregamento de arquivos."
     },
     "v19_tutor_validation": {
       "status": "name_inventory_checked",
       "record_count": 17,
       "tutor_move_entries": 113,
       "sampled_move_properties": 8,
-      "source_urls": [
-        "https://pokemondb.net/pokedex/charizard/moves/2",
-        "https://pokemondb.net/pokedex/charizard/moves/3",
-        "https://pokemondb.net/pokedex/charizard/moves/4",
-        "https://pokemondb.net/pokedex/charizard/moves/5"
-      ],
-      "scope": "Tutor move inventory in Generations II-V; later-generation tutors and transfers remain pending",
+      "scope": "Inventário de golpes de tutores das gerações II a V; tutores de gerações posteriores e transferências ainda requerem conferência.",
       "date": "2026-11-17"
     },
     "v20_content_validation_2026_11_17": {
@@ -33225,22 +33048,13 @@
         "obtenção e transferências edição a edição",
         "valores PLUS em Legends: Z-A"
       ],
-      "external_sources": [
-        "https://pokemondb.net/pokedex/charizard/moves/1",
-        "https://pokemondb.net/pokedex/charizard/moves/2",
-        "https://pokemondb.net/pokedex/charizard/moves/3",
-        "https://pokemondb.net/pokedex/charizard/moves/8",
-        "https://pokemondb.net/pokedex/charizard/moves/9",
-        "https://rotomlabs.net/dex/legends-z-a/charizard",
-        "https://www.pokemon.com/uk/news/get-an-alpha-charizard-that-knows-solar-beam-via-mystery-gift-in-pokemon-legends-z-a"
-      ],
       "change_summary": "Adicionada apenas observação sobre TMs 146, 154 e 158 do DLC de Z-A; nenhuma lista de movimentos, valor numérico ou mecânica do motor foi alterada."
     },
     "v21_factual_crosscheck_2026_11_17": {
       "status": "factual_crosscheck_partial_not_full_certification",
       "date": "2026-11-17",
       "source_file": "charizard-V20-VALIDACAO-CONTEXTO-DLC-PARCIAL(1).json",
-      "scope": "Confronto sistematico dos identificadores das maquinas, dados numericos de golpes e tipos com tabelas versionadas da PokeAPI; conferencia defensiva historica e leitura de referencias externas para geracao IX.",
+      "scope": "Comparação sistemática dos identificadores de máquinas, dados numéricos dos golpes e tipos com tabelas versionadas; verificação histórica das relações defensivas e conferência adicional da geração IX.",
       "results": {
         "game_records": 36,
         "move_entries": 2623,
@@ -33259,21 +33073,52 @@
         "content_corrections": 0
       },
       "important_limits": [
-        "Identificadores TM/HM/TR e parametros importados do mesmo ecossistema de dados da PokeAPI nao comprovam, sozinhos, legalidade individual de todos os metodos de aprendizagem.",
+        "Identificadores TM/HM/TR e parametros importados do mesmo ecossistema de dados da base de dados versionada nao comprovam, sozinhos, legalidade individual de todos os metodos de aprendizagem.",
         "Nao houve comparacao independente linha a linha dos 344 golpes de ovo e 179 tutores com regras de cadeia de heranca, eventos e transferencias por cartucho.",
         "Nao houve validacao independente integral das 36 rotas de obtencao e respectivas restricoes por DLC, evento, regiao ou metodo.",
         "Os dados de golpes e formas em Legends: Z-A necessitam distinguir valores da mecanica em tempo real dos valores de batalha por turnos que sites diferentes podem apresentar.",
         "Esta auditoria nao justifica promover review_status=partial para verified ou status geral para complete."
       ],
-      "external_references": [
-        "https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv",
-        "https://pokemondb.net/pokedex/charizard/moves/1",
-        "https://pokemondb.net/pokedex/charizard/moves/9",
-        "https://pokemondb.net/move/rest",
-        "https://rotomlabs.net/dex/mega-dimension/charizard",
-        "https://bulbapedia.bulbagarden.net/wiki/List_of_TMs_in_Pok%C3%A9mon_Legends:_Z-A"
-      ],
       "change_scope": "Somente metadados de auditoria; nenhum valor da ficha, movimento, jogo, forma, imagem ou metodo de obtencao foi alterado."
+    },
+    "tutor_inventory_2026_11_17": {
+      "status": "name_inventory_checked",
+      "scope": "Conferidos 179 registros de movimentos de tutores distribuídos por 29 registros de edições; quantidades e nomes coincidem com as listas por edição. Isso não certifica todos os requisitos individuais de aprendizado nem as propriedades históricas dos golpes.",
+      "game_records_with_tutors": 25,
+      "entries": 179,
+      "mismatches": 0,
+      "date": "2026-11-17"
+    },
+    "transfer_rules_spotcheck_2026_11_17": {
+      "status": "rules_crosschecked",
+      "scope": "Conferidas regras gerais de transferência e algumas rotas de acesso; sem certificação individual das combinações de golpes antigos e transferências.",
+      "confirmed": [
+        {
+          "subject": "Gen I/II Time Capsule",
+          "rule": "Somente Pokémon da geração I sem golpes exclusivos da geração II podem retornar pela Cápsula do Tempo."
+        },
+        {
+          "subject": "Transferência do Pokémon Bank para o Pokémon HOME.",
+          "rule": "Transferência em sentido único; não é possível retornar do Pokémon HOME ao Pokémon Bank."
+        },
+        {
+          "subject": "Pokemon HOME",
+          "rule": "A disponibilidade dos movimentos depende do jogo; o conjunto de golpes pode mudar conforme o ambiente da edição."
+        },
+        {
+          "subject": "Ultra Sun/Ultra Moon Charmander",
+          "rule": "Busca Insular na Route 3, aos domingos."
+        },
+        {
+          "subject": "Brilliant Diamond/Shining Pearl Charmander",
+          "rule": "Esconderijos de tipo Fogo no Grand Underground, incluindo Volcanic Cave, Sandsear Cave e Typhlo Cavern."
+        },
+        {
+          "subject": "Legends Z-A Charmander",
+          "rule": "Missão secundária 22 ou Wild Zone 20."
+        }
+      ],
+      "date": "2026-11-17"
     }
   }
 }
