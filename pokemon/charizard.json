@@ -34181,7 +34181,7 @@
   },
   "media_appearances": {
     "title": "Aparições em outras mídias",
-    "lead": "Catálogo de aparições no anime, cinema, animações derivadas e mangás. Os números JP seguem a ordem de exibição japonesa; códigos de produção e a divisão em temporadas podem adotar outras convenções. Registros de menções, flashbacks e fantasias são identificados. Acervo em expansão.",
+    "lead": "Catálogo de aparições no anime, cinema, animações derivadas e mangás. Miniaturas de cenas verificadas são exibidas quando disponíveis; em referências sem captura identificada, a imagem é explicitamente ilustrativa. A numeração JP segue a ordem japonesa. Acervo em expansão.",
     "anime": [
       {
         "jp_number": 25,
@@ -34203,8 +34203,8 @@
         "title_en": "Attack of the Prehistoric Pokémon",
         "title_ja": "ふっかつ！？かせきポケモン！",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/1/17/Ash_Charizard_newly_evolved.png/800px-Ash_Charizard_newly_evolved.png",
-          "alt": "Cena de Charizard no episódio 46"
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Ash_Charizard_newly_evolved_EP046.png/320px-Ash_Charizard_newly_evolved_EP046.png",
+          "alt": "Charizard logo após evoluir no episódio japonês 46"
         },
         "season_reference": 1
       },
@@ -34229,8 +34229,8 @@
         "title_ja": "リザードン！きみにきめた！！",
         "season_reference": 2,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/archive/9/97/20130312022719%21Ash_and_Charizard.png",
-          "alt": "Ash e Charizard em cena de aproximação"
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/5/50/Ash_Charizard_Ember.png/320px-Ash_Charizard_Ember.png",
+          "alt": "Charizard de Ash usando Brasa no episódio Charizard Chills"
         }
       },
       {
@@ -34244,8 +34244,8 @@
         "title_ja": "リザードンのたに！またあうひまで！！",
         "season_reference": 3,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/0/0d/Liza_Ash_Charizard.png/800px-Liza_Ash_Charizard.png",
-          "alt": "Cena do Charizard de Ash no Vale Charicífico"
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/0/0d/Liza_Ash_Charizard.png/320px-Liza_Ash_Charizard.png",
+          "alt": "Charizard de Ash com Liza no Vale Charicífico"
         }
       },
       {
@@ -34335,7 +34335,11 @@
         "appearance": "Mega Evolução",
         "title_pt": "Mega Charizard Y enfrenta Mega Charizard X",
         "title_en": "A League of His Own!",
-        "season_reference": 19
+        "season_reference": 19,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/7/77/Trevor_Mega_Charizard_Y.png/320px-Trevor_Mega_Charizard_Y.png",
+          "alt": "Mega Charizard Y de Trevor na Liga de Kalos"
+        }
       },
       {
         "jp_number": 944,
@@ -34364,8 +34368,8 @@
         "title_en": "Flash of the Titans!",
         "title_ja": "ダイマックスバトル！最強王者ダンデ！！",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/d/d2/Leon_Charizard_Power_Up_Fire_Blast_2.png",
-          "alt": "Cena de Charizard no episódio 1101"
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/3/32/Leon_and_Charizard.png/320px-Leon_and_Charizard.png",
+          "alt": "Leon com seu Charizard na final contra Lance"
         },
         "season_reference": 23
       },
@@ -34416,7 +34420,11 @@
         "appearance": "Aparição",
         "title_pt": "A estreia do Charizard de Friede",
         "title_en": "The Pendant That Starts It All (Part One)",
-        "season_reference": 26
+        "season_reference": 26,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/5/54/HZ_eyecatch_Friede_Charizard.png/320px-HZ_eyecatch_Friede_Charizard.png",
+          "alt": "Charizard de Friede em vinheta de Pokémon Horizons; imagem ilustrativa da série"
+        }
       },
       {
         "jp_number": 1327,
@@ -34457,7 +34465,11 @@
         "appearance": "Mega Evolução",
         "title_pt": "A Mega Evolução do Charizard de Friede",
         "title_en": "Roy vs. Friede: Wings of Fire!",
-        "season_reference": 28
+        "season_reference": 28,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/3/37/Friede_Mega_Charizard_Y.png/320px-Friede_Mega_Charizard_Y.png",
+          "alt": "Mega Charizard Y de Friede em Pokémon Horizons"
+        }
       },
       {
         "jp_number": 1377,
@@ -34473,7 +34485,11 @@
         "code": "P01",
         "title": "Pokémon: O Filme — Mewtwo Contra-Ataca",
         "description": "Um Charizard clonado por Mewtwo enfrenta o Charizard de Ash no confronto entre Pokémon originais e clones.",
-        "year": 1998
+        "year": 1998,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/6/6c/Charizard_Clone.png/320px-Charizard_Clone.png",
+          "alt": "Charizard clonado por Mewtwo no primeiro filme"
+        }
       },
       {
         "code": "P07",
@@ -34497,7 +34513,11 @@
         "code": "P20",
         "title": "Pokémon: Eu Escolho Você!",
         "description": "Em uma continuidade alternativa, Charmander foi abandonado por Cross. Com Ash, evolui até Charizard e enfrenta o Incineroar de seu antigo treinador.",
-        "year": 2017
+        "year": 2017,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/3/3b/Ash_and_Charizard_M20.png/320px-Ash_and_Charizard_M20.png",
+          "alt": "Ash com Charizard no filme Eu Escolho Você!"
+        }
       },
       {
         "code": "P22",
@@ -34505,8 +34525,8 @@
         "description": "A história do confronto entre Pokémon originais e clones é revisitada em animação 3D, incluindo a presença de Charizard.",
         "year": 2019,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/Charizard_Clone_M22.png/800px-Charizard_Clone_M22.png",
-          "alt": "Charizard clonado em Mewtwo Contra-Ataca: Evolução"
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/Charizard_Clone_M22.png/320px-Charizard_Clone_M22.png",
+          "alt": "Charizard clonado por Mewtwo em Mewtwo Contra-Ataca: Evolução"
         }
       },
       {
@@ -34514,7 +34534,11 @@
         "title": "Pokémon: Detetive Pikachu",
         "description": "Charizard é o parceiro de Sebastian no circuito de batalhas subterrâneas de Ryme City e enfrenta Pikachu.",
         "year": 2019,
-        "category": "Live-action"
+        "category": "Live-action",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Sebastian_Charizard_Detective_Pikachu.png/320px-Sebastian_Charizard_Detective_Pikachu.png",
+          "alt": "Charizard de Sebastian em Pokémon: Detetive Pikachu"
+        }
       }
     ],
     "animations": [
@@ -34522,25 +34546,41 @@
         "code": "PO03",
         "title": "Pokémon Origins — File 3: Giovanni",
         "description": "O Charizard de Red aparece como resultado da evolução do Pokémon inicial recebido do Professor Carvalho.",
-        "year": 2013
+        "year": 2013,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/f/f6/Red_Charizard_Mega_Punch_PO.png/320px-Red_Charizard_Mega_Punch_PO.png",
+          "alt": "Charizard de Red na luta de Pokémon Origins: File 3"
+        }
       },
       {
         "code": "PO04",
         "title": "Pokémon Origins — File 4: Charizard",
         "description": "Red megaevolui seu Charizard para Mega Charizard X durante o confronto contra Mewtwo.",
-        "year": 2013
+        "year": 2013,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/f/f5/Red_Mega_Charizard_X_PO.png/320px-Red_Mega_Charizard_X_PO.png",
+          "alt": "Mega Charizard X de Red em Pokémon Origins: File 4"
+        }
       },
       {
         "code": "GEN18",
         "title": "Pokémon Generations — The Redemption",
         "description": "Charizard participa da celebração da vitória de Calem como Campeão de Kalos.",
-        "year": 2016
+        "year": 2016,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/f/f3/Calem_Charizard_Professor_Sycamore_PG.png/320px-Calem_Charizard_Professor_Sycamore_PG.png",
+          "alt": "Charizard com Calem em Pokémon Generations: The Redemption"
+        }
       },
       {
         "code": "PAC07",
         "title": "Pokémon: Twilight Wings — Sky",
         "description": "O Charizard Gigantamax de Leon aparece em um combate importante da região de Galar.",
-        "year": 2020
+        "year": 2020,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/0/09/Leon_Gigantamax_Charizard_Twilight_Wings.png/320px-Leon_Gigantamax_Charizard_Twilight_Wings.png",
+          "alt": "Gigantamax Charizard de Leon no episódio Sky de Twilight Wings"
+        }
       },
       {
         "code": "TOON03",
@@ -34552,7 +34592,11 @@
         "code": "EVO01",
         "title": "Pokémon Evolutions — The Champion",
         "description": "Leon utiliza Charizard durante o confronto envolvendo Eternatus em Galar.",
-        "year": 2021
+        "year": 2021,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/c/cc/Leon_Charizard_Fire_Blast_Evolutions.png/320px-Leon_Charizard_Fire_Blast_Evolutions.png",
+          "alt": "Charizard de Leon usando Explosão de Fogo em Pokémon Evolutions"
+        }
       },
       {
         "code": "EVO08",
@@ -34582,14 +34626,22 @@
         "code": "GOT-YOU",
         "title": "Project VOLTAGE — GOT YOU!",
         "description": "Um Charmander apresentado no videoclipe aparece evoluído como Charizard na sequência final.",
-        "category": "Videoclipe"
+        "category": "Videoclipe",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/d/df/Leon_Party_Gotcha.png/320px-Leon_Party_Gotcha.png",
+          "alt": "Charizard no videoclipe Pokémon GOTCHA!"
+        }
       }
     ],
     "manga": [
       {
         "code": "PMS027",
         "title": "Pokémon Adventures — Red, Green & Blue",
-        "description": "O Pokémon inicial de Blue, recebido como Charmander, chega à forma Charizard e torna-se um de seus principais parceiros."
+        "description": "O Pokémon inicial de Blue, recebido como Charmander, chega à forma Charizard e torna-se um de seus principais parceiros.",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/1/1b/Blue_and_Charizard.png/320px-Blue_and_Charizard.png",
+          "alt": "Blue com seu Charizard no mangá Pokémon Adventures"
+        }
       },
       {
         "code": "PMS150",
@@ -34629,21 +34681,29 @@
       {
         "code": "MP01",
         "title": "Adaptação em mangá — Mewtwo Contra-Ataca",
-        "description": "A adaptação apresenta o Charizard da Equipe Rocket e outro associado aos Pokémon clonados de Mewtwo."
+        "description": "A adaptação apresenta o Charizard da Equipe Rocket e outro associado aos Pokémon clonados de Mewtwo.",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/1/16/Charizard_Clone_M01_manga.png/320px-Charizard_Clone_M01_manga.png",
+          "alt": "Charizard clonado na adaptação em mangá de Mewtwo Contra-Ataca"
+        }
       },
       {
         "code": "MP20",
         "title": "Adaptação em mangá — Eu Escolho Você!",
         "description": "Charmeleon evolui para Charizard para enfrentar o Incineroar de Cross.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/0/00/Ash_Charizard_M20_manga.png/1200px-Ash_Charizard_M20_manga.png",
-          "alt": "Charizard de Ash no mangá do filme Eu Escolho Você!"
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/e/e3/Ash_Charizard_Seismic_Toss_ICYR.png/320px-Ash_Charizard_Seismic_Toss_ICYR.png",
+          "alt": "Charizard de Ash na adaptação em mangá de Eu Escolho Você!"
         }
       },
       {
         "code": "MP22",
         "title": "Adaptação em mangá — Mewtwo Contra-Ataca: Evolução",
-        "description": "Charizard aparece junto aos Pokémon dos protagonistas e à contraparte clonada de Mewtwo."
+        "description": "Charizard aparece junto aos Pokémon dos protagonistas e à contraparte clonada de Mewtwo.",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/a/a1/Charizard_Clone_M22_manga.png/320px-Charizard_Clone_M22_manga.png",
+          "alt": "Charizard clonado na adaptação em mangá de Mewtwo Contra-Ataca: Evolução"
+        }
       },
       {
         "code": "PV001",
@@ -34653,7 +34713,11 @@
       {
         "code": "PV004",
         "title": "Pokémon Journeys — mangá, capítulo 4",
-        "description": "O Charizard de Leon enfrenta o Gyarados vermelho de Lance."
+        "description": "O Charizard de Leon enfrenta o Gyarados vermelho de Lance.",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/d/d5/Leon_Charizard_JNM.png/320px-Leon_Charizard_JNM.png",
+          "alt": "Charizard de Leon no mangá Pokémon Journeys"
+        }
       },
       {
         "code": "LNT01",
@@ -34678,12 +34742,20 @@
       {
         "code": "ETP12",
         "title": "The Electric Tale of Pikachu — capítulo 12",
-        "description": "O Charizard de Ash aparece como opção para a Liga Índigo."
+        "description": "O Charizard de Ash aparece como opção para a Liga Índigo.",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/c/cd/Ash_Charizard_EToP.png/320px-Ash_Charizard_EToP.png",
+          "alt": "Charizard de Ash no mangá The Electric Tale of Pikachu"
+        }
       },
       {
         "code": "ETP13",
         "title": "The Electric Tale of Pikachu — capítulo 13",
-        "description": "Zippo, o Charizard de Ritchie, enfrenta a equipe de Ash."
+        "description": "Zippo, o Charizard de Ritchie, enfrenta a equipe de Ash.",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/d/d8/Zippo_Swords_Dance_EToP.png/320px-Zippo_Swords_Dance_EToP.png",
+          "alt": "Zippo, o Charizard de Ritchie, no mangá The Electric Tale of Pikachu"
+        }
       },
       {
         "code": "GB19",
@@ -34698,7 +34770,11 @@
       {
         "code": "PMZ08",
         "title": "Pokémon Zensho — capítulo 8",
-        "description": "O Charmeleon de Satoshi evolui para Charizard após derrotar o Arcanine de Blaine."
+        "description": "O Charmeleon de Satoshi evolui para Charizard após derrotar o Arcanine de Blaine.",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/d/db/Satoshi_Charizard_Zensho.png/320px-Satoshi_Charizard_Zensho.png",
+          "alt": "Charizard de Satoshi no mangá Pokémon Zensho"
+        }
       },
       {
         "code": "DTWN30-05",
