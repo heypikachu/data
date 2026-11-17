@@ -325,13 +325,13 @@
       {
         "game": "Pokémon Pokopia",
         "year": 2026,
-        "category": "Minigames",
+        "category": "Simulação e construção",
         "icon": {
           "url": "https://archives.bulbagarden.net/media/upload/a/ab/Menu_Pokopia_0006.png",
           "alt": "Ícone de Charizard em Pokémon Pokopia"
         },
-        "description": "Em Pokémon Pokopia, Charizard integra o elenco visual e funcional do modo, aparecendo como uma das espécies associadas aos minigames e à ambientação do jogo.",
-        "obtaining": "Sua presença está vinculada ao conteúdo próprio de Pokopia, sendo acessada dentro do conjunto de atividades e menus desse modo."
+        "description": "Em Pokémon Pokopia, Charizard faz parte do mundo de simulação de vida, no qual o jogador cria ambientes, constrói estruturas e desenvolve habitats para diferentes Pokémon.",
+        "obtaining": "Para atrair Charizard, o jogador deve criar habitats compatíveis com a espécie, como grama alta ou um acampamento com frutas, respeitando as condições do jogo."
       }
     ]
   },
