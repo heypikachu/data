@@ -33,6 +33,35 @@
     "name": "Montanhas",
     "description": "Classificação histórica de habitat da Pokédex, presente nos jogos da Geração III."
   },
+  "concept_origin": {
+    "title": "Conceito e origem",
+    "designer": {
+      "label": "Design original",
+      "name": "Atsuko Nishida",
+      "description": "Criadora do visual original de Charizard e de sua linha evolutiva."
+    },
+    "form_designers": [
+      {
+        "form": "Mega Charizard X",
+        "designer": "Atsuko Nishida"
+      },
+      {
+        "form": "Mega Charizard Y",
+        "designer": null,
+        "note": "Autoria individual não confirmada."
+      },
+      {
+        "form": "Gigantamax Charizard",
+        "designer": null,
+        "note": "Autoria individual não confirmada."
+      }
+    ],
+    "curiosity": "Atsuko Nishida contou que desenhou Charmander para que sua aparência inicial não antecipasse a surpresa de sua evolução final, Charizard.",
+    "origin": [
+      "A aparência de Charizard pode ter sido inspirada nos dragões europeus, criaturas frequentemente associadas ao fogo no folclore. Suas asas, garras, cauda e feições reptilianas também evocam lagartos e dinossauros.",
+      "A chama que arde na ponta da cauda lembra as salamandras míticas, tradicionalmente ligadas ao fogo. A influência dos dragões fica ainda mais evidente em Mega Charizard X, que combina os tipos Fogo e Dragão."
+    ]
+  },
   "morphology": {
     "body_shape": {
       "label": "Formato corporal",
