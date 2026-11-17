@@ -96,7 +96,7 @@
         "year": 1999,
         "category": "Pinball",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/0/07/Pin006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-pinball.png",
           "alt": "Ícone de Charizard em Pokémon Pinball"
         },
         "description": "Em Pokémon Pinball, Charizard aparece como parte da linha evolutiva de Charmander e entra no Pokédex do jogo como uma evolução importante dentro da progressão da mesa.",
@@ -107,7 +107,7 @@
         "year": 1999,
         "category": "Fotografia",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/8/81/Charizard_Snap.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-snap.png",
           "alt": "Charizard fotografado em Pokémon Snap"
         },
         "description": "No estágio Vulcão, Charizard aparece em meio ao cenário de lava e protagoniza um dos encontros mais clássicos do jogo de fotografia.",
@@ -118,7 +118,7 @@
         "year": 2005,
         "category": "Dungeon RPG",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/c/c6/MDP_RT_006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-md.png",
           "alt": "Retrato de Charizard em Pokémon Mystery Dungeon"
         },
         "description": "Na série Mystery Dungeon, Charizard pode atuar como aliado nas expedições, usando seus golpes de fogo em batalhas por turnos dentro das dungeons.",
@@ -129,7 +129,7 @@
         "year": 2005,
         "category": "Puzzle",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/b/b7/Trozeiani006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-trozei.png",
           "alt": "Ícone de Charizard em Pokémon Trozei!"
         },
         "description": "No puzzle Pokémon Trozei!, Charizard aparece como uma peça rara do elenco e integra o conjunto de Pokémon que podem ser combinados e registrados.",
@@ -140,7 +140,7 @@
         "year": 2007,
         "category": "Dungeon RPG",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/c/c6/MDP_RT_006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-md-time-darkness.png",
           "alt": "Retrato de Charizard em Pokémon Mystery Dungeon"
         },
         "description": "Nos jogos Explorers, Charizard continua aparecendo como um Pokémon recrutável e voltado para combate ofensivo em equipes de exploração.",
@@ -151,7 +151,7 @@
         "year": 2009,
         "category": "Dungeon RPG",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/c/c6/MDP_RT_006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-md-sky.png",
           "alt": "Retrato de Charizard em Pokémon Mystery Dungeon"
         },
         "description": "Nos jogos Explorers, Charizard continua aparecendo como um Pokémon recrutável e voltado para combate ofensivo em equipes de exploração.",
@@ -162,7 +162,7 @@
         "year": 2009,
         "category": "Aventura",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/6/65/PPW006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-pokepark.png",
           "alt": "Arte de Charizard em PokéPark Wii"
         },
         "description": "Em PokéPark Wii, Charizard aparece como um dos Pokémon encontrados no parque, ligado a encontros importantes dentro da aventura de Pikachu.",
@@ -173,7 +173,7 @@
         "year": 2011,
         "category": "Aventura",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/6/65/PPW006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-pokepark.png",
           "alt": "Arte de Charizard em PokéPark 2"
         },
         "description": "No segundo PokéPark, Charizard volta a aparecer como parte do elenco do parque, mantendo presença em encontros e situações ligadas à exploração.",
@@ -184,7 +184,7 @@
         "year": 2012,
         "category": "Estratégia tática",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/5/5e/PCP006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-conquest.png",
           "alt": "Ícone de Charizard em Pokémon Conquest"
         },
         "description": "Em Pokémon Conquest, Charizard participa das batalhas em grade do reino de Ransei, servindo como opção ofensiva de fogo em combates estratégicos.",
@@ -195,7 +195,7 @@
         "year": 2015,
         "category": "Luta",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/2/2a/Pokk%C3%A9n_Charizard.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-pokken.png",
           "alt": "Arte oficial de Charizard em Pokkén Tournament"
         },
         "description": "Charizard integra o elenco jogável como um Battle Pokémon voltado para combate direto, usando golpes como Flamethrower, Fire Punch e Flare Blitz.",
@@ -206,7 +206,7 @@
         "year": 2015,
         "category": "Puzzle",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/7/71/Charizard_Pok%C3%A9mon_Picross.png/64px-Charizard_Pok%C3%A9mon_Picross.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-picross.png",
           "alt": "Ícone de Charizard em Pokémon Picross"
         },
         "description": "No game de nonogramas, Charizard aparece como um dos Pokémon desbloqueáveis, contribuindo com habilidades úteis para resolver quebra-cabeças.",
@@ -217,7 +217,7 @@
         "year": 2015,
         "category": "Puzzle",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/0/0c/Shuffle006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-shuffle.png",
           "alt": "Ícone de Charizard em Pokémon Shuffle"
         },
         "description": "No puzzle, Charizard atua como peça do tipo Fogo, com a habilidade Burn, e ainda possui acesso às Mega Evoluções X e Y para efeitos especiais no tabuleiro.",
@@ -228,7 +228,7 @@
         "year": 2016,
         "category": "Realidade aumentada",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/7/75/GO0006.png/100px-GO0006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-go.png",
           "alt": "Modelo de Charizard em Pokémon GO"
         },
         "description": "Em Pokémon GO, Charizard é um Pokémon de combate e coleção, com uso frequente em raids, batalhas e eventos especiais, incluindo Mega Evolução e Gigantamax em contextos próprios do jogo.",
@@ -239,7 +239,7 @@
         "year": 2017,
         "category": "Idle e suporte",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/5/57/Magikarp_Jump_Charcoal.png/55px-Magikarp_Jump_Charcoal.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-magikarp.png",
           "alt": "Representação de Charizard em Pokémon: Magikarp Jump"
         },
         "description": "Em Magikarp Jump, Charizard aparece de forma indireta por meio do item de apoio Charcoal, ligado ao universo e à identidade da espécie.",
@@ -250,7 +250,7 @@
         "year": 2019,
         "category": "Batalha em duplas",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/6/63/MastersIcon0006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-masters.png",
           "alt": "Retrato de Charizard em Pokémon Masters EX"
         },
         "description": "Charizard aparece em várias duplas de Mestres, sendo uma das espécies mais representadas do jogo, inclusive com Mega e Gigantamax.",
@@ -261,7 +261,7 @@
         "year": 2019,
         "category": "Ação",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/8/82/Rush006Body.png/80px-Rush006Body.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-rumble-rush.png",
           "alt": "Modelo de Charizard em Pokémon Rumble Rush"
         },
         "description": "No spin-off de ação Rumble Rush, Charizard aparece em batalhas rápidas contra vários inimigos, mantendo o estilo de brinquedo típico da série Rumble.",
@@ -272,7 +272,7 @@
         "year": 2020,
         "category": "Dungeon RPG",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/5/5f/MDP_RTDX_006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-md-dx.png",
           "alt": "Retrato de Charizard de Pokémon Mystery Dungeon: Rescue Team DX"
         },
         "description": "Charizard pode atuar como aliado de exploração, trazendo mobilidade ofensiva e golpes de fogo muito úteis nas dungeons.",
@@ -283,7 +283,7 @@
         "year": 2021,
         "category": "Fotografia",
         "icon": {
-          "url": "https://images.wikidexcdn.net/mwuploads/wikidex/a/ac/latest/20210503195157/Charizard_NPS.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-new-snap.png",
           "alt": "Ícone de Charizard em New Pokémon Snap"
         },
         "description": "Aparece em Fireflow Volcano, cercado por magma e outros Pokémon de ambiente vulcânico, rendendo cenas fortes para o Photodex.",
@@ -294,7 +294,7 @@
         "year": 2021,
         "category": "Puzzle e gestão",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/e/ed/Caf%C3%A9ReMix0006.png/70px-Caf%C3%A9ReMix0006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-cafe.png",
           "alt": "Ícone de Charizard em Pokémon Café ReMix"
         },
         "description": "No café, Charizard trabalha como Pokémon de equipe e se destaca em pedidos com foco em Entrées, além de possuir variantes especiais com outras especialidades.",
@@ -305,7 +305,7 @@
         "year": 2021,
         "category": "MOBA",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/3/3f/UNITE_Charizard.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-unite.png",
           "alt": "Arte oficial de Charizard em Pokémon UNITE"
         },
         "description": "Charizard é um All-Rounder corpo a corpo. Em batalha, começa como Charmander, evolui para Charmeleon e atinge sua forma final durante a partida.",
@@ -316,7 +316,7 @@
         "year": 2023,
         "category": "Sono e coleta",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/c/cc/Sleep_Style_0006-1.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-sleep.png",
           "alt": "Estilo de sono de Charizard em Pokémon Sleep"
         },
         "description": "Em Sleep, Charizard pode ser estudado em diferentes estilos de sono e ainda servir como ajudante, contribuindo com ingredientes e sua habilidade principal.",
@@ -327,7 +327,7 @@
         "year": 2026,
         "category": "Simulação e construção",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/a/ab/Menu_Pokopia_0006.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/spinoff/0006-pokopia.png",
           "alt": "Ícone de Charizard em Pokémon Pokopia"
         },
         "description": "Em Pokémon Pokopia, Charizard faz parte do mundo de simulação de vida, no qual o jogador cria ambientes, constrói estruturas e desenvolve habitats para diferentes Pokémon.",
