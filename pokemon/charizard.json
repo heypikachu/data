@@ -87,6 +87,9 @@
       }
     }
   },
+  "unavailable_games": [
+    "Pokémon Legends: Arceus"
+  ],
   "records": {
     "rb": {
       "game_name": "Pokémon Red / Blue",
