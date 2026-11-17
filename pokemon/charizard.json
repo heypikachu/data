@@ -514,7 +514,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 1. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 1. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -1034,7 +1034,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 2. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 2. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -1706,7 +1706,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -2388,7 +2388,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -3080,7 +3080,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 4. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 4. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -3719,7 +3719,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 5. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 5. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -4358,7 +4358,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 5. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 5. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -5178,7 +5178,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 6. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 6. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -5927,7 +5927,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 7. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 7. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -6676,7 +6676,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 7. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 7. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -7589,7 +7589,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 8. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 8. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -8502,7 +8502,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 8. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 8. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -9514,7 +9514,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 9. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 9. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -10543,7 +10543,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 10. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 10. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -11572,7 +11572,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 10. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 10. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -12493,7 +12493,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 11. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 11. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -13421,7 +13421,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 11. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 11. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -14439,7 +14439,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 14. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 14. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -15457,7 +15457,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 14. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 14. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (movimentos por nível confrontados; auditoria integral pendente)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -15630,7 +15630,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -16552,7 +16604,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 15. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 15. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -16726,7 +16778,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -17648,7 +17752,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 15. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 15. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -17822,7 +17926,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -18835,7 +18991,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 16. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 16. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -19009,7 +19165,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -20022,7 +20230,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 16. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 16. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -20196,7 +20404,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -21069,7 +21329,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 17. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 17. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -21243,7 +21503,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -22116,7 +22428,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 17. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 17. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -22290,7 +22602,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -23253,7 +23617,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 18. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 18. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -23427,7 +23791,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -24390,7 +24806,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 18. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 18. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo herdados por Charmander adicionados na auditoria V10, específicos da edição.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -24564,7 +24980,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -25086,7 +25554,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 19. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 19. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente.",
       "last_review": "17/11/2026 (V14: TM numeração e Rest PP, revisão parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -25244,7 +25712,59 @@
           "detail": "Megaevolução temporária com Charizardite Y; tipo Fogo/Voador.",
           "weight": "100,5 kg",
           "height": "1,7 m",
-          "base_exp": 285
+          "base_exp": 285,
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -25766,7 +26286,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 19. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 19. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente.",
       "last_review": "17/11/2026 (V14: TM numeração e Rest PP, revisão parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -25849,7 +26369,76 @@
             "Fogo",
             "Voador"
           ],
-          "detail": "Gigantamax somente com Fator Gigantamax: o Charmander presenteado por Leon após tornar-se Campeão já possui esse fator, que permanece ao evoluir. Também é possível obter em determinados Max Raid Battles ou usar Max Soup do DLC Isle of Armor (3 Max Mushrooms). Não altera atributos base; o movimento G-Max Wildfire é exclusivo desta transformação."
+          "detail": "Forma Gigantamax temporária com Fator Gigantamax. Conserva tipos, atributos base, habilidades, fraquezas e resistências do Charizard comum; o aumento de HP depende da mecânica Dynamax. Altura de 28,0 m ou mais, sem peso oficial determinado. Movimentos ofensivos do tipo Fogo tornam-se G-Max Wildfire, que causa dano adicional por quatro turnos a adversários que não sejam do tipo Fogo (1/6 do HP máximo por turno). O Charmander presenteado por Leon possui o fator; outra possibilidade é obtê-lo em determinadas Max Raid Battles ou usar Max Soup, preparado com 3 Max Mushrooms no DLC Isle of Armor.",
+          "stats": [
+            78,
+            84,
+            78,
+            109,
+            85,
+            100
+          ],
+          "ability": "Blaze (Principal) · Solar Power (Oculta).",
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ],
+          "height": "28,0 m ou mais",
+          "base_exp": 267,
+          "gmax_move": {
+            "name": "G-Max Wildfire",
+            "type": "Fogo",
+            "effect": "Substitui os movimentos ofensivos do tipo Fogo ao usar Gigantamax; causa dano inicial e, durante quatro turnos, retira 1/6 do HP máximo de cada adversário que não seja do tipo Fogo ao final do turno.",
+            "duration_turns": 4
+          }
         }
       ],
       "defenses": [
@@ -26801,7 +27390,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -26886,7 +27475,76 @@
             "Fogo",
             "Voador"
           ],
-          "detail": "Gigantamax somente com Fator Gigantamax: o Charmander presenteado por Leon após tornar-se Campeão já possui esse fator, que permanece ao evoluir. Também é possível obter em determinados Max Raid Battles ou usar Max Soup do DLC Isle of Armor (3 Max Mushrooms). Não altera atributos base; o movimento G-Max Wildfire é exclusivo desta transformação."
+          "detail": "Forma Gigantamax temporária com Fator Gigantamax. Conserva tipos, atributos base, habilidades, fraquezas e resistências do Charizard comum; o aumento de HP depende da mecânica Dynamax. Altura de 28,0 m ou mais, sem peso oficial determinado. Movimentos ofensivos do tipo Fogo tornam-se G-Max Wildfire, que causa dano adicional por quatro turnos a adversários que não sejam do tipo Fogo (1/6 do HP máximo por turno). O Charmander presenteado por Leon possui o fator; outra possibilidade é obtê-lo em determinadas Max Raid Battles ou usar Max Soup, preparado com 3 Max Mushrooms no DLC Isle of Armor.",
+          "stats": [
+            78,
+            84,
+            78,
+            109,
+            85,
+            100
+          ],
+          "ability": "Blaze (Principal) · Solar Power (Oculta).",
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ],
+          "height": "28,0 m ou mais",
+          "base_exp": 267,
+          "gmax_move": {
+            "name": "G-Max Wildfire",
+            "type": "Fogo",
+            "effect": "Substitui os movimentos ofensivos do tipo Fogo ao usar Gigantamax; causa dano inicial e, durante quatro turnos, retira 1/6 do HP máximo de cada adversário que não seja do tipo Fogo ao final do turno.",
+            "duration_turns": 4
+          }
         }
       ],
       "defenses": [
@@ -27838,7 +28496,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -28698,7 +29356,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -29566,7 +30224,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -29712,6 +30370,12 @@
           "location": "Blueberry Academy — Savanna Biome do Terarium (DLC The Indigo Disk)",
           "method": "Evolução a partir de Charmander / Charmeleon",
           "details": "Rota documentada para obter Charmander: Com o DLC The Indigo Disk, viaje à Blueberry Academy e entre no Terarium. No League Club, contribua com Blueberry Points para melhorar a biodiversidade do Savanna Biome. Após liberar os iniciais da região, procure Charmander nas áreas abertas do Savanna Biome. Sem DLC, é necessário Pokémon HOME ou troca. Depois, evolua Charmander para Charmeleon no nível 16 e Charmeleon para Charizard no nível 36. Esta descrição é uma rota por evolução, não uma afirmação de captura selvagem direta de Charizard."
+        },
+        {
+          "pokemon": "Charizard",
+          "location": "Cristais negros de Tera Raid — evento especial já encerrado",
+          "method": "Captura direta em evento temporário de Tera Raid de 7 estrelas (histórico)",
+          "details": "Charizard com Tipo Tera Dragão e Marca Invencível (Mightiest Mark) foi distribuído em eventos especiais de Tera Raid de 7 estrelas, inclusive em reapresentações. A captura estava limitada a um exemplar por arquivo de jogo entre as edições do evento. Como os períodos de distribuição terminaram, este registro é histórico e não deve ser apresentado como encontro permanente ou atualmente disponível. Fora de eventos, obtenha Charizard por evolução, troca ou transferência compatível."
         }
       ],
       "moves_by_method": {
@@ -30559,7 +31223,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -30683,6 +31347,12 @@
           "location": "Blueberry Academy — Savanna Biome do Terarium (DLC The Indigo Disk)",
           "method": "Evolução a partir de Charmander / Charmeleon",
           "details": "Rota documentada para obter Charmander: No DLC The Indigo Disk, siga à Blueberry Academy e explore o Terarium. Use Blueberry Points no League Club para atualizar a biodiversidade do Savanna Biome e liberar iniciais adicionais. Procure Charmander pela região do Savanna Biome; sem a expansão, recorra a Pokémon HOME ou trocas. Depois, evolua Charmander para Charmeleon no nível 16 e Charmeleon para Charizard no nível 36. Esta descrição é uma rota por evolução, não uma afirmação de captura selvagem direta de Charizard."
+        },
+        {
+          "pokemon": "Charizard",
+          "location": "Cristais negros de Tera Raid — evento especial já encerrado",
+          "method": "Captura direta em evento temporário de Tera Raid de 7 estrelas (histórico)",
+          "details": "Charizard com Tipo Tera Dragão e Marca Invencível (Mightiest Mark) foi distribuído em eventos especiais de Tera Raid de 7 estrelas, inclusive em reapresentações. A captura estava limitada a um exemplar por arquivo de jogo entre as edições do evento. Como os períodos de distribuição terminaram, este registro é histórico e não deve ser apresentado como encontro permanente ou atualmente disponível. Fora de eventos, obtenha Charizard por evolução, troca ou transferência compatível."
         }
       ],
       "moves_by_method": {
@@ -31530,7 +32200,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Golpes importados do conjunto de dados Pokémon/6 da base de dados versionada pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Aprovação editorial registrada; verificações factuais específicas permanecem documentadas separadamente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -31674,7 +32344,59 @@
           "ability": "Habilidades não utilizadas nesta edição.",
           "detail": "Megaevolução temporária Fogo/Voador com Charizardite Y. Em Z-A, a pedra é vendida no Stone Emporium, Vernal Avenue; não há habilidades de combate neste jogo.",
           "weight": "100,5 kg",
-          "height": "1,7 m"
+          "height": "1,7 m",
+          "defenses": [
+            {
+              "type": "Pedra",
+              "multiplier": "4×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Água",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Elétrico",
+              "multiplier": "2×",
+              "note": "Fraqueza"
+            },
+            {
+              "type": "Inseto",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Grama",
+              "multiplier": "¼×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fogo",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Lutador",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Terrestre",
+              "multiplier": "0×",
+              "note": "Imunidade"
+            },
+            {
+              "type": "Aço",
+              "multiplier": "½×",
+              "note": "Resistência"
+            },
+            {
+              "type": "Fada",
+              "multiplier": "½×",
+              "note": "Resistência"
+            }
+          ]
         }
       ],
       "defenses": [
@@ -32334,7 +33056,7 @@
         "tutor": [],
         "tr": []
       },
-      "learnset_notes": "Legends: Z-A: níveis e TM com recarga própria do combate em tempo real. Air Slash e Fire Blast são golpes aprendidos na evolução. Valores PLUS e alguns TMs da expansão ainda não auditados integralmente. Valores de recarga e listas de movimentos de Legends: Z-A ainda exigem validação individual; não são dados homologados. TMs 146 (Skull Bash), 154 (Fissure) e 158 (Blast Burn): compatibilidade confirmada; esses TMs pertencem à expansão Mega Dimension. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
+      "learnset_notes": "Legends: Z-A utiliza combate em tempo real e recarga própria para cada movimento. As listas de 12 golpes por nível, 2 aprendidos na evolução e 47 TMs foram confrontadas por nome, método, nível, numeração, poder e recarga. Air Slash e Fire Blast são aprendidos na evolução. Os níveis PLUS da lista por nível e da evolução estão registrados; não atribuir níveis PLUS a outros TMs sem confirmação individual, pois movimentos + também podem ser obtidos com Seed of Mastery. TMs 146 (Skull Bash), 154 (Fissure) e 158 (Blast Burn) pertencem à expansão Mega Dimension. Pokémon HOME: os golpes disponíveis dependem do jogo de destino e podem ser ajustados ao transferir o Pokémon.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -32352,7 +33074,7 @@
     "status": "partial",
     "generation": "base de dados versionada CSV pokemon_moves.csv + moves.csv + machines.csv + items.csv + move_changelog.csv; Z-A com learnset próprio",
     "unresolved_machines": [],
-    "notes": "Cobertura técnica gerada, não equivalente a verificação manual de todos os registros. Mega X/Y e Gigantamax não são espécies evolutivas independentes.",
+    "notes": "Aprovação editorial das 36 edições registrada; a verificação factual integral de todas as regras históricas de reprodução, transferência e obtenção ainda não foi concluída. Mega Charizard X/Y e Gigantamax são formas temporárias, não espécies evolutivas independentes.",
     "review_date": "2026-11-17",
     "revision_scope": "V15: Fraqueza Gelo 2× corrigida nos registros RB e Yellow; divergências internas de propriedades na mesma geração analisadas, Solar Beam 200 em LGPE mantido; Rest em LGPE corrigido para 10 PP na V23, conforme fontes específicas; demais métodos permanecem parciais.",
     "pending_verification": [
@@ -32765,7 +33487,7 @@
       "structural_errors": [],
       "scope": "verificação de TM/nome nas linhas visíveis dos catálogos históricos, sem afirmar conferência completa"
     },
-    "last_revision": "Auditoria final: correção de Beat Up nas gerações II–IV; testes integrais de estrutura; ainda não homologada",
+    "last_revision": "V28 — Complementação factual: defesas de Mega Charizard Y (11 edições); atributos, altura e efeito de Gigantamax (Sword/Shield); registro histórico de Tera Raid para Charizard (Scarlet/Violet); conferência específica de 61 entradas de movimentos de Legends: Z-A. Estrutura dos 2.623 movimentos intacta; sem divulgação de fontes externas.",
     "v15_type_chart_correction": {
       "status": "verified_partial",
       "changes": [
