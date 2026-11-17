@@ -1,0 +1,50 @@
+/* H!P DEX: estilos específicos do post aprovado. Requer o CSS geral do tema Blogger H!P DEX. */
+
+    /* H!P DEX | Navegação Nacional e cards de evolução interativos */
+    #hp-dex-app .hp-dex-neighbors{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:0 0 18px;}
+    #hp-dex-app .hp-dex-neighbor{display:flex;align-items:center;gap:10px;min-width:0;min-height:74px;padding:11px 13px;border:1px solid var(--line,rgba(150,160,180,.25));border-radius:14px;background:var(--card,rgba(255,255,255,.045));color:inherit;text-decoration:none;box-sizing:border-box;transition:border-color .2s,background .2s,transform .2s,box-shadow .2s;}
+    #hp-dex-app a.hp-dex-neighbor:hover,#hp-dex-app a.hp-dex-neighbor:focus-visible{transform:translateY(-2px);border-color:#e09711;background:rgba(224,151,17,.09);box-shadow:0 5px 20px rgba(224,151,17,.11);outline-offset:3px;}
+    #hp-dex-app .hp-dex-neighbor.next{justify-content:flex-end;text-align:right;}
+    #hp-dex-app .hp-dex-neighbor .hp-dex-neighbor-arrow{color:#e09711;flex:0 0 auto;font-size:22px;font-weight:800;}
+    #hp-dex-app .hp-dex-neighbor img{width:52px;height:52px;object-fit:contain;flex:0 0 52px;}
+    #hp-dex-app .hp-dex-neighbor .hp-dex-neighbor-copy{display:flex;flex-direction:column;min-width:0;gap:2px;}
+    #hp-dex-app .hp-dex-neighbor .hp-dex-neighbor-copy small{font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted,#9da9b9);}
+    #hp-dex-app .hp-dex-neighbor .hp-dex-neighbor-copy strong{font-size:14px;overflow-wrap:anywhere;}
+    #hp-dex-app .hp-dex-neighbor .hp-dex-neighbor-copy em{font-size:10px;font-style:normal;color:var(--muted,#9da9b9);}
+    #hp-dex-app .hp-dex-neighbor.is-unpublished{opacity:.64;cursor:default;}
+    #hp-dex-app #evoLine a.evonode{color:inherit;text-decoration:none;cursor:pointer;transition:transform .2s,border-color .2s,background .2s,box-shadow .2s;}
+    #hp-dex-app #evoLine a.evonode:hover,#hp-dex-app #evoLine a.evonode:focus-visible{transform:translateY(-4px);border-color:#e09711;background:rgba(224,151,17,.1);box-shadow:0 8px 22px rgba(224,151,17,.16);outline-offset:3px;}
+    #hp-dex-app #evoLine a.evonode:hover .evo-img{transform:scale(1.06);}
+    #hp-dex-app #evoLine a.evonode .evo-img{transition:transform .2s;}
+    #hp-dex-app #evoLine .evonode.evo-unpublished{opacity:.74;cursor:default;}
+    @media(max-width:560px){#hp-dex-app .hp-dex-neighbors{gap:8px;}#hp-dex-app .hp-dex-neighbor{padding:9px;gap:5px;min-height:64px;}#hp-dex-app .hp-dex-neighbor img{width:38px;height:38px;flex-basis:38px;}#hp-dex-app .hp-dex-neighbor .hp-dex-neighbor-copy strong{font-size:12px;}#hp-dex-app .hp-dex-neighbor .hp-dex-neighbor-copy small,#hp-dex-app .hp-dex-neighbor .hp-dex-neighbor-copy em{font-size:9px;}}
+    @media(prefers-reduced-motion:reduce){#hp-dex-app .hp-dex-neighbor,#hp-dex-app #evoLine a.evonode,#hp-dex-app #evoLine a.evonode .evo-img{transition:none;}}
+
+    /* Tabelas largas de movimentos devem rolar dentro da ficha no celular. */
+    #hp-dex-app #movimentos, #hp-dex-app #learncontent {min-width:0;max-width:100%;box-sizing:border-box;}
+    #hp-dex-app #learncontent {overflow-x:auto;-webkit-overflow-scrolling:touch;}
+    #hp-dex-app #learncontent .movetable {width:100%;min-width:630px;}
+
+    /* Correção pontual: cartões de navegação legíveis no modo claro */
+    #hp-dex-app[data-hp-nav-mode="light"] .hp-dex-neighbor {
+      background:#fffaf0;
+      border-color:#d7c6a7;
+      color:#262b35;
+      box-shadow:0 3px 12px rgba(51,37,17,.09);
+    }
+    #hp-dex-app[data-hp-nav-mode="light"] .hp-dex-neighbor .hp-dex-neighbor-copy small {color:#77531d;}
+    #hp-dex-app[data-hp-nav-mode="light"] .hp-dex-neighbor .hp-dex-neighbor-copy strong {color:#202630;}
+    #hp-dex-app[data-hp-nav-mode="light"] .hp-dex-neighbor .hp-dex-neighbor-copy em {color:#687383;}
+    #hp-dex-app[data-hp-nav-mode="light"] .hp-dex-neighbor.is-unpublished {
+      opacity:1;
+      background:#f6f4ef;
+      border-color:#d9d7d1;
+      box-shadow:none;
+    }
+    #hp-dex-app[data-hp-nav-mode="light"] a.hp-dex-neighbor:hover,
+    #hp-dex-app[data-hp-nav-mode="light"] a.hp-dex-neighbor:focus-visible {
+      background:#fff0cf;
+      border-color:#e09711;
+      box-shadow:0 6px 18px rgba(163,109,15,.16);
+    }
+  
