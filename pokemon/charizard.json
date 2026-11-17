@@ -34178,5 +34178,533 @@
       ],
       "date": "2026-11-17"
     }
+  },
+  "media_appearances": {
+    "title": "Aparições em outras mídias",
+    "lead": "Catálogo de aparições no anime, cinema, animações derivadas e mangás. Os números JP seguem a ordem de exibição japonesa; códigos de produção e a divisão em temporadas podem adotar outras convenções. Registros de menções, flashbacks e fantasias são identificados. Acervo em expansão.",
+    "anime": [
+      {
+        "jp_number": 25,
+        "season": "Kanto",
+        "description": "Charizard aparece rapidamente em uma lembrança de Ash relacionada ao concurso que lhe rendeu seu boné.",
+        "appearance": "Lembrança",
+        "title_pt": "Charizard em um comercial lembrado por Ash",
+        "title_en": "Primeape Goes Bananas",
+        "season_reference": 1,
+        "title_ja": "おこらないでねオコリザル！"
+      },
+      {
+        "jp_number": 46,
+        "season": "Kanto",
+        "description": "Charmeleon evolui para Charizard diante de Aerodactyl no desfiladeiro. A mudança marca o início da fase em que o Pokémon desafia as ordens de Ash.",
+        "appearance": "Aparição",
+        "episode_code": "EP046",
+        "title_pt": "O ataque dos Pokémon pré-históricos",
+        "title_en": "Attack of the Prehistoric Pokémon",
+        "title_ja": "ふっかつ！？かせきポケモン！",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/1/17/Ash_Charizard_newly_evolved.png/800px-Ash_Charizard_newly_evolved.png",
+          "alt": "Cena de Charizard no episódio 46"
+        },
+        "season_reference": 1
+      },
+      {
+        "jp_number": 56,
+        "season": "Kanto",
+        "description": "James recebe temporariamente um Charizard durante uma prova prática de conhecimentos e batalhas Pokémon.",
+        "appearance": "Aparição",
+        "title_pt": "O exame prático da Liga Pokémon",
+        "title_en": "The Ultimate Test",
+        "season_reference": 1,
+        "title_ja": "ポケモンけんていしけん！？"
+      },
+      {
+        "jp_number": 107,
+        "season": "Ilhas Laranja",
+        "description": "Depois de ser derrotado por Poliwrath, Charizard recebe os cuidados de Ash e finalmente reconhece o treinador, passando a obedecer a seus comandos.",
+        "appearance": "Aparição",
+        "episode_code": "EP105",
+        "title_pt": "Charizard finalmente obedece a Ash",
+        "title_en": "Charizard Chills",
+        "title_ja": "リザードン！きみにきめた！！",
+        "season_reference": 2,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/archive/9/97/20130312022719%21Ash_and_Charizard.png",
+          "alt": "Ash e Charizard em cena de aproximação"
+        }
+      },
+      {
+        "jp_number": 136,
+        "season": "Johto",
+        "description": "Ash conhece o Vale Charicífico e Liza, treinadora de Charla. Ao perceber quanto ainda precisa evoluir, Charizard permanece no vale para treinar com outros de sua espécie.",
+        "appearance": "Aparição",
+        "episode_code": "EP134",
+        "title_pt": "As ambições ardentes de Charizard",
+        "title_en": "Charizard’s Burning Ambitions",
+        "title_ja": "リザードンのたに！またあうひまで！！",
+        "season_reference": 3,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/0/0d/Liza_Ash_Charizard.png/800px-Liza_Ash_Charizard.png",
+          "alt": "Cena do Charizard de Ash no Vale Charicífico"
+        }
+      },
+      {
+        "jp_number": 162,
+        "season": "Johto",
+        "description": "Um Charizard participa de uma história contada pelo rádio. A aparição não corresponde a um combate de Ash.",
+        "appearance": "História",
+        "title_pt": "Charizard em uma história transmitida pelo rádio",
+        "season_reference": 4,
+        "title_ja": "ラジオとうのたたかい！じくうをこえて！！",
+        "title_en": "Air Time!"
+      },
+      {
+        "jp_number": 163,
+        "season": "Johto",
+        "description": "Em um segmento extra exibido no Japão, o Professor Carvalho acidentalmente pisa na cauda de Charizard e acaba recebendo uma rajada de fogo.",
+        "appearance": "Cena extra japonesa",
+        "title_pt": "Charizard em um segmento japonês",
+        "season_reference": 4
+      },
+      {
+        "jp_number": 166,
+        "season": "Johto",
+        "description": "O Noctowl de Ash usa Hipnose para fazer um Fearow acreditar que está diante de um Charizard ameaçador.",
+        "appearance": "Ilusão",
+        "title_pt": "Uma ilusão de Charizard",
+        "season_reference": 4,
+        "title_ja": "ポッポやのでんしょポッポ！",
+        "title_en": "Carrying On!"
+      },
+      {
+        "jp_number": 171,
+        "season": "Johto",
+        "description": "Um Charizard participa de um concurso de beleza Pokémon realizado em Vila Bonita.",
+        "appearance": "Aparição",
+        "title_pt": "Charizard em um concurso de beleza",
+        "season_reference": 4,
+        "title_ja": "さよならロコン！ポケモンビューティーコンテスト！！",
+        "title_en": "Beauty and the Breeder"
+      },
+      {
+        "jp_number": 205,
+        "season": "Johto",
+        "description": "Charizard é sugerido como alternativa de aparência mais intimidadora para o ator Brad Van Darn. O Pokémon é apenas mencionado como sugestão.",
+        "appearance": "Menção",
+        "title_pt": "Um papel mais ameaçador",
+        "season_reference": 4
+      },
+      {
+        "jp_number": 250,
+        "season": "Johto",
+        "description": "Uma integrante da Equipe Rocket utiliza um Charizard emprestado do Parque de Batalha em um plano contra Ash.",
+        "appearance": "Aparição",
+        "title_pt": "Charizard do Parque de Batalha",
+        "season_reference": 5
+      },
+      {
+        "jp_number": 338,
+        "season": "Hoenn",
+        "description": "Um coordenador inscreve um Charizard no Concurso Pokémon realizado em Verdanturf.",
+        "appearance": "Aparição",
+        "title_pt": "Charizard no Concurso de Verdanturf",
+        "season_reference": 7
+      },
+      {
+        "jp_number": 405,
+        "season": "Hoenn",
+        "description": "Clark utiliza Charizard ao lado de Quilava em uma Batalha em Dupla contra Grovyle e Glalie, de Ash, durante a Conferência de Ever Grande.",
+        "appearance": "Aparição",
+        "title_pt": "Charizard de Clark na Liga Hoenn",
+        "title_en": "Shocks and Bonds",
+        "season_reference": 8
+      },
+      {
+        "jp_number": 454,
+        "season": "Batalha da Fronteira",
+        "description": "Jessie recebe temporariamente um Charizard enviado por Delibird, mas o Pokémon havia sido destinado a outra dupla da Equipe Rocket.",
+        "appearance": "Aparição",
+        "title_pt": "O Charizard recebido pela Equipe Rocket",
+        "title_en": "Grating Spaces!",
+        "season_reference": 9
+      },
+      {
+        "jp_number": 928,
+        "season": "Kalos",
+        "description": "Trevor revela seu Charizard na Liga de Kalos e o megaevolui para Mega Charizard Y durante a batalha contra Alain, que responde com Mega Charizard X.",
+        "appearance": "Mega Evolução",
+        "title_pt": "Mega Charizard Y enfrenta Mega Charizard X",
+        "title_en": "A League of His Own!",
+        "season_reference": 19
+      },
+      {
+        "jp_number": 944,
+        "season": "Alola",
+        "description": "O Charizard de Kiawe surge como Pokémon de montaria. O treinador o herdou do avô e o utiliza para viajar entre as ilhas.",
+        "appearance": "Aparição",
+        "title_pt": "O Charizard de Kiawe",
+        "title_en": "Alola to New Adventure!",
+        "season_reference": 20
+      },
+      {
+        "jp_number": 985,
+        "season": "Alola",
+        "description": "Charizard aparece entre os Pokémon de Kanto lembrados pelos alunos da Escola Pokémon durante uma visita à região.",
+        "appearance": "Lembrança",
+        "title_pt": "Os Pokémon de Kanto",
+        "season_reference": 20
+      },
+      {
+        "jp_number": 1101,
+        "season": "Jornadas",
+        "description": "O Charizard de Leon enfrenta o Gyarados vermelho de Lance na final do Torneio Mundial da Coroação e assume sua forma Gigantamax.",
+        "appearance": "Gigantamax",
+        "episode_code": "JN012",
+        "title_pt": "O confronto dos titãs",
+        "title_en": "Flash of the Titans!",
+        "title_ja": "ダイマックスバトル！最強王者ダンデ！！",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/d/d2/Leon_Charizard_Power_Up_Fire_Blast_2.png",
+          "alt": "Cena de Charizard no episódio 1101"
+        },
+        "season_reference": 23
+      },
+      {
+        "jp_number": 1108,
+        "season": "Jornadas",
+        "description": "James imagina Ditto assumindo a forma de Charizard para proteger a Equipe Rocket. Não se trata de um Charizard real.",
+        "appearance": "Fantasia",
+        "title_pt": "Ditto imaginado como Charizard",
+        "season_reference": 23
+      },
+      {
+        "jp_number": 1113,
+        "season": "Jornadas",
+        "description": "Um Charizard está entre os Pokémon roubados por agentes da Equipe Rocket e posteriormente libertados pelos protagonistas.",
+        "appearance": "Aparição",
+        "title_pt": "Charizard entre os Pokémon capturados",
+        "season_reference": 23
+      },
+      {
+        "jp_number": 1116,
+        "season": "Jornadas",
+        "description": "Sonia imagina um Charizard Gigantamax enquanto explica os acontecimentos da Noite Negra e o fenômeno Dynamax.",
+        "appearance": "Fantasia",
+        "title_pt": "Charizard Gigantamax na Noite Negra",
+        "season_reference": 23
+      },
+      {
+        "jp_number": 1135,
+        "season": "Jornadas",
+        "description": "Charizard aparece rapidamente entre os Pokémon que voam na apresentação do episódio.",
+        "appearance": "Aparição breve",
+        "title_pt": "Charizard na apresentação",
+        "season_reference": 23
+      },
+      {
+        "jp_number": 1225,
+        "season": "Jornadas",
+        "description": "Um treinador acompanhado de Charizard é visto ao final do episódio, na cidade visitada por Ash, Goh e Chloe.",
+        "appearance": "Aparição breve",
+        "title_pt": "Um Charizard entre os treinadores",
+        "season_reference": 25
+      },
+      {
+        "jp_number": 1237,
+        "season": "Horizontes",
+        "description": "O Charizard de Friede aparece em batalha contra Ceruledge, de Amethio, protegendo Liko e iniciando uma participação recorrente na nova série.",
+        "appearance": "Aparição",
+        "title_pt": "A estreia do Charizard de Friede",
+        "title_en": "The Pendant That Starts It All (Part One)",
+        "season_reference": 26
+      },
+      {
+        "jp_number": 1327,
+        "season": "Horizontes",
+        "description": "Charizard é visto entre os Pokémon de treinadores presentes na Academia Índigo.",
+        "appearance": "Aparição breve",
+        "title_pt": "Charizard na Academia Índigo",
+        "season_reference": 28
+      },
+      {
+        "jp_number": 1328,
+        "season": "Horizontes",
+        "description": "Mega Charizard Y surge em uma explicação sobre Mega Evolução apresentada por Nidotina.",
+        "appearance": "Vídeo",
+        "title_pt": "Mega Charizard Y em vídeo explicativo",
+        "season_reference": 28
+      },
+      {
+        "jp_number": 1335,
+        "season": "Horizontes",
+        "description": "Mega Charizard X aparece em uma cena adicional de conteúdo dedicado à Mega Evolução.",
+        "appearance": "Cena extra japonesa",
+        "title_pt": "Mega Charizard X em cena extra",
+        "season_reference": 28
+      },
+      {
+        "jp_number": 1336,
+        "season": "Horizontes",
+        "description": "Mega Charizard Y participa de um segmento extra, sobrevoando a região com Nidotina.",
+        "appearance": "Cena extra japonesa",
+        "title_pt": "Mega Charizard Y em voo",
+        "season_reference": 28
+      },
+      {
+        "jp_number": 1358,
+        "season": "Horizontes",
+        "description": "Friede revela que seu Charizard também pode megaevoluir para Mega Charizard Y, utilizando a transformação para viajar rapidamente.",
+        "appearance": "Mega Evolução",
+        "title_pt": "A Mega Evolução do Charizard de Friede",
+        "title_en": "Roy vs. Friede: Wings of Fire!",
+        "season_reference": 28
+      },
+      {
+        "jp_number": 1377,
+        "season": "Horizontes",
+        "description": "Uma silhueta de Charizard aparece entre os Pokémon relacionados a combates de Pokémon UNITE.",
+        "appearance": "Silhueta",
+        "title_pt": "Charizard em silhueta",
+        "season_reference": 29
+      }
+    ],
+    "films": [
+      {
+        "code": "P01",
+        "title": "Pokémon: O Filme — Mewtwo Contra-Ataca",
+        "description": "Um Charizard clonado por Mewtwo enfrenta o Charizard de Ash no confronto entre Pokémon originais e clones.",
+        "year": 1998
+      },
+      {
+        "code": "P07",
+        "title": "Pokémon: Alma Gêmea",
+        "description": "Um Charizard selvagem aparece na sequência de abertura, utilizando um ataque de fogo.",
+        "year": 2004
+      },
+      {
+        "code": "P08",
+        "title": "Pokémon: Lucario e o Mistério de Mew",
+        "description": "Vários Charizard participam de um conflito entre exércitos Pokémon retratado na história do castelo de Cameran.",
+        "year": 2005
+      },
+      {
+        "code": "P17",
+        "title": "Pokémon: Diancie e o Casulo da Destruição",
+        "description": "Mega Charizard X aparece na abertura do filme; Mega Charizard Y também é mostrado nos créditos.",
+        "year": 2014
+      },
+      {
+        "code": "P20",
+        "title": "Pokémon: Eu Escolho Você!",
+        "description": "Em uma continuidade alternativa, Charmander foi abandonado por Cross. Com Ash, evolui até Charizard e enfrenta o Incineroar de seu antigo treinador.",
+        "year": 2017
+      },
+      {
+        "code": "P22",
+        "title": "Pokémon: Mewtwo Contra-Ataca — Evolução",
+        "description": "A história do confronto entre Pokémon originais e clones é revisitada em animação 3D, incluindo a presença de Charizard.",
+        "year": 2019,
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/Charizard_Clone_M22.png/800px-Charizard_Clone_M22.png",
+          "alt": "Charizard clonado em Mewtwo Contra-Ataca: Evolução"
+        }
+      },
+      {
+        "code": "DETECTIVE-PIKACHU",
+        "title": "Pokémon: Detetive Pikachu",
+        "description": "Charizard é o parceiro de Sebastian no circuito de batalhas subterrâneas de Ryme City e enfrenta Pikachu.",
+        "year": 2019,
+        "category": "Live-action"
+      }
+    ],
+    "animations": [
+      {
+        "code": "PO03",
+        "title": "Pokémon Origins — File 3: Giovanni",
+        "description": "O Charizard de Red aparece como resultado da evolução do Pokémon inicial recebido do Professor Carvalho.",
+        "year": 2013
+      },
+      {
+        "code": "PO04",
+        "title": "Pokémon Origins — File 4: Charizard",
+        "description": "Red megaevolui seu Charizard para Mega Charizard X durante o confronto contra Mewtwo.",
+        "year": 2013
+      },
+      {
+        "code": "GEN18",
+        "title": "Pokémon Generations — The Redemption",
+        "description": "Charizard participa da celebração da vitória de Calem como Campeão de Kalos.",
+        "year": 2016
+      },
+      {
+        "code": "PAC07",
+        "title": "Pokémon: Twilight Wings — Sky",
+        "description": "O Charizard Gigantamax de Leon aparece em um combate importante da região de Galar.",
+        "year": 2020
+      },
+      {
+        "code": "TOON03",
+        "title": "POKÉTOON — episódio 3",
+        "description": "Um Charizard aparece como Pokémon de estimação de um pai, ajudando na ambientação familiar da história.",
+        "year": 2021
+      },
+      {
+        "code": "EVO01",
+        "title": "Pokémon Evolutions — The Champion",
+        "description": "Leon utiliza Charizard durante o confronto envolvendo Eternatus em Galar.",
+        "year": 2021
+      },
+      {
+        "code": "EVO08",
+        "title": "Pokémon Evolutions — The Discovery",
+        "description": "O Charizard de Red aparece brevemente ao lado do treinador na narrativa de Kanto.",
+        "year": 2021
+      },
+      {
+        "code": "PMC02",
+        "title": "Pokémon Music Collective — vídeo 2",
+        "description": "Charizard participa de um vídeo musical relacionado ao projeto Pokémon Music Collective.",
+        "category": "Videoclipe"
+      },
+      {
+        "code": "AP02",
+        "title": "Acampando com Pokémon — episódio 2",
+        "description": "O Charmeleon do chef evolui para Charizard durante a história.",
+        "category": "Curta"
+      },
+      {
+        "code": "MIRAI",
+        "title": "Project VOLTAGE — Mirai Donna Darō",
+        "description": "Charizard aparece como um dos Pokémon associados à apresentação musical de Hatsune Miku.",
+        "category": "Videoclipe"
+      },
+      {
+        "code": "GOT-YOU",
+        "title": "Project VOLTAGE — GOT YOU!",
+        "description": "Um Charmander apresentado no videoclipe aparece evoluído como Charizard na sequência final.",
+        "category": "Videoclipe"
+      }
+    ],
+    "manga": [
+      {
+        "code": "PMS027",
+        "title": "Pokémon Adventures — Red, Green & Blue",
+        "description": "O Pokémon inicial de Blue, recebido como Charmander, chega à forma Charizard e torna-se um de seus principais parceiros."
+      },
+      {
+        "code": "PMS150",
+        "title": "Pokémon Adventures — Gold & Silver",
+        "description": "Charizard é citado pelo presidente da Associação Pokémon; trata-se de uma menção, não de uma cena com a espécie."
+      },
+      {
+        "code": "PMS323",
+        "title": "Pokémon Adventures — Emerald",
+        "description": "O Charizard de Tucker é utilizado em uma batalha contra Emerald na instalação de combate."
+      },
+      {
+        "code": "PMS589",
+        "title": "Pokémon Adventures — X & Y",
+        "description": "Salamè, o Pokémon de X, evolui para Charizard durante a batalha contra as forças de Xerosic e pode assumir Mega Charizard X."
+      },
+      {
+        "code": "PMSSM17",
+        "title": "Pokémon Adventures — Sun & Moon",
+        "description": "Hau imagina um Charizard enquanto pensa nas modalidades de deslocamento e montaria disponíveis em Alola."
+      },
+      {
+        "code": "PMSSM37",
+        "title": "Pokémon Adventures — Sun & Moon",
+        "description": "Kiawe utiliza Charizard como Pokémon de montaria."
+      },
+      {
+        "code": "PMSSwSh02",
+        "title": "Pokémon Adventures — Sword & Shield",
+        "description": "O Charizard de Leon ajuda a retirar Wooloo de uma linha férrea."
+      },
+      {
+        "code": "PMSSwSh26",
+        "title": "Pokémon Adventures — Sword & Shield",
+        "description": "Leon utiliza Charizard Gigantamax em um confronto com Pokémon afetados pelo fenômeno Dynamax."
+      },
+      {
+        "code": "MP01",
+        "title": "Adaptação em mangá — Mewtwo Contra-Ataca",
+        "description": "A adaptação apresenta o Charizard da Equipe Rocket e outro associado aos Pokémon clonados de Mewtwo."
+      },
+      {
+        "code": "MP20",
+        "title": "Adaptação em mangá — Eu Escolho Você!",
+        "description": "Charmeleon evolui para Charizard para enfrentar o Incineroar de Cross.",
+        "image": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/0/00/Ash_Charizard_M20_manga.png/1200px-Ash_Charizard_M20_manga.png",
+          "alt": "Charizard de Ash no mangá do filme Eu Escolho Você!"
+        }
+      },
+      {
+        "code": "MP22",
+        "title": "Adaptação em mangá — Mewtwo Contra-Ataca: Evolução",
+        "description": "Charizard aparece junto aos Pokémon dos protagonistas e à contraparte clonada de Mewtwo."
+      },
+      {
+        "code": "PV001",
+        "title": "Pokémon Journeys — mangá, capítulo 1",
+        "description": "O Charizard de Ash aparece em uma lembrança de suas aventuras anteriores."
+      },
+      {
+        "code": "PV004",
+        "title": "Pokémon Journeys — mangá, capítulo 4",
+        "description": "O Charizard de Leon enfrenta o Gyarados vermelho de Lance."
+      },
+      {
+        "code": "LNT01",
+        "title": "Pokémon Horizons — adaptação, capítulo 1",
+        "description": "Friede utiliza Charizard para proteger Liko de Ceruledge."
+      },
+      {
+        "code": "HP01",
+        "title": "Pokémon Horizons — adaptação, capítulo 1",
+        "description": "O Charizard de Friede protege Liko e Sprigatito."
+      },
+      {
+        "code": "PPM005",
+        "title": "Pokémon Pocket Monsters — capítulo 5",
+        "description": "O Charmander de Kai Midorikawa evolui para Charizard durante um combate."
+      },
+      {
+        "code": "ETP07",
+        "title": "The Electric Tale of Pikachu — capítulo 7",
+        "description": "Um samurai imagina Charizard ao ouvir sobre a Vila Oculta."
+      },
+      {
+        "code": "ETP12",
+        "title": "The Electric Tale of Pikachu — capítulo 12",
+        "description": "O Charizard de Ash aparece como opção para a Liga Índigo."
+      },
+      {
+        "code": "ETP13",
+        "title": "The Electric Tale of Pikachu — capítulo 13",
+        "description": "Zippo, o Charizard de Ritchie, enfrenta a equipe de Ash."
+      },
+      {
+        "code": "GB19",
+        "title": "Pokémon Gold & Silver: The Golden Boys — capítulo 19",
+        "description": "Um Charizard pertencente a um treinador desconhecido é mostrado enfrentando Lugia."
+      },
+      {
+        "code": "PMM003",
+        "title": "Pokémon Mystery Dungeon: Ginji’s Rescue Team — capítulo 3",
+        "description": "Charizard participa do grupo convocado por Gengar para deter Ginji e Mudkip."
+      },
+      {
+        "code": "PMZ08",
+        "title": "Pokémon Zensho — capítulo 8",
+        "description": "O Charmeleon de Satoshi evolui para Charizard após derrotar o Arcanine de Blaine."
+      },
+      {
+        "code": "DTWN30-05",
+        "title": "Pokémon: Diamond and Pearl Adventure! — extra",
+        "description": "Um Charizard aparece na cidade acompanhado de seu treinador."
+      }
+    ]
   }
 }
