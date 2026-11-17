@@ -26,6 +26,31 @@
     "female": 12.5
   },
   "growth_rate": "Médio-lento",
+  "morphology": {
+    "body_shape": {
+      "label": "Formato corporal",
+      "slug": "body-shape",
+      "name": "Bípede ereto, com asas",
+      "official_category": "Pokémon com forma bípede e cauda",
+      "description": "Charizard tem postura bípede, corpo reptiliano, cauda longa e asas funcionais. Na classificação de formato corporal da Pokédex, ele pertence ao grupo de Pokémon com forma bípede e cauda.",
+      "icon": {
+        "name": "Body06.png",
+        "url": "https://archives.bulbagarden.net/wiki/Special:Redirect/file/Body06.png",
+        "alt": "Ícone do formato corporal de Charizard"
+      }
+    },
+    "footprint": {
+      "label": "Pegada da Pokédex",
+      "slug": "footprint",
+      "name": "Pegada de Charizard",
+      "description": "Ilustração da pegada de Charizard registrada na Pokédex. O desenho clássico existe nas gerações III, IV e V, com versão refeita nos remakes de Brilliant Diamond e Shining Pearl.",
+      "icon": {
+        "name": "F0006.png",
+        "url": "https://archives.bulbagarden.net/wiki/Special:Redirect/file/F0006.png",
+        "alt": "Ilustração da pegada de Charizard"
+      }
+    }
+  },
   "records": {
     "rb": {
       "game_name": "Pokémon Red / Blue",
@@ -33074,7 +33099,7 @@
     "status": "partial",
     "generation": "base de dados versionada CSV pokemon_moves.csv + moves.csv + machines.csv + items.csv + move_changelog.csv; Z-A com learnset próprio",
     "unresolved_machines": [],
-    "notes": "Aprovação editorial das 36 edições registrada; a verificação factual integral de todas as regras históricas de reprodução, transferência e obtenção ainda não foi concluída. Mega Charizard X/Y e Gigantamax são formas temporárias, não espécies evolutivas independentes.",
+    "notes": "Aprovação editorial das 36 edições registrada; a verificação factual integral de todas as regras históricas de reprodução, transferência e obtenção ainda não foi concluída. Mega Charizard X/Y e Gigantamax são formas temporárias, não espécies evolutivas independentes. Revisão V29: adicionados os blocos de formato corporal e pegada da Pokédex para a seção de Reprodução e características.",
     "review_date": "2026-11-17",
     "revision_scope": "V15: Fraqueza Gelo 2× corrigida nos registros RB e Yellow; divergências internas de propriedades na mesma geração analisadas, Solar Beam 200 em LGPE mantido; Rest em LGPE corrigido para 10 PP na V23, conforme fontes específicas; demais métodos permanecem parciais.",
     "pending_verification": [
@@ -33487,7 +33512,7 @@
       "structural_errors": [],
       "scope": "verificação de TM/nome nas linhas visíveis dos catálogos históricos, sem afirmar conferência completa"
     },
-    "last_revision": "V28 — Complementação factual: defesas de Mega Charizard Y (11 edições); atributos, altura e efeito de Gigantamax (Sword/Shield); registro histórico de Tera Raid para Charizard (Scarlet/Violet); conferência específica de 61 entradas de movimentos de Legends: Z-A. Estrutura dos 2.623 movimentos intacta; sem divulgação de fontes externas.",
+    "last_revision": "V29",
     "v15_type_chart_correction": {
       "status": "verified_partial",
       "changes": [
