@@ -89,7 +89,7 @@
   },
   "spin_off_games": {
     "title": "Além dos jogos principais",
-    "lead": "Participações confirmadas de Charizard em jogos derivados da franquia Pokémon, com foco em onde ele aparece e como funciona em cada experiência.",
+    "lead": "Participações confirmadas de Charizard em jogos derivados da franquia Pokémon, com foco em onde ele aparece, como funciona e de que forma pode ser obtido em cada experiência.",
     "entries": [
       {
         "game": "Pokkén Tournament",
@@ -151,8 +151,8 @@
         "year": 2021,
         "category": "Puzzle e gestão",
         "icon": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/Caf%C3%A9_ReMix_Customer_Charizard.png/640px-Caf%C3%A9_ReMix_Customer_Charizard.png",
-          "alt": "Arte de Charizard em Pokémon Café ReMix"
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/e/ed/Caf%C3%A9ReMix0006.png/70px-Caf%C3%A9ReMix0006.png",
+          "alt": "Ícone de Charizard em Pokémon Café ReMix"
         },
         "description": "No café, Charizard trabalha como Pokémon de equipe e se destaca em pedidos com foco em Entrées, além de possuir variantes especiais com outras especialidades.",
         "obtaining": "Pode entrar na equipe por Delivery, eventos temáticos ou passes especiais, conforme a versão do Charizard disponível em cada período."
@@ -189,6 +189,138 @@
         },
         "description": "Em Sleep, Charizard pode ser estudado em diferentes estilos de sono e ainda servir como ajudante, contribuindo com ingredientes e sua habilidade principal.",
         "obtaining": "Pode aparecer em Greengrass Isle, Taupe Hollow e Amber Canyon conforme o progresso do Snorlax. Depois de fazer amizade com ele, Charizard pode integrar sua equipe."
+      },
+      {
+        "game": "Pokémon Pinball",
+        "year": 1999,
+        "category": "Pinball",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/0/07/Pin006.png",
+          "alt": "Ícone de Charizard em Pokémon Pinball"
+        },
+        "description": "Em Pokémon Pinball, Charizard aparece como parte da linha evolutiva de Charmander e entra no Pokédex do jogo como uma evolução importante dentro da progressão da mesa.",
+        "obtaining": "É obtido por evolução. Para registrar Charizard, o jogador precisa evoluir Charmeleon durante a partida."
+      },
+      {
+        "game": "Pokémon Trozei!",
+        "year": 2005,
+        "category": "Puzzle",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/b/b7/Trozeiani006.png",
+          "alt": "Ícone de Charizard em Pokémon Trozei!"
+        },
+        "description": "No puzzle Pokémon Trozei!, Charizard aparece como uma peça rara do elenco e integra o conjunto de Pokémon que podem ser combinados e registrados.",
+        "obtaining": "Sua raridade é classificada como rara, então ele aparece como um encontro mais especial dentro do jogo."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
+        "year": 2005,
+        "category": "Dungeon RPG",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/c/c6/MDP_RT_006.png",
+          "alt": "Retrato de Charizard em Pokémon Mystery Dungeon"
+        },
+        "description": "Na série Mystery Dungeon, Charizard pode atuar como aliado nas expedições, usando seus golpes de fogo em batalhas por turnos dentro das dungeons.",
+        "obtaining": "Pode entrar para a equipe por recrutamento ou pela evolução da própria linha de Charmander, conforme o progresso do jogador."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness / Sky",
+        "year": 2007,
+        "category": "Dungeon RPG",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/c/c6/MDP_RT_006.png",
+          "alt": "Retrato de Charizard em Pokémon Mystery Dungeon"
+        },
+        "description": "Nos jogos Explorers, Charizard continua aparecendo como um Pokémon recrutável e voltado para combate ofensivo em equipes de exploração.",
+        "obtaining": "Pode ser recrutado em dungeons específicas do pós-jogo ou obtido pela evolução da família de Charmander, dependendo da jornada do jogador."
+      },
+      {
+        "game": "PokéPark Wii: Pikachu’s Adventure",
+        "year": 2009,
+        "category": "Aventura",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/6/65/PPW006.png",
+          "alt": "Arte de Charizard em PokéPark Wii"
+        },
+        "description": "Em PokéPark Wii, Charizard aparece como um dos Pokémon encontrados no parque, ligado a encontros importantes dentro da aventura de Pikachu.",
+        "obtaining": "Não é obtido como parceiro fixo. Ele aparece como personagem do mundo do jogo e é encontrado durante a exploração do parque."
+      },
+      {
+        "game": "PokéPark 2: Wonders Beyond",
+        "year": 2011,
+        "category": "Aventura",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/6/65/PPW006.png",
+          "alt": "Arte de Charizard em PokéPark 2"
+        },
+        "description": "No segundo PokéPark, Charizard volta a aparecer como parte do elenco do parque, mantendo presença em encontros e situações ligadas à exploração.",
+        "obtaining": "Assim como no primeiro jogo, ele não é capturado para a equipe principal: faz parte dos personagens encontrados ao longo da aventura."
+      },
+      {
+        "game": "Pokémon Conquest",
+        "year": 2012,
+        "category": "Estratégia tática",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/5/5e/PCP006.png",
+          "alt": "Ícone de Charizard em Pokémon Conquest"
+        },
+        "description": "Em Pokémon Conquest, Charizard participa das batalhas em grade do reino de Ransei, servindo como opção ofensiva de fogo em combates estratégicos.",
+        "obtaining": "Pode ser usado por guerreiros compatíveis após ligação com a espécie, além de poder surgir pela evolução da linha de Charmander."
+      },
+      {
+        "game": "Pokémon Picross",
+        "year": 2015,
+        "category": "Puzzle",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/7/71/Charizard_Pok%C3%A9mon_Picross.png/64px-Charizard_Pok%C3%A9mon_Picross.png",
+          "alt": "Ícone de Charizard em Pokémon Picross"
+        },
+        "description": "No game de nonogramas, Charizard aparece como um dos Pokémon desbloqueáveis, contribuindo com habilidades úteis para resolver quebra-cabeças.",
+        "obtaining": "É obtido ao completar o painel correspondente do Pokémon dentro da progressão do jogo."
+      },
+      {
+        "game": "Pokémon GO",
+        "year": 2016,
+        "category": "Realidade aumentada",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/7/75/GO0006.png/100px-GO0006.png",
+          "alt": "Modelo de Charizard em Pokémon GO"
+        },
+        "description": "Em Pokémon GO, Charizard é um Pokémon de combate e coleção, com uso frequente em raids, batalhas e eventos especiais, incluindo Mega Evolução e Gigantamax em contextos próprios do jogo.",
+        "obtaining": "Normalmente é obtido ao evoluir Charmander com doces, mas também pode surgir em raids, pesquisas, eventos e encontros especiais, dependendo da temporada."
+      },
+      {
+        "game": "Pokémon: Magikarp Jump",
+        "year": 2017,
+        "category": "Idle e suporte",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/5/57/Magikarp_Jump_Charcoal.png/55px-Magikarp_Jump_Charcoal.png",
+          "alt": "Representação de Charizard em Pokémon: Magikarp Jump"
+        },
+        "description": "Em Magikarp Jump, Charizard aparece de forma indireta por meio do item de apoio Charcoal, ligado ao universo e à identidade da espécie.",
+        "obtaining": "O elemento associado a Charizard é desbloqueado como item de suporte dentro do sistema de progressão e melhorias do jogo."
+      },
+      {
+        "game": "Pokémon Rumble Rush",
+        "year": 2019,
+        "category": "Ação",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/thumb/8/82/Rush006Body.png/80px-Rush006Body.png",
+          "alt": "Modelo de Charizard em Pokémon Rumble Rush"
+        },
+        "description": "No spin-off de ação Rumble Rush, Charizard aparece em batalhas rápidas contra vários inimigos, mantendo o estilo de brinquedo típico da série Rumble.",
+        "obtaining": "Pode ser encontrado nas fases e expedições do jogo, entrando no conjunto de Pokémon disponíveis conforme o avanço nas ilhas e áreas especiais."
+      },
+      {
+        "game": "Pokémon Pokopia",
+        "year": 2007,
+        "category": "Minigames",
+        "icon": {
+          "url": "https://archives.bulbagarden.net/media/upload/a/ab/Menu_Pokopia_0006.png",
+          "alt": "Ícone de Charizard em Pokémon Pokopia"
+        },
+        "description": "Em Pokémon Pokopia, Charizard integra o elenco visual e funcional do modo, aparecendo como uma das espécies associadas aos minigames e à ambientação do jogo.",
+        "obtaining": "Sua presença está vinculada ao conteúdo próprio de Pokopia, sendo acessada dentro do conjunto de atividades e menus desse modo."
       }
     ]
   },
