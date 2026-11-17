@@ -1662,7 +1662,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 5
+            "pp": 5,
+            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Beat Up",
@@ -1672,7 +1673,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Belly Drum",
@@ -1708,7 +1709,8 @@
             "category": "Físico",
             "power": 75,
             "accuracy": 90,
-            "pp": 10
+            "pp": 10,
+            "note": "Na geração II, o golpe pode ser herdado por reprodução; existe também rota de herança a partir de um progenitor com o golpe obtido na geração I, sujeita à compatibilidade de troca."
           }
         ],
         "tutor": [],
@@ -1716,7 +1718,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -2346,7 +2348,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 5
+            "pp": 5,
+            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Beat Up",
@@ -2356,7 +2359,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Belly Drum",
@@ -2392,7 +2395,8 @@
             "category": "Físico",
             "power": 75,
             "accuracy": 90,
-            "pp": 10
+            "pp": 10,
+            "note": "Na geração II, o golpe pode ser herdado por reprodução; existe também rota de herança a partir de um progenitor com o golpe obtido na geração I, sujeita à compatibilidade de troca."
           }
         ],
         "tutor": [],
@@ -2400,7 +2404,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 3. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -3030,7 +3034,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 5
+            "pp": 5,
+            "note": "Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Beat Up",
@@ -3040,7 +3045,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração II, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Belly Drum",
@@ -3076,7 +3081,8 @@
             "category": "Físico",
             "power": 75,
             "accuracy": 90,
-            "pp": 10
+            "pp": 10,
+            "note": "Na geração II, o golpe pode ser herdado por reprodução; existe também rota de herança a partir de um progenitor com o golpe obtido na geração I, sujeita à compatibilidade de troca."
           }
         ],
         "tutor": [
@@ -3094,7 +3100,7 @@
         "other": [],
         "evolution": []
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 4. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 4. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Observação de obtenção: Crunch pode ser conservado de Charmeleon ao evoluir; isso não é um golpe aprendido automaticamente ao evoluir Charizard.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "checked_previous_round",
@@ -3663,7 +3669,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 5
+            "pp": 5,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Beat Up",
@@ -3673,7 +3680,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Belly Drum",
@@ -3727,7 +3734,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 30
+            "pp": 30,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           }
         ],
         "tutor": [],
@@ -4304,7 +4312,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 5
+            "pp": 5,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Beat Up",
@@ -4314,7 +4323,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Belly Drum",
@@ -4368,7 +4377,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 30
+            "pp": 30,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           }
         ],
         "tutor": [],
@@ -4945,7 +4955,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 5
+            "pp": 5,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Beat Up",
@@ -4955,7 +4966,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Belly Drum",
@@ -5009,7 +5020,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 30
+            "pp": 30,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           }
         ],
         "tutor": [
@@ -5777,7 +5789,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 5
+            "pp": 5,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Beat Up",
@@ -5787,7 +5800,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Belly Drum",
@@ -5841,7 +5854,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 30
+            "pp": 30,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           }
         ],
         "tutor": [
@@ -6528,7 +6542,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 5
+            "pp": 5,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Beat Up",
@@ -6538,7 +6553,7 @@
             "power": 10,
             "accuracy": 100,
             "pp": 10,
-            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante."
+            "note": "Nas gerações II–IV, cada golpe de Beat Up tem poder base 10 e dano sem tipo; o cálculo usa os atributos do Pokémon da equipe que executa cada golpe. A partir da geração V, o poder varia segundo o Ataque base de cada integrante. Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           },
           {
             "name": "Belly Drum",
@@ -6592,7 +6607,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 30
+            "pp": 30,
+            "note": "Na geração III, a obtenção deste golpe por reprodução exige cruzamentos em cadeia (chain breeding)."
           }
         ],
         "tutor": [
@@ -24671,13 +24687,19 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Via Route 24 — presente; Routes 3/4 e Rock Tunnel — aparição rara (Evolução a partir de Charmander / Charmeleon). Para obter Charizard, evolua Charmander ao nível 16 e Charmeleon ao nível 36. Consulte abaixo as condições e limitações desta edição.",
+      "obtaining": "Via Route 24 — presente; Routes 3/4 e Rock Tunnel — aparição rara (Evolução a partir de Charmander / Charmeleon). Para obter Charizard, evolua Charmander ao nível 16 e Charmeleon ao nível 36. Consulte abaixo as condições e limitações desta edição. Também é possível capturar Charizard selvagem diretamente após tornar-se Campeão, como aparição aérea rara em rotas de Kanto.",
       "encounters": [
         {
           "pokemon": "Charizard",
           "location": "Route 24 — presente; Routes 3/4 e Rock Tunnel — aparição rara",
           "method": "Evolução a partir de Charmander / Charmeleon",
           "details": "Rota documentada para obter Charmander: Na Route 24, ao norte de Cerulean City, converse com o treinador que oferece Charmander após você ter capturado pelo menos 50 Pokémon. Outra opção é procurar Charmander selvagem como spawn raro nas Routes 3 e 4 ou no Rock Tunnel; Lures e cadeias de captura favorecem aparições raras. Depois, evolua Charmander para Charmeleon no nível 16 e Charmeleon para Charizard no nível 36. Esta descrição é uma rota por evolução, não uma afirmação de captura selvagem direta de Charizard."
+        },
+        {
+          "pokemon": "Charizard",
+          "location": "Céu das Routes 1–4, 6–19 e 21–25 de Kanto",
+          "method": "Captura selvagem direta — aparição aérea rara no pós-jogo",
+          "details": "Após vencer a Elite Four e tornar-se Campeão, use um Pokémon montável capaz de voar alto, como Charizard, Aerodactyl ou Dragonite, para procurar Charizard selvagem no céu das rotas em que aparecem Pokémon aéreos. É uma aparição rara, não garantida."
         }
       ],
       "moves_by_method": {
@@ -24881,7 +24903,7 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 5,
+            "pp": 10,
             "machine": "TM05"
           },
           {
@@ -25351,13 +25373,19 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Via Route 24 — presente; Routes 3/4 e Rock Tunnel — aparição rara (Evolução a partir de Charmander / Charmeleon). Para obter Charizard, evolua Charmander ao nível 16 e Charmeleon ao nível 36. Consulte abaixo as condições e limitações desta edição.",
+      "obtaining": "Via Route 24 — presente; Routes 3/4 e Rock Tunnel — aparição rara (Evolução a partir de Charmander / Charmeleon). Para obter Charizard, evolua Charmander ao nível 16 e Charmeleon ao nível 36. Consulte abaixo as condições e limitações desta edição. Também é possível capturar Charizard selvagem diretamente após tornar-se Campeão, como aparição aérea rara em rotas de Kanto.",
       "encounters": [
         {
           "pokemon": "Charizard",
           "location": "Route 24 — presente; Routes 3/4 e Rock Tunnel — aparição rara",
           "method": "Evolução a partir de Charmander / Charmeleon",
           "details": "Rota documentada para obter Charmander: Na Route 24 ao norte de Cerulean City, fale com o treinador que entrega Charmander se você já capturou pelo menos 50 Pokémon. Também pode encontrar Charmander selvagem raramente nas Routes 3 e 4 ou no Rock Tunnel; use Lures e catch combos para melhorar as chances. Depois, evolua Charmander para Charmeleon no nível 16 e Charmeleon para Charizard no nível 36. Esta descrição é uma rota por evolução, não uma afirmação de captura selvagem direta de Charizard."
+        },
+        {
+          "pokemon": "Charizard",
+          "location": "Céu das Routes 1–4, 6–19 e 21–25 de Kanto",
+          "method": "Captura selvagem direta — aparição aérea rara no pós-jogo",
+          "details": "Após vencer a Elite Four e tornar-se Campeão, use um Pokémon montável capaz de voar alto, como Charizard, Aerodactyl ou Dragonite, para procurar Charizard selvagem no céu das rotas em que aparecem Pokémon aéreos. É uma aparição rara, não garantida."
         }
       ],
       "moves_by_method": {
@@ -25561,7 +25589,7 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 5,
+            "pp": 10,
             "machine": "TM05"
           },
           {
@@ -26853,7 +26881,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -27886,7 +27914,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 20. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -28742,7 +28770,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -29607,7 +29635,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 23. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Os códigos TM01–TM100 foram normalizados para Brilliant Diamond/Shining Pearl; compatibilidade individual e demais detalhes continuam em auditoria. Golpes de ovo da linha evolutiva incluídos nesta revisão a partir de tabelas por edição; a reprodução gera Charmander, não Charizard. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -30597,7 +30625,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -31569,7 +31597,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente.",
+      "learnset_notes": "Golpes importados do dataset Pokémon/6 da PokéAPI pelo grupo de versão 25. Números TM/HM/TR verificados pelo identificador de item em machines.csv; valores antigos restaurados por move_changelog.csv, divisão físico/especial histórica respeitada. Auditoria editorial manual pendente. Em Scarlet/Violet, um golpe de ovo compatível pode ser ensinado durante um piquenique com Mirror Herb, espaço livre entre os quatro golpes e outro Pokémon que conheça o golpe; nesse procedimento, não é necessário compartilhar grupo de ovos. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -32374,7 +32402,7 @@
         "tutor": [],
         "tr": []
       },
-      "learnset_notes": "Legends: Z-A: níveis e TM com recarga própria do combate em tempo real. Air Slash e Fire Blast são golpes aprendidos na evolução. Valores PLUS e alguns TMs da expansão ainda não auditados integralmente. Valores de recarga e learnsets de Legends: Z-A ainda exigem validação individual; não são dados homologados.",
+      "learnset_notes": "Legends: Z-A: níveis e TM com recarga própria do combate em tempo real. Air Slash e Fire Blast são golpes aprendidos na evolução. Valores PLUS e alguns TMs da expansão ainda não auditados integralmente. Valores de recarga e learnsets de Legends: Z-A ainda exigem validação individual; não são dados homologados. TMs 146 (Skull Bash), 154 (Fissure) e 158 (Blast Burn): compatibilidade confirmada; esses TMs pertencem à expansão Mega Dimension. Transferência via Pokémon HOME: a disponibilidade do Pokémon no jogo de destino e a compatibilidade dos movimentos devem ser verificadas; o conjunto de golpes pode ser substituído ou ajustado ao entrar em outro jogo.",
       "last_review": "17/11/2026 (auditoria técnica parcial)",
       "level_up_audit": {
         "status": "signature_sample_checked",
@@ -33157,6 +33185,95 @@
       ],
       "scope": "Tutor move inventory in Generations II-V; later-generation tutors and transfers remain pending",
       "date": "2026-11-17"
+    },
+    "v20_content_validation_2026_11_17": {
+      "status": "partial_reference_verified",
+      "scope": "Validação externa direcionada + testes estruturais integrais; NÃO equivale à certificação individual das 2.623 entradas.",
+      "games_checked_structurally": 36,
+      "move_entry_counts": {
+        "level": 604,
+        "tm": 1438,
+        "egg": 344,
+        "tutor": 179,
+        "tr": 44,
+        "evolution": 14,
+        "other": 0
+      },
+      "version_paired_checks": 15,
+      "level_up_exactly_crosschecked": {
+        "rb": 10,
+        "gold": 13,
+        "ruby": 13,
+        "sword": 15,
+        "brilliant-diamond": 15,
+        "scarlet": 14,
+        "za": 12
+      },
+      "za_tm_code_and_name_pairs_checked": 47,
+      "za_tm_cooldowns_checked": 47,
+      "obtaining_spot_checks": [
+        "ultra-sun",
+        "ultra-moon",
+        "scarlet",
+        "violet",
+        "za"
+      ],
+      "not_fully_verified": [
+        "TM/HM/TR de todas as demais edições",
+        "golpes de ovo em todas as gerações",
+        "tutores por edição e restrições",
+        "obtenção e transferências edição a edição",
+        "valores PLUS em Legends: Z-A"
+      ],
+      "external_sources": [
+        "https://pokemondb.net/pokedex/charizard/moves/1",
+        "https://pokemondb.net/pokedex/charizard/moves/2",
+        "https://pokemondb.net/pokedex/charizard/moves/3",
+        "https://pokemondb.net/pokedex/charizard/moves/8",
+        "https://pokemondb.net/pokedex/charizard/moves/9",
+        "https://rotomlabs.net/dex/legends-z-a/charizard",
+        "https://www.pokemon.com/uk/news/get-an-alpha-charizard-that-knows-solar-beam-via-mystery-gift-in-pokemon-legends-z-a"
+      ],
+      "change_summary": "Adicionada apenas observação sobre TMs 146, 154 e 158 do DLC de Z-A; nenhuma lista de movimentos, valor numérico ou mecânica do motor foi alterada."
+    },
+    "v21_factual_crosscheck_2026_11_17": {
+      "status": "factual_crosscheck_partial_not_full_certification",
+      "date": "2026-11-17",
+      "source_file": "charizard-V20-VALIDACAO-CONTEXTO-DLC-PARCIAL(1).json",
+      "scope": "Confronto sistematico dos identificadores das maquinas, dados numericos de golpes e tipos com tabelas versionadas da PokeAPI; conferencia defensiva historica e leitura de referencias externas para geracao IX.",
+      "results": {
+        "game_records": 36,
+        "move_entries": 2623,
+        "total_machine_entries": 1482,
+        "machine_code_move_pairs_matched_against_versioned_pokeapi": 1482,
+        "machine_code_move_pair_discrepancies": 0,
+        "move_entries_with_type_power_pp_accuracy_compared_against_versioned_pokeapi_outside_za": 2562,
+        "move_type_discrepancies_outside_za": 0,
+        "historical_numeric_candidates_requiring_exception_review": 31,
+        "historical_numeric_exception": "Rest: 10 PP nas geracoes I-VIII e 5 PP em Scarlet/Violet. As 31 ocorrencias antigas no JSON estao corretas; a tabela change log extraida nao inclui toda a variacao historica nesta contagem.",
+        "historical_numeric_errors_confirmed": 0,
+        "nonneutral_defensive_type_relations_compared_against_historical_chart": 429,
+        "defensive_relation_discrepancies": 0,
+        "za_tms_names_codes_compared_with_independent_za_learnset": 47,
+        "za_tms_names_codes_discrepancies": 0,
+        "content_corrections": 0
+      },
+      "important_limits": [
+        "Identificadores TM/HM/TR e parametros importados do mesmo ecossistema de dados da PokeAPI nao comprovam, sozinhos, legalidade individual de todos os metodos de aprendizagem.",
+        "Nao houve comparacao independente linha a linha dos 344 golpes de ovo e 179 tutores com regras de cadeia de heranca, eventos e transferencias por cartucho.",
+        "Nao houve validacao independente integral das 36 rotas de obtencao e respectivas restricoes por DLC, evento, regiao ou metodo.",
+        "Os dados de golpes e formas em Legends: Z-A necessitam distinguir valores da mecanica em tempo real dos valores de batalha por turnos que sites diferentes podem apresentar.",
+        "Esta auditoria nao justifica promover review_status=partial para verified ou status geral para complete."
+      ],
+      "external_references": [
+        "https://github.com/PokeAPI/pokeapi/tree/master/data/v2/csv",
+        "https://pokemondb.net/pokedex/charizard/moves/1",
+        "https://pokemondb.net/pokedex/charizard/moves/9",
+        "https://pokemondb.net/move/rest",
+        "https://rotomlabs.net/dex/mega-dimension/charizard",
+        "https://bulbapedia.bulbagarden.net/wiki/List_of_TMs_in_Pok%C3%A9mon_Legends:_Z-A"
+      ],
+      "change_scope": "Somente metadados de auditoria; nenhum valor da ficha, movimento, jogo, forma, imagem ou metodo de obtencao foi alterado."
     }
   }
 }
