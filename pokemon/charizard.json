@@ -34191,7 +34191,11 @@
         "title_pt": "Charizard em um comercial lembrado por Ash",
         "title_en": "Primeape Goes Bananas",
         "season_reference": 1,
-        "title_ja": "おこらないでねオコリザル！"
+        "title_ja": "おこらないでねオコリザル！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep025.png",
+          "alt": "Charizard em Charizard em um comercial lembrado por Ash"
+        }
       },
       {
         "jp_number": 46,
@@ -34203,7 +34207,7 @@
         "title_en": "Attack of the Prehistoric Pokémon",
         "title_ja": "ふっかつ！？かせきポケモン！",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/f/f0/Ash_Charizard_newly_evolved_EP046.png/320px-Ash_Charizard_newly_evolved_EP046.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep046.png",
           "alt": "Charizard logo após evoluir no episódio japonês 46"
         },
         "season_reference": 1
@@ -34216,7 +34220,11 @@
         "title_pt": "O exame prático da Liga Pokémon",
         "title_en": "The Ultimate Test",
         "season_reference": 1,
-        "title_ja": "ポケモンけんていしけん！？"
+        "title_ja": "ポケモンけんていしけん！？",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep056.png",
+          "alt": "Charizard em O exame prático da Liga Pokémon"
+        }
       },
       {
         "jp_number": 107,
@@ -34229,7 +34237,7 @@
         "title_ja": "リザードン！きみにきめた！！",
         "season_reference": 2,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/5/50/Ash_Charizard_Ember.png/320px-Ash_Charizard_Ember.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep107.png",
           "alt": "Charizard de Ash usando Brasa no episódio Charizard Chills"
         }
       },
@@ -34244,7 +34252,7 @@
         "title_ja": "リザードンのたに！またあうひまで！！",
         "season_reference": 3,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/0/0d/Liza_Ash_Charizard.png/320px-Liza_Ash_Charizard.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep136.png",
           "alt": "Charizard de Ash com Liza no Vale Charicífico"
         }
       },
@@ -34256,7 +34264,11 @@
         "title_pt": "Charizard em uma história transmitida pelo rádio",
         "season_reference": 4,
         "title_ja": "ラジオとうのたたかい！じくうをこえて！！",
-        "title_en": "Air Time!"
+        "title_en": "Air Time!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep162.png",
+          "alt": "Charizard em Charizard em uma história transmitida pelo rádio"
+        }
       },
       {
         "jp_number": 163,
@@ -34264,7 +34276,11 @@
         "description": "Em um segmento extra exibido no Japão, o Professor Carvalho acidentalmente pisa na cauda de Charizard e acaba recebendo uma rajada de fogo.",
         "appearance": "Cena extra japonesa",
         "title_pt": "Charizard em um segmento japonês",
-        "season_reference": 4
+        "season_reference": 4,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep163.png",
+          "alt": "Charizard em Charizard em um segmento japonês"
+        }
       },
       {
         "jp_number": 166,
@@ -34274,7 +34290,11 @@
         "title_pt": "Uma ilusão de Charizard",
         "season_reference": 4,
         "title_ja": "ポッポやのでんしょポッポ！",
-        "title_en": "Carrying On!"
+        "title_en": "Carrying On!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep166.jpg",
+          "alt": "Charizard em Uma ilusão de Charizard"
+        }
       },
       {
         "jp_number": 171,
@@ -34284,7 +34304,11 @@
         "title_pt": "Charizard em um concurso de beleza",
         "season_reference": 4,
         "title_ja": "さよならロコン！ポケモンビューティーコンテスト！！",
-        "title_en": "Beauty and the Breeder"
+        "title_en": "Beauty and the Breeder",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep171.png",
+          "alt": "Charizard em Charizard em um concurso de beleza"
+        }
       },
       {
         "jp_number": 205,
@@ -34292,7 +34316,11 @@
         "description": "Charizard é sugerido como alternativa de aparência mais intimidadora para o ator Brad Van Darn. O Pokémon é apenas mencionado como sugestão.",
         "appearance": "Menção",
         "title_pt": "Um papel mais ameaçador",
-        "season_reference": 4
+        "season_reference": 4,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep205.png",
+          "alt": "Charizard em Um papel mais ameaçador"
+        }
       },
       {
         "jp_number": 250,
@@ -34300,7 +34328,11 @@
         "description": "Uma integrante da Equipe Rocket utiliza um Charizard emprestado do Parque de Batalha em um plano contra Ash.",
         "appearance": "Aparição",
         "title_pt": "Charizard do Parque de Batalha",
-        "season_reference": 5
+        "season_reference": 5,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep250.jpg",
+          "alt": "Charizard em Charizard do Parque de Batalha"
+        }
       },
       {
         "jp_number": 338,
@@ -34308,7 +34340,11 @@
         "description": "Um coordenador inscreve um Charizard no Concurso Pokémon realizado em Verdanturf.",
         "appearance": "Aparição",
         "title_pt": "Charizard no Concurso de Verdanturf",
-        "season_reference": 7
+        "season_reference": 7,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep338.jpg",
+          "alt": "Charizard em Charizard no Concurso de Verdanturf"
+        }
       },
       {
         "jp_number": 405,
@@ -34317,7 +34353,11 @@
         "appearance": "Aparição",
         "title_pt": "Charizard de Clark na Liga Hoenn",
         "title_en": "Shocks and Bonds",
-        "season_reference": 8
+        "season_reference": 8,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep405.png",
+          "alt": "Charizard em Charizard de Clark na Liga Hoenn"
+        }
       },
       {
         "jp_number": 454,
@@ -34326,7 +34366,11 @@
         "appearance": "Aparição",
         "title_pt": "O Charizard recebido pela Equipe Rocket",
         "title_en": "Grating Spaces!",
-        "season_reference": 9
+        "season_reference": 9,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep454.png",
+          "alt": "Charizard em O Charizard recebido pela Equipe Rocket"
+        }
       },
       {
         "jp_number": 928,
@@ -34337,7 +34381,7 @@
         "title_en": "A League of His Own!",
         "season_reference": 19,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/7/77/Trevor_Mega_Charizard_Y.png/320px-Trevor_Mega_Charizard_Y.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep928.png",
           "alt": "Mega Charizard Y de Trevor na Liga de Kalos"
         }
       },
@@ -34348,7 +34392,11 @@
         "appearance": "Aparição",
         "title_pt": "O Charizard de Kiawe",
         "title_en": "Alola to New Adventure!",
-        "season_reference": 20
+        "season_reference": 20,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep944.png",
+          "alt": "Charizard em O Charizard de Kiawe"
+        }
       },
       {
         "jp_number": 985,
@@ -34356,7 +34404,11 @@
         "description": "Charizard aparece entre os Pokémon de Kanto lembrados pelos alunos da Escola Pokémon durante uma visita à região.",
         "appearance": "Lembrança",
         "title_pt": "Os Pokémon de Kanto",
-        "season_reference": 20
+        "season_reference": 20,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep985.png",
+          "alt": "Charizard em Os Pokémon de Kanto"
+        }
       },
       {
         "jp_number": 1101,
@@ -34368,7 +34420,7 @@
         "title_en": "Flash of the Titans!",
         "title_ja": "ダイマックスバトル！最強王者ダンデ！！",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/3/32/Leon_and_Charizard.png/320px-Leon_and_Charizard.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1101.jpg",
           "alt": "Leon com seu Charizard na final contra Lance"
         },
         "season_reference": 23
@@ -34379,7 +34431,11 @@
         "description": "James imagina Ditto assumindo a forma de Charizard para proteger a Equipe Rocket. Não se trata de um Charizard real.",
         "appearance": "Fantasia",
         "title_pt": "Ditto imaginado como Charizard",
-        "season_reference": 23
+        "season_reference": 23,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1108.png",
+          "alt": "Charizard em Ditto imaginado como Charizard"
+        }
       },
       {
         "jp_number": 1113,
@@ -34387,7 +34443,11 @@
         "description": "Um Charizard está entre os Pokémon roubados por agentes da Equipe Rocket e posteriormente libertados pelos protagonistas.",
         "appearance": "Aparição",
         "title_pt": "Charizard entre os Pokémon capturados",
-        "season_reference": 23
+        "season_reference": 23,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1113.png",
+          "alt": "Charizard em Charizard entre os Pokémon capturados"
+        }
       },
       {
         "jp_number": 1116,
@@ -34395,7 +34455,11 @@
         "description": "Sonia imagina um Charizard Gigantamax enquanto explica os acontecimentos da Noite Negra e o fenômeno Dynamax.",
         "appearance": "Fantasia",
         "title_pt": "Charizard Gigantamax na Noite Negra",
-        "season_reference": 23
+        "season_reference": 23,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1116.png",
+          "alt": "Charizard em Charizard Gigantamax na Noite Negra"
+        }
       },
       {
         "jp_number": 1135,
@@ -34403,7 +34467,11 @@
         "description": "Charizard aparece rapidamente entre os Pokémon que voam na apresentação do episódio.",
         "appearance": "Aparição breve",
         "title_pt": "Charizard na apresentação",
-        "season_reference": 23
+        "season_reference": 23,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1135.png",
+          "alt": "Charizard em Charizard na apresentação"
+        }
       },
       {
         "jp_number": 1225,
@@ -34411,7 +34479,11 @@
         "description": "Um treinador acompanhado de Charizard é visto ao final do episódio, na cidade visitada por Ash, Goh e Chloe.",
         "appearance": "Aparição breve",
         "title_pt": "Um Charizard entre os treinadores",
-        "season_reference": 25
+        "season_reference": 25,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1225.png",
+          "alt": "Charizard em Um Charizard entre os treinadores"
+        }
       },
       {
         "jp_number": 1237,
@@ -34422,7 +34494,7 @@
         "title_en": "The Pendant That Starts It All (Part One)",
         "season_reference": 26,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/5/54/HZ_eyecatch_Friede_Charizard.png/320px-HZ_eyecatch_Friede_Charizard.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1237.png",
           "alt": "Charizard de Friede em vinheta de Pokémon Horizons; imagem ilustrativa da série"
         }
       },
@@ -34432,7 +34504,11 @@
         "description": "Charizard é visto entre os Pokémon de treinadores presentes na Academia Índigo.",
         "appearance": "Aparição breve",
         "title_pt": "Charizard na Academia Índigo",
-        "season_reference": 28
+        "season_reference": 28,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1327.png",
+          "alt": "Charizard em Charizard na Academia Índigo"
+        }
       },
       {
         "jp_number": 1328,
@@ -34440,7 +34516,11 @@
         "description": "Mega Charizard Y surge em uma explicação sobre Mega Evolução apresentada por Nidotina.",
         "appearance": "Vídeo",
         "title_pt": "Mega Charizard Y em vídeo explicativo",
-        "season_reference": 28
+        "season_reference": 28,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1328.png",
+          "alt": "Charizard em Mega Charizard Y em vídeo explicativo"
+        }
       },
       {
         "jp_number": 1335,
@@ -34448,7 +34528,11 @@
         "description": "Mega Charizard X aparece em uma cena adicional de conteúdo dedicado à Mega Evolução.",
         "appearance": "Cena extra japonesa",
         "title_pt": "Mega Charizard X em cena extra",
-        "season_reference": 28
+        "season_reference": 28,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1335.png",
+          "alt": "Charizard em Mega Charizard X em cena extra"
+        }
       },
       {
         "jp_number": 1336,
@@ -34456,7 +34540,11 @@
         "description": "Mega Charizard Y participa de um segmento extra, sobrevoando a região com Nidotina.",
         "appearance": "Cena extra japonesa",
         "title_pt": "Mega Charizard Y em voo",
-        "season_reference": 28
+        "season_reference": 28,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1336.png",
+          "alt": "Charizard em Mega Charizard Y em voo"
+        }
       },
       {
         "jp_number": 1358,
@@ -34467,7 +34555,7 @@
         "title_en": "Roy vs. Friede: Wings of Fire!",
         "season_reference": 28,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/3/37/Friede_Mega_Charizard_Y.png/320px-Friede_Mega_Charizard_Y.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1358.png",
           "alt": "Mega Charizard Y de Friede em Pokémon Horizons"
         }
       },
@@ -34477,7 +34565,11 @@
         "description": "Uma silhueta de Charizard aparece entre os Pokémon relacionados a combates de Pokémon UNITE.",
         "appearance": "Silhueta",
         "title_pt": "Charizard em silhueta",
-        "season_reference": 29
+        "season_reference": 29,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/anime/0006-anime-ep1377.jpg",
+          "alt": "Charizard em Charizard em silhueta"
+        }
       }
     ],
     "films": [
@@ -34487,7 +34579,7 @@
         "description": "Um Charizard clonado por Mewtwo enfrenta o Charizard de Ash no confronto entre Pokémon originais e clones.",
         "year": 1998,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/6/6c/Charizard_Clone.png/320px-Charizard_Clone.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/filmes/0006-filme-01.png",
           "alt": "Charizard clonado por Mewtwo no primeiro filme"
         }
       },
@@ -34495,19 +34587,31 @@
         "code": "P07",
         "title": "Pokémon: Alma Gêmea",
         "description": "Um Charizard selvagem aparece na sequência de abertura, utilizando um ataque de fogo.",
-        "year": 2004
+        "year": 2004,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/filmes/0006-filme-07.png",
+          "alt": "Charizard em Pokémon: Alma Gêmea"
+        }
       },
       {
         "code": "P08",
         "title": "Pokémon: Lucario e o Mistério de Mew",
         "description": "Vários Charizard participam de um conflito entre exércitos Pokémon retratado na história do castelo de Cameran.",
-        "year": 2005
+        "year": 2005,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/filmes/0006-filme-08.png",
+          "alt": "Charizard em Pokémon: Lucario e o Mistério de Mew"
+        }
       },
       {
         "code": "P17",
         "title": "Pokémon: Diancie e o Casulo da Destruição",
         "description": "Mega Charizard X aparece na abertura do filme; Mega Charizard Y também é mostrado nos créditos.",
-        "year": 2014
+        "year": 2014,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/filmes/0006-filme-17.png",
+          "alt": "Charizard em Pokémon: Diancie e o Casulo da Destruição"
+        }
       },
       {
         "code": "P20",
@@ -34515,7 +34619,7 @@
         "description": "Em uma continuidade alternativa, Charmander foi abandonado por Cross. Com Ash, evolui até Charizard e enfrenta o Incineroar de seu antigo treinador.",
         "year": 2017,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/3/3b/Ash_and_Charizard_M20.png/320px-Ash_and_Charizard_M20.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/filmes/0006-filme-20.png",
           "alt": "Ash com Charizard no filme Eu Escolho Você!"
         }
       },
@@ -34525,7 +34629,7 @@
         "description": "A história do confronto entre Pokémon originais e clones é revisitada em animação 3D, incluindo a presença de Charizard.",
         "year": 2019,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/2/2b/Charizard_Clone_M22.png/320px-Charizard_Clone_M22.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/filmes/0006-filme-22.png",
           "alt": "Charizard clonado por Mewtwo em Mewtwo Contra-Ataca: Evolução"
         }
       },
@@ -34536,7 +34640,7 @@
         "year": 2019,
         "category": "Live-action",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/Sebastian_Charizard_Detective_Pikachu.png/320px-Sebastian_Charizard_Detective_Pikachu.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/filmes/0006-filme-detetive.png",
           "alt": "Charizard de Sebastian em Pokémon: Detetive Pikachu"
         }
       }
@@ -34548,7 +34652,7 @@
         "description": "O Charizard de Red aparece como resultado da evolução do Pokémon inicial recebido do Professor Carvalho.",
         "year": 2013,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/f/f6/Red_Charizard_Mega_Punch_PO.png/320px-Red_Charizard_Mega_Punch_PO.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-po03.png",
           "alt": "Charizard de Red na luta de Pokémon Origins: File 3"
         }
       },
@@ -34558,7 +34662,7 @@
         "description": "Red megaevolui seu Charizard para Mega Charizard X durante o confronto contra Mewtwo.",
         "year": 2013,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/f/f5/Red_Mega_Charizard_X_PO.png/320px-Red_Mega_Charizard_X_PO.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-po04.png",
           "alt": "Mega Charizard X de Red em Pokémon Origins: File 4"
         }
       },
@@ -34568,7 +34672,7 @@
         "description": "Charizard participa da celebração da vitória de Calem como Campeão de Kalos.",
         "year": 2016,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/f/f3/Calem_Charizard_Professor_Sycamore_PG.png/320px-Calem_Charizard_Professor_Sycamore_PG.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-gen18.png",
           "alt": "Charizard com Calem em Pokémon Generations: The Redemption"
         }
       },
@@ -34578,7 +34682,7 @@
         "description": "O Charizard Gigantamax de Leon aparece em um combate importante da região de Galar.",
         "year": 2020,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/0/09/Leon_Gigantamax_Charizard_Twilight_Wings.png/320px-Leon_Gigantamax_Charizard_Twilight_Wings.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-pac07.png",
           "alt": "Gigantamax Charizard de Leon no episódio Sky de Twilight Wings"
         }
       },
@@ -34586,7 +34690,11 @@
         "code": "TOON03",
         "title": "POKÉTOON — episódio 3",
         "description": "Um Charizard aparece como Pokémon de estimação de um pai, ajudando na ambientação familiar da história.",
-        "year": 2021
+        "year": 2021,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-toon03.png",
+          "alt": "Charizard em POKÉTOON — episódio 3"
+        }
       },
       {
         "code": "EVO01",
@@ -34594,7 +34702,7 @@
         "description": "Leon utiliza Charizard durante o confronto envolvendo Eternatus em Galar.",
         "year": 2021,
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/c/cc/Leon_Charizard_Fire_Blast_Evolutions.png/320px-Leon_Charizard_Fire_Blast_Evolutions.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-evo01.png",
           "alt": "Charizard de Leon usando Explosão de Fogo em Pokémon Evolutions"
         }
       },
@@ -34602,25 +34710,41 @@
         "code": "EVO08",
         "title": "Pokémon Evolutions — The Discovery",
         "description": "O Charizard de Red aparece brevemente ao lado do treinador na narrativa de Kanto.",
-        "year": 2021
+        "year": 2021,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-evo08.png",
+          "alt": "Charizard em Pokémon Evolutions — The Discovery"
+        }
       },
       {
         "code": "PMC02",
         "title": "Pokémon Music Collective — vídeo 2",
         "description": "Charizard participa de um vídeo musical relacionado ao projeto Pokémon Music Collective.",
-        "category": "Videoclipe"
+        "category": "Videoclipe",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-pmc02.png",
+          "alt": "Charizard em Pokémon Music Collective — vídeo 2"
+        }
       },
       {
         "code": "AP02",
         "title": "Acampando com Pokémon — episódio 2",
         "description": "O Charmeleon do chef evolui para Charizard durante a história.",
-        "category": "Curta"
+        "category": "Curta",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-ap02.png",
+          "alt": "Charizard em Acampando com Pokémon — episódio 2"
+        }
       },
       {
         "code": "MIRAI",
         "title": "Project VOLTAGE — Mirai Donna Darō",
         "description": "Charizard aparece como um dos Pokémon associados à apresentação musical de Hatsune Miku.",
-        "category": "Videoclipe"
+        "category": "Videoclipe",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-mirai.png",
+          "alt": "Charizard em Project VOLTAGE — Mirai Donna Darō"
+        }
       },
       {
         "code": "GOT-YOU",
@@ -34628,7 +34752,7 @@
         "description": "Um Charmander apresentado no videoclipe aparece evoluído como Charizard na sequência final.",
         "category": "Videoclipe",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/d/df/Leon_Party_Gotcha.png/320px-Leon_Party_Gotcha.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/animacoes/0006-animacoes-got-you.png",
           "alt": "Charizard no videoclipe Pokémon GOTCHA!"
         }
       }
@@ -34639,51 +34763,79 @@
         "title": "Pokémon Adventures — Red, Green & Blue",
         "description": "O Pokémon inicial de Blue, recebido como Charmander, chega à forma Charizard e torna-se um de seus principais parceiros.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/1/1b/Blue_and_Charizard.png/320px-Blue_and_Charizard.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pms027.png",
           "alt": "Blue com seu Charizard no mangá Pokémon Adventures"
         }
       },
       {
         "code": "PMS150",
         "title": "Pokémon Adventures — Gold & Silver",
-        "description": "Charizard é citado pelo presidente da Associação Pokémon; trata-se de uma menção, não de uma cena com a espécie."
+        "description": "Charizard é citado pelo presidente da Associação Pokémon; trata-se de uma menção, não de uma cena com a espécie.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pms150.png",
+          "alt": "Charizard em Pokémon Adventures — Gold & Silver"
+        }
       },
       {
         "code": "PMS323",
         "title": "Pokémon Adventures — Emerald",
-        "description": "O Charizard de Tucker é utilizado em uma batalha contra Emerald na instalação de combate."
+        "description": "O Charizard de Tucker é utilizado em uma batalha contra Emerald na instalação de combate.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pms323.png",
+          "alt": "Charizard em Pokémon Adventures — Emerald"
+        }
       },
       {
         "code": "PMS589",
         "title": "Pokémon Adventures — X & Y",
-        "description": "Salamè, o Pokémon de X, evolui para Charizard durante a batalha contra as forças de Xerosic e pode assumir Mega Charizard X."
+        "description": "Salamè, o Pokémon de X, evolui para Charizard durante a batalha contra as forças de Xerosic e pode assumir Mega Charizard X.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pms589.png",
+          "alt": "Charizard em Pokémon Adventures — X & Y"
+        }
       },
       {
         "code": "PMSSM17",
         "title": "Pokémon Adventures — Sun & Moon",
-        "description": "Hau imagina um Charizard enquanto pensa nas modalidades de deslocamento e montaria disponíveis em Alola."
+        "description": "Hau imagina um Charizard enquanto pensa nas modalidades de deslocamento e montaria disponíveis em Alola.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pmssm17.png",
+          "alt": "Charizard em Pokémon Adventures — Sun & Moon"
+        }
       },
       {
         "code": "PMSSM37",
         "title": "Pokémon Adventures — Sun & Moon",
-        "description": "Kiawe utiliza Charizard como Pokémon de montaria."
+        "description": "Kiawe utiliza Charizard como Pokémon de montaria.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pmssm37.png",
+          "alt": "Charizard em Pokémon Adventures — Sun & Moon"
+        }
       },
       {
         "code": "PMSSwSh02",
         "title": "Pokémon Adventures — Sword & Shield",
-        "description": "O Charizard de Leon ajuda a retirar Wooloo de uma linha férrea."
+        "description": "O Charizard de Leon ajuda a retirar Wooloo de uma linha férrea.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pmsswsh02.png",
+          "alt": "Charizard em Pokémon Adventures — Sword & Shield"
+        }
       },
       {
         "code": "PMSSwSh26",
         "title": "Pokémon Adventures — Sword & Shield",
-        "description": "Leon utiliza Charizard Gigantamax em um confronto com Pokémon afetados pelo fenômeno Dynamax."
+        "description": "Leon utiliza Charizard Gigantamax em um confronto com Pokémon afetados pelo fenômeno Dynamax.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pmsswsh26.png",
+          "alt": "Charizard em Pokémon Adventures — Sword & Shield"
+        }
       },
       {
         "code": "MP01",
         "title": "Adaptação em mangá — Mewtwo Contra-Ataca",
         "description": "A adaptação apresenta o Charizard da Equipe Rocket e outro associado aos Pokémon clonados de Mewtwo.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/1/16/Charizard_Clone_M01_manga.png/320px-Charizard_Clone_M01_manga.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-mp01.png",
           "alt": "Charizard clonado na adaptação em mangá de Mewtwo Contra-Ataca"
         }
       },
@@ -34692,7 +34844,7 @@
         "title": "Adaptação em mangá — Eu Escolho Você!",
         "description": "Charmeleon evolui para Charizard para enfrentar o Incineroar de Cross.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/e/e3/Ash_Charizard_Seismic_Toss_ICYR.png/320px-Ash_Charizard_Seismic_Toss_ICYR.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-mp20.png",
           "alt": "Charizard de Ash na adaptação em mangá de Eu Escolho Você!"
         }
       },
@@ -34701,50 +34853,70 @@
         "title": "Adaptação em mangá — Mewtwo Contra-Ataca: Evolução",
         "description": "Charizard aparece junto aos Pokémon dos protagonistas e à contraparte clonada de Mewtwo.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/a/a1/Charizard_Clone_M22_manga.png/320px-Charizard_Clone_M22_manga.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-mp22.png",
           "alt": "Charizard clonado na adaptação em mangá de Mewtwo Contra-Ataca: Evolução"
         }
       },
       {
         "code": "PV001",
         "title": "Pokémon Journeys — mangá, capítulo 1",
-        "description": "O Charizard de Ash aparece em uma lembrança de suas aventuras anteriores."
+        "description": "O Charizard de Ash aparece em uma lembrança de suas aventuras anteriores.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pv001.png",
+          "alt": "Charizard em Pokémon Journeys — mangá, capítulo 1"
+        }
       },
       {
         "code": "PV004",
         "title": "Pokémon Journeys — mangá, capítulo 4",
         "description": "O Charizard de Leon enfrenta o Gyarados vermelho de Lance.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/d/d5/Leon_Charizard_JNM.png/320px-Leon_Charizard_JNM.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pv004.png",
           "alt": "Charizard de Leon no mangá Pokémon Journeys"
         }
       },
       {
         "code": "LNT01",
         "title": "Pokémon Horizons — adaptação, capítulo 1",
-        "description": "Friede utiliza Charizard para proteger Liko de Ceruledge."
+        "description": "Friede utiliza Charizard para proteger Liko de Ceruledge.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-lnt01.png",
+          "alt": "Charizard em Pokémon Horizons — adaptação, capítulo 1"
+        }
       },
       {
         "code": "HP01",
         "title": "Pokémon Horizons — adaptação, capítulo 1",
-        "description": "O Charizard de Friede protege Liko e Sprigatito."
+        "description": "O Charizard de Friede protege Liko e Sprigatito.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-hp01.png",
+          "alt": "Charizard em Pokémon Horizons — adaptação, capítulo 1"
+        }
       },
       {
         "code": "PPM005",
         "title": "Pokémon Pocket Monsters — capítulo 5",
-        "description": "O Charmander de Kai Midorikawa evolui para Charizard durante um combate."
+        "description": "O Charmander de Kai Midorikawa evolui para Charizard durante um combate.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-ppm005.png",
+          "alt": "Charizard em Pokémon Pocket Monsters — capítulo 5"
+        }
       },
       {
         "code": "ETP07",
         "title": "The Electric Tale of Pikachu — capítulo 7",
-        "description": "Um samurai imagina Charizard ao ouvir sobre a Vila Oculta."
+        "description": "Um samurai imagina Charizard ao ouvir sobre a Vila Oculta.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-etp07.png",
+          "alt": "Charizard em The Electric Tale of Pikachu — capítulo 7"
+        }
       },
       {
         "code": "ETP12",
         "title": "The Electric Tale of Pikachu — capítulo 12",
         "description": "O Charizard de Ash aparece como opção para a Liga Índigo.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/c/cd/Ash_Charizard_EToP.png/320px-Ash_Charizard_EToP.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-etp12.png",
           "alt": "Charizard de Ash no mangá The Electric Tale of Pikachu"
         }
       },
@@ -34753,33 +34925,45 @@
         "title": "The Electric Tale of Pikachu — capítulo 13",
         "description": "Zippo, o Charizard de Ritchie, enfrenta a equipe de Ash.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/d/d8/Zippo_Swords_Dance_EToP.png/320px-Zippo_Swords_Dance_EToP.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-etp13.png",
           "alt": "Zippo, o Charizard de Ritchie, no mangá The Electric Tale of Pikachu"
         }
       },
       {
         "code": "GB19",
         "title": "Pokémon Gold & Silver: The Golden Boys — capítulo 19",
-        "description": "Um Charizard pertencente a um treinador desconhecido é mostrado enfrentando Lugia."
+        "description": "Um Charizard pertencente a um treinador desconhecido é mostrado enfrentando Lugia.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-gb19.png",
+          "alt": "Charizard em Pokémon Gold & Silver: The Golden Boys — capítulo 19"
+        }
       },
       {
         "code": "PMM003",
         "title": "Pokémon Mystery Dungeon: Ginji’s Rescue Team — capítulo 3",
-        "description": "Charizard participa do grupo convocado por Gengar para deter Ginji e Mudkip."
+        "description": "Charizard participa do grupo convocado por Gengar para deter Ginji e Mudkip.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pmm003.png",
+          "alt": "Charizard em Pokémon Mystery Dungeon: Ginji’s Rescue Team — capítulo 3"
+        }
       },
       {
         "code": "PMZ08",
         "title": "Pokémon Zensho — capítulo 8",
         "description": "O Charmeleon de Satoshi evolui para Charizard após derrotar o Arcanine de Blaine.",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/d/db/Satoshi_Charizard_Zensho.png/320px-Satoshi_Charizard_Zensho.png",
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-pmz08.png",
           "alt": "Charizard de Satoshi no mangá Pokémon Zensho"
         }
       },
       {
         "code": "DTWN30-05",
         "title": "Pokémon: Diamond and Pearl Adventure! — extra",
-        "description": "Um Charizard aparece na cidade acompanhado de seu treinador."
+        "description": "Um Charizard aparece na cidade acompanhado de seu treinador.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/charizard/manga/0006-manga-dtwn30-05.png",
+          "alt": "Charizard em Pokémon: Diamond and Pearl Adventure! — extra"
+        }
       }
     ]
   }
