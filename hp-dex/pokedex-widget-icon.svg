@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" role="img" aria-label="Ícone da Pokédex dexH!P">
+<defs><linearGradient id="case" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ff8759"/><stop offset=".45" stop-color="#ef433b"/><stop offset="1" stop-color="#9f2449"/></linearGradient><linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#123a55"/><stop offset="1" stop-color="#091929"/></linearGradient><linearGradient id="shine" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#9af3e6"/><stop offset="1" stop-color="#38a7b7"/></linearGradient><filter id="sh" x="-35%" y="-35%" width="170%" height="170%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#06111b" flood-opacity=".4"/></filter></defs>
+<g filter="url(#sh)" transform="rotate(-5 36 36)">
+<rect x="10" y="5" width="51" height="62" rx="14" fill="url(#case)" stroke="#ffce72" stroke-width="2.5"/>
+<path d="M13 23V19c0-7 5-11 11-11h20" fill="none" stroke="#ffd99c" stroke-width="3" stroke-linecap="round" opacity=".63"/>
+<rect x="15.5" y="15" width="40" height="31" rx="8" fill="#752e43" opacity=".7"/>
+<rect x="18" y="16.5" width="36" height="26" rx="6" fill="url(#screen)" stroke="#ffe7ad" stroke-width="1.7"/>
+<path d="M21 21c6-5 16-5 22-1" fill="none" stroke="#65c8ce" stroke-width="2.5" opacity=".52" stroke-linecap="round"/>
+<circle cx="35.5" cy="29.5" r="9.3" fill="url(#shine)" stroke="#e7fff3" stroke-width="1.6"/>
+<path d="M26 29.5h19" stroke="#153b54" stroke-width="2.8"/><circle cx="35.5" cy="29.5" r="3.5" fill="#f8f6e9" stroke="#153b54" stroke-width="2"/>
+<rect x="19.5" y="52.5" width="17" height="4.5" rx="2" fill="#78243c" opacity=".45"/>
+<path d="M28 48v13M21.5 54.5h13" stroke="#f5dba7" stroke-width="5" stroke-linecap="round"/>
+<circle cx="48.5" cy="53" r="4.5" fill="#ffd36b" stroke="#7e2d45" stroke-width="1.8"/>
+<circle cx="43" cy="61" r="2.3" fill="#fef0b5" opacity=".85"/>
+</g>
+</svg>
