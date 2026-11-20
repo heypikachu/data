@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "project": "dexH!P",
+  "status": "Beta · Em desenvolvimento",
+  "latest": {
+    "version": "4.83",
+    "date": "2026-11-20",
+    "title": "Capas completas na Pokédex",
+    "changes": [
+      "Capas das fichas no índice ajustadas à proporção original para evitar cortes laterais.",
+      "Hover dos cards preservado sem ampliar ou recortar as capas."
+    ]
+  },
+  "history": [
+    {
+      "version": "4.82",
+      "date": "2026-11-20",
+      "title": "Busca e proteção de conteúdo",
+      "changes": [
+        "Busca inteligente com sugestões das fichas publicadas.",
+        "Menu contextual e cursor personalizado integrados à identidade Hey!Pikachu.",
+        "Controles para dificultar a cópia casual de textos e imagens."
+      ]
+    }
+  ]
+}
