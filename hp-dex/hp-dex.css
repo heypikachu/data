@@ -60,3 +60,21 @@
 #hp-dex-app #formChoices .hp-form-unavailable:hover .hp-form-tooltip,
 #hp-dex-app #formChoices .hp-form-unavailable:focus-visible .hp-form-tooltip {opacity:1;visibility:visible;transform:translateY(0);}
 @media(max-width:560px){#hp-dex-app #formChoices .hp-form-tooltip{bottom:auto;top:calc(100% + 6px);}}
+
+/* Modal de formas: estado informativo quando só existe a forma original. */
+#hp-dex-app #formChoices .hp-form-empty{
+  grid-column:1/-1;display:flex;flex-direction:column;align-items:center;
+  justify-content:center;gap:9px;min-height:178px;padding:24px 18px;
+  background:var(--surface-alt);color:var(--ink);border:1px solid var(--line);
+  border-radius:16px;box-sizing:border-box;text-align:center;
+}
+#hp-dex-app #formChoices .hp-form-empty-icon{
+  width:54px;height:54px;border-radius:50%;display:grid;place-items:center;
+  background:var(--accent-surface);color:var(--gold);border:1px solid var(--line);
+}
+#hp-dex-app #formChoices .hp-form-empty strong{
+  font-size:15px;font-weight:750;line-height:1.4;color:var(--ink);
+}
+#hp-dex-app #formChoices .hp-form-empty > span:last-child{
+  max-width:380px;font-size:12.5px;line-height:1.55;color:var(--muted);
+}
