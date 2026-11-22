@@ -497,8 +497,30 @@ async function hpDexRender() {
       const formas = catalogoFormas();
       const lista = document.getElementById('formChoices');
       const jogo = rec.game_name || GAME_NAMES[CURRENT_GAME] || 'jogo selecionado';
-      // Nunca usar sprites de outras edições para selecionar uma forma indisponível.
-      lista.innerHTML = formas.map((forma, idx) => {
+      // Pokémon com apenas a forma original recebem uma mensagem informativa.
+      // A galeria normal permanece inalterada quando há formas alternativas.
+      const formaOriginal = (POKEDEX_DATA.name || '').trim().toLocaleLowerCase('pt-BR');
+      const semFormasAlternativas = !formas.some(forma =>
+        (forma.name || '').trim().toLocaleLowerCase('pt-BR') !== formaOriginal
+      );
+      if (semFormasAlternativas) {
+        lista.innerHTML = `
+          <div class="hp-form-empty" role="status">
+            <span class="hp-form-empty-icon" aria-hidden="true">
+              <svg viewBox="0 0 48 48" width="34" height="34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="24" cy="24" r="20" stroke="currentColor" stroke-width="3"/>
+                <path d="M4 24a20 20 0 0 1 40 0H4Z" fill="currentColor" fill-opacity=".14"/>
+                <path d="M4 24h40" stroke="currentColor" stroke-width="3"/>
+                <circle cx="24" cy="24" r="7" fill="var(--surface-alt)" stroke="currentColor" stroke-width="3"/>
+                <circle cx="24" cy="24" r="2.7" fill="currentColor"/>
+              </svg>
+            </span>
+            <strong>Sem formas alternativas</strong>
+            <span>Esse Pokémon não possui outras formas além da sua original!</span>
+          </div>`;
+      } else {
+        // Nunca usar sprites de outras edições para selecionar uma forma indisponível.
+        lista.innerHTML = formas.map((forma, idx) => {
         const disponivel = formaDisponivelNoJogo(forma, rec);
         const sprite = (disponivel || forma).sprite || rec.sprite;
         const ativa = !!disponivel && (SPRITE_ATUAL_FORMA === (disponivel.sprite || rec.sprite) ||
@@ -520,7 +542,8 @@ async function hpDexRender() {
             <div class="form-desc"><strong>${nome}</strong>
               <small>${escapeHtml(disponivel.detail || 'Disponível neste jogo')}</small></div>
           </button>`;
-      }).join('');
+        }).join('');
+      }
 
       lista.querySelectorAll('.hp-form-available').forEach(card => {
         card.onclick = () => {
