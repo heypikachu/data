@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "release": "1.0.0",
-  "commit": "070409e0d808ade05e18982966012fc76f0cb344",
-  "previous": "fb50db1382d9575c2b6cf70a1e0163d1c72cc6eb"
+  "release": "build-72e86e00dc",
+  "commit": "72e86e00dc50bf410272a32fc7f0db43b398c6ac",
+  "previous": "070409e0d808ade05e18982966012fc76f0cb344"
 }
