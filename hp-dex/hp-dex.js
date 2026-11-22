@@ -454,10 +454,13 @@ async function hpDexRender() {
     const evGrid = document.getElementById('evDisplay');
     if (['I','II'].includes(rec.gen)) { evGrid.innerHTML = `<div class="stateempty">Nesta geração, os valores de treinamento utilizam um sistema histórico diferente dos EVs modernos.</div>`; } else if (rec.ev_yield && rec.ev_yield.some(v => v > 0)) {
       const evNames = ['HP','Ataque','Defesa','At. Especial','Def. Especial','Velocidade']; const evSyms = ['♥','✦','⬟','✸','◆','➤'];
-      const maxEv = Math.max(...rec.ev_yield);
-      evGrid.innerHTML = `<div class="ev-intro"><span class="ev-kicker">RECOMPENSA NESTA EDIÇÃO</span><strong>+${maxEv} EVs <span>por ${POKEDEX_DATA.name} derrotado</span></strong></div>
+      const totalEv = rec.ev_yield.reduce((total, valor) => total + (Number(valor) || 0), 0);
+      const distribuicaoEv = rec.ev_yield
+        .map((valor, i) => Number(valor) > 0 ? `+${valor} EV${Number(valor) === 1 ? '' : 's'} em ${evNames[i]}` : null)
+        .filter(Boolean).join(' e ');
+      evGrid.innerHTML = `<div class="ev-intro"><span class="ev-kicker">RECOMPENSA NESTA EDIÇÃO</span><strong>+${totalEv} EVs <span>por ${POKEDEX_DATA.name} derrotado</span></strong></div>
       <div class="ev-grid">${rec.ev_yield.map((v, i) => `<div class="ev-cell ${v > 0 ? 'best' : ''}"><span class="ev-symbol">${evSyms[i]}</span><div><small>${evNames[i]}</small><b>+${v}</b></div></div>`).join('')}</div>
-      <div class="ev-explain"><div><b>✦ Principal recompensa</b><span>+${maxEv} EVs em ${evNames[rec.ev_yield.indexOf(maxEv)]}.</span></div><div><b>EV não é atributo base</b><span>O atributo base é o valor na tabela. O EV é a recompensa ao derrotar.</span></div></div>`;
+      <div class="ev-explain"><div><b>✦ Distribuição de EVs</b><span>${distribuicaoEv}.</span></div><div><b>EV não é atributo base</b><span>O atributo base é o valor na tabela. O EV é a recompensa ao derrotar.</span></div></div>`;
     } else { evGrid.innerHTML = `<div class="stateempty">Rendimento de EVs ainda não auditado.</div>`; }
 
     if (rec.encounters && rec.encounters.length > 0) {
