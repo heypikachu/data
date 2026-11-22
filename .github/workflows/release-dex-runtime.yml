@@ -1,0 +1,101 @@
+name: dexH!P - Publicar motor validado
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'hp-dex/hp-dex.js'
+      - 'hp-dex/hp-dex.css'
+      - 'hp-dex/hp-dex-loader.js'
+      - 'tests/test_hp_dex_loader.cjs'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hp-dex-release
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout do commit exato
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Validar JavaScript do motor e do carregador
+        run: |
+          node --check hp-dex/hp-dex.js
+          node --check hp-dex/hp-dex-loader.js
+
+      - name: Testar comportamento do motor e do carregador
+        run: |
+          node --test tests/test_hp_dex_loader.cjs
+          python3 -m unittest discover -s tests -p "test_*.py"
+
+      - name: Verificar disponibilidade dos arquivos imutaveis no jsDelivr
+        shell: bash
+        run: |
+          set -euo pipefail
+          SHA="$GITHUB_SHA"
+          for FILE in hp-dex/hp-dex.js hp-dex/hp-dex.css; do
+            URL="https://cdn.jsdelivr.net/gh/heypikachu/data@$SHA/$FILE"
+            FOUND=0
+            for ATTEMPT in 1 2 3 4 5 6; do
+              if curl -fL --silent --show-error --max-time 25 "$URL" -o /tmp/dex-release-asset; then
+                if cmp -s "$FILE" /tmp/dex-release-asset; then
+                  FOUND=1
+                  echo "OK: $FILE identico ao commit $SHA"
+                  break
+                fi
+              fi
+              echo "Tentativa $ATTEMPT: asset nao disponivel ou diferente."
+              sleep 10
+            done
+            if [ "$FOUND" -ne 1 ]; then
+              echo "::error::Nao publicar: CDN nao entrega $FILE do commit $SHA."
+              exit 1
+            fi
+          done
+
+      - name: Preparar manifesto com fallback para a versao anterior
+        env:
+          RELEASE_COMMIT: ${{ github.sha }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
+          path = Path('hp-dex/runtime-manifest.json')
+          current = json.loads(path.read_text(encoding='utf-8'))
+          assert current['schema'] == 1
+          commit = os.environ['RELEASE_COMMIT']
+          assert re.fullmatch(r'[a-f0-9]{40}', commit)
+          previous = current['commit']
+          if previous != commit:
+              current['previous'] = previous
+              current['commit'] = commit
+              current['release'] = 'build-' + commit[:10]
+              path.write_text(json.dumps(current, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+          print('Release:',current['commit'],'Fallback:',current.get('previous'))
+          PY
+
+      - name: Publicar manifesto somente se tudo passou
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- hp-dex/runtime-manifest.json; then
+            echo "Manifesto ja aponta para a release validada."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add hp-dex/runtime-manifest.json
+          git commit -m 'dexH!P: promover release validada'
+          git pull --rebase origin main
+          git push origin HEAD:main
