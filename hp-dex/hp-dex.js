@@ -95,6 +95,11 @@ async function hpDexRender() {
     const response = await fetch(JSON_URL);
     if (!response.ok) throw new Error(`HTTP ${response.status} em ${JSON_URL}`);
     POKEDEX_DATA = await response.json();
+    // Estado de forma registrado antes de abrir o modal: útil para fallback visual.
+    const nomeOriginalFormas = (POKEDEX_DATA.name || '').trim().toLocaleLowerCase('pt-BR');
+    app.setAttribute('data-hp-no-other-forms', String(catalogoFormas().every(forma =>
+      (forma.name || '').trim().toLocaleLowerCase('pt-BR') === nomeOriginalFormas
+    )));
     CURRENT_GAME = jogoInicialDisponivel(POKEDEX_DATA.records);
     renderizarNavegacaoDex(); renderizarPagina(); configurarModalJogos(); configurarBotoesExtras(); preencherRespostasRapidas();
   } catch (error) {
@@ -495,7 +500,13 @@ async function hpDexRender() {
     const openForms = () => {
       const rec = POKEDEX_DATA.records[CURRENT_GAME];
       const formas = catalogoFormas();
-      const lista = document.getElementById('formChoices');
+      // A busca começa no modal desta ficha para evitar colisões de IDs no Blogger.
+      const modalFormas = app.querySelector('#formModal');
+      const lista = modalFormas && modalFormas.querySelector('#formChoices');
+      if (!modalFormas || !lista) {
+        console.error('H!P DEX: modal de formas ou área de conteúdo não encontrados.');
+        return;
+      }
       const jogo = rec.game_name || GAME_NAMES[CURRENT_GAME] || 'jogo selecionado';
       // Pokémon com apenas a forma original recebem uma mensagem informativa.
       // A galeria normal permanece inalterada quando há formas alternativas.
@@ -560,7 +571,7 @@ async function hpDexRender() {
           card.setAttribute('aria-pressed','true');
         };
       });
-      document.getElementById('formModal').classList.add('open');
+      modalFormas.classList.add('open');
     };
     if(document.getElementById('formsbtn')) document.getElementById('formsbtn').onclick = openForms; 
     if(document.getElementById('formsInline')) document.getElementById('formsInline').onclick = openForms;
