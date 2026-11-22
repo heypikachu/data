@@ -1,0 +1,55 @@
+name: dexH!P - Atualizar cache do motor
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'hp-dex/hp-dex.js'
+      - 'hp-dex/hp-dex.css'
+      - '.github/workflows/refresh-dex-cdn.yml'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: hp-dex-cdn-refresh
+  cancel-in-progress: false
+
+jobs:
+  atualizar-cdn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Solicitar atualizacao do jsDelivr e conferir conteudo
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in hp-dex.js hp-dex.css; do
+            echo "::group::Verificando $file"
+            raw="https://raw.githubusercontent.com/heypikachu/data/main/hp-dex/$file"
+            cdn="https://cdn.jsdelivr.net/gh/heypikachu/data@main/hp-dex/$file"
+            purge="https://purge.jsdelivr.net/gh/heypikachu/data@main/hp-dex/$file"
+            echo "Solicitando purge: $file"
+            if curl --fail --location --silent --show-error --max-time 25 --retry 2 "$purge" -o /tmp/dex_purge.txt; then
+              cat /tmp/dex_purge.txt
+              echo
+            else
+              echo "::warning::O jsDelivr recusou ou nao respondeu ao purge de $file"
+            fi
+            ok=0
+            for attempt in 1 2 3 4 5; do
+              curl --fail --location --silent --show-error --retry 2 --max-time 25 "$raw" -o /tmp/dex_origin
+              curl --fail --location --silent --show-error --retry 2 --max-time 25 "$cdn" -o /tmp/dex_cdn
+              if cmp -s /tmp/dex_origin /tmp/dex_cdn; then
+                echo "OK: CDN identico ao GitHub para $file (tentativa $attempt)"
+                ok=1
+                break
+              fi
+              echo "Ainda desatualizado: $file (tentativa $attempt)"
+              sleep 12
+            done
+            if [ "$ok" -eq 0 ]; then
+              echo "::warning::O CDN continua diferente do GitHub para $file; aguarde a expiracao do cache do @main ou use uma versao imutavel"
+            fi
+            echo "::endgroup::"
+          done
