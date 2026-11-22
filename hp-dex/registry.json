@@ -1,20 +1,21 @@
+
 {
   "schema": 1,
   "pokemon": {
-    "6": {
-      "name": "Charizard",
-      "published": true,
-      "url": "https://dexhp.blogspot.com/2026/11/charizard.html"
-    },
     "4": {
       "name": "Charmander",
-      "published": false,
-      "url": ""
+      "published": true,
+      "url": "https://dex.heypikachu.com/charmander"
     },
     "5": {
       "name": "Charmeleon",
-      "published": false,
-      "url": ""
+      "published": true,
+      "url": "https://dex.heypikachu.com/charmeleon"
+    },
+    "6": {
+      "name": "Charizard",
+      "published": true,
+      "url": "https://dex.heypikachu.com/charizard"
     }
   }
 }
