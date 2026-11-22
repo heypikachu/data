@@ -69,7 +69,17 @@ async function hpDexRender() {
   let DEX_PUBLISHED = {};
   let DEX_NAMES = {3:'Venusaur',4:'Charmander',5:'Charmeleon',6:'Charizard',7:'Squirtle'};
   try {
-    const registryResponse = await fetch('https://cdn.jsdelivr.net/gh/heypikachu/data@main/hp-dex/registry.json');
+    // O registro é dinâmico: consultar o GitHub diretamente evita o cache de 12 h do jsDelivr.
+    // A chave por intervalo evita URLs novas a cada visita e atualiza em até alguns minutos.
+    const registroURL = 'https://raw.githubusercontent.com/heypikachu/data/main/hp-dex/registry.json';
+    let registryResponse;
+    try {
+      registryResponse = await fetch(registroURL + '?v=' + Math.floor(Date.now() / 300000));
+      if (!registryResponse.ok) throw new Error('HTTP ' + registryResponse.status);
+    } catch (errorRegistro) {
+      console.warn('H!P DEX: registro direto indisponível; tentando CDN.', errorRegistro);
+      registryResponse = await fetch('https://cdn.jsdelivr.net/gh/heypikachu/data@main/hp-dex/registry.json');
+    }
     if (registryResponse.ok) {
       const registry = await registryResponse.json();
       for (const [num, item] of Object.entries(registry.pokemon || {})) {
