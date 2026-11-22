@@ -78,3 +78,23 @@
 #hp-dex-app #formChoices .hp-form-empty > span:last-child{
   max-width:380px;font-size:12.5px;line-height:1.55;color:var(--muted);
 }
+
+/* Reserva visual para modais sem alternativas, inclusive se o JS antigo
+   ainda estiver em cache. Limitada às espécies sem formas extras. */
+#hp-dex-app:is([data-pokemon="charmander"],[data-pokemon="charmeleon"],[data-hp-no-other-forms="true"]) #formChoices:empty{
+  display:flex!important;flex-direction:column;align-items:center;justify-content:center;
+  gap:14px;min-height:190px;padding:27px 18px!important;
+  border:0;box-sizing:border-box;
+}
+#hp-dex-app:is([data-pokemon="charmander"],[data-pokemon="charmeleon"],[data-hp-no-other-forms="true"]) #formChoices:empty::before{
+  content:"";display:block;width:54px;height:54px;flex:0 0 54px;
+  border-radius:50%;background-color:rgba(224,151,17,.10);
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='20' fill='none' stroke='%23E09711' stroke-width='3'/%3E%3Cpath d='M4 24a20 20 0 0 1 40 0H4Z' fill='%23E09711' fill-opacity='.12'/%3E%3Cpath d='M4 24h40' stroke='%23E09711' stroke-width='3'/%3E%3Ccircle cx='24' cy='24' r='7' fill='%231c2531' stroke='%23E09711' stroke-width='3'/%3E%3Ccircle cx='24' cy='24' r='2.7' fill='%23E09711'/%3E%3C/svg%3E");
+  background-size:40px 40px;background-position:center;background-repeat:no-repeat;
+  border:1px solid rgba(224,151,17,.25);
+}
+#hp-dex-app:is([data-pokemon="charmander"],[data-pokemon="charmeleon"],[data-hp-no-other-forms="true"]) #formChoices:empty::after{
+  content:"Esse Pokémon não possui outras formas além da sua original!";
+  display:block;max-width:390px;font-size:13px;line-height:1.65;
+  text-align:center;color:var(--ink,#f2f5fa);font-weight:600;
+}
