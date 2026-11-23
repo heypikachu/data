@@ -1,6 +1,15 @@
 {
   "schema": 1,
   "pokemon": {
+    "1": {
+      "name": "Bulbasaur",
+      "published": false
+    },
+    "2": {
+      "name": "Ivysaur",
+      "published": true,
+      "url": "https://dex.heypikachu.com/ivysaur"
+    },
     "3": {
       "name": "Venusaur",
       "published": true,
