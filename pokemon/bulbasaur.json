@@ -296,7 +296,7 @@
       "game_name": "Pokémon Red / Blue",
       "gen": "I",
       "console": "Game Boy",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -657,7 +657,7 @@
       "game_name": "Pokémon Yellow",
       "gen": "I",
       "console": "Game Boy",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -1018,7 +1018,7 @@
       "game_name": "Pokémon Gold",
       "gen": "II",
       "console": "Game Boy Color",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -1522,7 +1522,7 @@
       "game_name": "Pokémon Silver",
       "gen": "II",
       "console": "Game Boy Color",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -2026,7 +2026,7 @@
       "game_name": "Pokémon Crystal",
       "gen": "II",
       "console": "Game Boy Color",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -2521,7 +2521,7 @@
       "game_name": "Pokémon Ruby",
       "gen": "III",
       "console": "Game Boy Advance",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -3004,7 +3004,7 @@
       "game_name": "Pokémon Sapphire",
       "gen": "III",
       "console": "Game Boy Advance",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -3487,7 +3487,7 @@
       "game_name": "Pokémon Emerald",
       "gen": "III",
       "console": "Game Boy Advance",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -4079,7 +4079,7 @@
       "game_name": "Pokémon FireRed",
       "gen": "III",
       "console": "Game Boy Advance",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -4608,7 +4608,7 @@
       "game_name": "Pokémon LeafGreen",
       "gen": "III",
       "console": "Game Boy Advance",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -5137,7 +5137,7 @@
       "game_name": "Pokémon Diamond",
       "gen": "IV",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -5776,7 +5776,7 @@
       "game_name": "Pokémon Pearl",
       "gen": "IV",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -6415,7 +6415,7 @@
       "game_name": "Pokémon Platinum",
       "gen": "IV",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -7109,7 +7109,7 @@
       "game_name": "Pokémon HeartGold",
       "gen": "IV",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -7848,7 +7848,7 @@
       "game_name": "Pokémon SoulSilver",
       "gen": "IV",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -8587,7 +8587,7 @@
       "game_name": "Pokémon Black",
       "gen": "V",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -9243,7 +9243,7 @@
       "game_name": "Pokémon White",
       "gen": "V",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -9899,7 +9899,7 @@
       "game_name": "Pokémon Black 2",
       "gen": "V",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -10627,7 +10627,7 @@
       "game_name": "Pokémon White 2",
       "gen": "V",
       "console": "Nintendo DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -11355,7 +11355,7 @@
       "game_name": "Pokémon X",
       "gen": "VI",
       "console": "Nintendo 3DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -12055,7 +12055,7 @@
       "game_name": "Pokémon Y",
       "gen": "VI",
       "console": "Nintendo 3DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -12755,7 +12755,7 @@
       "game_name": "Pokémon Omega Ruby",
       "gen": "VI",
       "console": "Nintendo 3DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -13528,7 +13528,7 @@
       "game_name": "Pokémon Alpha Sapphire",
       "gen": "VI",
       "console": "Nintendo 3DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -14301,7 +14301,7 @@
       "game_name": "Pokémon Sun",
       "gen": "VII",
       "console": "Nintendo 3DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -14971,7 +14971,7 @@
       "game_name": "Pokémon Moon",
       "gen": "VII",
       "console": "Nintendo 3DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -15641,7 +15641,7 @@
       "game_name": "Pokémon Ultra Sun",
       "gen": "VII",
       "console": "Nintendo 3DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -16374,7 +16374,7 @@
       "game_name": "Pokémon Ultra Moon",
       "gen": "VII",
       "console": "Nintendo 3DS",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -17107,7 +17107,7 @@
       "game_name": "Pokémon Let's Go, Pikachu!",
       "gen": "VII",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -17451,7 +17451,7 @@
       "game_name": "Pokémon Let's Go, Eevee!",
       "gen": "VII",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -17795,7 +17795,7 @@
       "game_name": "Pokémon Sword",
       "gen": "VIII",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -18464,7 +18464,7 @@
       "game_name": "Pokémon Shield",
       "gen": "VIII",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -19133,7 +19133,7 @@
       "game_name": "Pokémon Brilliant Diamond",
       "gen": "VIII",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -19776,7 +19776,7 @@
       "game_name": "Pokémon Shining Pearl",
       "gen": "VIII",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -20419,7 +20419,7 @@
       "game_name": "Pokémon Scarlet",
       "gen": "IX",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -21070,7 +21070,7 @@
       "game_name": "Pokémon Violet",
       "gen": "IX",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
@@ -21721,7 +21721,7 @@
       "game_name": "Pokémon Legends: Z-A",
       "gen": "IX",
       "console": "Nintendo Switch",
-      "evolves_from": "Pokémon inicial da linha evolutiva",
+      "evolves_from": "",
       "evolves_to": "Ivysaur no nível 16",
       "review_status": "partial",
       "stats": [
