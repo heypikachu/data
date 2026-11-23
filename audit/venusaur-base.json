@@ -1,0 +1,2619 @@
+{
+  "schema": 1,
+  "species": "venusaur",
+  "name": "Venusaur",
+  "number": "0003",
+  "japanese": {
+    "kanji": "フシギバナ",
+    "romaji": "Fushigibana",
+    "spelling": "Fushigibana"
+  },
+  "types": [
+    "Grama",
+    "Venenoso"
+  ],
+  "species_name": "Pokémon Semente",
+  "height": "2,0 m",
+  "weight": "100,0 kg",
+  "capture_rate": 45,
+  "egg_cycles": 20,
+  "egg_groups": [
+    "Monstro",
+    "Grama"
+  ],
+  "gender_ratio": {
+    "male": 87.5,
+    "female": 12.5
+  },
+  "growth_rate": "Médio-lento",
+  "pokedex_color": "Verde",
+  "debut_generation": "I",
+  "experience_at_level_100": 1059860,
+  "spin_off_games": {
+    "title": "Além dos jogos principais",
+    "lead": "Participações em jogos derivados ainda pendentes de auditoria.",
+    "entries": []
+  },
+  "unavailable_games": [
+    "Pokémon Legends: Arceus"
+  ],
+  "records": {
+    "rb": {
+      "game_name": "Pokémon Red / Blue",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não existem nesta geração.",
+      "breeding": "Reprodução não existe nesta geração.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "yellow": {
+      "game_name": "Pokémon Yellow",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não existem nesta geração.",
+      "breeding": "Reprodução não existe nesta geração.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "gold": {
+      "game_name": "Pokémon Gold",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não existem nesta geração.",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "silver": {
+      "game_name": "Pokémon Silver",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não existem nesta geração.",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "crystal": {
+      "game_name": "Pokémon Crystal",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não existem nesta geração.",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "ruby": {
+      "game_name": "Pokémon Ruby",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "sapphire": {
+      "game_name": "Pokémon Sapphire",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "emerald": {
+      "game_name": "Pokémon Emerald",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "firered": {
+      "game_name": "Pokémon FireRed",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "leafgreen": {
+      "game_name": "Pokémon LeafGreen",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "diamond": {
+      "game_name": "Pokémon Diamond",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "pearl": {
+      "game_name": "Pokémon Pearl",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "platinum": {
+      "game_name": "Pokémon Platinum",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "heartgold": {
+      "game_name": "Pokémon HeartGold",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "soulsilver": {
+      "game_name": "Pokémon SoulSilver",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "black": {
+      "game_name": "Pokémon Black",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "white": {
+      "game_name": "Pokémon White",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "black2": {
+      "game_name": "Pokémon Black 2",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "white2": {
+      "game_name": "Pokémon White 2",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "x": {
+      "game_name": "Pokémon X",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "y": {
+      "game_name": "Pokémon Y",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "omega-ruby": {
+      "game_name": "Pokémon Omega Ruby",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "alpha-sapphire": {
+      "game_name": "Pokémon Alpha Sapphire",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "sun": {
+      "game_name": "Pokémon Sun",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "moon": {
+      "game_name": "Pokémon Moon",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "ultra-sun": {
+      "game_name": "Pokémon Ultra Sun",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "ultra-moon": {
+      "game_name": "Pokémon Ultra Moon",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "lets-go-pikachu": {
+      "game_name": "Pokémon Let's Go, Pikachu!",
+      "gen": "VII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Reprodução não existe nesta geração.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "lets-go-eevee": {
+      "game_name": "Pokémon Let's Go, Eevee!",
+      "gen": "VII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Reprodução não existe nesta geração.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Thick Fat",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "sword": {
+      "game_name": "Pokémon Sword",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Venusaur Gigantamax",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            82,
+            83,
+            100,
+            100,
+            80
+          ],
+          "detail": "Forma Gigantamax temporária. Métodos de obtenção ainda pendentes de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "shield": {
+      "game_name": "Pokémon Shield",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Venusaur Gigantamax",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            82,
+            83,
+            100,
+            100,
+            80
+          ],
+          "detail": "Forma Gigantamax temporária. Métodos de obtenção ainda pendentes de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "brilliant-diamond": {
+      "game_name": "Pokémon Brilliant Diamond",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "shining-pearl": {
+      "game_name": "Pokémon Shining Pearl",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "scarlet": {
+      "game_name": "Pokémon Scarlet",
+      "gen": "IX",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "violet": {
+      "game_name": "Pokémon Violet",
+      "gen": "IX",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Overgrow (Principal) · Chlorophyll (Oculta).",
+      "breeding": "Grupos de ovos: Monstro e Grama · 87,5% macho / 12,5% fêmea.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": [],
+        "other": [],
+        "evolution": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    },
+    "za": {
+      "game_name": "Pokémon Legends: Z-A",
+      "gen": "IX",
+      "console": "Nintendo Switch",
+      "evolves_from": "Ivysaur no nível 32",
+      "evolves_to": "Evolução final da linha Bulbasaur",
+      "review_status": "beta",
+      "stats": [
+        80,
+        82,
+        83,
+        100,
+        100,
+        80
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "At. Especial",
+        "Def. Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Grama",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não utilizadas nesta edição.",
+      "breeding": "Reprodução não existe nesta geração.",
+      "pokedex_entry": "",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+      "forms": [
+        {
+          "name": "Venusaur",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/3.png",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão."
+        },
+        {
+          "name": "Mega Venusaur",
+          "types": [
+            "Grama",
+            "Venenoso"
+          ],
+          "stats": [
+            80,
+            100,
+            123,
+            122,
+            120,
+            80
+          ],
+          "ability": "Habilidades não utilizadas nesta edição.",
+          "detail": "Megaevolução temporária. A obtenção e disponibilidade da Venusaurite nesta edição ainda precisam de auditoria."
+        }
+      ],
+      "defenses": [],
+      "obtaining": "Disponibilidade e métodos de obtenção ainda em auditoria.",
+      "encounters": [],
+      "moves_by_method": {
+        "level": [],
+        "evolution": [],
+        "tm": [],
+        "egg": [],
+        "tutor": [],
+        "tr": []
+      },
+      "learnset_notes": "Lista de golpes ainda não auditada para esta edição. Esta versão preliminar não deve ser publicada.",
+      "last_review": "2026-11-23"
+    }
+  },
+  "audit": {
+    "status": "partial",
+    "review_date": "2026-11-23",
+    "stage": "RASCUNHO ESTRUTURAL — NÃO PUBLICAR",
+    "notes": "Modelo estrutural inicial com dados gerais verificados; nenhum golpe, encontro, entrada da Pokédex, imagem de forma especial, mídia ou spin-off foi importado do Charizard. EVs de Z-A e disponibilidade por edição carecem de verificação. Campos em branco NÃO significam ausência do conteúdo no jogo.",
+    "pending_verification": [
+      "Movimentos por jogo, níveis, máquinas, tutores, eventos e transferências",
+      "Localizações e obtenção em cada uma das 36 edições",
+      "Entradas oficiais da Pokédex por edição",
+      "Atributos/EVs e mecânicas especiais de Legends Z-A",
+      "Formas e sprites alternativos condicionados à edição",
+      "Defesas conforme a tabela de tipos de cada geração",
+      "Origem, designers, morfologia, pegada, spin-offs, outras mídias e imagens"
+    ]
+  },
+  "media_appearances": {
+    "title": "Aparições em outras mídias",
+    "lead": "Pesquisa pendente.",
+    "anime": [],
+    "films": [],
+    "animations": [],
+    "manga": []
+  }
+}
