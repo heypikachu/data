@@ -47,6 +47,7 @@ async function hpDexRender() {
   const GAME_NAMES = { "rb": "Pokémon Red / Blue", "yellow": "Pokémon Yellow", "red-jp": "Pokémon Red (JP)", "green-jp": "Pokémon Green (JP)", "blue-jp": "Pokémon Blue (JP)", "gold": "Pokémon Gold", "silver": "Pokémon Silver", "crystal": "Pokémon Crystal", "ruby": "Pokémon Ruby", "sapphire": "Pokémon Sapphire", "emerald": "Pokémon Emerald", "firered": "Pokémon FireRed", "leafgreen": "Pokémon LeafGreen", "diamond": "Pokémon Diamond", "pearl": "Pokémon Pearl", "platinum": "Pokémon Platinum", "heartgold": "Pokémon HeartGold", "soulsilver": "Pokémon SoulSilver", "black": "Pokémon Black", "white": "Pokémon White", "black2": "Pokémon Black 2", "white2": "Pokémon White 2", "x": "Pokémon X", "y": "Pokémon Y", "omega-ruby": "Pokémon Omega Ruby", "alpha-sapphire": "Pokémon Alpha Sapphire", "sun": "Pokémon Sun", "moon": "Pokémon Moon", "ultra-sun": "Pokémon Ultra Sun", "ultra-moon": "Pokémon Ultra Moon", "lets-go-pikachu": "Pokémon Let's Go, Pikachu!", "lets-go-eevee": "Pokémon Let's Go, Eevee!", "sword": "Pokémon Sword", "shield": "Pokémon Shield", "brilliant-diamond": "Pokémon Brilliant Diamond", "shining-pearl": "Pokémon Shining Pearl", "legends-arceus": "Pokémon Legends: Arceus", "scarlet": "Pokémon Scarlet", "violet": "Pokémon Violet", "za": "Pokémon Legends: Z-A" };
 
   const TYPE_ICONS = { 'Normal': 'normal', 'Fogo': 'fire', 'Água': 'water', 'Grama': 'grass', 'Elétrico': 'electric', 'Gelo': 'ice', 'Lutador': 'fighting', 'Venenoso': 'poison', 'Terrestre': 'ground', 'Voador': 'flying', 'Psíquico': 'psychic', 'Inseto': 'bug', 'Pedra': 'rock', 'Fantasma': 'ghost', 'Dragão': 'dragon', 'Sombrio': 'dark', 'Aço': 'steel', 'Fada': 'fairy' };
+  const typeLabel = type => type === 'Veneno' ? 'Venenoso' : type;
   const STAT_COLORS = ['#f35f69','#e7a12c','#50a78b','#9684ed','#63a4d8','#e37db6'];
   const TYPE_COLORS = { 'Pedra': 'rock', 'Água': 'water', 'Elétrico': 'electric', 'Terrestre': 'ground', 'Grama': 'grass', 'Inseto': 'bug', 'Fogo': 'fire', 'Lutador': 'fighting', 'Aço': 'steel', 'Fada': 'fairy', 'Voador': 'flying', 'Dragão': 'dragon', 'Normal': 'normal', 'Venenoso': 'poison', 'Psíquico': 'psychic', 'Fantasma': 'ghost', 'Sombrio': 'dark', 'Gelo': 'ice' };
   const CAT_MAP = { 'fisico': { slug: 'fisico', label: 'Físico', css: 'physical' }, 'especial': { slug: 'especial', label: 'Especial', css: 'special' }, 'status': { slug: 'status', label: 'Status', css: 'status' } };
@@ -375,7 +376,11 @@ async function hpDexRender() {
     
     document.getElementById('hero-status').innerHTML = `<span>🔥 ${POKEDEX_DATA.species_name}</span><span>📏 ${(selectedForm && selectedForm.height) || POKEDEX_DATA.height}</span><span>⚖ ${(selectedForm && selectedForm.weight) || POKEDEX_DATA.weight}</span>`;
     document.getElementById('contexttext').innerHTML = `<strong>Modo ${rec.game_name} ativado.</strong> ${selectedForm ? `Forma: ${selectedForm.name}. ` : ''}Dados específicos desta edição.`;
-    document.getElementById('hero-types').innerHTML = ((selectedForm && selectedForm.types) || rec.types || POKEDEX_DATA.types).map(t => `<span class="type ${t.toLowerCase()}"><img class="hp-type-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/champions@tipo/${TYPE_ICONS[t]||'normal'}.webp"> ${t.toUpperCase()}</span>`).join('');
+    document.getElementById('hero-types').innerHTML = ((selectedForm && selectedForm.types) || rec.types || POKEDEX_DATA.types).map(type => {
+      const label = typeLabel(type);
+      const themeClass = label === 'Venenoso' ? 'veneno' : label.toLowerCase();
+      return `<span class="type ${themeClass}"><img class="hp-type-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/champions@tipo/${TYPE_ICONS[label] || 'normal'}.webp"> ${label.toUpperCase()}</span>`;
+    }).join('');
     
     let statsHtml = ''; let maxStat = 0; let maxName = ''; let totalStats = 0;
     const exibidos = (selectedForm && selectedForm.stats) || rec.stats; // A forma escolhida substitui os atributos base.
@@ -440,10 +445,10 @@ async function hpDexRender() {
     const defenseHost = document.getElementById('defenses');
     const activeDefenses = (selectedForm && selectedForm.defenses) || rec.defenses;
     if (Array.isArray(activeDefenses) && activeDefenses.length) {
-      defenseHost.innerHTML = activeDefenses.map(d => { const tipo = d.type || d.t; const icone = TYPE_ICONS[tipo]; return `<div class="fact"><small class="hp-defense-type">${icone ? `<img class="hp-type-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/champions@tipo/${icone}.webp" alt="" loading="lazy" decoding="async">` : ''}<span>${tipo}</span></small><strong>${d.multiplier || d.m} · ${d.note || d.c || ''}</strong></div>`; }).join('');
+      defenseHost.innerHTML = activeDefenses.map(d => { const tipo = typeLabel(d.type || d.t); const icone = TYPE_ICONS[tipo]; return `<div class="fact"><small class="hp-defense-type">${icone ? `<img class="hp-type-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/champions@tipo/${icone}.webp" alt="" loading="lazy" decoding="async">` : ''}<span>${tipo}</span></small><strong>${d.multiplier || d.m} · ${d.note || d.c || ''}</strong></div>`; }).join('');
     } else if (JSON.stringify(rec.types || POKEDEX_DATA.types) === JSON.stringify(['Fogo'])) {
       const defs = [{t:'Pedra',m:'2×',c:'fraqueza'},{t:'Água',m:'2×',c:'fraqueza'},{t:'Terrestre',m:'2×',c:'fraqueza'},{t:'Grama',m:'½×',c:'resistência'},{t:'Fogo',m:'½×',c:'resistência'},{t:'Inseto',m:'½×',c:'resistência'},...(['I'].includes(rec.gen)?[]:[{t:'Gelo',m:'½×',c:'resistência'},{t:'Aço',m:'½×',c:'resistência'}]),...(['VI','VII','VIII','IX'].includes(rec.gen)?[{t:'Fada',m:'½×',c:'resistência'}]:[])];
-      defenseHost.innerHTML = defs.map(d => `<div class="fact"><small class="hp-defense-type"><img class="hp-type-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/champions@tipo/${TYPE_COLORS[d.t]}.webp" alt=""><span>${d.t}</span></small><strong>${d.m} · ${d.c}</strong></div>`).join('');
+      defenseHost.innerHTML = defs.map(d => `<div class="fact"><small class="hp-defense-type"><img class="hp-type-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/champions@tipo/${TYPE_COLORS[typeLabel(d.t)]}.webp" alt=""><span>${typeLabel(d.t)}</span></small><strong>${d.m} · ${d.c}</strong></div>`).join('');
     } else {
       defenseHost.innerHTML = `<div class="stateempty">Efetividades por geração ainda não cadastradas no JSON desta espécie.</div>`;
     }
@@ -618,7 +623,8 @@ async function hpDexRender() {
         const methodLabel = m.machine || (CURRENT_METHOD === 'egg' ? 'Ovo' : CURRENT_METHOD === 'tutor' ? 'Tutor' : CURRENT_METHOD === 'evolution' ? 'Evolução' : CURRENT_METHOD === 'other' ? 'Especial' : CURRENT_METHOD === 'level' ? (m.level === 0 ? 'Evolução' : (m.level ?? '—')) : '—');
         const rawCat = (m.category || 'Status').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
         const catInfo = CAT_MAP[rawCat] || null;
-        const tipoHTML = m.type === 'Variável' ? '<span class="movetype" title="Tipo determinado pelos valores individuais do Pokémon">Variável</span>' : `<span class="movetype hp-move-${TYPE_ICONS[m.type] || 'normal'}"><img class="hp-type-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/champions@tipo/${TYPE_ICONS[m.type] || 'normal'}.webp" alt=""> ${m.type}</span>`;
+        const moveType = typeLabel(m.type);
+        const tipoHTML = moveType === 'Variável' ? '<span class="movetype" title="Tipo determinado pelos valores individuais do Pokémon">Variável</span>' : `<span class="movetype hp-move-${TYPE_ICONS[moveType] || 'normal'}"><img class="hp-type-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/champions@tipo/${TYPE_ICONS[moveType] || 'normal'}.webp" alt=""> ${moveType}</span>`;
         const categoriaHTML = catInfo ? `<span class="mcat hp-cat-${catInfo.css}"><img class="hp-category-icon" src="https://cdn.jsdelivr.net/gh/heypikachu/sprites@main/pokemon/${catInfo.slug}.webp" alt=""> ${catInfo.label}</span>` : '<span class="mcat" title="Depende do tipo do movimento nesta geração">Variável</span>';
         return `<tr><td><b>${methodLabel}</b></td><td><span class="movename"${m.note ? ` title="${m.note}"` : ''}>${m.name || m.movement}</span></td><td>${tipoHTML}</td><td>${categoriaHTML}</td><td>${m.power ?? '—'}</td><td>${CURRENT_GAME === 'za' ? (m.cooldown != null ? m.cooldown + ' s' : '—') : (m.accuracy ?? '—')}</td><td>${CURRENT_GAME === 'za' ? (m.plus_level != null ? 'PLUS Nv. ' + m.plus_level : 'PLUS: não confirmado') : (m.pp ?? '—')}</td></tr>`;
       }).join('');
