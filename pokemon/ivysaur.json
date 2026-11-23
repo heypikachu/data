@@ -273,6 +273,11 @@
           "note": "Fraqueza"
         },
         {
+          "type": "Inseto",
+          "multiplier": "4×",
+          "note": "Fraqueza (Geração I)"
+        },
+        {
           "type": "Água",
           "multiplier": "½×",
           "note": "Resistência"
@@ -293,7 +298,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Escolher Bulbasaur como Pokémon inicial, evoluir para Ivysaur no nível 16 e depois para Bulbasaur no nível 16; se escolher outro inicial, usar troca. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Escolher Bulbasaur como Pokémon inicial, evoluir para Ivysaur no nível 16 e depois para Bulbasaur no nível 16; se escolher outro inicial, usar troca.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -639,6 +644,11 @@
           "note": "Fraqueza"
         },
         {
+          "type": "Inseto",
+          "multiplier": "4×",
+          "note": "Fraqueza (Geração I)"
+        },
+        {
           "type": "Água",
           "multiplier": "½×",
           "note": "Resistência"
@@ -659,7 +669,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Receber Bulbasaur de Melanie em Cerulean City após conquistar a confiança de Pikachu; evoluir até Ivysaur nos níveis 16 e 32. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Receber Bulbasaur de Melanie em Cerulean City após conquistar a confiança de Pikachu; evoluir até Ivysaur nos níveis 16 e 32.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -1027,7 +1037,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Importar Bulbasaur, Ivysaur ou Ivysaur de Pokémon Red/Blue/Yellow por troca via Time Capsule; também podem existir distribuições históricas. Não há captura selvagem comum. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Bulbasaur não aparece selvagem nesta edição. Obtenha um exemplar da geração I por troca via Time Capsule e evolua-o ao nível 16, ou receba Ivysaur por uma troca compatível.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -1560,7 +1570,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Importar a linha Bulbasaur por troca via Time Capsule com a geração I; evolução de Bulbasaur no nível 16. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Bulbasaur não aparece selvagem nesta edição. Obtenha um exemplar da geração I por troca via Time Capsule e evolua-o ao nível 16, ou receba Ivysaur por uma troca compatível.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -2093,7 +2103,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Obter a linha evolutiva por troca via Time Capsule com jogos da geração I; eventos históricos não equivalem a disponibilidade permanente. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Bulbasaur não aparece selvagem nesta edição. Obtenha um exemplar da geração I por troca via Time Capsule e evolua-o ao nível 16, ou receba Ivysaur por uma troca compatível.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -2617,7 +2627,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. A linha Bulbasaur não aparece como encontro selvagem normal em Hoenn; obter por troca com FireRed/LeafGreen ou outro cartucho compatível. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. A linha Bulbasaur não aparece como encontro selvagem normal em Hoenn; obter por troca com FireRed/LeafGreen ou outro cartucho compatível.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -3128,7 +3138,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. A linha Bulbasaur não aparece como encontro selvagem normal em Hoenn; obter por troca com FireRed/LeafGreen ou outro cartucho compatível. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. A linha Bulbasaur não aparece como encontro selvagem normal em Hoenn; obter por troca com FireRed/LeafGreen ou outro cartucho compatível.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -3639,7 +3649,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Obter Bulbasaur/Ivysaur/Ivysaur por troca com outros jogos compatíveis da geração III. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Obter Bulbasaur/Ivysaur/Ivysaur por troca com outros jogos compatíveis da geração III.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -4259,7 +4269,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Escolher Bulbasaur como inicial no laboratório de Oak, evoluí-lo para Ivysaur no nível 16 e Bulbasaur no nível 16; outras escolhas exigem troca. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Escolher Bulbasaur como inicial no laboratório de Oak, evoluí-lo para Ivysaur no nível 16 e Bulbasaur no nível 16; outras escolhas exigem troca.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -4816,7 +4826,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Escolher Bulbasaur no laboratório de Oak e evoluir sua linha até o nível 16. Ivysaur é a mascote da edição LeafGreen. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Escolher Bulbasaur no laboratório de Oak e evoluir sua linha até o nível 16. Ivysaur é a mascote da edição LeafGreen.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -5373,7 +5383,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Transferir a linha Bulbasaur de um jogo compatível de Game Boy Advance pelo Pal Park ou realizar troca com outro jogo da geração IV. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Transferir a linha Bulbasaur de um jogo compatível de Game Boy Advance pelo Pal Park ou realizar troca com outro jogo da geração IV.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -6040,7 +6050,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Transferir a linha Bulbasaur de um cartucho da geração III usando o Pal Park ou realizar troca com jogo compatível da geração IV. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Transferir a linha Bulbasaur de um cartucho da geração III usando o Pal Park ou realizar troca com jogo compatível da geração IV.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -6707,7 +6717,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Obter a linha Bulbasaur por migração via Pal Park a partir da geração III ou por troca com jogos da geração IV. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Obter a linha Bulbasaur por migração via Pal Park a partir da geração III ou por troca com jogos da geração IV.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -7429,7 +7439,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Depois de derrotar Red no Mt. Silver, visitar Oak em Pallet Town e escolher Bulbasaur entre os iniciais de Kanto; evoluir a Bulbasaur no nível 16. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Depois de derrotar Red no Mt. Silver, visitar Oak em Pallet Town e escolher Bulbasaur entre os iniciais de Kanto; evoluir a Bulbasaur no nível 16.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -8196,7 +8206,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Depois de derrotar Red no Mt. Silver, receber Bulbasaur de Oak em Pallet Town e evoluí-lo até Ivysaur. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Depois de derrotar Red no Mt. Silver, receber Bulbasaur de Oak em Pallet Town e evoluí-lo até Ivysaur.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -8963,7 +8973,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Usar Poké Transfer para trazer a linha Bulbasaur da geração IV ou trocar com outro cartucho da geração V. Sem encontro selvagem comum em Unova. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Usar Poké Transfer para trazer a linha Bulbasaur da geração IV ou trocar com outro cartucho da geração V. Sem encontro selvagem comum em Unova.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -9639,7 +9649,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Usar Poké Transfer da geração IV ou trocar com outro jogo de Unova. Não há captura selvagem permanente de Ivysaur. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Usar Poké Transfer da geração IV ou trocar com outro jogo de Unova. Não há captura selvagem permanente de Ivysaur.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -10315,7 +10325,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Usar Poké Transfer para receber a linha Bulbasaur da geração IV ou trocar dentro da geração V. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Usar Poké Transfer para receber a linha Bulbasaur da geração IV ou trocar dentro da geração V.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -11063,7 +11073,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Usar Poké Transfer ou trocas compatíveis; não confundir Ivysaur de treinadores com um encontro capturável. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Usar Poké Transfer ou trocas compatíveis; não confundir Ivysaur de treinadores com um encontro capturável.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -11816,7 +11826,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Após vencer Professor Sycamore em Lumiose City, escolher Bulbasaur entre os iniciais de Kanto; evoluir Ivysaur ao nível 16. Ivysaur pode megaevoluir com Ivysaurite. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Após vencer Professor Sycamore em Lumiose City, escolher Bulbasaur entre os iniciais de Kanto; evoluir Ivysaur ao nível 16. Ivysaur pode megaevoluir com Ivysaurite.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -12536,7 +12546,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Receber Bulbasaur no laboratório de Sycamore e evoluir a linha; Ivysaurite permite Mega Ivysaur. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Receber Bulbasaur no laboratório de Sycamore e evoluir a linha; Ivysaurite permite Mega Ivysaur.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -13256,7 +13266,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Obter a linha Bulbasaur por troca com outra edição compatível ou transferência pelo Pokémon Bank; não é captura selvagem comum da região. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Obter a linha Bulbasaur por troca com outra edição compatível ou transferência pelo Pokémon Bank; não é captura selvagem comum da região.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -14049,7 +14059,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Obter Bulbasaur/Ivysaur/Ivysaur por troca ou Pokémon Bank; não aparece como Pokémon selvagem comum em Hoenn. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Obter Bulbasaur/Ivysaur/Ivysaur por troca ou Pokémon Bank; não aparece como Pokémon selvagem comum em Hoenn.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -14842,7 +14852,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. A linha Bulbasaur não é obtida por captura selvagem normal em Sun; requer troca ou transferência compatível pelo Pokémon Bank. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. A linha Bulbasaur não é obtida por captura selvagem normal em Sun; requer troca ou transferência compatível pelo Pokémon Bank.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -15532,7 +15542,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. A linha Bulbasaur não é encontrada selvagem nesta edição; obtenção por troca ou Pokémon Bank. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. A linha Bulbasaur não é encontrada selvagem nesta edição; obtenção por troca ou Pokémon Bank.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -16222,7 +16232,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Localizar Bulbasaur na Route 2 pelo Island Scan às sextas-feiras; evoluir no nível 16 e novamente no 32. Também pode ser obtido por troca. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Bulbasaur pode ser encontrado na Route 2 com Island Scan às sextas-feiras. Evolua-o a Ivysaur no nível 16.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -16975,7 +16985,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Localizar Bulbasaur na Route 2 pelo Island Scan às sextas-feiras; evoluir no nível 16 e no 32. Também pode ser obtido por troca. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Bulbasaur pode ser encontrado na Route 2 com Island Scan às sextas-feiras. Evolua-o a Ivysaur no nível 16.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -17728,7 +17738,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Receber Bulbasaur em Cerulean City ou capturá-lo raramente em Viridian Forest; evoluir até Ivysaur. Mega Ivysaur utiliza Ivysaurite. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Obtenha Bulbasaur como presente em Cerulean City ou encontre-o raramente em Viridian Forest; evolua-o no nível 16.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -18102,7 +18112,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Receber Bulbasaur em Cerulean City ou encontrá-lo raramente em Viridian Forest; evoluir até Ivysaur e utilizar Ivysaurite quando desbloqueado. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Obtenha Bulbasaur como presente em Cerulean City ou encontre-o raramente em Viridian Forest; evolua-o no nível 16.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -18476,7 +18486,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. No DLC Isle of Armor, escolher Bulbasaur no Master Dojo e evoluí-lo até Ivysaur; sua linha também pode ser obtida por Max Raid Battles, troca ou transferência. Gigantamax depende de Fator Gigantamax/Max Soup. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. No DLC Isle of Armor, receba Bulbasaur no Master Dojo e evolua-o no nível 16. Também é possível obtê-lo por trocas ou transferência compatível. Ivysaur não tem Gigantamax próprio.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -19145,7 +19155,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Obter Bulbasaur no Master Dojo em Isle of Armor, evoluí-lo ou usar Max Raid Battles/trocas/transferência. Gigantamax requer o fator correspondente ou Max Soup. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. No DLC Isle of Armor, receba Bulbasaur no Master Dojo e evolua-o no nível 16. Também é possível obtê-lo por trocas ou transferência compatível. Ivysaur não tem Gigantamax próprio.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -19814,7 +19824,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Após desbloquear a National Pokédex, procurar Bulbasaur nos Hideaways adequados do Grand Underground; evoluir Bulbasaur no nível 16. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Após desbloquear a National Pokédex, procure Bulbasaur nos biomas adequados do Grand Underground e evolua-o no nível 16.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -20457,7 +20467,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Após desbloquear a National Pokédex, procurar Bulbasaur nos Hideaways adequados do Grand Underground e evoluir até Ivysaur. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Após desbloquear a National Pokédex, procure Bulbasaur nos biomas adequados do Grand Underground e evolua-o no nível 16.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -21100,7 +21110,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Após desbloquear a biodiversidade dos iniciais no Terarium com Blueberry Points, capturar Bulbasaur e evoluí-lo; também é possível usar troca ou Pokémon HOME. Ivysaur foi disponibilizado em Tera Raids temporárias (eventos encerrados). Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Após liberar a biodiversidade dos iniciais no Terarium, capture Bulbasaur e evolua-o no nível 16. Sem o conteúdo adicional, utilize uma troca ou Pokémon HOME.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -21761,7 +21771,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Evolua Bulbasaur a partir do nível 16 para obter Ivysaur. Desbloquear Bulbasaur no Terarium da Blueberry Academy com melhorias de biodiversidade; evoluir até Ivysaur ou obtê-lo por troca/HOME. Tera Raids especiais não são permanentes. Ivysaur é a evolução final de Bulbasaur no nível 16.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Após liberar a biodiversidade dos iniciais no Terarium, capture Bulbasaur e evolua-o no nível 16. Sem o conteúdo adicional, utilize uma troca ou Pokémon HOME.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -22422,7 +22432,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Receber Bulbasaur entre os iniciais de Kanto na missão secundária 22 ou capturá-lo na Wild Zone 20, depois evoluir ao nível 16. A evolução é acionada manualmente nesta edição.",
+      "obtaining": "Ivysaur evolui de Bulbasaur no nível 16. Receber Bulbasaur entre os iniciais de Kanto na missão secundária 22 ou capturá-lo na Wild Zone 20, depois evoluir ao nível 16. A evolução é acionada manualmente nesta edição.",
       "encounters": [
         {
           "pokemon": "Ivysaur",
@@ -22747,7 +22757,7 @@
   "audit": {
     "status": "partial",
     "review_date": "2026-11-23",
-    "notes": "Dados biológicos e atributos conferidos em Pokémon Database, Serebii e Bulbapedia; movimentos por edição estruturados com os conjuntos versionados do PokeAPI. O arquivo é uma ficha de cobertura ampla, não uma certificação factual integral de todas as edições. Seções com informação ainda não confirmada estão assinaladas para evitar falsos dados.",
+    "notes": "Dados biológicos e atributos conferidos em Pokémon Database, Serebii e Bulbapedia; movimentos por edição estruturados com os conjuntos versionados do PokeAPI. O arquivo é uma ficha de cobertura ampla, não uma certificação factual integral de todas as edições. Seções com informação ainda não confirmada estão assinaladas para evitar falsos dados. Conferência adicional: na geração I, a combinação Grama/Veneno recebe 4× de dano de golpes do tipo Inseto; textos de obtenção foram alinhados aos métodos individualmente descritos, sem reaproveitar menções exclusivas a Venusaur.",
     "pending_verification": [
       "Verificar todos os métodos especiais e tutores, requisitos de acesso e numeração das TMs em edições antigas.",
       "Confirmar individualmente a rota de obtenção de cada edição com fontes oficiais e específicas.",
