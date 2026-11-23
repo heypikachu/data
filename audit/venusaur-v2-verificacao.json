@@ -26,7 +26,7 @@
       "level": 14,
       "evolution": 0,
       "tm": 25,
-      "egg": 0,
+      "egg": 6,
       "tutor": 0,
       "tr": 0,
       "other": 0
@@ -35,7 +35,7 @@
       "level": 14,
       "evolution": 0,
       "tm": 25,
-      "egg": 0,
+      "egg": 6,
       "tutor": 0,
       "tr": 0,
       "other": 0
@@ -44,7 +44,7 @@
       "level": 14,
       "evolution": 0,
       "tm": 25,
-      "egg": 0,
+      "egg": 5,
       "tutor": 0,
       "tr": 0,
       "other": 0
@@ -53,7 +53,7 @@
       "level": 14,
       "evolution": 0,
       "tm": 22,
-      "egg": 0,
+      "egg": 8,
       "tutor": 0,
       "tr": 0,
       "other": 0
@@ -62,7 +62,7 @@
       "level": 14,
       "evolution": 0,
       "tm": 22,
-      "egg": 0,
+      "egg": 8,
       "tutor": 0,
       "tr": 0,
       "other": 0
@@ -71,7 +71,7 @@
       "level": 14,
       "evolution": 0,
       "tm": 22,
-      "egg": 0,
+      "egg": 8,
       "tutor": 12,
       "tr": 0,
       "other": 0
@@ -80,7 +80,7 @@
       "level": 14,
       "evolution": 0,
       "tm": 22,
-      "egg": 0,
+      "egg": 8,
       "tutor": 6,
       "tr": 0,
       "other": 0
@@ -89,7 +89,7 @@
       "level": 14,
       "evolution": 0,
       "tm": 22,
-      "egg": 0,
+      "egg": 8,
       "tutor": 6,
       "tr": 0,
       "other": 0
@@ -98,7 +98,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 33,
-      "egg": 0,
+      "egg": 12,
       "tutor": 1,
       "tr": 0,
       "other": 0
@@ -107,7 +107,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 33,
-      "egg": 0,
+      "egg": 12,
       "tutor": 1,
       "tr": 0,
       "other": 0
@@ -116,7 +116,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 33,
-      "egg": 0,
+      "egg": 12,
       "tutor": 8,
       "tr": 0,
       "other": 0
@@ -125,7 +125,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 33,
-      "egg": 0,
+      "egg": 14,
       "tutor": 12,
       "tr": 0,
       "other": 0
@@ -134,7 +134,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 33,
-      "egg": 0,
+      "egg": 14,
       "tutor": 12,
       "tr": 0,
       "other": 0
@@ -143,7 +143,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 31,
-      "egg": 0,
+      "egg": 14,
       "tutor": 2,
       "tr": 0,
       "other": 0
@@ -152,7 +152,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 31,
-      "egg": 0,
+      "egg": 14,
       "tutor": 2,
       "tr": 0,
       "other": 0
@@ -161,7 +161,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 31,
-      "egg": 0,
+      "egg": 14,
       "tutor": 12,
       "tr": 0,
       "other": 0
@@ -170,7 +170,7 @@
       "level": 18,
       "evolution": 0,
       "tm": 31,
-      "egg": 0,
+      "egg": 14,
       "tutor": 12,
       "tr": 0,
       "other": 0
@@ -179,7 +179,7 @@
       "level": 19,
       "evolution": 0,
       "tm": 34,
-      "egg": 0,
+      "egg": 15,
       "tutor": 2,
       "tr": 0,
       "other": 0
@@ -188,7 +188,7 @@
       "level": 19,
       "evolution": 0,
       "tm": 34,
-      "egg": 0,
+      "egg": 15,
       "tutor": 2,
       "tr": 0,
       "other": 0
@@ -197,7 +197,7 @@
       "level": 19,
       "evolution": 0,
       "tm": 35,
-      "egg": 0,
+      "egg": 15,
       "tutor": 11,
       "tr": 0,
       "other": 0
@@ -206,7 +206,7 @@
       "level": 19,
       "evolution": 0,
       "tm": 35,
-      "egg": 0,
+      "egg": 15,
       "tutor": 11,
       "tr": 0,
       "other": 0
@@ -215,7 +215,7 @@
       "level": 19,
       "evolution": 0,
       "tm": 31,
-      "egg": 0,
+      "egg": 15,
       "tutor": 2,
       "tr": 0,
       "other": 0
@@ -224,7 +224,7 @@
       "level": 19,
       "evolution": 0,
       "tm": 31,
-      "egg": 0,
+      "egg": 15,
       "tutor": 2,
       "tr": 0,
       "other": 0
@@ -233,7 +233,7 @@
       "level": 19,
       "evolution": 0,
       "tm": 31,
-      "egg": 0,
+      "egg": 15,
       "tutor": 12,
       "tr": 0,
       "other": 0
@@ -242,7 +242,7 @@
       "level": 19,
       "evolution": 0,
       "tm": 31,
-      "egg": 0,
+      "egg": 15,
       "tutor": 12,
       "tr": 0,
       "other": 0
@@ -269,7 +269,7 @@
       "level": 17,
       "evolution": 0,
       "tm": 23,
-      "egg": 0,
+      "egg": 6,
       "tutor": 4,
       "tr": 16,
       "other": 0
@@ -278,7 +278,7 @@
       "level": 17,
       "evolution": 0,
       "tm": 23,
-      "egg": 0,
+      "egg": 6,
       "tutor": 4,
       "tr": 16,
       "other": 0
@@ -287,7 +287,7 @@
       "level": 17,
       "evolution": 0,
       "tm": 32,
-      "egg": 0,
+      "egg": 12,
       "tutor": 1,
       "tr": 0,
       "other": 0
@@ -296,7 +296,7 @@
       "level": 17,
       "evolution": 0,
       "tm": 32,
-      "egg": 0,
+      "egg": 12,
       "tutor": 1,
       "tr": 0,
       "other": 0
@@ -305,7 +305,7 @@
       "level": 17,
       "evolution": 0,
       "tm": 46,
-      "egg": 0,
+      "egg": 4,
       "tutor": 0,
       "tr": 0,
       "other": 0
@@ -314,7 +314,7 @@
       "level": 17,
       "evolution": 0,
       "tm": 46,
-      "egg": 0,
+      "egg": 4,
       "tutor": 0,
       "tr": 0,
       "other": 0
@@ -330,6 +330,6 @@
     }
   },
   "uncertain_moves": [],
-  "sum_moves_all": 1806,
+  "sum_moves_all": 2147,
   "verification": "Compilado de tabelas, não certifica cada golpe/localização individualmente"
 }
