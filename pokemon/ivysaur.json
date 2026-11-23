@@ -3,6 +3,26 @@
   "species": "ivysaur",
   "name": "Ivysaur",
   "number": "0002",
+  "evolution_line": [
+    {
+      "name": "Bulbasaur",
+      "number": 1,
+      "method": null,
+      "level": null
+    },
+    {
+      "name": "Ivysaur",
+      "number": 2,
+      "method": "Lv.16",
+      "level": 16
+    },
+    {
+      "name": "Venusaur",
+      "number": 3,
+      "method": "Lv.32",
+      "level": 32
+    }
+  ],
   "japanese": {
     "kanji": "フシギソウ",
     "romaji": "Fushigisou",
