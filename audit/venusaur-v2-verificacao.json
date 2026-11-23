@@ -1,0 +1,335 @@
+{
+  "status": "PARCIAL_NAO_PUBLICAR_COMO_COMPLETA",
+  "source": "PokeAPI/pokeapi data/v2/csv (movimentos e metadados públicos)",
+  "pokemon": "Venusaur",
+  "editions": 36,
+  "moves_by_edition": {
+    "rb": {
+      "level": 11,
+      "evolution": 0,
+      "tm": 16,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "yellow": {
+      "level": 11,
+      "evolution": 0,
+      "tm": 16,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "gold": {
+      "level": 14,
+      "evolution": 0,
+      "tm": 25,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "silver": {
+      "level": 14,
+      "evolution": 0,
+      "tm": 25,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "crystal": {
+      "level": 14,
+      "evolution": 0,
+      "tm": 25,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "ruby": {
+      "level": 14,
+      "evolution": 0,
+      "tm": 22,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "sapphire": {
+      "level": 14,
+      "evolution": 0,
+      "tm": 22,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "emerald": {
+      "level": 14,
+      "evolution": 0,
+      "tm": 22,
+      "egg": 0,
+      "tutor": 12,
+      "tr": 0,
+      "other": 0
+    },
+    "firered": {
+      "level": 14,
+      "evolution": 0,
+      "tm": 22,
+      "egg": 0,
+      "tutor": 6,
+      "tr": 0,
+      "other": 0
+    },
+    "leafgreen": {
+      "level": 14,
+      "evolution": 0,
+      "tm": 22,
+      "egg": 0,
+      "tutor": 6,
+      "tr": 0,
+      "other": 0
+    },
+    "diamond": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 33,
+      "egg": 0,
+      "tutor": 1,
+      "tr": 0,
+      "other": 0
+    },
+    "pearl": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 33,
+      "egg": 0,
+      "tutor": 1,
+      "tr": 0,
+      "other": 0
+    },
+    "platinum": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 33,
+      "egg": 0,
+      "tutor": 8,
+      "tr": 0,
+      "other": 0
+    },
+    "heartgold": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 33,
+      "egg": 0,
+      "tutor": 12,
+      "tr": 0,
+      "other": 0
+    },
+    "soulsilver": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 33,
+      "egg": 0,
+      "tutor": 12,
+      "tr": 0,
+      "other": 0
+    },
+    "black": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 31,
+      "egg": 0,
+      "tutor": 2,
+      "tr": 0,
+      "other": 0
+    },
+    "white": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 31,
+      "egg": 0,
+      "tutor": 2,
+      "tr": 0,
+      "other": 0
+    },
+    "black2": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 31,
+      "egg": 0,
+      "tutor": 12,
+      "tr": 0,
+      "other": 0
+    },
+    "white2": {
+      "level": 18,
+      "evolution": 0,
+      "tm": 31,
+      "egg": 0,
+      "tutor": 12,
+      "tr": 0,
+      "other": 0
+    },
+    "x": {
+      "level": 19,
+      "evolution": 0,
+      "tm": 34,
+      "egg": 0,
+      "tutor": 2,
+      "tr": 0,
+      "other": 0
+    },
+    "y": {
+      "level": 19,
+      "evolution": 0,
+      "tm": 34,
+      "egg": 0,
+      "tutor": 2,
+      "tr": 0,
+      "other": 0
+    },
+    "omega-ruby": {
+      "level": 19,
+      "evolution": 0,
+      "tm": 35,
+      "egg": 0,
+      "tutor": 11,
+      "tr": 0,
+      "other": 0
+    },
+    "alpha-sapphire": {
+      "level": 19,
+      "evolution": 0,
+      "tm": 35,
+      "egg": 0,
+      "tutor": 11,
+      "tr": 0,
+      "other": 0
+    },
+    "sun": {
+      "level": 19,
+      "evolution": 0,
+      "tm": 31,
+      "egg": 0,
+      "tutor": 2,
+      "tr": 0,
+      "other": 0
+    },
+    "moon": {
+      "level": 19,
+      "evolution": 0,
+      "tm": 31,
+      "egg": 0,
+      "tutor": 2,
+      "tr": 0,
+      "other": 0
+    },
+    "ultra-sun": {
+      "level": 19,
+      "evolution": 0,
+      "tm": 31,
+      "egg": 0,
+      "tutor": 12,
+      "tr": 0,
+      "other": 0
+    },
+    "ultra-moon": {
+      "level": 19,
+      "evolution": 0,
+      "tm": 31,
+      "egg": 0,
+      "tutor": 12,
+      "tr": 0,
+      "other": 0
+    },
+    "lets-go-pikachu": {
+      "level": 16,
+      "evolution": 0,
+      "tm": 14,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "lets-go-eevee": {
+      "level": 16,
+      "evolution": 0,
+      "tm": 14,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "sword": {
+      "level": 17,
+      "evolution": 0,
+      "tm": 23,
+      "egg": 0,
+      "tutor": 4,
+      "tr": 16,
+      "other": 0
+    },
+    "shield": {
+      "level": 17,
+      "evolution": 0,
+      "tm": 23,
+      "egg": 0,
+      "tutor": 4,
+      "tr": 16,
+      "other": 0
+    },
+    "brilliant-diamond": {
+      "level": 17,
+      "evolution": 0,
+      "tm": 32,
+      "egg": 0,
+      "tutor": 1,
+      "tr": 0,
+      "other": 0
+    },
+    "shining-pearl": {
+      "level": 17,
+      "evolution": 0,
+      "tm": 32,
+      "egg": 0,
+      "tutor": 1,
+      "tr": 0,
+      "other": 0
+    },
+    "scarlet": {
+      "level": 17,
+      "evolution": 0,
+      "tm": 46,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "violet": {
+      "level": 17,
+      "evolution": 0,
+      "tm": 46,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    },
+    "za": {
+      "level": 16,
+      "evolution": 0,
+      "tm": 28,
+      "egg": 0,
+      "tutor": 0,
+      "tr": 0,
+      "other": 0
+    }
+  },
+  "uncertain_moves": [],
+  "sum_moves_all": 1806,
+  "verification": "Compilado de tabelas, não certifica cada golpe/localização individualmente"
+}
