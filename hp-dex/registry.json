@@ -3,7 +3,8 @@
   "pokemon": {
     "1": {
       "name": "Bulbasaur",
-      "published": false
+      "published": true,
+      "url": "https://dex.heypikachu.com/bulbasaur"
     },
     "2": {
       "name": "Ivysaur",
