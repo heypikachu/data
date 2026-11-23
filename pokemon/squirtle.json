@@ -111,13 +111,19 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Escolha Squirtle com o Professor Oak.",
+      "obtaining": "Escolha Squirtle com o Professor Oak. Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível.",
       "encounters": [
         {
           "pokemon": "Squirtle",
           "location": "Pallet Town",
           "method": "Inicial",
           "details": "Escolha Squirtle com o Professor Oak."
+        },
+        {
+          "pokemon": "Squirtle",
+          "location": "Gym Leader Castle (Pokémon Stadium)",
+          "method": "Prêmio transferível",
+          "details": "Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível."
         }
       ],
       "moves_by_method": {
@@ -285,7 +291,7 @@
             "pp": 15
           },
           {
-            "name": "BubbleBeam",
+            "name": "Bubble Beam",
             "method": "tm",
             "type": "Água",
             "category": "Especial",
@@ -522,13 +528,19 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Fale com a policial Jenny depois de obter a Thunder Badge.",
+      "obtaining": "Fale com a policial Jenny depois de obter a Thunder Badge. Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível.",
       "encounters": [
         {
           "pokemon": "Squirtle",
           "location": "Vermilion City",
           "method": "Presente",
           "details": "Fale com a policial Jenny depois de obter a Thunder Badge."
+        },
+        {
+          "pokemon": "Squirtle",
+          "location": "Gym Leader Castle (Pokémon Stadium)",
+          "method": "Prêmio transferível",
+          "details": "Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível."
         }
       ],
       "moves_by_method": {
@@ -696,7 +708,7 @@
             "pp": 15
           },
           {
-            "name": "BubbleBeam",
+            "name": "Bubble Beam",
             "method": "tm",
             "type": "Água",
             "category": "Especial",
@@ -1104,7 +1116,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "tm",
             "type": "Lutador",
             "category": "Físico",
@@ -1131,7 +1143,8 @@
             "power": "—",
             "accuracy": "—",
             "machine": "TM03",
-            "pp": 10
+            "pp": 10,
+            "note": "Tipo histórico ??? nesta edição."
           },
           {
             "name": "Rollout",
@@ -1658,7 +1671,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "tm",
             "type": "Lutador",
             "category": "Físico",
@@ -1685,7 +1698,8 @@
             "power": "—",
             "accuracy": "—",
             "machine": "TM03",
-            "pp": 10
+            "pp": 10,
+            "note": "Tipo histórico ??? nesta edição."
           },
           {
             "name": "Rollout",
@@ -2212,7 +2226,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "tm",
             "type": "Lutador",
             "category": "Físico",
@@ -2239,7 +2253,8 @@
             "power": "—",
             "accuracy": "—",
             "machine": "TM03",
-            "pp": 10
+            "pp": 10,
+            "note": "Tipo histórico ??? nesta edição."
           },
           {
             "name": "Rollout",
@@ -5352,7 +5367,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "tutor",
             "type": "Lutador",
             "category": "Físico",
@@ -6196,7 +6211,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -6962,7 +6977,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -7820,7 +7835,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -8706,7 +8721,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -9593,7 +9608,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -10338,7 +10353,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -11172,7 +11187,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -12078,7 +12093,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -12984,7 +12999,7 @@
             "pp": 15
           },
           {
-            "name": "DynamicPunch",
+            "name": "Dynamic Punch",
             "method": "other",
             "type": "Lutador",
             "category": "Físico",
@@ -21696,7 +21711,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Pode ser recebido por troca ou pelo Pokémon HOME. Após o primeiro desafio do Dojo, escolha Squirtle. Ele tem o fator Gigantamax, efetivo em Blastoise.",
+      "obtaining": "Pode ser recebido por troca ou pelo Pokémon HOME. Após o primeiro desafio do Dojo, escolha Squirtle. Ele tem o fator Gigantamax, efetivo em Blastoise. O presente de Squirtle do Pokémon HOME para celular chega no nível 5 e tem Rain Dish.",
       "encounters": [
         {
           "pokemon": "Squirtle",
@@ -21709,6 +21724,12 @@
           "location": "Master Dojo (The Isle of Armor)",
           "method": "Presente",
           "details": "Após o primeiro desafio do Dojo, escolha Squirtle. Ele tem o fator Gigantamax, efetivo em Blastoise."
+        },
+        {
+          "pokemon": "Squirtle",
+          "location": "Pokémon HOME",
+          "method": "Presente transferível",
+          "details": "O presente de Squirtle do Pokémon HOME para celular chega no nível 5 e tem Rain Dish."
         }
       ],
       "moves_by_method": {
@@ -22451,7 +22472,7 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Pode ser recebido por troca ou pelo Pokémon HOME. Após o primeiro desafio do Dojo, escolha Squirtle. Ele tem o fator Gigantamax, efetivo em Blastoise.",
+      "obtaining": "Pode ser recebido por troca ou pelo Pokémon HOME. Após o primeiro desafio do Dojo, escolha Squirtle. Ele tem o fator Gigantamax, efetivo em Blastoise. O presente de Squirtle do Pokémon HOME para celular chega no nível 5 e tem Rain Dish.",
       "encounters": [
         {
           "pokemon": "Squirtle",
@@ -22464,6 +22485,12 @@
           "location": "Master Dojo (The Isle of Armor)",
           "method": "Presente",
           "details": "Após o primeiro desafio do Dojo, escolha Squirtle. Ele tem o fator Gigantamax, efetivo em Blastoise."
+        },
+        {
+          "pokemon": "Squirtle",
+          "location": "Pokémon HOME",
+          "method": "Presente transferível",
+          "details": "O presente de Squirtle do Pokémon HOME para celular chega no nível 5 e tem Rain Dish."
         }
       ],
       "moves_by_method": {
@@ -25899,13 +25926,19 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Escolha Squirtle com o Professor Oak.",
+      "obtaining": "Escolha Squirtle com o Professor Oak. Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível.",
       "encounters": [
         {
           "pokemon": "Squirtle",
           "location": "Pallet Town",
           "method": "Inicial",
           "details": "Escolha Squirtle com o Professor Oak."
+        },
+        {
+          "pokemon": "Squirtle",
+          "location": "Gym Leader Castle (Pokémon Stadium)",
+          "method": "Prêmio transferível",
+          "details": "Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível."
         }
       ],
       "moves_by_method": {
@@ -26073,7 +26106,7 @@
             "pp": 15
           },
           {
-            "name": "BubbleBeam",
+            "name": "Bubble Beam",
             "method": "tm",
             "type": "Água",
             "category": "Especial",
@@ -26310,13 +26343,19 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Escolha Squirtle com o Professor Oak.",
+      "obtaining": "Escolha Squirtle com o Professor Oak. Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível.",
       "encounters": [
         {
           "pokemon": "Squirtle",
           "location": "Pallet Town",
           "method": "Inicial",
           "details": "Escolha Squirtle com o Professor Oak."
+        },
+        {
+          "pokemon": "Squirtle",
+          "location": "Gym Leader Castle (Pokémon Stadium)",
+          "method": "Prêmio transferível",
+          "details": "Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível."
         }
       ],
       "moves_by_method": {
@@ -26484,7 +26523,7 @@
             "pp": 15
           },
           {
-            "name": "BubbleBeam",
+            "name": "Bubble Beam",
             "method": "tm",
             "type": "Água",
             "category": "Especial",
@@ -26721,13 +26760,19 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Escolha Squirtle com o Professor Oak.",
+      "obtaining": "Escolha Squirtle com o Professor Oak. Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível.",
       "encounters": [
         {
           "pokemon": "Squirtle",
           "location": "Pallet Town",
           "method": "Inicial",
           "details": "Escolha Squirtle com o Professor Oak."
+        },
+        {
+          "pokemon": "Squirtle",
+          "location": "Gym Leader Castle (Pokémon Stadium)",
+          "method": "Prêmio transferível",
+          "details": "Squirtle de nível 5 pode ser recebido como prêmio e transferido a um cartucho compatível."
         }
       ],
       "moves_by_method": {
@@ -26895,7 +26940,7 @@
             "pp": 15
           },
           {
-            "name": "BubbleBeam",
+            "name": "Bubble Beam",
             "method": "tm",
             "type": "Água",
             "category": "Especial",
@@ -27585,7 +27630,7 @@
   "audit": {
     "status": "partial",
     "review_date": "2026-11-23",
-    "notes": "Dados cadastrados para todas as edições compatíveis do seletor da dexH!P. Legends: Arceus não inclui Squirtle. Auditoria editorial integral por edição, eventos históricos e detalhes Plus de golpes por TM continuam em revisão."
+    "notes": "Cobertura dos 39 jogos compatíveis no seletor. Foram revisados os dados da espécie, a linha evolutiva, identificadores regionais, morfologia, locais principais e conteúdos derivados. As listas de jogos derivados e mídias são seleções. Eventos históricos, aparições por episódio e dados de combate de cada registro ainda não receberam auditoria integral."
   },
   "unavailable_games": [
     "Pokémon Legends: Arceus"
@@ -27594,5 +27639,286 @@
     "male": 87.5,
     "female": 12.5
   },
-  "experience_at_level_100": 1059860
+  "experience_at_level_100": 1059860,
+  "pokedex_habitat": {
+    "name": "Margens da água",
+    "description": "Habitat registrado pela Pokédex em Pokémon FireRed e LeafGreen."
+  },
+  "concept_origin": {
+    "title": "Conceito e origem",
+    "designer": {
+      "label": "Design original",
+      "name": "Atsuko Nishida",
+      "description": "Nishida desenhou Squirtle partindo da forma final da linha evolutiva, Blastoise."
+    },
+    "form_designers": [],
+    "curiosity": "O casco de Squirtle também ajuda na locomoção aquática. O formato arredondado e os sulcos reduzem a resistência da água.",
+    "origin": [
+      "Seu casco e a capacidade de se recolher nele remetem a uma tartaruga. A cauda termina em espiral.",
+      "Squirtle combina squirt, que significa esguichar, e turtle, tartaruga em inglês.",
+      "Zenigame é uma palavra japonesa associada a pequenas tartarugas. Zeni também significa moeda."
+    ]
+  },
+  "morphology": {
+    "body_shape": {
+      "label": "Formato corporal",
+      "slug": "body-shape",
+      "name": "Bípede com cauda",
+      "official_category": "Pokémon com duas pernas e cauda",
+      "description": "Squirtle tem quatro membros, casco arredondado e cauda em espiral. Costuma ficar de pé sobre as patas traseiras.",
+      "icon": {
+        "name": "Body06.webp",
+        "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/body/Body06.webp",
+        "alt": "Ícone de formato corporal bípede com cauda"
+      }
+    },
+    "footprint": {
+      "label": "Pegada da Pokédex",
+      "slug": "footprint",
+      "name": "Pegada de Squirtle",
+      "description": "Pegada da espécie usada em interfaces históricas da Pokédex.",
+      "icon": {
+        "name": "F0007.png",
+        "url": "https://archives.bulbagarden.net/media/upload/8/87/F0007.png",
+        "alt": "Pegada da Pokédex de Squirtle"
+      }
+    }
+  },
+  "spin_off_games": {
+    "title": "Além dos jogos principais",
+    "lead": "Participações selecionadas de Squirtle em jogos derivados, em ordem de lançamento.",
+    "entries": [
+      {
+        "game": "Pokémon Snap",
+        "year": 1999,
+        "category": "Fotografia",
+        "description": "Squirtle aparece no percurso Valley.",
+        "obtaining": "Fotografe a espécie durante o percurso."
+      },
+      {
+        "game": "Pokémon Pinball",
+        "year": 1999,
+        "category": "Pinball",
+        "description": "Squirtle pode ser registrado na mesa Blue.",
+        "obtaining": "Encontre-o em Viridian City na mesa Blue."
+      },
+      {
+        "game": "Pokémon Stadium",
+        "year": 1999,
+        "category": "Batalha",
+        "description": "Squirtle é um dos iniciais disponíveis como prêmio.",
+        "obtaining": "Vença o Gym Leader Castle para concorrer ao prêmio."
+      },
+      {
+        "game": "Pokémon Channel",
+        "year": 2003,
+        "category": "Coleção",
+        "description": "Squirtle aparece como item de coleção.",
+        "obtaining": "Procure a espécie no Upgrade Binder."
+      },
+      {
+        "game": "Pokémon Trozei!",
+        "year": 2005,
+        "category": "Quebra-cabeça",
+        "description": "Squirtle integra a lista de espécies colecionáveis.",
+        "obtaining": "Pode aparecer em Huge Storage 4, Endless Level 15, Trozei Battle e no esconderijo de Mr. Who."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
+        "year": 2005,
+        "category": "Exploração",
+        "description": "Squirtle pode ser o protagonista ou parceiro.",
+        "obtaining": "Também é recrutável em Waterfall Pond, do 8º ao 12º subsolo."
+      },
+      {
+        "game": "Pokémon Ranger",
+        "year": 2006,
+        "category": "Aventura",
+        "description": "Squirtle pode ser encontrado em Fiore.",
+        "obtaining": "Procure a espécie em Waterworks."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
+        "year": 2007,
+        "category": "Exploração",
+        "description": "Squirtle pode formar a equipe inicial.",
+        "obtaining": "Também aparece em Lake Afar, do 1º ao 8º subsolo."
+      },
+      {
+        "game": "Pokémon Ranger: Shadows of Almia",
+        "year": 2008,
+        "category": "Aventura",
+        "description": "Squirtle pode ser encontrado em Almia.",
+        "obtaining": "Procure-o em Ranger School ou Marine Cave."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+        "year": 2009,
+        "category": "Exploração",
+        "description": "Squirtle pode ser escolhido para a equipe inicial.",
+        "obtaining": "Pode ser recrutado em Lake Afar, do 1º ao 8º subsolo."
+      },
+      {
+        "game": "Pokémon Rumble",
+        "year": 2009,
+        "category": "Ação",
+        "description": "Squirtle aparece em Bright Beach.",
+        "obtaining": "Procure-o nos níveis C e A do modo Normal."
+      },
+      {
+        "game": "PokéPark Wii: Pikachu’s Adventure",
+        "year": 2009,
+        "category": "Aventura",
+        "description": "Squirtle aparece entre os habitantes do parque.",
+        "obtaining": "Encontre-o na Iceberg Zone."
+      },
+      {
+        "game": "Pokémon Rumble Blast",
+        "year": 2011,
+        "category": "Ação",
+        "description": "Squirtle aparece em Everspring Valley.",
+        "obtaining": "Procure-o no cenário Lake."
+      },
+      {
+        "game": "PokéPark 2: Wonders Beyond",
+        "year": 2011,
+        "category": "Aventura",
+        "description": "Squirtle aparece na Arcane Area.",
+        "obtaining": "Visite essa área durante a aventura."
+      },
+      {
+        "game": "Pokémon Rumble U",
+        "year": 2013,
+        "category": "Ação",
+        "description": "Squirtle integra as listas de espécies de dois desafios.",
+        "obtaining": "Procure-o em Wet and Wild Battle e Get 1,000 Combos!."
+      },
+      {
+        "game": "Pokémon Battle Trozei",
+        "year": 2014,
+        "category": "Quebra-cabeça",
+        "description": "Squirtle aparece no terceiro estágio de Blade-and-Shield Path.",
+        "obtaining": "Encontre-o no estágio correspondente."
+      },
+      {
+        "game": "Pokémon Shuffle",
+        "year": 2015,
+        "category": "Quebra-cabeça",
+        "description": "A espécie padrão aparece nas fases principais.",
+        "obtaining": "Encontre Squirtle nos estágios 3 e 402."
+      },
+      {
+        "game": "Pokémon Rumble World",
+        "year": 2015,
+        "category": "Ação",
+        "description": "Squirtle aparece em Pearl Lake.",
+        "obtaining": "Explore Pearl Lake, em Pearl Marsh."
+      },
+      {
+        "game": "Pokémon Super Mystery Dungeon",
+        "year": 2015,
+        "category": "Exploração",
+        "description": "Squirtle pode participar da dupla inicial.",
+        "obtaining": "Também é encontrado em Noe Town."
+      },
+      {
+        "game": "Pokémon Picross",
+        "year": 2015,
+        "category": "Quebra-cabeça",
+        "description": "Squirtle tem um quebra-cabeça dedicado.",
+        "obtaining": "Conclua o estágio 4 da Área 7."
+      },
+      {
+        "game": "Pokémon Masters EX",
+        "year": 2019,
+        "category": "Batalha",
+        "description": "Squirtle pode formar uma dupla com Scottie ou Bettie.",
+        "obtaining": "Obtenha um Squirtle por Ovo quando disponível."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Rescue Team DX",
+        "year": 2020,
+        "category": "Exploração",
+        "description": "Squirtle é uma opção de protagonista ou parceiro.",
+        "obtaining": "Também aparece em Murky Cave e Waterfall Pond, entre os pisos 8 e 12."
+      },
+      {
+        "game": "Pokémon Café ReMix",
+        "year": 2020,
+        "category": "Quebra-cabeça",
+        "description": "Squirtle pode integrar a equipe do café.",
+        "obtaining": "A espécie aparece por visitas regulares e também teve disponibilidade via Delivery."
+      },
+      {
+        "game": "New Pokémon Snap",
+        "year": 2021,
+        "category": "Fotografia",
+        "description": "Squirtle aparece no recife de Maricopia e no fundo do mar de Lental.",
+        "obtaining": "No recife diurno, fica disponível a partir do nível 2. No fundo do mar, aparece no nível 3."
+      },
+      {
+        "game": "Pokémon Sleep",
+        "year": 2023,
+        "category": "Pesquisa de sono",
+        "description": "Squirtle pode aparecer nas pesquisas de sono.",
+        "obtaining": "Aparece em Greengrass Isle, Cyan Beach e Lapis Lakeside, conforme a classificação de Snorlax."
+      }
+    ]
+  },
+  "media_appearances": {
+    "title": "Aparições em outras mídias",
+    "lead": "Aparições selecionadas no anime, em animações e no mangá.",
+    "anime": [
+      {
+        "jp_number": 12,
+        "season": "Kanto",
+        "episode_code": "EP012",
+        "appearance": "Estreia física",
+        "title_en": "Here Comes the Squirtle Squad",
+        "description": "Ash conhece o Esquadrão Squirtle. O líder do grupo passa a fazer parte de sua equipe."
+      },
+      {
+        "episode_code": "AG133",
+        "season": "Battle Frontier",
+        "appearance": "Pokémon de May",
+        "title_en": "The Right Place and the Right Mime",
+        "description": "May recebe um Squirtle no laboratório do Professor Oak."
+      }
+    ],
+    "films": [],
+    "animations": [
+      {
+        "code": "TW08",
+        "title": "Pokémon: Twilight Wings — The Gathering of Stars",
+        "year": 2020,
+        "description": "Um Squirtle aparece ao lado de Honey."
+      },
+      {
+        "title": "GOTCHA!",
+        "year": 2020,
+        "description": "A espécie tem uma breve aparição no clipe."
+      },
+      {
+        "code": "PE08",
+        "title": "Pokémon Evolutions — The Discovery",
+        "year": 2021,
+        "description": "Squirtle brinca no laboratório do Professor Oak com os outros iniciais de Kanto."
+      },
+      {
+        "title": "POKÉTOON — Blossom’s Dream",
+        "year": 2021,
+        "description": "Um Squirtle aparece ao lado de seu treinador."
+      }
+    ],
+    "manga": [
+      {
+        "title": "Pokémon Pocket Monsters — Introducing the Pokémon Clefairy!!",
+        "description": "Squirtle aparece entre os iniciais disponíveis para Red e Green."
+      },
+      {
+        "title": "Pokémon Adventures — They Have a Flare for a Li’l Kanga-Napping",
+        "description": "Professor Sycamore aparece acompanhado de Squirtle."
+      }
+    ]
+  }
 }
