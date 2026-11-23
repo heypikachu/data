@@ -1,0 +1,53 @@
+name: dexH!P - Auditar Venusaur na branch isolada
+
+on:
+  push:
+    branches:
+      - venusaur-auditoria-2026-11-23
+    paths:
+      - 'scripts/build_venusaur_audit.py'
+      - 'audit/venusaur-base.json'
+      - '.github/workflows/venusaur-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: venusaur-audit-2026-11-23
+  cancel-in-progress: false
+
+jobs:
+  build-and-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+      - name: Compilar dados auditaveis por edicao
+        run: python3 scripts/build_venusaur_audit.py
+      - name: Validar JSONs e impedir promocao a main
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          r=json.loads(Path('audit/venusaur-v2-verificacao.json').read_text())
+          d=json.loads(Path('audit/venusaur-v2-auditoria.json').read_text())
+          assert r['status'] == 'PARCIAL_NAO_PUBLICAR_COMO_COMPLETA'
+          assert len(d['records']) == 36
+          assert d['species'] == 'venusaur' and d['number'] == '0003'
+          assert d['audit']['status'] == 'partial'
+          print('Todas as verificacoes estruturais passaram.',r['sum_moves_all'])
+          PY
+      - name: Salvar candidato e relatorio somente na branch da auditoria
+        run: |
+          set -e
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add audit/venusaur-v2-auditoria.json audit/venusaur-v2-verificacao.json
+          if git diff --cached --quiet; then
+            echo 'Nenhuma alteracao.'
+            exit 0
+          fi
+          git commit -m 'dexH!P: Venusaur V2 candidato com movesets por edicao'
+          git pull --rebase origin venusaur-auditoria-2026-11-23
+          git push origin HEAD:venusaur-auditoria-2026-11-23
