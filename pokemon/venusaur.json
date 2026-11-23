@@ -66,8 +66,8 @@
       "official_category": "Pokémon com quatro patas",
       "description": "Venusaur caminha sobre quatro patas e possui corpo robusto de anfíbio, com grande flor sustentada por um tronco vegetal sobre as costas.",
       "icon": {
-        "name": "Body08.png",
-        "url": "https://archives.bulbagarden.net/wiki/Special:Redirect/file/Body08.png",
+        "name": "Body08.webp",
+        "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/body/Body08.webp",
         "alt": "Silhueta oficial do formato corporal quadrúpede de Venusaur"
       }
     },
