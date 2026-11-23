@@ -88,7 +88,6 @@ assert v["species"]=="venusaur" and set(groups)==set(v["records"])
 v["audit"]["status"]="partial"
 v["audit"]["stage"]="CANDIDATA V2 — MOVIMENTOS EXTRAÍDOS, AUDITORIA HUMANA PENDENTE; NÃO PUBLICAR COMO COMPLETA"
 v["audit"]["notes"]="Dados de aprendizagem importados da tabela pública PokeAPI por version_group, sem copiar movesets de outra espécie. Metadados históricos e disponibilidade de formas/locais ainda exigem conferência independente, sobretudo Z-A e DLC."
-v["audit"]["research_data_source"]="Interna: PokeAPI/pokeapi, data/v2/csv, revisão reprodutível; não publicar referência em texto editorial."
 v["audit"]["pending_verification"]=[
 "Revisão detalhada de golpes históricos e numeração de máquinas por jogo; versão de DLC é agregada",
 "Capturas, presentes, encontros, eventos e transferências de todas as 36 edições",
@@ -156,6 +155,103 @@ for row in rows("pokemon_moves"):
         else:
             # Não atribuir nome de método errado.
             continue
+
+# Formas e defesas: tipos confirmados; evitar confundir efeito de Thick Fat com tipo.
+pokedex_type_multipliers={
+  "Fogo":2,"Gelo":2,"Voador":2,"Psíquico":2,
+  "Água":0.5,"Elétrico":0.5,"Lutador":0.5,"Grama":0.25
+}
+def defense_list(gen):
+    factors=dict(pokedex_type_multipliers)
+    if gen == 1: factors["Inseto"]=4
+    if gen >= 6: factors["Fada"]=0.5
+    out=[]
+    for typ,mult in factors.items():
+        note="Fraqueza" if mult>1 else "Resistência"
+        value={0.25:"¼×",0.5:"½×",2:"2×",4:"4×"}[mult]
+        out.append({"type":typ,"multiplier":value,"note":note})
+    return out
+for key,r in v["records"].items():
+    gen=["I","II","III","IV","V","VI","VII","VIII","IX"].index(r["gen"])+1
+    r["defenses"]=defense_list(gen)
+    for form in r.get("forms",[]):
+        if form["name"]=="Mega Venusaur":
+            form["sprite"]="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10033.png"
+            form["height"]="2,4 m"
+            form["weight"]="155,5 kg"
+            form["defenses"]=defense_list(gen)
+            if key!="za":
+                form["ability"]="Thick Fat"
+                form["detail"]="Megaevolução temporária usando Venusaurite. Thick Fat reduz o dano recebido de ataques Fogo e Gelo, sem mudar os multiplicadores de tipo."
+            else:
+                form["ability"]="Habilidades tradicionais não são utilizadas nesta edição."
+                form["detail"]="Megaevolução temporária usando Venusaurite, obtida após enfrentar Mega Venusaur na missão principal 29. As habilidades tradicionais não são utilizadas em Z-A."
+        elif form["name"]=="Venusaur Gigantamax":
+            form["sprite"]="https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10195.png"
+            form["height"]="24,0 m ou mais"
+            form["weight"]="Não informado"
+            form["defenses"]=defense_list(gen)
+            form["detail"]="Forma Gigantamax temporária do DLC The Isle of Armor. Conserva os tipos e atributos base; ataques ofensivos do tipo Grama passam a G-Max Vine Lash, que aplica dano residual durante quatro turnos a adversários que não são do tipo Grama."
+            form["gmax_move"]={"name":"G-Max Vine Lash","type":"Grama","effect":"Ao usar Gigantamax, ataques ofensivos de Grama tornam-se G-Max Vine Lash; após o dano inicial, adversários que não são do tipo Grama sofrem dano adicional por quatro turnos.","duration_turns":4}
+# Movimentos por reprodução são obtidos na pré-evolução Bulbasaur. Não afirmar que Venusaur sai de ovo.
+bulba_egg=defaultdict(list)
+for row in rows("pokemon_moves"):
+    if row["pokemon_id"]!="1" or row["pokemon_move_method_id"]!="2":continue
+    gid=integer(row["version_group_id"]);mid=integer(row["move_id"])
+    if mid not in moves:continue
+    bulba_egg[gid].append(mid)
+for key,r in v["records"].items():
+    if r["gen"]=="I" or key=="za" or key.startswith("lets-go"):continue
+    gid=groups[key]
+    pool=set(bulba_egg.get(gid,[]))
+    if key in ("scarlet","violet"):
+        for dlc in (25,26,27):pool.update(bulba_egg.get(dlc,[]))
+    if key in ("sword","shield"):
+        for dlc in (20,21,22):pool.update(bulba_egg.get(dlc,[]))
+    gen=["I","II","III","IV","V","VI","VII","VIII","IX"].index(r["gen"])+1
+    for mid in sorted(pool):
+        d=move_details(mid,key,gid,gen)
+        d["method"]="egg"
+        d["note"]="Obtido por reprodução de Bulbasaur antes da evolução; não é um golpe aprendido diretamente por um Venusaur recém-nascido."
+        r["moves_by_method"]["egg"].append(d)
+# Obtenções comprovadas: oferecer apenas rotas inequívocas.
+paths={
+"rb":("Pallet Town — laboratório do Professor Oak",
+  "Escolha Bulbasaur como inicial de nível 5 com o Professor Oak. Evolua-o para Ivysaur no nível 16 e Venusaur no nível 32; se escolheu outro inicial, use troca."),
+"yellow":("Cerulean City — casa próxima ao Centro Pokémon",
+  "Depois de alcançar amizade suficiente com Pikachu, receba Bulbasaur de uma moradora em Cerulean City. Evolua-o para Ivysaur no nível 16 e para Venusaur no nível 32."),
+"firered":("Pallet Town — laboratório do Professor Oak",
+  "Escolha Bulbasaur como inicial no laboratório de Oak. Evolua-o a Ivysaur no nível 16 e Venusaur no nível 32. Se escolheu outro inicial, faça uma troca."),
+"leafgreen":("Pallet Town — laboratório do Professor Oak",
+  "Escolha Bulbasaur como inicial no laboratório de Oak. Evolua-o a Ivysaur no nível 16 e Venusaur no nível 32. Se escolheu outro inicial, faça uma troca."),
+"heartgold":("Pallet Town — laboratório do Professor Oak",
+  "Depois de derrotar Red, fale com o Professor Oak em Pallet Town e escolha Bulbasaur como inicial de Kanto. Evolua-o até Venusaur no nível 32."),
+"soulsilver":("Pallet Town — laboratório do Professor Oak",
+  "Depois de derrotar Red, fale com o Professor Oak em Pallet Town e escolha Bulbasaur como inicial de Kanto. Evolua-o até Venusaur no nível 32."),
+"x":("Lumiose City — laboratório do Professor Sycamore",
+  "Após derrotar o Professor Sycamore, escolha Bulbasaur no nível 10 e receba Venusaurite. Evolua para Ivysaur no nível 16 e Venusaur no nível 32."),
+"y":("Lumiose City — laboratório do Professor Sycamore",
+  "Após derrotar o Professor Sycamore, escolha Bulbasaur no nível 10 e receba Venusaurite. Evolua para Ivysaur no nível 16 e Venusaur no nível 32."),
+"lets-go-pikachu":("Viridian Forest ou Cerulean City",
+  "Bulbasaur aparece raramente em Viridian Forest e também é presenteado por uma moradora de Cerulean City após capturar pelo menos 30 Pokémon. Evolua-o para Ivysaur no nível 16 e Venusaur no nível 32."),
+"lets-go-eevee":("Viridian Forest ou Cerulean City",
+  "Bulbasaur aparece raramente em Viridian Forest e também é presenteado por uma moradora de Cerulean City após capturar pelo menos 30 Pokémon. Evolua-o para Ivysaur no nível 16 e Venusaur no nível 32."),
+"sword":("Master Dojo — Isle of Armor (DLC)",
+  "Depois da primeira prova de Mustard, Honey oferece Bulbasaur ou Squirtle. O Bulbasaur escolhido possui o Fator Gigantamax e poderá usar a forma Gigantamax após evoluir até Venusaur no nível 32."),
+"shield":("Master Dojo — Isle of Armor (DLC)",
+  "Depois da primeira prova de Mustard, Honey oferece Bulbasaur ou Squirtle. O Bulbasaur escolhido possui o Fator Gigantamax e poderá usar a forma Gigantamax após evoluir até Venusaur no nível 32."),
+"scarlet":("Blueberry Academy — Coastal Biome do Terarium (DLC The Indigo Disk)",
+  "No League Club, libere a expansão da biodiversidade do Coastal Biome por 3.000 BP. Bulbasaur começará a aparecer no bioma; evolua-o até Venusaur no nível 32. Sem DLC, o acesso pode depender de troca ou Pokémon HOME."),
+"violet":("Blueberry Academy — Coastal Biome do Terarium (DLC The Indigo Disk)",
+  "No League Club, libere a expansão da biodiversidade do Coastal Biome por 3.000 BP. Bulbasaur começará a aparecer no bioma; evolua-o até Venusaur no nível 32. Sem DLC, o acesso pode depender de troca ou Pokémon HOME."),
+"za":("Laboratório de Pesquisa de Lumiose — missão secundária 22",
+  "Na missão secundária 22, A Call from Mable, escolha Bulbasaur como inicial de Kanto. Evolua-o manualmente a Ivysaur no nível 16 e Venusaur no nível 32. A Venusaurite é obtida na missão principal 29, A Rogue Mega Venusaur.")
+}
+for key,(location,detail) in paths.items():
+    r=v["records"][key]
+    r["obtaining"]="Obtenção por evolução de Bulbasaur ou Ivysaur, a partir da rota confirmada descrita abaixo."
+    r["encounters"]=[{"pokemon":"Venusaur","location":location,"method":"Evolução por linha evolutiva","details":detail}]
+
 # Remover duplicações idênticas por espécie/edição/método; registrar amostras por edição.
 summary={}
 for key,r in v["records"].items():
