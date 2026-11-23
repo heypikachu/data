@@ -275,7 +275,9 @@ async function hpDexRender() {
         ? `<a class="hp-dex-neighbor ${lado}" href="${url}" title="Abrir Pokédex de ${nome}" aria-label="${lado === 'prev' ? 'Anterior' : 'Próximo'}: ${nome}">${conteudo}</a>`
         : `<div class="hp-dex-neighbor ${lado} is-unpublished" aria-label="${nome}: ficha em breve">${conteudo}</div>`;
     };
-    holder.innerHTML = (numero > 1 ? html(numero-1,'prev') : '<div></div>') + html(numero+1,'next');
+    const inicio = `<a class="hp-dex-neighbor prev" href="https://www.heypikachu.com/" aria-label="Voltar ao início do Hey!Pikachu"><span class="hp-dex-neighbor-arrow" aria-hidden="true">‹</span><img src="https://cdn.jsdelivr.net/gh/heypikachu/layout@main/favicon-hp96x96.png" alt="" decoding="async"><span class="hp-dex-neighbor-copy"><small>Voltar ao início</small><strong>HEY!PIKACHU</strong></span></a>`;
+    const anterior = numero === 1 ? inicio : numero > 1 ? html(numero-1,'prev') : '<div></div>';
+    holder.innerHTML = anterior + html(numero+1,'next');
   }
 
   function renderizarLinhaEvolutiva(rec) {
