@@ -4,14 +4,23 @@
   "status": "Beta · Em desenvolvimento",
   "latest": {
     "version": "4.83",
-    "date": "2026-11-20",
-    "title": "Capas completas na Pokédex",
+    "date": "2026-11-23",
+    "title": "Novidades nas fichas da Pokédex",
     "changes": [
-      "Capas das fichas no índice ajustadas à proporção original para evitar cortes laterais.",
-      "Hover dos cards preservado sem ampliar ou recortar as capas."
+      "Charmander, Charmeleon e Charizard já têm fichas disponíveis para consulta.",
+      "Informações de EVs corrigidas e consulta às formas dos Pokémon aprimorada."
     ]
   },
   "history": [
+    {
+      "version": "4.83",
+      "date": "2026-11-20",
+      "title": "Capas completas na Pokédex",
+      "changes": [
+        "Capas das fichas no índice ajustadas à proporção original para evitar cortes laterais.",
+        "Hover dos cards preservado sem ampliar ou recortar as capas."
+      ]
+    },
     {
       "version": "4.82",
       "date": "2026-11-20",
