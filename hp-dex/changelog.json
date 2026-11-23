@@ -3,12 +3,13 @@
   "project": "dexH!P",
   "status": "Beta · Em desenvolvimento",
   "latest": {
-    "version": "4.83",
+    "version": "4.88",
     "date": "2026-11-23",
-    "title": "Novidades nas fichas da Pokédex",
+    "title": "Fichas de Kanto, evolução e gerador SEO V7",
     "changes": [
-      "Charmander, Charmeleon e Charizard já têm fichas disponíveis para consulta.",
-      "Informações de EVs corrigidas e consulta às formas dos Pokémon aprimorada."
+      "Novas fichas: Ivysaur e Venusaur; Bulbasaur em preparação.",
+      "Linhas evolutivas completas e links entre fichas sincronizados.",
+      "Modo claro refinado e Gerador SEO V7 com capa e descrição automáticas."
     ]
   },
   "history": [
