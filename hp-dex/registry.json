@@ -1,7 +1,11 @@
-
 {
   "schema": 1,
   "pokemon": {
+    "3": {
+      "name": "Venusaur",
+      "published": true,
+      "url": "https://dex.heypikachu.com/venusaur"
+    },
     "4": {
       "name": "Charmander",
       "published": true,
