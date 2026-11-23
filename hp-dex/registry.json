@@ -30,6 +30,11 @@
       "name": "Charizard",
       "published": true,
       "url": "https://dex.heypikachu.com/charizard"
+    },
+    "7": {
+      "name": "Squirtle",
+      "published": true,
+      "url": "https://dex.heypikachu.com/squirtle"
     }
   }
 }
