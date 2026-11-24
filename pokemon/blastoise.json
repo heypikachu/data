@@ -34181,62 +34181,98 @@
       {
         "title_en": "Beach Blank-Out Blastoise",
         "appearance": "Blastoise da Ilha das Tartarugas",
-        "description": "Com um Jigglypuff preso em um dos canhões, Blastoise adormece junto com os Pokémon da ilha ao ouvir seu canto."
+        "description": "Com um Jigglypuff preso em um dos canhões, Blastoise adormece junto com os Pokémon da ilha ao ouvir seu canto.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/ep060.webp",
+          "alt": "Blastoise da Ilha das Tartarugas em Beach Blank-Out Blastoise"
+        }
       },
       {
         "title_en": "The Ties That Bind",
         "appearance": "Blastoise de Gary",
         "image": {
-          "url": "https://archives.bulbagarden.net/media/upload/thumb/a/ae/Gary_Blastoise.png/250px-Gary_Blastoise.png",
-          "alt": "Blastoise de Gary no anime"
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/ep269.webp",
+          "alt": "Blastoise de Gary em The Ties That Bind"
         },
         "description": "Gary revela, na Conferência de Prata, a evolução final do Squirtle que recebeu do Professor Oak."
       },
       {
         "title_en": "Can't Beat the Heat!",
         "appearance": "Blastoise de Gary",
-        "description": "É o último Pokémon de Gary na batalha da Conferência de Prata contra Ash."
+        "description": "É o último Pokémon de Gary na batalha da Conferência de Prata contra Ash.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/ep270.webp",
+          "alt": "Blastoise de Gary enfrenta Charizard em Can’t Beat the Heat!"
+        }
       },
       {
         "title_en": "Tag Team Battle Inspiration!",
         "appearance": "Blastoise de Tierno",
-        "description": "O Wartortle de Tierno reaparece na sua evolução final."
+        "description": "O Wartortle de Tierno reaparece na sua evolução final.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/xy090.webp",
+          "alt": "Blastoise de Tierno em Tag Team Battle Inspiration!"
+        }
       },
       {
         "title_en": "Valuable Experience for All!",
         "appearance": "Blastoise de Tierno",
-        "description": "Tierno usa Blastoise na Conferência de Lumiose."
+        "description": "Tierno usa Blastoise na Conferência de Lumiose.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/xy126.webp",
+          "alt": "Blastoise de Tierno usa Hydro Cannon em Valuable Experience for All!"
+        }
       }
     ],
     "films": [
       {
         "title_en": "Mewtwo Strikes Back",
         "year": 1998,
-        "description": "O Blastoise de Neesha, chamado Shellshocker, enfrenta o clone de Blastoise criado por Mewtwo."
+        "description": "O Blastoise de Neesha, chamado Shellshocker, enfrenta o clone de Blastoise criado por Mewtwo.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/films/mewtwo-strikes-back.webp",
+          "alt": "Shellshocker, o Blastoise de Neesha, no filme de 1998"
+        }
       },
       {
         "title_en": "I Choose You!",
         "year": 2017,
-        "description": "Nesta continuidade alternativa, o Blastoise de Neesha aparece enfrentando o Venusaur de Corey."
+        "description": "Nesta continuidade alternativa, o Blastoise de Neesha aparece enfrentando o Venusaur de Corey.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/films/i-choose-you.webp",
+          "alt": "Blastoise de Neesha em I Choose You!"
+        }
       },
       {
         "title_en": "Mewtwo Strikes Back—Evolution",
         "year": 2019,
-        "description": "A releitura em 3D retoma o confronto de Shellshocker com o clone de Mewtwo."
+        "description": "A releitura em 3D retoma o confronto de Shellshocker com o clone de Mewtwo.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/films/mewtwo-strikes-back-evolution.webp",
+          "alt": "Shellshocker no filme Mewtwo Strikes Back—Evolution"
+        }
       }
     ],
     "animations": [
       {
         "title_en": "Pokémon Origins",
         "appearance": "Blastoise de Blue",
-        "description": "O inicial de Blue alcança a evolução final e enfrenta o Charizard de Red na Liga Pokémon."
+        "description": "O inicial de Blue alcança a evolução final e enfrenta o Charizard de Red na Liga Pokémon.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/pokemon-origins.webp",
+          "alt": "Blastoise de Blue em Pokémon Origins"
+        }
       }
     ],
     "manga": [
       {
         "title_en": "Pokémon Adventures",
         "appearance": "Blasty de Green",
-        "description": "O Squirtle de Green evolui até Blastoise. Seu casco e seus canhões ajudam a treinadora dentro e fora das batalhas."
+        "description": "O Squirtle de Green evolui até Blastoise. Seu casco e seus canhões ajudam a treinadora dentro e fora das batalhas.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/pokemon-adventures.webp",
+          "alt": "Green ao lado de Blasty em um quadro de Pokémon Adventures"
+        }
       }
     ]
   },
