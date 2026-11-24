@@ -27721,14 +27721,22 @@
         "year": 2005,
         "category": "Quebra-cabeça",
         "description": "Squirtle integra a lista de espécies colecionáveis.",
-        "obtaining": "Pode aparecer em Huge Storage 4, Endless Level 15, Trozei Battle e no esconderijo de Mr. Who."
+        "obtaining": "Pode aparecer em Huge Storage 4, Endless Level 15, Trozei Battle e no esconderijo de Mr. Who.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-trozei.gif",
+          "alt": "Sprite animado de Squirtle em Pokémon Trozei!"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
         "year": 2005,
         "category": "Exploração",
         "description": "Squirtle pode ser o protagonista ou parceiro.",
-        "obtaining": "Também é recrutável em Waterfall Pond, do 8º ao 12º subsolo."
+        "obtaining": "Também é recrutável em Waterfall Pond, do 8º ao 12º subsolo.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-md.png",
+          "alt": "Ícone de Squirtle em Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team"
+        }
       },
       {
         "game": "Pokémon Ranger",
@@ -27742,21 +27750,33 @@
         "year": 2007,
         "category": "Exploração",
         "description": "Squirtle pode formar a equipe inicial.",
-        "obtaining": "Também aparece em Lake Afar, do 1º ao 8º subsolo."
+        "obtaining": "Também aparece em Lake Afar, do 1º ao 8º subsolo.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-md-explorers-time-darkness.png",
+          "alt": "Ícone de Squirtle em Pokémon Mystery Dungeon: Explorers of Time / Darkness"
+        }
       },
       {
         "game": "Pokémon Ranger: Shadows of Almia",
         "year": 2008,
         "category": "Aventura",
         "description": "Squirtle pode ser encontrado em Almia.",
-        "obtaining": "Procure-o em Ranger School ou Marine Cave."
+        "obtaining": "Procure-o em Ranger School ou Marine Cave.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-ranger-shadows-of-almia.png",
+          "alt": "Ícone de Squirtle em Pokémon Ranger: Shadows of Almia"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Sky",
         "year": 2009,
         "category": "Exploração",
         "description": "Squirtle pode ser escolhido para a equipe inicial.",
-        "obtaining": "Pode ser recrutado em Lake Afar, do 1º ao 8º subsolo."
+        "obtaining": "Pode ser recrutado em Lake Afar, do 1º ao 8º subsolo.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-md-explorers-sky.png",
+          "alt": "Ícone de Squirtle em Pokémon Mystery Dungeon: Explorers of Sky"
+        }
       },
       {
         "game": "Pokémon Rumble",
@@ -27798,28 +27818,44 @@
         "year": 2014,
         "category": "Quebra-cabeça",
         "description": "Squirtle aparece no terceiro estágio de Blade-and-Shield Path.",
-        "obtaining": "Encontre-o no estágio correspondente."
+        "obtaining": "Encontre-o no estágio correspondente.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-battle-trozei.png",
+          "alt": "Ícone de Squirtle em Pokémon Battle Trozei"
+        }
       },
       {
         "game": "Pokémon Shuffle",
         "year": 2015,
         "category": "Quebra-cabeça",
         "description": "A espécie padrão aparece nas fases principais.",
-        "obtaining": "Encontre Squirtle nos estágios 3 e 402."
+        "obtaining": "Encontre Squirtle nos estágios 3 e 402.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-shuffle.png",
+          "alt": "Ícone de Squirtle em Pokémon Shuffle"
+        }
       },
       {
         "game": "Pokémon Rumble World",
         "year": 2015,
         "category": "Ação",
         "description": "Squirtle aparece em Pearl Lake.",
-        "obtaining": "Explore Pearl Lake, em Pearl Marsh."
+        "obtaining": "Explore Pearl Lake, em Pearl Marsh.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-rumble-world.png",
+          "alt": "Ícone de Squirtle em Pokémon Rumble World"
+        }
       },
       {
         "game": "Pokémon Super Mystery Dungeon",
         "year": 2015,
         "category": "Exploração",
         "description": "Squirtle pode participar da dupla inicial.",
-        "obtaining": "Também é encontrado em Noe Town."
+        "obtaining": "Também é encontrado em Noe Town.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-super-mystery-dungeon.png",
+          "alt": "Ícone de Squirtle em Pokémon Super Mystery Dungeon"
+        }
       },
       {
         "game": "Pokémon Picross",
@@ -27840,7 +27876,11 @@
         "year": 2020,
         "category": "Exploração",
         "description": "Squirtle é uma opção de protagonista ou parceiro.",
-        "obtaining": "Também aparece em Murky Cave e Waterfall Pond, entre os pisos 8 e 12."
+        "obtaining": "Também aparece em Murky Cave e Waterfall Pond, entre os pisos 8 e 12.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-md-rescue-team-dx.png",
+          "alt": "Ícone de Squirtle em Pokémon Mystery Dungeon: Rescue Team DX"
+        }
       },
       {
         "game": "Pokémon Café ReMix",
@@ -27861,7 +27901,11 @@
         "year": 2023,
         "category": "Pesquisa de sono",
         "description": "Squirtle pode aparecer nas pesquisas de sono.",
-        "obtaining": "Aparece em Greengrass Isle, Cyan Beach e Lapis Lakeside, conforme a classificação de Snorlax."
+        "obtaining": "Aparece em Greengrass Isle, Cyan Beach e Lapis Lakeside, conforme a classificação de Snorlax.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-sleep.png",
+          "alt": "Ícone de Squirtle em Pokémon Sleep"
+        }
       }
     ]
   },
