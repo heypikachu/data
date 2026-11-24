@@ -34235,7 +34235,11 @@
         "title_ja": "オレンジリーグ！ナツカンジム！",
         "appearance": "Blastoise de Cissy",
         "description": "O Blastoise de Cissy disputa uma corrida aquática contra o Lapras de Ash.",
-        "title_pt": "Maré de Sorte"
+        "title_pt": "Maré de Sorte",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/cissy-ep085.webp",
+          "alt": "Blastoise de Cissy em Maré de Sorte"
+        }
       },
       {
         "jp_number": 98,
@@ -34375,7 +34379,11 @@
         "title_ja": "あの三匹登場！審判学校の島！",
         "appearance": "Evolução",
         "description": "O Wartortle de Jimmy evolui dentro da armadilha da Equipe Rocket e consegue escapar.",
-        "title_pt": "Dia do Julgamento!"
+        "title_pt": "Dia do Julgamento!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/jimmy-ag092.webp",
+          "alt": "Blastoise de Jimmy em Dia do Julgamento!"
+        }
       },
       {
         "jp_number": 370,
@@ -34571,7 +34579,11 @@
         "title_en": "Destiny Deoxys",
         "description": "Sid usa Blastoise como seu principal Pokémon de batalha.",
         "year": 2004,
-        "category": "Blastoise de Sid"
+        "category": "Blastoise de Sid",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/films/destiny-deoxys.webp",
+          "alt": "Blastoise de Sid em Destiny Deoxys"
+        }
       },
       {
         "title_en": "Lucario and the Mystery of Mew",
@@ -34617,7 +34629,11 @@
       {
         "title_en": "A Family That Battles Together Stays Together!",
         "description": "O Blastoise de Lola resgata o Golem de Flint depois que ele cai na água.",
-        "category": "Pokémon Chronicles"
+        "category": "Pokémon Chronicles",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/lola-blastoise.webp",
+          "alt": "Blastoise de Lola em Pokémon Chronicles"
+        }
       },
       {
         "title_en": "Mega Evolution Special I",
