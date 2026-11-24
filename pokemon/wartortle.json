@@ -29674,7 +29674,11 @@
         "volume": 2,
         "category": "Red, Green & Blue",
         "appearance": "Blasty de Green",
-        "description": "Blasty protege o disco com informações sobre Mew e enfrenta os Pokémon dos integrantes da Equipe Rocket, até ser dominado pelo grupo liderado por Tauros."
+        "description": "Blasty protege o disco com informações sobre Mew e enfrenta os Pokémon dos integrantes da Equipe Rocket, até ser dominado pelo grupo liderado por Tauros.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-ps016.webp",
+          "alt": "Wartortle de Green enfrentando a Equipe Rocket no capítulo PS016."
+        }
       },
       {
         "code": "PS017",
@@ -29686,7 +29690,11 @@
         "volume": 2,
         "category": "Red, Green & Blue",
         "appearance": "Blasty de Green",
-        "description": "Blasty acompanha Green durante o confronto com a Equipe Rocket envolvendo Mew."
+        "description": "Blasty acompanha Green durante o confronto com a Equipe Rocket envolvendo Mew.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-ps017.webp",
+          "alt": "Wartortle de Green utilizando Hydro Pump no capítulo PS017."
+        }
       },
       {
         "code": "PS306",
@@ -29750,7 +29758,11 @@
         "title_en": "Pokémon Zensho — Yamabuki City",
         "title_ja": "ヤマブキシティ",
         "appearance": "Flashback · Pokémon de Shigeru",
-        "description": "O parceiro de Shigeru aparece em uma lembrança, já evoluído de Squirtle para Wartortle."
+        "description": "O parceiro de Shigeru aparece em uma lembrança, já evoluído de Squirtle para Wartortle.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-pz07.webp",
+          "alt": "Wartortle de Shigeru no mangá Pokémon Zensho."
+        }
       },
       {
         "code": "GDZ05",
@@ -29790,7 +29802,11 @@
         "title_ja": "氷の王者・フリーザー",
         "volume": 2,
         "appearance": "Pokémon de Shu",
-        "description": "O Wartortle de Shu participa do capítulo ambientado nas montanhas em que Articuno aparece. Seu uso de Hydro Pump é documentado nessa história."
+        "description": "O Wartortle de Shu participa do capítulo ambientado nas montanhas em que Articuno aparece. Seu uso de Hydro Pump é documentado nessa história.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-gdz24.webp",
+          "alt": "Wartortle de Shu utilizando Hydro Pump no capítulo GDZ24."
+        }
       },
       {
         "code": "GDZ38",
@@ -29800,7 +29816,11 @@
         "title_ja": "激突！？カメカメ３兄弟！",
         "volume": 3,
         "appearance": "Pokémon de Kameo",
-        "description": "Kameo aparece com Wartortle, enquanto Kamero possui Squirtle e Kameta possui Blastoise."
+        "description": "Kameo aparece com Wartortle, enquanto Kamero possui Squirtle e Kameta possui Blastoise.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-gdz38.webp",
+          "alt": "Wartortle de Kameo no capítulo GDZ38."
+        }
       },
       {
         "code": "GB17",
@@ -29810,7 +29830,11 @@
         "title_ja": "デンリュウ救出大作戦!!",
         "volume": 3,
         "appearance": "Pokémon de treinador",
-        "description": "Em Olivine City, Wartortle enfrenta o Gyarados de Black em uma batalha interrompida por Jasmine."
+        "description": "Em Olivine City, Wartortle enfrenta o Gyarados de Black em uma batalha interrompida por Jasmine.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-gb17.webp",
+          "alt": "Batalha envolvendo Wartortle e o Gyarados de Black no capítulo GB17."
+        }
       },
       {
         "code": "GB23",
