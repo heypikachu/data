@@ -94,7 +94,7 @@
       "description": "Símbolo da pegada utilizado nas Pokédex das gerações III, IV e V.",
       "icon": {
         "name": "F0010.png",
-        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEX///9iYmLq5sVhAAAAFUlEQVQImWNgwACMDQzMB0AIyMAAADu0AonyD4gjAAAAAElFTkSuQmCC",
+        "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/footprints/F0010.png",
         "alt": "Registro da pegada de Caterpie na Pokédex"
       }
     }
