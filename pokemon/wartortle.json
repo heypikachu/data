@@ -173,12 +173,6 @@
         }
       },
       {
-        "game": "PokéPark Wii: Pikachu’s Adventure",
-        "year": 2009,
-        "category": "Aventura",
-        "description": "Encontre Wartortle na Iceberg Zone."
-      },
-      {
         "game": "Pokémon Rumble Blast",
         "year": 2011,
         "category": "Ação",
@@ -187,12 +181,6 @@
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-rumble-blast.png",
           "alt": "Ícone de Wartortle em Pokémon Rumble Blast"
         }
-      },
-      {
-        "game": "PokéPark 2: Wonders Beyond",
-        "year": 2011,
-        "category": "Aventura",
-        "description": "Wartortle aparece na Arcane Area."
       },
       {
         "game": "Pokémon Rumble U",
