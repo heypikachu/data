@@ -29170,32 +29170,56 @@
       {
         "title_en": "Beach Blank-Out Blastoise",
         "appearance": "Estreia",
-        "description": "Wartortle selvagens tentam despertar o Blastoise que lidera seu grupo."
+        "description": "Wartortle selvagens tentam despertar o Blastoise que lidera seu grupo.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-beach-blank-out-blastoise.webp",
+          "alt": "Wartortle na Ilha das Tartarugas ao lado de Blastoise."
+        }
       },
       {
         "title_en": "Judgment Day",
         "appearance": "Pokémon de Jimmy",
-        "description": "O Wartortle de Jimmy evolui para Blastoise ao enfrentar a Equipe Rocket."
+        "description": "O Wartortle de Jimmy evolui para Blastoise ao enfrentar a Equipe Rocket.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-judgment-day.webp",
+          "alt": "Wartortle de Jimmy ao lado de Ivysaur e Charmeleon."
+        }
       },
       {
         "title_en": "Staging a Heroes’ Welcome!",
         "appearance": "Pokémon de May",
-        "description": "O Squirtle de May já evoluiu para Wartortle e participa da apresentação da treinadora na Wallace Cup."
+        "description": "O Squirtle de May já evoluiu para Wartortle e participa da apresentação da treinadora na Wallace Cup.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-staging-a-heroes-welcome.webp",
+          "alt": "Wartortle de May durante sua apresentação na Wallace Cup."
+        }
       },
       {
         "title_en": "Good Friends, Great Training!",
         "appearance": "Pokémon de Tierno",
-        "description": "O Squirtle de Tierno já evoluiu para Wartortle quando ele reencontra Ash."
+        "description": "O Squirtle de Tierno já evoluiu para Wartortle quando ele reencontra Ash.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-good-friends-great-training.webp",
+          "alt": "Wartortle de Tierno durante uma batalha em Kalos."
+        }
       },
       {
         "title_en": "The Pokémon Water War",
         "appearance": "Equipe Wartortle",
-        "description": "O Squirtle de Ash acompanha temporariamente o grupo de Wartortle que combate incêndios."
+        "description": "O Squirtle de Ash acompanha temporariamente o grupo de Wartortle que combate incêndios.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-the-pokemon-water-war.webp",
+          "alt": "Wartortle da equipe de bombeiros ao lado de Pikachu e Squirtle de Ash."
+        }
       },
       {
         "title_en": "The Fire-ing Squad!",
         "appearance": "Equipe Wartortle",
-        "description": "A equipe de Wartortle compete com o Esquadrão Squirtle em uma prova de resgate."
+        "description": "A equipe de Wartortle compete com o Esquadrão Squirtle em uma prova de resgate.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-the-fire-ing-squad.webp",
+          "alt": "Equipe de Wartortle do capitão Aidan durante a competição de resgate."
+        }
       }
     ],
     "films": [
