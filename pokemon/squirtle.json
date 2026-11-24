@@ -27803,7 +27803,11 @@
         "year": 2009,
         "category": "Ação",
         "description": "Squirtle aparece em Bright Beach.",
-        "obtaining": "Procure-o nos níveis C e A do modo Normal."
+        "obtaining": "Procure-o nos níveis C e A do modo Normal.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-rumble.png",
+          "alt": "Arte de Squirtle de Pokémon Rumble Rush usada para ilustrar Pokémon Rumble"
+        }
       },
       {
         "game": "PokéPark Wii: Pikachu’s Adventure",
