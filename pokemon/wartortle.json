@@ -140,7 +140,11 @@
         "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
         "year": 2007,
         "category": "Exploração",
-        "description": "Procure Wartortle em Lake Afar, do 9º ao 16º subsolo."
+        "description": "Procure Wartortle em Lake Afar, do 9º ao 16º subsolo.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-md-explorers-time-darkness.png",
+          "alt": "Retrato de Wartortle em Pokémon Mystery Dungeon: Explorers of Time / Darkness"
+        }
       },
       {
         "game": "Pokémon Ranger: Shadows of Almia",
