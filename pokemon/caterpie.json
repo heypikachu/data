@@ -6837,7 +6837,11 @@
         "title_pt": "Pokémon: O Filme — Mewtwo Contra-Ataca",
         "title_ja": "劇場版ポケットモンスター ミュウツーの逆襲",
         "title": "Pokémon: O Filme — Mewtwo Contra-Ataca",
-        "category": "Filme"
+        "category": "Filme",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/films/filmes-m01.webp",
+          "alt": "Caterpie sobre um galho ao lado de Scyther na sequência de abertura do primeiro filme Pokémon."
+        }
       },
       {
         "title_en": "Celebi: The Voice of the Forest",
@@ -6847,7 +6851,11 @@
         "title_pt": "Pokémon 4: Viajantes do Tempo",
         "title_ja": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
         "title": "Pokémon 4: Viajantes do Tempo",
-        "category": "Filme"
+        "category": "Filme",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/films/filmes-m04.webp",
+          "alt": "Caterpie entre os Pokémon selvagens da floresta protegida por Celebi."
+        }
       },
       {
         "title_en": "Pokémon Heroes: Latios & Latias",
@@ -6867,7 +6875,11 @@
         "title_pt": "Pokémon: Alma Gêmea",
         "title_ja": "劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス",
         "title": "Pokémon: Alma Gêmea",
-        "category": "Filme"
+        "category": "Filme",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/films/filmes-m07.webp",
+          "alt": "Caterpie e Weedle juntos sobre uma folha na abertura de Pokémon: Alma Gêmea."
+        }
       },
       {
         "title_en": "Genesect and the Legend Awakened",
@@ -6877,7 +6889,11 @@
         "title_pt": "Pokémon, o Filme: Genesect e a Lenda Revelada",
         "title_ja": "劇場版ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒",
         "title": "Pokémon, o Filme: Genesect e a Lenda Revelada",
-        "category": "Filme"
+        "category": "Filme",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/films/filmes-m16.webp",
+          "alt": "Caterpie sobre um galho ao lado de Wurmple e Sewaddle em Pokémon Hills."
+        }
       },
       {
         "title_en": "I Choose You!",
@@ -6887,7 +6903,11 @@
         "title_pt": "Pokémon, o Filme: Eu Escolho Você!",
         "title_ja": "劇場版ポケットモンスター キミにきめた！",
         "title": "Pokémon, o Filme: Eu Escolho Você!",
-        "category": "Filme"
+        "category": "Filme",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/films/filmes-m20.webp",
+          "alt": "Caterpie de Ash no filme Pokémon: Eu Escolho Você!"
+        }
       },
       {
         "title_en": "The Power of Us",
@@ -6897,7 +6917,11 @@
         "title_pt": "Pokémon, o Filme: O Poder de Todos",
         "title_ja": "劇場版ポケットモンスター みんなの物語",
         "title": "Pokémon, o Filme: O Poder de Todos",
-        "category": "Filme"
+        "category": "Filme",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/films/filmes-m21.webp",
+          "alt": "Caterpie entre os Pokémon presentes em Pokémon: O Poder de Todos."
+        }
       },
       {
         "title_en": "Secrets of the Jungle",
