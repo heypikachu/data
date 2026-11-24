@@ -115,8 +115,8 @@
         "year": 2005,
         "description": "Recrute Wartortle em Northwind Field, do 27º ao 29º piso.",
         "icon": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-md.png",
-          "alt": "Sprite de Wartortle em Pokémon Mystery Dungeon"
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-md.gif",
+          "alt": "Sprite animado de Wartortle em Pokémon Mystery Dungeon"
         }
       },
       {
