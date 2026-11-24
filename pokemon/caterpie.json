@@ -5576,56 +5576,88 @@
         "year": 1999,
         "category": "Pinball",
         "description": "Caterpie é uma espécie registrável nas mesas.",
-        "obtaining": "Capture-o nas áreas de Viridian Forest e Cerulean City, conforme a mesa."
+        "obtaining": "Capture-o nas áreas de Viridian Forest e Cerulean City, conforme a mesa.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-pinball.gif",
+          "alt": "Sprite animado de Caterpie em Pokémon Pinball"
+        }
       },
       {
         "game": "Pokémon Channel",
         "year": 2003,
         "category": "Simulação",
         "description": "Caterpie aparece no ambiente explorável.",
-        "obtaining": "Procure-o na floresta."
+        "obtaining": "Procure-o na floresta.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-channel.png",
+          "alt": "Caterpie em Pokémon Channel"
+        }
       },
       {
         "game": "Pokémon Trozei!",
         "year": 2005,
         "category": "Quebra-cabeça",
         "description": "Caterpie é uma peça colecionável.",
-        "obtaining": "Phobos Train, Endless Level 9, Trozei Battle e esconderijo de Mr. Who."
+        "obtaining": "Phobos Train, Endless Level 9, Trozei Battle e esconderijo de Mr. Who.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-trozei.gif",
+          "alt": "Sprite animado de Caterpie em Pokémon Trozei!"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
         "year": 2005,
         "category": "Exploração",
         "description": "Caterpie é o primeiro cliente que pede ajuda para resgatar seu amigo Metapod.",
-        "obtaining": "Pode ser recrutado nos andares B2F a B4F de Wish Cave."
+        "obtaining": "Pode ser recrutado nos andares B2F a B4F de Wish Cave.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-md.gif",
+          "alt": "Sprite animado de Caterpie em Pokémon Mystery Dungeon: Red Rescue Team e Blue Rescue Team"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
         "year": 2007,
         "category": "Exploração",
         "description": "Caterpie é recrutável durante a exploração.",
-        "obtaining": "Apple Woods e Oran Forest, andares 1F a 4F."
+        "obtaining": "Apple Woods e Oran Forest, andares 1F a 4F.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-md-time-darkness.png",
+          "alt": "Retrato de Caterpie em Pokémon Mystery Dungeon: Explorers of Time e Darkness"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Sky",
         "year": 2009,
         "category": "Exploração",
         "description": "Caterpie é recrutável durante a exploração.",
-        "obtaining": "Apple Woods e Oran Forest, andares 1F a 4F."
+        "obtaining": "Apple Woods e Oran Forest, andares 1F a 4F.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-md-sky.png",
+          "alt": "Retrato de Caterpie em Pokémon Mystery Dungeon: Explorers of Sky"
+        }
       },
       {
         "game": "Pokémon Rumble",
         "year": 2009,
         "category": "Ação",
         "description": "Caterpie aparece como Pokémon de brinquedo.",
-        "obtaining": "Silent Forest, dificuldade Normal, Rank C."
+        "obtaining": "Silent Forest, dificuldade Normal, Rank C.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-rumble.png",
+          "alt": "Caterpie em Pokémon Rumble"
+        }
       },
       {
         "game": "PokéPark Wii: Pikachu’s Adventure",
         "year": 2009,
         "category": "Aventura",
         "description": "Caterpie vive na Meadow Zone.",
-        "obtaining": "Interaja com ele na White Tree e participe de Bulbasaur's Daring Dash."
+        "obtaining": "Interaja com ele na White Tree e participe de Bulbasaur's Daring Dash.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-pokepark.png",
+          "alt": "Caterpie em PokéPark Wii: Pikachu’s Adventure"
+        }
       },
       {
         "game": "Pokémon Rumble Blast",
@@ -5639,7 +5671,11 @@
         "year": 2011,
         "category": "Aventura",
         "description": "Caterpie vive na Arbor Area.",
-        "obtaining": "Encontre-o durante a exploração."
+        "obtaining": "Encontre-o durante a exploração.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-pokepark2.png",
+          "alt": "Caterpie em PokéPark 2: Wonders Beyond"
+        }
       },
       {
         "game": "Pokémon Rumble U",
@@ -5653,7 +5689,11 @@
         "year": 2014,
         "category": "Quebra-cabeça",
         "description": "Caterpie aparece como peça do quebra-cabeça.",
-        "obtaining": "Safari Jungle, estágio 2, domingo."
+        "obtaining": "Safari Jungle, estágio 2, domingo.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-battle-trozei.png",
+          "alt": "Ícone de Caterpie em Pokémon Battle Trozei"
+        }
       },
       {
         "game": "Pokémon Rumble World",
@@ -5667,14 +5707,22 @@
         "year": 2015,
         "category": "Quebra-cabeça",
         "description": "Caterpie pode ser capturado em estágio especial.",
-        "obtaining": "Pokémon Safari, 20ª edição."
+        "obtaining": "Pokémon Safari, 20ª edição.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-shuffle.png",
+          "alt": "Ícone de Caterpie em Pokémon Shuffle"
+        }
       },
       {
         "game": "Pokémon Super Mystery Dungeon",
         "year": 2015,
         "category": "Exploração",
         "description": "Caterpie pode integrar a rede de conexões.",
-        "obtaining": "Converse com ele em Serene Village."
+        "obtaining": "Converse com ele em Serene Village.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-smd.png",
+          "alt": "Retrato de Caterpie em Pokémon Super Mystery Dungeon"
+        }
       },
       {
         "game": "Pokémon GO",
@@ -5692,42 +5740,66 @@
         "year": 2018,
         "category": "Exploração",
         "description": "Caterpie pode integrar a equipe na Ilha Tumblecube.",
-        "obtaining": "Prepare receitas de atração, como Mulligan Stew à la Cube."
+        "obtaining": "Prepare receitas de atração, como Mulligan Stew à la Cube.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-quest.png",
+          "alt": "Modelo tridimensional de Caterpie em Pokémon Quest"
+        }
       },
       {
         "game": "Pokémon Rumble Rush",
         "year": 2019,
         "category": "Ação",
         "description": "Caterpie aparece como Pokémon de brinquedo.",
-        "obtaining": "Disponível no tutorial e em explorações de ilhas compatíveis."
+        "obtaining": "Disponível no tutorial e em explorações de ilhas compatíveis.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-rumble-rush.png",
+          "alt": "Modelo tridimensional de Caterpie em Pokémon Rumble Rush"
+        }
       },
       {
         "game": "Pokémon Masters EX",
         "year": 2019,
         "category": "Batalhas por duplas",
         "description": "Caterpie pode formar dupla com o protagonista a partir de um ovo.",
-        "obtaining": "Obtenha ovos que incluam a espécie em eventos de ovos compatíveis."
+        "obtaining": "Obtenha ovos que incluam a espécie em eventos de ovos compatíveis.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-masters.png",
+          "alt": "Caterpie em Pokémon Masters EX"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Rescue Team DX",
         "year": 2020,
         "category": "Exploração",
         "description": "Caterpie participa do primeiro pedido de resgate e pode integrar a equipe.",
-        "obtaining": "Purity Forest, andares 2F a 4F; também pode aparecer desmaiado em masmorras compatíveis."
+        "obtaining": "Purity Forest, andares 2F a 4F; também pode aparecer desmaiado em masmorras compatíveis.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-md-dx.png",
+          "alt": "Retrato de Caterpie em Pokémon Mystery Dungeon: Rescue Team DX"
+        }
       },
       {
         "game": "New Pokémon Snap",
         "year": 2021,
         "category": "Fotografia",
         "description": "Caterpie pode ser fotografado durante expedições noturnas.",
-        "obtaining": "Florio Nature Park (noite) e Secret Side Path (noite)."
+        "obtaining": "Florio Nature Park (noite) e Secret Side Path (noite).",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-new-snap.png",
+          "alt": "Caterpie em New Pokémon Snap"
+        }
       },
       {
         "game": "Pokémon Sleep",
         "year": 2023,
         "category": "Pesquisa de sono",
         "description": "Caterpie é especialista em frutas, coleta Lum Berry e aparece no tipo de sono Dozing.",
-        "obtaining": "Pesquise seus estilos de sono em Greengrass Isle, Cyan Beach, Old Gold Power Plant, Amber Canyon ou Greengrass Isle (Expert). Evolui a partir do nível 5 com 40 Doces Caterpie."
+        "obtaining": "Pesquise seus estilos de sono em Greengrass Isle, Cyan Beach, Old Gold Power Plant, Amber Canyon ou Greengrass Isle (Expert). Evolui a partir do nível 5 com 40 Doces Caterpie.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-sleep.png",
+          "alt": "Ícone de Caterpie em Pokémon Sleep"
+        }
       }
     ]
   },
