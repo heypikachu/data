@@ -28100,7 +28100,11 @@
       {
         "title_en": "A Six Pack Attack!",
         "appearance": "Pokémon do Professor Oak",
-        "description": "Squirtle viaja a Hoenn com o Professor Oak, Bulbasaur e Charmander."
+        "description": "Squirtle viaja a Hoenn com o Professor Oak, Bulbasaur e Charmander.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-a-six-pack-attack.webp",
+          "alt": "Squirtle reunido com os Pokémon iniciais de Kanto e Hoenn."
+        }
       },
       {
         "title_en": "Borrowing on Bad Faith!",
@@ -28145,7 +28149,11 @@
       {
         "title_en": "Alola, Kanto!",
         "appearance": "Pokémon selvagem",
-        "description": "Um Squirtle selvagem aparece durante a visita a Kanto."
+        "description": "Um Squirtle selvagem aparece durante a visita a Kanto.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-alola-kanto.webp",
+          "alt": "Squirtle ao lado de Horsea, Goldeen e Seadra no laboratório do Professor Oak."
+        }
       },
       {
         "episode_code": "JN001",
@@ -28246,7 +28254,11 @@
       {
         "title_en": "Gathering the Gang of Four!",
         "appearance": "Pokémon de Ash",
-        "description": "Squirtle se reúne com Pikachu, Bulbasaur e Charizard para a revanche contra Brandon."
+        "description": "Squirtle se reúne com Pikachu, Bulbasaur e Charizard para a revanche contra Brandon.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-gathering-the-gang-of-four.webp",
+          "alt": "Squirtle reunido com Ash, Pikachu, Bulbasaur e Charizard."
+        }
       },
       {
         "title_en": "Pace – The Final Frontier!",
