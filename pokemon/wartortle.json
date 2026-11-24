@@ -29558,18 +29558,54 @@
     ],
     "films": [
       {
-        "title": "Pokémon, o Filme: Eu Escolho Você!",
-        "year": 2017,
-        "description": "Um treinador aparece com um Wartortle."
-      },
-      {
         "title_en": "The Power of One",
         "year": 1999,
         "description": "Wartortle estão entre os Pokémon que reagem ao desequilíbrio causado por Lawrence III.",
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/films/filmes-the-power-of-one.webp",
           "alt": "Wartortle entre os Pokémon reunidos nas Ilhas Shamouti em The Power of One."
-        }
+        },
+        "code": "M02",
+        "title_pt": "Pokémon: O Filme 2000 - O Poder de Um",
+        "title_ja": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
+        "category": "Participação breve"
+      },
+      {
+        "code": "M05",
+        "title_pt": "Heróis Pokémon: Latios e Latias",
+        "title_en": "Pokémon Heroes: Latios & Latias",
+        "title_ja": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
+        "year": 2002,
+        "category": "Pokémon de competidor",
+        "description": "O Wartortle de um competidor participa da corrida aquática Tour de Alto Mare."
+      },
+      {
+        "title": "Pokémon, o Filme: Eu Escolho Você!",
+        "year": 2017,
+        "description": "Um treinador aparece com um Wartortle.",
+        "code": "M20",
+        "title_en": "I Choose You!",
+        "title_pt": "Pokémon, o Filme: Eu Escolho Você!",
+        "title_ja": "劇場版ポケットモンスター キミにきめた！",
+        "category": "Pokémon de treinador"
+      },
+      {
+        "code": "M21",
+        "title_pt": "Pokémon, o Filme: O Poder de Todos",
+        "title_en": "The Power of Us",
+        "title_ja": "劇場版ポケットモンスター みんなの物語",
+        "year": 2018,
+        "category": "Pokémon de treinador",
+        "description": "Um Wartortle de treinador utiliza Water Gun ao lado de outros Pokémon do tipo Água."
+      },
+      {
+        "code": "M23",
+        "title_pt": "Pokémon, o Filme: Segredos da Selva",
+        "title_en": "Secrets of the Jungle",
+        "title_ja": "劇場版ポケットモンスター ココ",
+        "year": 2020,
+        "category": "Pokémon de treinador",
+        "description": "Um Wartortle pertencente a um treinador faz uma breve aparição no filme."
       }
     ],
     "animations": [
