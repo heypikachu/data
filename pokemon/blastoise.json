@@ -58,9 +58,9 @@
   "concept_origin": {
     "title": "Conceito e origem",
     "designer": {
-      "label": "Design original",
+      "label": "Ilustração de Pokémon Red e Green",
       "name": "Ken Sugimori",
-      "description": "Criador do design original de Blastoise."
+      "description": "Assina a ilustração publicada de Blastoise e o esboço de Karabajio. O crédito pela arte publicada é documentado. A autoria do design final da espécie permanece sem confirmação oficial explícita."
     },
     "form_designers": [
       {
@@ -74,10 +74,20 @@
         "note": "Autoria individual não confirmada."
       }
     ],
-    "curiosity": "Um desenho da fase Capsule Monsters mostra Karabajio, uma criatura semelhante a Blastoise, mas sem os canhões nas costas.",
+    "curiosity": "No projeto Capsule Monsters, que deu origem a Pokémon, Ken Sugimori ilustrou um confronto entre Karabajio e Mimī. Karabajio já tinha o casco e a silhueta que lembram Blastoise. Os canhões de água, hoje a marca da espécie, ainda não aparecem no desenho.",
+    "curiosity_image": {
+      "url": "https://archives.bulbagarden.net/media/upload/8/88/Early_Blastoise_and_Staryu_sketch.jpg",
+      "alt": "Esboço em preto e branco de Karabajio, uma tartaruga sem canhões, enfrentando Mimī, semelhante a Staryu.",
+      "caption": "Karabajio vs. Mimī, estudo de Ken Sugimori para Capsule Monsters.",
+      "width": 1570,
+      "height": 1920
+    },
     "origin": [
-      "O casco de tartaruga e os canhões evocam um veículo blindado.",
-      "Blastoise provavelmente combina blast e tortoise. Kamex remete a kame (tartaruga) e à ideia de máximo."
+      "O visual de Blastoise combina o corpo de uma tartaruga com elementos de um tanque. Seus canhões se projetam do casco e disparam jatos pressurizados.",
+      "Mega Blastoise troca os dois canhões das costas por uma peça central maior e ganha um canhão em cada braço. A Pokédex compara a potência do canhão principal à de um tanque.",
+      "O casco de Blastoise Gigantamax funciona como uma bateria de 31 canhões. A configuração lembra um encouraçado. A semelhança com o veículo blindado desenhado por Leonardo da Vinci é uma hipótese de inspiração.",
+      "Os canhões também lembram Turtle Bazooka, personagem de Kamen Rider V3. A semelhança é uma hipótese visual.",
+      "O nome Blastoise provavelmente combina blast (disparo ou explosão) com tortoise (tartaruga terrestre). O japonês Kamex pode unir kame (tartaruga) e makkusu (máximo). Uma hipótese para o nome antigo, Karabajio, é a combinação de carapace (carapaça) e Caravaggio."
     ]
   },
   "morphology": {
@@ -100,7 +110,7 @@
       "description": "Ilustração usada em interfaces históricas da Pokédex.",
       "icon": {
         "name": "F0009.png",
-        "url": "https://archives.bulbagarden.net/media/upload/8/8e/F0009.png",
+        "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAMFBMVEX4+PgAAAAAAAAAAAAAAAAAAAAAAAD4+PgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADW1T24AAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEgAACxIB0t1+/AAAAC9JREFUCJljYEACLA5QhosLlO/iAhZzATFcwBIgAJIC0Q5EMhigmhAmIzHgloIBAAQcDdELOr5aAAAAAElFTkSuQmCC",
         "alt": "Pegada de Blastoise"
       }
     }
