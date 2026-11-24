@@ -1,0 +1,6346 @@
+{
+  "schema": 1,
+  "species": "weedle",
+  "name": "Weedle",
+  "number": "0013",
+  "evolution_line": [
+    {
+      "name": "Weedle",
+      "number": 13,
+      "method": null,
+      "level": null
+    },
+    {
+      "name": "Kakuna",
+      "number": 14,
+      "method": "Lv.7",
+      "level": 7
+    },
+    {
+      "name": "Beedrill",
+      "number": 15,
+      "method": "Lv.10",
+      "level": 10
+    }
+  ],
+  "japanese": {
+    "kanji": "ビードル",
+    "romaji": "Bīdoru",
+    "spelling": "Beedle"
+  },
+  "types": [
+    "Inseto",
+    "Venenoso"
+  ],
+  "species_name": "Pokémon Inseto Peludo",
+  "height": "0,3 m",
+  "weight": "3,2 kg",
+  "capture_rate": 255,
+  "egg_cycles": 15,
+  "egg_groups": [
+    "Inseto"
+  ],
+  "gender_ratio": {
+    "male": 50,
+    "female": 50
+  },
+  "growth_rate": "Médio-rápido",
+  "pokedex_color": "Marrom",
+  "debut_generation": "I",
+  "experience_at_level_100": 1000000,
+  "pokedex_habitat": {
+    "name": "Floresta",
+    "description": "Classificação histórica da Pokédex de FireRed e LeafGreen. Weedle habita florestas e vegetação rasteira, onde se alimenta de folhas."
+  },
+  "concept_origin": {
+    "title": "Conceito e origem",
+    "designer": {
+      "label": "Design original",
+      "name": "Atsuko Nishida",
+      "description": "Responsável pelo design de Weedle e sua linha evolutiva."
+    },
+    "form_designers": [],
+    "curiosity": "Um esboço de desenvolvimento identificava Weedle pelo nome provisório Kokana. A vespa Stentorceps weedlei recebeu seu nome científico em referência a Weedle.",
+    "origin": [
+      "O corpo segmentado e os ferrões lembram larvas de insetos e lagartas urticantes; a linha evolutiva remete a vespas e abelhas.",
+      "O nome inglês Weedle pode combinar worm (verme) ou wee (pequeno) com needle (agulha).",
+      "O nome japonês Beedle pode combinar bee (abelha) e needle (agulha).",
+      "Possui um nariz vermelho muito sensível, que utiliza para identificar suas folhas preferidas, além de espinhos na cabeça e na extremidade do corpo."
+    ]
+  },
+  "morphology": {
+    "body_shape": {
+      "label": "Formato corporal",
+      "slug": "body-shape",
+      "name": "Corpo segmentado",
+      "official_category": "Pokémon com corpo segmentado",
+      "description": "Corpo alongado formado por segmentos, pequenas patas rosadas e ferrões nas extremidades.",
+      "icon": {
+        "name": "Body14.webp",
+        "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/body/Body14.webp",
+        "alt": "Ícone de corpo segmentado"
+      }
+    }
+  },
+  "records": {
+    "rb": {
+      "game_name": "Pokémon Red / Blue",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Vive nas florestas, onde se alimenta de folhas. Possui um ferrão venenoso e afiado na cabeça.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Routes 2 e 24: Encontro selvagem em Red; indisponível nessas rotas em Blue. Route 25: Encontro selvagem em Red e Blue. Viridian Forest: Encontro selvagem na grama.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Routes 2 e 24",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem em Red; indisponível nessas rotas em Blue."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Route 25",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem em Red e Blue."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52
+    },
+    "yellow": {
+      "game_name": "Pokémon Yellow",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Costuma se esconder em arbustos e na vegetação baixa enquanto come folhas. Cuidado com o ferrão afiado de sua cabeça.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Weedle não aparece selvagem em Yellow; obtenha-o de Red ou Blue.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Weedle não aparece selvagem em Yellow; obtenha-o de Red ou Blue."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52
+    },
+    "gold": {
+      "game_name": "Pokémon Gold",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Seu ferrão contém veneno potente. As cores vivas de seu corpo ajudam a afastar predadores.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Johto #027",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "National Park: Disponível durante o Bug-Catching Contest, às terças, quintas e sábados. Troca: Obtenha Weedle por troca com outra edição compatível.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "National Park",
+          "method": "Captura selvagem",
+          "details": "Disponível durante o Bug-Catching Contest, às terças, quintas e sábados."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Obtenha Weedle por troca com outra edição compatível."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "silver": {
+      "game_name": "Pokémon Silver",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Ataca com o ferrão venenoso de cerca de 5 cm e costuma se esconder sob as folhas que come.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Johto #027",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontro selvagem de manhã e durante o dia. Routes 30 e 31; Ilex Forest; National Park: Encontros selvagens, de manhã e durante o dia. National Park: Disponível durante o Bug-Catching Contest, às terças, quintas e sábados. Routes 26, 27, 34, 35, 36, 37, 38 e 39; Azalea Town; Ilex Forest; Lake of Rage: Sacuda árvores com Headbutt.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 2",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem de manhã e durante o dia."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Routes 30 e 31; Ilex Forest; National Park",
+          "method": "Captura selvagem",
+          "details": "Encontros selvagens, de manhã e durante o dia."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "National Park",
+          "method": "Captura selvagem",
+          "details": "Disponível durante o Bug-Catching Contest, às terças, quintas e sábados."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Routes 26, 27, 34, 35, 36, 37, 38 e 39; Azalea Town; Ilex Forest; Lake of Rage",
+          "method": "Headbutt",
+          "details": "Sacuda árvores com Headbutt."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "crystal": {
+      "game_name": "Pokémon Crystal",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "A ponta da cabeça libera um veneno forte, utilizado para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Johto #027",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Routes 30 e 31; Ilex Forest; National Park: Encontros selvagens, de manhã e durante o dia. National Park: Disponível durante o Bug-Catching Contest, às terças, quintas e sábados. Ilex Forest: Use Headbutt em árvores.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Routes 30 e 31; Ilex Forest; National Park",
+          "method": "Captura selvagem",
+          "details": "Encontros selvagens, de manhã e durante o dia."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "National Park",
+          "method": "Captura selvagem",
+          "details": "Disponível durante o Bug-Catching Contest, às terças, quintas e sábados."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Ilex Forest",
+          "method": "Headbutt",
+          "details": "Use Headbutt em árvores."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "ruby": {
+      "game_name": "Pokémon Ruby",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Com seu olfato apurado, distingue as folhas que prefere utilizando o grande nariz vermelho.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Obtenha Weedle por troca com outra edição compatível.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Obtenha Weedle por troca com outra edição compatível."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "sapphire": {
+      "game_name": "Pokémon Sapphire",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Com seu olfato apurado, distingue as folhas que prefere utilizando o grande nariz vermelho.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Obtenha Weedle por troca com outra edição compatível.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Obtenha Weedle por troca com outra edição compatível."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "firered": {
+      "game_name": "Pokémon FireRed",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Habita bosques e campos de grama. Na cabeça possui um ferrão venenoso de cerca de 5 cm.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Routes 2, 24 e 25: Encontro selvagem na grama. Viridian Forest: Encontro selvagem na grama. Pattern Bush (Six Island): Encontro selvagem na vegetação.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Routes 2, 24 e 25",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Pattern Bush (Six Island)",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na vegetação."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "leafgreen": {
+      "game_name": "Pokémon LeafGreen",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Vive nas florestas, onde se alimenta de folhas. Possui um ferrão venenoso e afiado na cabeça.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Routes 2, 24 e 25: Encontro selvagem na grama. Viridian Forest: Encontro selvagem na grama. Pattern Bush (Six Island): Encontro selvagem na vegetação.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Routes 2, 24 e 25",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Pattern Bush (Six Island)",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na vegetação."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "emerald": {
+      "game_name": "Pokémon Emerald",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Com seu olfato apurado, distingue as folhas que prefere utilizando o grande nariz vermelho.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Obtenha Weedle por troca com outra edição compatível.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Obtenha Weedle por troca com outra edição compatível."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "diamond": {
+      "game_name": "Pokémon Diamond",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 204: Com Pokémon LeafGreen inserido no slot de Game Boy Advance do Nintendo DS, após obter a National Pokédex.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 204",
+          "method": "Encontro por dual-slot",
+          "details": "Com Pokémon LeafGreen inserido no slot de Game Boy Advance do Nintendo DS, após obter a National Pokédex."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "pearl": {
+      "game_name": "Pokémon Pearl",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 204: Com Pokémon LeafGreen inserido no slot de Game Boy Advance do Nintendo DS, após obter a National Pokédex.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 204",
+          "method": "Encontro por dual-slot",
+          "details": "Com Pokémon LeafGreen inserido no slot de Game Boy Advance do Nintendo DS, após obter a National Pokédex."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "platinum": {
+      "game_name": "Pokémon Platinum",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 204: Com Pokémon LeafGreen inserido no slot de Game Boy Advance do Nintendo DS, após obter a National Pokédex. Eterna Forest: Com LeafGreen no slot de Game Boy Advance.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 204",
+          "method": "Encontro por dual-slot",
+          "details": "Com Pokémon LeafGreen inserido no slot de Game Boy Advance do Nintendo DS, após obter a National Pokédex."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Eterna Forest",
+          "method": "Encontro por dual-slot",
+          "details": "Com LeafGreen no slot de Game Boy Advance."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "heartgold": {
+      "game_name": "Pokémon HeartGold",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Seu ferrão contém veneno potente. As cores vivas de seu corpo ajudam a afastar predadores.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Johto #027",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "National Park: Disponível durante o Bug-Catching Contest, às terças, quintas e sábados. Troca: Obtenha Weedle por troca com outra edição compatível.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "National Park",
+          "method": "Captura selvagem",
+          "details": "Disponível durante o Bug-Catching Contest, às terças, quintas e sábados."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Obtenha Weedle por troca com outra edição compatível."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "method": "tutor"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "method": "tutor"
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "soulsilver": {
+      "game_name": "Pokémon SoulSilver",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Ataca com o ferrão venenoso de cerca de 5 cm e costuma se esconder sob as folhas que come.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Johto #027",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2; Viridian Forest: Encontros selvagens. Routes 30 e 31; Ilex Forest; National Park: Encontros selvagens, de manhã e durante o dia. National Park: Disponível durante o Bug-Catching Contest, às terças, quintas e sábados. Ilex Forest: Use Headbutt nas árvores.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 2; Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontros selvagens."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Routes 30 e 31; Ilex Forest; National Park",
+          "method": "Captura selvagem",
+          "details": "Encontros selvagens, de manhã e durante o dia."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "National Park",
+          "method": "Captura selvagem",
+          "details": "Disponível durante o Bug-Catching Contest, às terças, quintas e sábados."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Ilex Forest",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "method": "tutor"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "method": "tutor"
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52,
+      "base_friendship": 70
+    },
+    "black": {
+      "game_name": "Pokémon Black",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Pokémon Day Care: Cruze Kakuna ou Beedrill com um Pokémon compatível ou Ditto.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Pokémon Day Care",
+          "method": "Reprodução",
+          "details": "Cruze Kakuna ou Beedrill com um Pokémon compatível ou Ditto."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "white": {
+      "game_name": "Pokémon White",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Obtenha Weedle por troca com outra edição compatível.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Obtenha Weedle por troca com outra edição compatível."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "black2": {
+      "game_name": "Pokémon Black 2",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Pokémon Day Care: Obtenha um ovo de Beedrill por reprodução. Troca: Obtenha Weedle por troca com outra edição compatível.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Pokémon Day Care",
+          "method": "Reprodução",
+          "details": "Obtenha um ovo de Beedrill por reprodução."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Obtenha Weedle por troca com outra edição compatível."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "method": "tutor"
+          },
+          {
+            "name": "Electroweb",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "method": "tutor"
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "white2": {
+      "game_name": "Pokémon White 2",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Obtenha Weedle por troca com outra edição compatível.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Obtenha Weedle por troca com outra edição compatível."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "method": "tutor"
+          },
+          {
+            "name": "Electroweb",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "method": "tutor"
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "x": {
+      "game_name": "Pokémon X",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Habita bosques e campos de grama. Na cabeça possui um ferrão venenoso de cerca de 5 cm.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Kalos Central #026",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontro selvagem na grama. Santalune Forest: Encontro selvagem.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 2",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Santalune Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "y": {
+      "game_name": "Pokémon Y",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Seu ferrão contém veneno potente. As cores vivas de seu corpo ajudam a afastar predadores.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Kalos Central #026",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Santalune Forest: Encontro selvagem.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Santalune Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "omega-ruby": {
+      "game_name": "Pokémon Omega Ruby",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Com seu olfato apurado, distingue as folhas que prefere utilizando o grande nariz vermelho.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Pokémon Day Care: Cruze Kakuna ou Beedrill com um Pokémon compatível ou Ditto.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Pokémon Day Care",
+          "method": "Reprodução",
+          "details": "Cruze Kakuna ou Beedrill com um Pokémon compatível ou Ditto."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "method": "tutor"
+          },
+          {
+            "name": "Electroweb",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "method": "tutor"
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "alpha-sapphire": {
+      "game_name": "Pokémon Alpha Sapphire",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Com seu olfato apurado, distingue as folhas que prefere utilizando o grande nariz vermelho.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Pokémon Day Care: Cruze Kakuna ou Beedrill com um Pokémon compatível ou Ditto.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Pokémon Day Care",
+          "method": "Reprodução",
+          "details": "Cruze Kakuna ou Beedrill com um Pokémon compatível ou Ditto."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "method": "tutor"
+          },
+          {
+            "name": "Electroweb",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "method": "tutor"
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "sun": {
+      "game_name": "Pokémon Sun",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Weedle pode ser utilizado nesta edição, mas não possui entrada própria na Pokédex regional de Alola.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Transferência de jogos compatíveis por Pokémon Bank ou troca com outra edição da geração VII.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Transferência de jogos compatíveis por Pokémon Bank ou troca com outra edição da geração VII."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "moon": {
+      "game_name": "Pokémon Moon",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Weedle pode ser utilizado nesta edição, mas não possui entrada própria na Pokédex regional de Alola.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Transferência de jogos compatíveis por Pokémon Bank ou troca com outra edição da geração VII.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Transferência de jogos compatíveis por Pokémon Bank ou troca com outra edição da geração VII."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "ultra-sun": {
+      "game_name": "Pokémon Ultra Sun",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Weedle pode ser utilizado nesta edição, mas não possui entrada própria na Pokédex regional de Alola.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Pokémon Day Care: Obtenha um ovo de Beedrill por reprodução.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Pokémon Day Care",
+          "method": "Reprodução",
+          "details": "Obtenha um ovo de Beedrill por reprodução."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "method": "tutor"
+          },
+          {
+            "name": "Electroweb",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "method": "tutor"
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "ultra-moon": {
+      "game_name": "Pokémon Ultra Moon",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Weedle pode ser utilizado nesta edição, mas não possui entrada própria na Pokédex regional de Alola.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Pokémon Day Care: Obtenha um ovo de Beedrill por reprodução.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Pokémon Day Care",
+          "method": "Reprodução",
+          "details": "Obtenha um ovo de Beedrill por reprodução."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "method": "tutor"
+          },
+          {
+            "name": "Electroweb",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "method": "tutor"
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "lets-go-pikachu": {
+      "game_name": "Pokémon Let's Go, Pikachu!",
+      "gen": "VII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Costuma se esconder em arbustos e na vegetação baixa enquanto come folhas. Cuidado com o ferrão afiado de sua cabeça.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontro selvagem. Viridian Forest: Encontro selvagem na grama.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 2",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "lets-go-eevee": {
+      "game_name": "Pokémon Let's Go, Eevee!",
+      "gen": "VII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Costuma se esconder em arbustos e na vegetação baixa enquanto come folhas. Cuidado com o ferrão afiado de sua cabeça.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontro selvagem. Viridian Forest: Encontro selvagem na grama.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 2",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 70
+    },
+    "brilliant-diamond": {
+      "game_name": "Pokémon Brilliant Diamond",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca: Exclusivo de Shining Pearl; obtenha por troca.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Troca",
+          "method": "Troca",
+          "details": "Exclusivo de Shining Pearl; obtenha por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 50
+    },
+    "shining-pearl": {
+      "game_name": "Pokémon Shining Pearl",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo eclode como Weedle.",
+      "pokedex_entry": "Come diariamente o equivalente ao próprio peso em folhas e usa o ferrão da cabeça para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Nacional #0013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Grand Underground: Após obter a National Pokédex, procure em Spacious Cave, Grassland Cave, Swampy Cave, Riverbank Cave, Still-Water Cavern, Sunlit Cavern e Bogsunk Cavern.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Grand Underground",
+          "method": "Captura selvagem",
+          "details": "Após obter a National Pokédex, procure em Spacious Cave, Grassland Cave, Swampy Cave, Riverbank Cave, Still-Water Cavern, Sunlit Cavern e Bogsunk Cavern."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "Bug Bite",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 39,
+      "base_friendship": 50
+    },
+    "red-jp": {
+      "game_name": "Pokémon Red (JP)",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Habita bosques e campos de grama. Na cabeça possui um ferrão venenoso de cerca de 5 cm.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Routes 2, 24 e 25: Encontro selvagem. Viridian Forest: Encontro selvagem na grama.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Routes 2, 24 e 25",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52
+    },
+    "green-jp": {
+      "game_name": "Pokémon Green (JP)",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Habita bosques e campos de grama. Na cabeça possui um ferrão venenoso de cerca de 5 cm.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 25: Encontro selvagem. Viridian Forest: Encontro selvagem na grama.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 25",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52
+    },
+    "blue-jp": {
+      "game_name": "Pokémon Blue (JP)",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna no nível 7",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Vive nas florestas, onde se alimenta de folhas. Possui um ferrão venenoso e afiado na cabeça.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 25: Encontro selvagem. Viridian Forest: Encontro selvagem na grama.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Route 25",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Viridian Forest",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem na grama."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 15,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes separados por método e edição; Weedle não aprende golpes de ovo.",
+      "last_review": "24/11/2026",
+      "base_exp": 52
+    },
+    "za": {
+      "game_name": "Pokémon Legends: Z-A",
+      "gen": "IX",
+      "console": "Nintendo Switch / Switch 2",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Kakuna a partir do nível 7, por evolução no menu.",
+      "review_status": "partial",
+      "stats": [
+        40,
+        35,
+        30,
+        20,
+        20,
+        50
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto",
+        "Venenoso"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Habita bosques e campos de grama. Na cabeça possui um ferrão venenoso de cerca de 5 cm.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "pokedex_number": "Lumiose #018",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/13.png",
+      "forms": [
+        {
+          "name": "Weedle",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/13.png",
+          "types": [
+            "Inseto",
+            "Venenoso"
+          ],
+          "detail": "Forma padrão, sem diferença visual entre os sexos."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Psíquico",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "¼×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Inseto",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Fada",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Wild Zone 1: Encontro selvagem. Vert District: Setores 1, 2, 6 e 8. Bleu District: Setor 7. Magenta District: Setores 4, 6, 7 e 9; exemplar alfa associado à missão secundária 043 no setor 3. Rouge District: Rouge Street e setores 2, 3 e 6. Jaune District: Setores 1, 5, 6 e 11. Hyperspace Lumiose: DLC Mega Dimension: distorções do tipo Inseto de uma estrela.",
+      "encounters": [
+        {
+          "pokemon": "Weedle",
+          "location": "Wild Zone 1",
+          "method": "Captura selvagem",
+          "details": "Encontro selvagem."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Vert District",
+          "method": "Captura selvagem",
+          "details": "Setores 1, 2, 6 e 8."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Bleu District",
+          "method": "Captura selvagem",
+          "details": "Setor 7."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Magenta District",
+          "method": "Captura selvagem",
+          "details": "Setores 4, 6, 7 e 9; exemplar alfa associado à missão secundária 043 no setor 3."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Rouge District",
+          "method": "Captura selvagem",
+          "details": "Rouge Street e setores 2, 3 e 6."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Jaune District",
+          "method": "Captura selvagem",
+          "details": "Setores 1, 5, 6 e 11."
+        },
+        {
+          "pokemon": "Weedle",
+          "location": "Hyperspace Lumiose",
+          "method": "Captura selvagem",
+          "details": "DLC Mega Dimension: distorções do tipo Inseto de uma estrela."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Poison Sting",
+            "type": "Venenoso",
+            "category": "Físico",
+            "power": 30,
+            "cooldown": 6,
+            "plus_level": 10,
+            "level": 1,
+            "method": "level"
+          },
+          {
+            "name": "String Shot",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "cooldown": 9,
+            "plus_level": 10,
+            "level": 1,
+            "method": "level"
+          }
+        ],
+        "evolution": [],
+        "tm": [
+          {
+            "name": "Electroweb",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "cooldown": 7,
+            "machine": "TM101",
+            "method": "tm"
+          },
+          {
+            "name": "Facade",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 70,
+            "cooldown": 7,
+            "machine": "TM109",
+            "method": "tm"
+          }
+        ],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": [
+          {
+            "name": "Electroweb",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "cooldown": 7,
+            "method": "other",
+            "note": "Golpe garantido em Weedle alfa."
+          }
+        ]
+      },
+      "learnset_notes": "Combate em tempo real: os golpes utilizam recarga e podem possuir nível Plus.",
+      "last_review": "24/11/2026",
+      "base_exp": 39
+    }
+  },
+  "spin_off_games": {
+    "title": "Além dos jogos principais",
+    "lead": "Participações de Weedle em jogos derivados da franquia Pokémon.",
+    "entries": [
+      {
+        "game": "Pokémon Stadium",
+        "year": 1999,
+        "category": "Batalhas",
+        "description": "Weedle pode participar das batalhas em 3D.",
+        "obtaining": "Utilize um Pokémon compatível de Red, Blue ou Yellow pelo Transfer Pak."
+      },
+      {
+        "game": "Pokémon Pinball",
+        "year": 1999,
+        "category": "Pinball",
+        "description": "Pode ser registrado e evoluído durante uma partida.",
+        "obtaining": "Procure-o nas áreas da mesa correspondentes a seus habitats, incluindo Viridian Forest."
+      },
+      {
+        "game": "Pokémon Stadium 2",
+        "year": 2000,
+        "category": "Batalhas",
+        "description": "Participa das batalhas com regras das duas primeiras gerações.",
+        "obtaining": "Utilize o Transfer Pak com um jogo compatível."
+      },
+      {
+        "game": "Pokémon Trozei!",
+        "year": 2005,
+        "category": "Quebra-cabeça",
+        "description": "Aparece como peça colecionável.",
+        "obtaining": "Secret Storage 9 e 17, Endless Level 15 e esconderijo de Mr. Who."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
+        "year": 2005,
+        "category": "Exploração",
+        "description": "Pode integrar a equipe de resgate e evoluir após desbloquear a evolução.",
+        "obtaining": "Silent Chasm (B1–B6), Mt. Thunder (1–4), Joyous Tower (28–34) e Oddity Cave (B1–B4). Área de amizade: Mist-Rise Forest."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
+        "year": 2007,
+        "category": "Exploração",
+        "description": "Pode ser recrutado para a equipe de exploração.",
+        "obtaining": "Apple Woods, andares 4 a 9; taxa de recrutamento base de 8,2%."
+      },
+      {
+        "game": "Pokémon Ranger: Shadows of Almia",
+        "year": 2008,
+        "category": "Aventura",
+        "description": "Pokémon R-057, com Poké Assist do tipo Inseto e habilidade de campo Tackle ×1.",
+        "obtaining": "Encontre-o nas árvores de Vien Forest."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+        "year": 2009,
+        "category": "Exploração",
+        "description": "Pode integrar a equipe de exploração.",
+        "obtaining": "Apple Woods, andares 4 a 9."
+      },
+      {
+        "game": "Pokémon Rumble",
+        "year": 2009,
+        "category": "Ação",
+        "description": "É um Pokémon de brinquedo utilizável em combate.",
+        "obtaining": "Silent Forest, dificuldade Normal B."
+      },
+      {
+        "game": "PokéPark Wii: Pikachu’s Adventure",
+        "year": 2009,
+        "category": "Aventura",
+        "description": "Pode tornar-se amigo de Pikachu; sua atração favorita é Bulbasaur’s Daring Dash.",
+        "obtaining": "Meadow Zone, próximo à White Tree e à cachoeira."
+      },
+      {
+        "game": "Pokémon Rumble Blast",
+        "year": 2011,
+        "category": "Ação",
+        "description": "Pokémon de brinquedo que pode ser coletado.",
+        "obtaining": "Misty Edgewater."
+      },
+      {
+        "game": "Learn with Pokémon: Typing Adventure",
+        "year": 2011,
+        "category": "Educacional",
+        "description": "Integra os Pokémon encontrados durante as atividades de digitação.",
+        "obtaining": "Digite corretamente os nomes dos Pokémon durante a aventura."
+      },
+      {
+        "game": "Pokémon Rumble U",
+        "year": 2013,
+        "category": "Ação",
+        "description": "Pokémon de brinquedo disponível em batalhas.",
+        "obtaining": "Model Train Room: All Aboard! e Chill Battle: Forest of Memories."
+      },
+      {
+        "game": "Pokémon Battle Trozei",
+        "year": 2014,
+        "category": "Quebra-cabeça",
+        "description": "Peça colecionável de combate.",
+        "obtaining": "Blade-and-Shield Path, estágio 2."
+      },
+      {
+        "game": "Pokémon Shuffle",
+        "year": 2015,
+        "category": "Quebra-cabeça",
+        "description": "Pokémon do tipo Venenoso, com a habilidade Mind Zap.",
+        "obtaining": "Desert Umbra, estágio 337."
+      },
+      {
+        "game": "Pokémon Rumble World",
+        "year": 2015,
+        "category": "Ação",
+        "description": "Pode ser coletado como Pokémon de brinquedo.",
+        "obtaining": "Dewdrop Bay, Castle Farm."
+      },
+      {
+        "game": "Pokémon Super Mystery Dungeon",
+        "year": 2015,
+        "category": "Exploração",
+        "description": "Pode ser conectado à rede de Pokémon aliados.",
+        "obtaining": "Entregue uma Apple a Weedle; sua conexão inclui Spinarak."
+      },
+      {
+        "game": "Pokémon GO",
+        "year": 2016,
+        "category": "Captura e evolução",
+        "description": "Pode usar Poison Sting e Bug Bite como ataques rápidos e Struggle como ataque carregado. Distância de companheiro: 1 km.",
+        "obtaining": "Encontros selvagens e eventos; evolui para Kakuna com 12 Weedle Candies."
+      },
+      {
+        "game": "Pokémon Quest",
+        "year": 2018,
+        "category": "Exploração",
+        "description": "Pokémon cúbico recrutável para expedições.",
+        "obtaining": "Pode ser atraído por receitas como Mulligan Stew à la Cube e Yellow Curry à la Cube."
+      },
+      {
+        "game": "Pokémon Rumble Rush",
+        "year": 2019,
+        "category": "Ação",
+        "description": "Participou das áreas de exploração do jogo, cujo serviço foi encerrado.",
+        "obtaining": "Historicamente encontrado no tutorial e em áreas como Charizard Sea, Mewtwo Sea e Bulbasaur Sea."
+      },
+      {
+        "game": "Pokémon Masters EX",
+        "year": 2019,
+        "category": "Batalhas por duplas",
+        "description": "Pode formar uma dupla com o protagonista Scottie ou Bettie após nascer de um ovo.",
+        "obtaining": "Ovos compatíveis disponibilizados em eventos."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Rescue Team DX",
+        "year": 2020,
+        "category": "Exploração",
+        "description": "Pode integrar a equipe de resgate.",
+        "obtaining": "Silent Chasm (1–6), Joyous Tower (28–34), Purity Forest (9–12), além de outras masmorras; também pode aparecer desmaiado."
+      },
+      {
+        "game": "Pokémon Smile",
+        "year": 2020,
+        "category": "Educacional",
+        "description": "Pode ser resgatado durante as sessões de escovação.",
+        "obtaining": "Escove os dentes nas atividades correspondentes à floresta."
+      }
+    ]
+  },
+  "unavailable_games": [
+    "Pokémon Sword",
+    "Pokémon Shield",
+    "Pokémon Scarlet",
+    "Pokémon Violet",
+    "Pokémon Legends: Arceus"
+  ],
+  "audit": {
+    "status": "partial",
+    "review_date": "24/11/2026",
+    "notes": "Ficha inicial com dados históricos por edição, biologia, golpes, localizações, jogos derivados e aparições. Traduções editoriais identificadas quando o título localizado não foi confirmado. Sem URLs de cenas ou ícones não verificados.",
+    "pending_verification": [
+      "Taxas e níveis individuais de encontros e particularidades das edições japonesas.",
+      "Conferência de cada título brasileiro com a dublagem oficial e de cada título japonês com o catálogo original.",
+      "Identificação de aparições adicionais de Weedle de Goh e de participações breves em jogos e mídias.",
+      "Imagens de cenas, ícones específicos dos spin-offs e eventual pegada; não foram vinculadas imagens fictícias.",
+      "Teste visual no Blogger e revisão cruzada integral das propriedades históricas dos golpes."
+    ]
+  },
+  "media_appearances": {
+    "title": "Aparições em outras mídias",
+    "lead": "Participações de Weedle no anime, filmes, animações derivadas e mangás.",
+    "anime": [
+      {
+        "jp_number": 4,
+        "episode_code": "EP004",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_en": "Challenge of the Samurai",
+        "title_ja": "サムライしょうねんのちょうせん！",
+        "appearance": "Pokémon selvagem",
+        "description": "Ash tenta capturar Weedle usando Pidgeotto, mas é interrompido pelo Samurai e Weedle escapa.",
+        "title_pt": "O Desafio do Samurai",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 34,
+        "episode_code": "EP034",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_en": "The Kangaskhan Kid",
+        "title_ja": "ガルーラのこもりうた",
+        "appearance": "Participação breve",
+        "description": "Weedle aparece brevemente durante a aventura na reserva.",
+        "title_pt": "O menino dos Kangaskhan",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 56,
+        "episode_code": "EP056",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_en": "The Ultimate Test",
+        "title_ja": "ポケモンけんていしけん！？",
+        "appearance": "Pokémon de treinador",
+        "description": "Todd fotografa um Weedle de treinador; a cena apresenta uma coloração verde incomum.",
+        "title_pt": "O teste definitivo",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 88,
+        "episode_code": "EP088",
+        "season_reference": 2,
+        "season": "Aventuras nas Ilhas Laranja",
+        "title_en": "In the Pink",
+        "title_ja": "ピンクのポケモンじま",
+        "appearance": "Pokémon selvagem",
+        "description": "Um Weedle de coloração rosa habita Pinkan Island, onde os frutos alteram a coloração dos Pokémon.",
+        "title_pt": "A ilha dos Pokémon rosa",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 97,
+        "episode_code": "EP097",
+        "season_reference": 2,
+        "season": "Aventuras nas Ilhas Laranja",
+        "title_en": "Tracey Gets Bugged",
+        "title_ja": "ストライクせんしのほこり",
+        "appearance": "Pokémon selvagem",
+        "description": "Weedle aparece entre os Pokémon insetos de Murcott Island.",
+        "title_pt": "Tracey e os insetos",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 121,
+        "episode_code": "EP121",
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_en": "Illusion Confusion!",
+        "title_ja": "ホーホーとあやしいもり！",
+        "appearance": "Ilusão",
+        "description": "Uma ilusão de Weedle aparece na floresta assombrada.",
+        "title_pt": "Confusão de ilusões",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 132,
+        "episode_code": "EP132",
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_en": "For Crying Out Loud",
+        "title_ja": "なきむしマリル！",
+        "appearance": "Pokémon selvagens",
+        "description": "Um grupo de Weedle é molhado acidentalmente pelo Marill de Wilhomena.",
+        "title_pt": "Marill chorão",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 144,
+        "episode_code": "EP144",
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_en": "Gettin' The Bugs Out",
+        "title_ja": "ヒワダジム！もりのバトルフィールド！！",
+        "appearance": "Pokémon do ginásio",
+        "description": "Weedle participa da defesa do ginásio de Azalea, utilizando seda contra a Equipe Rocket.",
+        "title_pt": "Batalha de insetos",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 207,
+        "episode_code": "EP207",
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_en": "Got Miltank?",
+        "title_ja": "せいぼミルタンク！さばくのひみつ！",
+        "appearance": "Pokémon selvagem",
+        "description": "Weedle aparece entre os Pokémon que vivem no oásis.",
+        "title_pt": "Tem Miltank?",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 227,
+        "episode_code": "EP227",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_en": "For Ho-Oh the Bells Toll!",
+        "title_ja": "スイクンとミナキ！ホウオウのでんせつ！！",
+        "appearance": "Pokémon selvagem",
+        "description": "Weedle integra os Pokémon que defendem a Tin Tower após o roubo dos sinos de cristal.",
+        "title_pt": "Os sinos de Ho-Oh",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 235,
+        "episode_code": "EP235",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_en": "Talkin' 'Bout an Evolution",
+        "title_ja": "ワタルとあかいギャラドス！",
+        "appearance": "Pokémon selvagem",
+        "description": "Weedle sofre os efeitos dos experimentos da Equipe Rocket.",
+        "title_pt": "Falando de evolução",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 250,
+        "episode_code": "EP250",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_en": "The Ice Cave!",
+        "title_ja": "こおりのどうくつ！",
+        "appearance": "Pokémon selvagem",
+        "description": "Weedle aparece na floresta próxima à Ice Cave.",
+        "title_pt": "A caverna de gelo",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido.",
+        "title_en_note": "Tradução do título japonês; episódio sem dublagem oficial em inglês."
+      },
+      {
+        "jp_number": 14,
+        "episode_code": "AG014",
+        "season_reference": 6,
+        "season": "Avançado",
+        "title_en": "All in a Day's Wurmple",
+        "title_ja": "ダブルバトルとダブルでケムッソ！？",
+        "appearance": "Participação breve",
+        "description": "Weedle tem uma breve aparição neste episódio.",
+        "title_pt": "Um dia de Wurmple",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 15,
+        "episode_code": "AG015",
+        "season_reference": 6,
+        "season": "Avançado",
+        "title_en": "Gonna Rule The School!",
+        "title_ja": "勉強します！ポケモントレーナーズスクール！！",
+        "appearance": "Pokémon da escola",
+        "description": "Um Weedle é disponibilizado aos alunos para as atividades da escola.",
+        "title_pt": "A escola de treinadores",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 143,
+        "episode_code": "AG143",
+        "season_reference": 8,
+        "season": "Batalha Avançada",
+        "title_en": "The Saffron Con",
+        "title_ja": "ポケモンコンテスト・ヤマブキ大会！！（前編）",
+        "appearance": "Pokémon de treinador",
+        "description": "Weedle está entre os Pokémon roubados pela Equipe Rocket e posteriormente recuperados.",
+        "title_pt": "O concurso de Saffron",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 144,
+        "episode_code": "AG144",
+        "season_reference": 8,
+        "season": "Batalha Avançada",
+        "title_en": "A Hurdle for Squirtle",
+        "title_ja": "ポケモンコンテスト・ヤマブキ大会！！（後編）",
+        "appearance": "Pokémon de coordenador",
+        "description": "Weedle participa do concurso Pokémon de Saffron.",
+        "title_pt": "Um obstáculo para Squirtle",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 155,
+        "episode_code": "AG155",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_en": "The Green Guardian",
+        "title_ja": "ポケモンレンジャー登場！セレビィ救出作戦！",
+        "appearance": "Participação breve",
+        "description": "Weedle aparece durante a aventura envolvendo Celebi.",
+        "title_pt": "O guardião verde",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 168,
+        "episode_code": "AG168",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_en": "Three Jynx and a Baby!",
+        "title_ja": "ムチュールとルージュラ三姉妹！！",
+        "appearance": "Participação breve",
+        "description": "Dois Weedle aparecem neste episódio.",
+        "title_pt": "Três Jynx e um bebê",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 169,
+        "episode_code": "AG169",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_en": "Talking a Good Game!",
+        "title_ja": "タワータイクーン、リラ登場！！",
+        "appearance": "Participação breve",
+        "description": "Dois Weedle aparecem neste episódio.",
+        "title_pt": "Uma boa conversa de batalha",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 191,
+        "episode_code": "AG191",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_en": "Once More With Reeling!",
+        "title_ja": "サトシＶＳハルカ！ラストバトル！！",
+        "appearance": "Pokémon de coordenador",
+        "description": "Um Weedle participa do Terracotta Contest.",
+        "title_pt": "Mais uma vez no concurso",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 1,
+        "episode_code": "DP001",
+        "season_reference": 10,
+        "season": "Diamante e Pérola",
+        "title_en": "Following A Maiden's Voyage!",
+        "title_ja": "旅立ち！フタバタウンからマサゴタウンへ！",
+        "appearance": "Participação breve",
+        "description": "Weedle aparece durante o início da jornada de Dawn.",
+        "title_pt": "A primeira jornada",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 38,
+        "episode_code": "DP038",
+        "season_reference": 10,
+        "season": "Diamante e Pérola",
+        "title_en": "One Big Happiny Family!",
+        "title_ja": "爆誕！サイクリングロード！！",
+        "appearance": "Pokémon selvagem",
+        "description": "Um Weedle ferido recebe tratamento da Enfermeira Joy.",
+        "title_pt": "Uma grande família Happiny",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 1,
+        "episode_code": "XY001",
+        "season_reference": 17,
+        "season": "XY",
+        "title_en": "Kalos, Where Dreams and Adventures Begin!",
+        "title_ja": "カロス地方にやってきた！夢と冒険のはじまり！！",
+        "appearance": "Participação breve",
+        "description": "Weedle aparece no episódio de chegada de Ash à região de Kalos.",
+        "title_pt": "Kalos, onde os sonhos e aventuras começam",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 2,
+        "episode_code": "XY002",
+        "season_reference": 17,
+        "season": "XY",
+        "title_en": "Lumiose City Pursuit!",
+        "title_ja": "メガシンカとプリズムタワー！",
+        "appearance": "Pokémon do laboratório",
+        "description": "Weedle vive no laboratório do Professor Sycamore.",
+        "title_pt": "Perseguição em Lumiose",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 10,
+        "episode_code": "XY010",
+        "season_reference": 17,
+        "season": "XY",
+        "title_en": "Mega-Mega Meowth Madness!",
+        "title_ja": "ハリマロンVSメガメガニャース！！",
+        "appearance": "Pokémon do laboratório",
+        "description": "O Weedle do laboratório do Professor Sycamore volta a aparecer.",
+        "title_pt": "A loucura do Mega-Mega Meowth",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 15,
+        "episode_code": "XY015",
+        "season_reference": 17,
+        "season": "XY",
+        "title_en": "An Appetite for Battle!",
+        "title_ja": "ハリマロンVSマフォクシー！ダイエットバトル！？",
+        "appearance": "Participação breve",
+        "description": "Weedle aparece neste episódio.",
+        "title_pt": "Apetite por batalha",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 40,
+        "episode_code": "XY040",
+        "season_reference": 17,
+        "season": "XY",
+        "title_en": "Day Three Blockbusters!",
+        "title_ja": "セレナVSサナ！ポケビジョン対決！！",
+        "appearance": "Pokémon do laboratório",
+        "description": "Weedle do laboratório do Professor Sycamore aparece novamente.",
+        "title_pt": "Sucessos do terceiro dia",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 68,
+        "episode_code": "XY068",
+        "season_reference": 18,
+        "season": "XY: Desafio em Kalos",
+        "title_en": "Garchomp's Mega Bond!",
+        "title_ja": "狙われたメガシンカ！ガブリアスの絆！！",
+        "appearance": "Flashback",
+        "description": "Weedle aparece em uma lembrança do laboratório do Professor Sycamore.",
+        "title_pt": "O Mega vínculo de Garchomp",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 108,
+        "episode_code": "XY108",
+        "season_reference": 19,
+        "season": "XYZ",
+        "title_en": "A Watershed Moment!",
+        "title_ja": "荒野のブリガロン！木を植えるロボン！！",
+        "appearance": "Flashback",
+        "description": "Weedle aparece em uma lembrança.",
+        "title_pt": "Um momento decisivo",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 121,
+        "episode_code": "XY121",
+        "season_reference": 19,
+        "season": "XYZ",
+        "title_en": "Seeing the Forest for the Trees!",
+        "title_ja": "迷いの森…進化の夜明け！",
+        "appearance": "Flashback",
+        "description": "Weedle aparece em uma lembrança.",
+        "title_pt": "Vendo a floresta além das árvores",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 137,
+        "episode_code": "XY137",
+        "season_reference": 19,
+        "season": "XYZ",
+        "title_en": "Battling With a Clean Slate!",
+        "title_ja": "はじまりはゼロ！シトロンの決断！！",
+        "appearance": "Pokémon do laboratório",
+        "description": "O Weedle do laboratório do Professor Sycamore aparece novamente.",
+        "title_pt": "Batalhando com um novo começo",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 1,
+        "episode_code": "JN001",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_en": "Enter Pikachu!",
+        "title_ja": "ピカチュウ誕生！",
+        "appearance": "Flashback",
+        "description": "Weedle aparece em uma lembrança do passado.",
+        "title_pt": "A chegada de Pikachu!"
+      },
+      {
+        "jp_number": 6,
+        "episode_code": "JN006",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_en": "Working My Way Back to Mew!",
+        "title_ja": "ポケモン大量ゲットだぜ！ミュウへの道！！",
+        "appearance": "Pokémon de Goh",
+        "description": "Goh captura Weedle durante sua busca por registrar diferentes espécies.",
+        "title_pt": "O caminho de volta até Mew",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 21,
+        "episode_code": "JN021",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_en": "Caring for a Mystery!",
+        "title_ja": "とどけ波導！サトシと不思議なタマゴ！！",
+        "appearance": "Pokémon de treinador",
+        "description": "Um Weedle de treinador aparece neste episódio.",
+        "title_pt": "Cuidando de um mistério",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 33,
+        "episode_code": "JN033",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_en": "Trade, Borrow, and Steal!",
+        "title_ja": "ポケモン交換しませんか？",
+        "appearance": "Pokémon selvagem e de treinador",
+        "description": "O episódio apresenta Weedle selvagem e de treinador.",
+        "title_pt": "Trocar, emprestar e roubar",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 47,
+        "episode_code": "JN047",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_en": "Crowning the Chow Crusher!",
+        "title_ja": "ポケモンチャンピオン！大食い王決定戦！！",
+        "appearance": "Pokémon de treinador",
+        "description": "Um Weedle de treinador aparece durante o evento de alimentação.",
+        "title_pt": "Coroando o campeão da comilança",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 136,
+        "episode_code": "JN136",
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_en": "This Could be the Start of Something Big!",
+        "title_ja": "サトシとゴウ！あらたなる旅立ち！！",
+        "appearance": "Participação breve",
+        "description": "Weedle tem uma participação breve.",
+        "title_pt": "Esse pode ser o começo de uma coisa maior!"
+      },
+      {
+        "jp_number": 147,
+        "episode_code": "JN147",
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_en": "The Rainbow and the Pokémon Master!",
+        "title_ja": "虹とポケモンマスター！",
+        "appearance": "Participação breve",
+        "description": "Weedle aparece no episódio final da jornada de Ash.",
+        "title_pt": "O arco-íris e o mestre Pokémon!"
+      },
+      {
+        "jp_number": 4,
+        "episode_code": "HZ004",
+        "season_reference": 26,
+        "season": "Horizontes",
+        "title_en": "The Treasure After the Storm!",
+        "title_ja": "ながれついた宝もの",
+        "appearance": "Participação breve",
+        "description": "Dois Weedle aparecem neste episódio.",
+        "title_pt": "O tesouro após a tempestade",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 5,
+        "episode_code": "HZ005",
+        "season_reference": 26,
+        "season": "Horizontes",
+        "title_en": "Found You, Fuecoco!",
+        "title_ja": "みつけたよ、ホゲータ",
+        "appearance": "Pokémon ajudante",
+        "description": "Weedle auxilia nos reparos da Brave Olivine.",
+        "title_pt": "Encontrei você, Fuecoco",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 57,
+        "episode_code": "HZ057",
+        "season_reference": 27,
+        "season": "Horizontes: Em Busca de Laqua",
+        "title_en": "The Terapagos I Don't Know",
+        "title_ja": "わたしの知らないテラパゴス",
+        "appearance": "Pokémon de estudante",
+        "description": "Um Weedle pertence a um estudante.",
+        "title_pt": "O Terapagos que não conheço",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      },
+      {
+        "jp_number": 62,
+        "episode_code": "HZ062",
+        "season_reference": 27,
+        "season": "Horizontes: Em Busca de Laqua",
+        "title_en": "A New Song for Fuecoco",
+        "title_ja": "ホゲータとぼくの歌",
+        "appearance": "Flashback",
+        "description": "Weedle aparece em uma lembrança.",
+        "title_pt": "Uma nova canção para Fuecoco",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+      }
+    ],
+    "films": [
+      {
+        "title_en": "Mewtwo Strikes Back",
+        "title_pt": "Pokémon: O Filme — Mewtwo Contra-Ataca",
+        "title_ja": "劇場版ポケットモンスター ミュウツーの逆襲",
+        "year": 1998,
+        "description": "Um Weedle de treinador aparece no filme."
+      },
+      {
+        "title_en": "Celebi: Voice of the Forest",
+        "title_pt": "Pokémon 4: Viajantes do Tempo",
+        "title_ja": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
+        "year": 2001,
+        "description": "Vários Weedle vivem na floresta."
+      },
+      {
+        "title_en": "Destiny Deoxys",
+        "title_pt": "Pokémon: Alma Gêmea",
+        "title_ja": "劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス",
+        "year": 2004,
+        "description": "Weedle tem uma breve aparição."
+      },
+      {
+        "title_en": "I Choose You!",
+        "title_pt": "Pokémon, o Filme: Eu Escolho Você!",
+        "title_ja": "劇場版ポケットモンスター キミにきめた！",
+        "year": 2017,
+        "description": "Dois Weedle aparecem durante o filme."
+      },
+      {
+        "title_en": "Mewtwo Strikes Back—Evolution",
+        "title_pt": "Pokémon: Mewtwo Contra-Ataca — Evolução",
+        "title_ja": "ミュウツーの逆襲 EVOLUTION",
+        "year": 2019,
+        "description": "Um Weedle de treinador aparece no remake."
+      }
+    ],
+    "animations": [
+      {
+        "title_en": "Pikachu's Rescue Adventure",
+        "appearance": "Curta-metragem (1999)",
+        "description": "Weedle selvagem aparece na aventura dos Pokémon de Ash."
+      },
+      {
+        "title_en": "Pokémon Origins",
+        "appearance": "File 1: Red",
+        "description": "Weedle aparece durante a apresentação do Professor Oak."
+      },
+      {
+        "title_en": "Pokémon Origins",
+        "appearance": "File 3: Giovanni",
+        "description": "Weedle aparece durante os acontecimentos na Silph Co."
+      },
+      {
+        "title_en": "POKÉTOON",
+        "appearance": "Wait for Me, Magikarp!",
+        "description": "Weedle aparece no curta centrado em Magikarp."
+      },
+      {
+        "title_en": "POKÉTOON",
+        "appearance": "My Gogoat Journey",
+        "description": "Weedle aparece durante a jornada de Gogoat."
+      }
+    ],
+    "manga": [
+      {
+        "title_en": "Pokémon Adventures",
+        "appearance": "Bulbasaur, Come Home!",
+        "chapter": "Bulbasaur, Come Home!",
+        "description": "Um Weedle escapa do laboratório do Professor Oak."
+      },
+      {
+        "title_en": "Pokémon Adventures",
+        "appearance": "Buzz Off, Electabuzz!",
+        "chapter": "Buzz Off, Electabuzz!",
+        "description": "Weedle é reunido ao seu treinador."
+      },
+      {
+        "title_en": "Pokémon Adventures",
+        "appearance": "Just a Spearow Carrier",
+        "chapter": "Just a Spearow Carrier",
+        "description": "Green captura Weedle para seu plano de trocas."
+      },
+      {
+        "title_en": "Pokémon Adventures",
+        "appearance": "Murkrow Row",
+        "chapter": "Murkrow Row",
+        "description": "Weedle aparece entre os Pokémon da casa de Gold."
+      },
+      {
+        "title_en": "Pokémon Adventures",
+        "appearance": "Absolutely Azumarill",
+        "chapter": "Absolutely Azumarill",
+        "description": "Crystal tenta capturar um Weedle sem sucesso."
+      },
+      {
+        "title_en": "Pokémon Adventures",
+        "appearance": "The Last Battle XIII",
+        "chapter": "The Last Battle XIII",
+        "description": "Weedle participa dos acontecimentos na Ilex Forest."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters",
+        "appearance": "Big Battle in the Viridian Forest!!",
+        "chapter": "Big Battle in the Viridian Forest!!",
+        "description": "Weedle aparece na batalha em Viridian Forest."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters",
+        "appearance": "Pikachu's Birthday Party",
+        "chapter": "Pikachu's Birthday Party",
+        "description": "Weedle aparece na festa de aniversário."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters",
+        "appearance": "The Hardest Bug Pokémon Wins?!",
+        "chapter": "The Hardest Bug Pokémon Wins?!",
+        "description": "Weedle aparece durante a competição de Pokémon insetos."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters",
+        "appearance": "The Exam Showdown!!",
+        "chapter": "The Exam Showdown!!",
+        "description": "Weedle aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters DP",
+        "appearance": "PMDP16",
+        "chapter": "PMDP16",
+        "description": "Weedle aparece neste capítulo."
+      },
+      {
+        "title_en": "Magical Pokémon Journey",
+        "appearance": "How Do You Do, Pikachu?",
+        "chapter": "How Do You Do, Pikachu?",
+        "description": "Weedle aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Yeah! I Got Pokémon!",
+        "appearance": "GDZ15",
+        "chapter": "GDZ15",
+        "description": "Weedle aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Yeah! I Got Pokémon!",
+        "appearance": "GDZ19",
+        "chapter": "GDZ19",
+        "description": "Shu estabelece amizade com Weedle e o captura."
+      },
+      {
+        "title_en": "Pokémon Yeah! I Got Pokémon!",
+        "appearance": "GDZ21",
+        "chapter": "GDZ21",
+        "description": "Weedle aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Yeah! I Got Pokémon!",
+        "appearance": "GDZ23",
+        "chapter": "GDZ23",
+        "description": "Weedle aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Yeah! I Got Pokémon!",
+        "appearance": "GDZ48",
+        "chapter": "GDZ48",
+        "description": "Weedle aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Gold & Silver: The Golden Boys",
+        "appearance": "Let's Fight For The Future!!",
+        "chapter": "Let's Fight For The Future!!",
+        "description": "Um Weedle de treinador aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Journeys",
+        "appearance": "Battle Frontier Challenge: The Flute Cup!",
+        "chapter": "Battle Frontier Challenge: The Flute Cup!",
+        "description": "Goh captura Weedle."
+      }
+    ]
+  }
+}
