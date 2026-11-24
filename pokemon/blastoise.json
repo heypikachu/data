@@ -34273,6 +34273,33 @@
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/pokemon-adventures.webp",
           "alt": "Green ao lado de Blasty em um quadro de Pokémon Adventures"
         }
+      },
+      {
+        "title_en": "Pokémon Adventures · Just a Spearow Carrier",
+        "appearance": "Liga Pokémon · Dr. O",
+        "description": "Green usa o Hydro Pump de Blasty para ganhar altitude na batalha contra Dr. O. O Spearow devolve o ataque com Mirror Move.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/liga-dr-o.webp",
+          "alt": "Blasty na Liga Pokémon durante a batalha de Green contra Dr. O"
+        }
+      },
+      {
+        "title_en": "Pokémon Adventures · It Takes Patience, Knowledge and a Really Quick Beedrill",
+        "appearance": "FireRed & LeafGreen · Hydro Cannon",
+        "description": "Blasty treina para dominar Hydro Cannon, o golpe supremo do tipo Água.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/hydro-cannon.webp",
+          "alt": "Quadro de Blasty após dominar Hydro Cannon"
+        }
+      },
+      {
+        "title_en": "Pokémon Adventures · Blastoise Transforms",
+        "appearance": "Omega Ruby & Alpha Sapphire · Megaevolução",
+        "description": "Blasty megaevolui na batalha em que Green e Red tentam recuperar as orbes levadas por Maxie e Archie.",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/mega-blastoise.webp",
+          "alt": "Blasty na forma Mega Blastoise em Pokémon Adventures"
+        }
       }
     ]
   },
