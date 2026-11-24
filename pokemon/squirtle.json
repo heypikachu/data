@@ -27693,7 +27693,11 @@
         "year": 1999,
         "category": "Fotografia",
         "description": "Squirtle aparece no percurso Valley.",
-        "obtaining": "Fotografe a espécie durante o percurso."
+        "obtaining": "Fotografe a espécie durante o percurso.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-snap.png",
+          "alt": "Modelo de Squirtle em Pokémon Snap"
+        }
       },
       {
         "game": "Pokémon Pinball",
@@ -27714,7 +27718,11 @@
         "year": 2003,
         "category": "Coleção",
         "description": "Squirtle aparece como item de coleção.",
-        "obtaining": "Procure a espécie no Upgrade Binder."
+        "obtaining": "Procure a espécie no Upgrade Binder.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-channel.png",
+          "alt": "Modelo de Squirtle em Pokémon Channel"
+        }
       },
       {
         "game": "Pokémon Trozei!",
