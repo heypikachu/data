@@ -34886,12 +34886,12 @@
       },
       {
         "title_en": "Pokémon Adventures · Pokémon Ranger: The Comic – Shadows of Almia",
-        "description": "Kellyn captura temporariamente um Blastoise para apagar o incêndio em Vien Forest. (Arte oficial ilustrativa.)",
+        "description": "Kellyn captura temporariamente um Blastoise para apagar o incêndio em Vien Forest.",
         "code": "PRV1",
         "category": "Especial",
         "image": {
-          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
-          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Adventures · Pokémon Ranger: The Comic – Shadows of Almia ainda não localizada."
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/kellyn-prv1.webp",
+          "alt": "Blastoise aparece com Kellyn em quadros de Pokémon Ranger: The Comic – Shadows of Almia."
         }
       },
       {
@@ -34961,10 +34961,10 @@
       },
       {
         "title_en": "Mewtwo Strikes Back! · Adaptação em mangá",
-        "description": "Shellshocker, de Neesha, e seu clone Blastoisetwo aparecem na adaptação. (Arte oficial ilustrativa.)",
+        "description": "Shellshocker, de Neesha, e seu clone Blastoisetwo aparecem na adaptação.",
         "image": {
-          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
-          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Mewtwo Strikes Back! · Adaptação em mangá ainda não localizada."
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/blastoisetwo-mewtwo-strikes-back.webp",
+          "alt": "Blastoisetwo, o clone de Mewtwo, em um quadro da adaptação em mangá."
         }
       },
       {
@@ -34985,10 +34985,10 @@
       },
       {
         "title_en": "Ash & Pikachu · One Half Of A Poké Ball",
-        "description": "O Blastoise de Gary enfrenta o Pikachu de Ash como último Pokémon de Gary na batalha. (Imagem de referência da obra.)",
+        "description": "O Blastoise de Gary enfrenta o Pikachu de Ash como último Pokémon de Gary na batalha.",
         "image": {
-          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/manga-ash-pikachu-one-half-of-a-poke-ball.webp",
-          "alt": "Imagem de referência de Ash & Pikachu · One Half Of A Poké Ball (contexto da obra)"
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/gary-one-half-of-a-poke-ball.webp",
+          "alt": "Blastoise de Gary em um quadro do capítulo One Half Of A Poké Ball."
         }
       },
       {
