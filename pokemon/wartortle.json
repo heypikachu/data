@@ -29254,7 +29254,11 @@
         "title_en": "The Ultimate Test",
         "title_ja": "ポケモンけんていしけん！？",
         "appearance": "Imagem — versão japonesa",
-        "description": "Uma ilustração de Wartortle aparece na prova teórica de admissão à Liga Pokémon, exclusivamente na versão japonesa."
+        "description": "Uma ilustração de Wartortle aparece na prova teórica de admissão à Liga Pokémon, exclusivamente na versão japonesa.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ep056.webp",
+          "alt": "Imagem de Wartortle na prova de admissão à Liga Pokémon na versão japonesa."
+        }
       },
       {
         "jp_number": 60,
@@ -29280,7 +29284,11 @@
         "title_en": "Pikachu Re-Volts",
         "title_ja": "きえたポケモンたちのナゾ！",
         "appearance": "Pokémon controlado",
-        "description": "Um Wartortle está entre os Pokémon manipulados por Cassidy e Butch na Ilha Mandarin Norte."
+        "description": "Um Wartortle está entre os Pokémon manipulados por Cassidy e Butch na Ilha Mandarin Norte.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ep086.webp",
+          "alt": "Wartortle entre os Pokémon controlados pelo Drowzee da Equipe Rocket."
+        }
       },
       {
         "jp_number": 91,
@@ -29291,7 +29299,11 @@
         "title_en": "Bye Bye Psyduck",
         "title_ja": "さよならコダック！またきてゴルダック？",
         "appearance": "Imaginação",
-        "description": "Wartortle aparece em uma fantasia de Misty."
+        "description": "Wartortle aparece em uma fantasia de Misty.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ep091.webp",
+          "alt": "Wartortle entre os Pokémon aquáticos imaginados por Misty."
+        }
       },
       {
         "jp_number": 106,
@@ -29317,7 +29329,11 @@
         "title_en": "Pokémon Double Trouble",
         "title_ja": "タッグバトル！さいごのジム！！",
         "appearance": "Pokémon de treinador",
-        "description": "Um Wartortle aparece treinando no Ginásio de Kumquat."
+        "description": "Um Wartortle aparece treinando no Ginásio de Kumquat.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ep108.webp",
+          "alt": "Wartortle ao lado de Raichu, Machop e Sandslash na Ilha Kumquat."
+        }
       },
       {
         "jp_number": 122,
@@ -29328,7 +29344,11 @@
         "title_en": "Flower Power",
         "title_ja": "キレイハナのバトルダンシング！",
         "appearance": "Pokémon de Florando",
-        "description": "Dois Wartortle participam da exibição anual de Pokémon de Florando."
+        "description": "Dois Wartortle participam da exibição anual de Pokémon de Florando.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ep122.webp",
+          "alt": "Wartortle participando de uma apresentação de Pokémon aquáticos em Florando."
+        }
       },
       {
         "jp_number": 147,
@@ -29365,7 +29385,11 @@
         "title_en": "Dueling Heroes",
         "title_ja": "うずまきカップ！みずのコロシアムでだいバトル！！",
         "appearance": "Copa Whirl",
-        "description": "Um Wartortle de treinador participa da Copa Whirl."
+        "description": "Um Wartortle de treinador participa da Copa Whirl.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ep216.webp",
+          "alt": "Wartortle de um treinador participante da Copa Whirl."
+        }
       },
       {
         "jp_number": 219,
@@ -29376,7 +29400,11 @@
         "title_en": "Hi Ho Silver... Away!",
         "title_ja": "ぎんいろのはねのでんせつ！ぎんがんとうのたたかい！！",
         "appearance": "Flashback",
-        "description": "Um Wartortle integra a tripulação de um navio em uma lembrança da história da Asa Prateada."
+        "description": "Um Wartortle integra a tripulação de um navio em uma lembrança da história da Asa Prateada.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ep219.webp",
+          "alt": "Wartortle durante a lembrança do naufrágio relacionado à lenda da Asa Prateada."
+        }
       },
       {
         "jp_number": 241,
@@ -29398,7 +29426,11 @@
         "title_en": "Gonna Rule The School!",
         "title_ja": "勉強します！ポケモントレーナーズスクール！！",
         "appearance": "Pokémon da escola",
-        "description": "A Escola de Treinadores empresta Wartortle aos alunos para atividades de aprendizado."
+        "description": "A Escola de Treinadores empresta Wartortle aos alunos para atividades de aprendizado.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ag015.webp",
+          "alt": "Wartortle entre os Pokémon da Escola de Treinadores de Roxanne."
+        }
       },
       {
         "jp_number": 336,
@@ -29409,7 +29441,11 @@
         "title_en": "Disguise Da Limit",
         "title_ja": "シダケタウン！ポケモンコンテスト！！",
         "appearance": "Pokémon de Stefano",
-        "description": "Wartortle de Stefano enfrenta o Skitty de May na etapa de batalhas do concurso de Verdanturf."
+        "description": "Wartortle de Stefano enfrenta o Skitty de May na etapa de batalhas do concurso de Verdanturf.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-ag062.webp",
+          "alt": "Wartortle enfrentando o Skitty de May no Concurso Pokémon de Verdanturf."
+        }
       },
       {
         "jp_number": 366,
@@ -29476,7 +29512,11 @@
         "title_en": "Legend? Go! Friends? Go!",
         "title_ja": "サトシとゴウ、ルギアでゴー！",
         "appearance": "Pokémon de treinador",
-        "description": "Um Wartortle participa de uma batalha de reide contra Lugia."
+        "description": "Um Wartortle participa de uma batalha de reide contra Lugia.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-jn002.webp",
+          "alt": "Wartortle utilizando Ice Beam durante a batalha contra Lugia."
+        }
       },
       {
         "jp_number": 1143,
@@ -29487,7 +29527,11 @@
         "title_en": "Eyes on the Goal!",
         "title_ja": "カモンカムカメカメレース！",
         "appearance": "Pokémon do Mestre dos Cascos",
-        "description": "Wartortle do Mestre dos Cascos participa da corrida de Pokémon tartaruga."
+        "description": "Wartortle do Mestre dos Cascos participa da corrida de Pokémon tartaruga.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-jn058.webp",
+          "alt": "Wartortle entre os Pokémon tartaruga do Mestre dos Cascos."
+        }
       },
       {
         "jp_number": 1221,
@@ -29509,7 +29553,11 @@
         "title_en": "The Pendant That Starts It All (Part One)",
         "title_ja": "はじまりのペンダント　前編",
         "appearance": "Pokémon de estudante",
-        "description": "Um aluno da Academia Índigo aparece com Wartortle."
+        "description": "Um aluno da Academia Índigo aparece com Wartortle.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-hz001.webp",
+          "alt": "Wartortle e Torchic acompanhando estudantes da Academia Índigo."
+        }
       },
       {
         "jp_number": 1278,
@@ -29520,7 +29568,11 @@
         "title_en": "Welcome to Naranja Academy!",
         "title_ja": "ドキドキ！オレンジアカデミー",
         "appearance": "Imagem de Pokémon de estudante",
-        "description": "Wartortle de um estudante aparece em uma imagem durante o episódio."
+        "description": "Wartortle de um estudante aparece em uma imagem durante o episódio.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-hz046.webp",
+          "alt": "Wartortle entre os Pokémon dos estudantes da Academia Laranja."
+        }
       },
       {
         "jp_number": 1290,
@@ -29542,7 +29594,11 @@
         "title_en": "Where the Adventure Leads",
         "title_ja": "冒険の先に",
         "appearance": "Pokémon de estudante",
-        "description": "Wartortle de um estudante aparece no episódio que encerra a busca por Laqua."
+        "description": "Wartortle de um estudante aparece no episódio que encerra a busca por Laqua.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-hz089.webp",
+          "alt": "Wartortle acompanhando estudantes da Academia Índigo."
+        }
       },
       {
         "jp_number": 1322,
@@ -29553,7 +29609,11 @@
         "title_en": "Eyes to the Skies Once Again (Part One)",
         "title_ja": "大空へ向かって、再び　前編",
         "appearance": "Pokémon de estudante",
-        "description": "Wartortle de um estudante aparece no início da nova etapa da jornada de Liko e Rain."
+        "description": "Wartortle de um estudante aparece no início da nova etapa da jornada de Liko e Rain.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-hz090.webp",
+          "alt": "Wartortle durante uma batalha na Academia Índigo em Pokémon Horizontes."
+        }
       }
     ],
     "films": [
