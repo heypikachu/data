@@ -6521,7 +6521,11 @@
         "season_reference": 23,
         "season": "Jornadas",
         "title_pt": "Lendário? Sim! Amigos? Sim!",
-        "title_ja": "サトシとゴウ、ルギアでゴー！"
+        "title_ja": "サトシとゴウ、ルギアでゴー！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-jn002.webp",
+          "alt": "Três Caterpie exibidos em uma projeção holográfica durante a apresentação do Professor Cerise."
+        }
       },
       {
         "title_en": "Working My Way Back to Mew!",
