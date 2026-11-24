@@ -35024,7 +35024,11 @@
       },
       {
         "title_en": "Pokémon Zensho",
-        "description": "O Blastoise de Shigeru enfrenta o Charizard de Satoshi pelo título da Liga Pokémon."
+        "description": "O Blastoise de Shigeru enfrenta o Charizard de Satoshi pelo título da Liga Pokémon.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-zensho-2.webp",
+          "alt": "Blastoise de Shigeru no mangá Pokémon Zensho."
+        }
       },
       {
         "title_en": "Mewtwo Strikes Back! · Adaptação em mangá",
@@ -35036,7 +35040,11 @@
       },
       {
         "title_en": "Pokémon: Yeah! I Got Pokémon!",
-        "description": "Blastoise aparece em A Mischievous Wartortle e o Blastoise de Kameta aparece em GDZ38."
+        "description": "Blastoise aparece em A Mischievous Wartortle e o Blastoise de Kameta aparece em GDZ38.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-yeah-i-got-pokemon.webp",
+          "alt": "Blastoise de Kameta no capítulo GDZ38 do mangá Pokémon Yeah! I Got Pokémon!"
+        }
       },
       {
         "title_en": "Pokémon Gold & Silver: The Golden Boys · Ilhas Redemoinho",
