@@ -35024,7 +35024,11 @@
       },
       {
         "title_en": "Pokémon Pocket Monsters · Save the Pokémon Zoo!!",
-        "description": "O Blastoise do Professor Oak estreia no capítulo."
+        "description": "O Blastoise do Professor Oak estreia no capítulo.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-pocket-monsters-save-the-pokemon-zoo.webp",
+          "alt": "Blastoise entre os Pokémon do Professor Oak no zoológico durante o capítulo PM040."
+        }
       },
       {
         "title_en": "Pokémon Ruby-Sapphire · Clefairy’s Golf Debut!",
