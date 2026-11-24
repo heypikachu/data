@@ -65,12 +65,13 @@
       "description": "A arte clássica publicada é de Ken Sugimori. A autoria individual do design original da espécie não está confirmada."
     },
     "form_designers": [],
-    "curiosity": "Caterpie foi um dos primeiros Pokémon capturados por Ash no anime. Sua evolução rápida também caracteriza a linha nos jogos.",
+    "curiosity": "Durante o desenvolvimento inicial dos jogos, o nome inglês provisório de Caterpie era Catterp. No anime, ele foi o primeiro Pokémon que Ash capturou na natureza.",
     "origin": [
       "Caterpie lembra uma lagarta de borboleta, especialmente larvas de papilionídeos. Sua antena vermelha lembra o osmetério, órgão de defesa que certas lagartas projetam para liberar substâncias de odor desagradável.",
       "Os desenhos circulares nas laterais do corpo lembram manchas que simulam olhos e podem afastar predadores. Os pequenos pés adesivos permitem escalar superfícies.",
       "A linha Caterpie, Metapod e Butterfree representa as fases de larva, pupa e adulto da metamorfose de uma borboleta.",
-      "O nome inglês deriva provavelmente de caterpillar (lagarta). O japonês Kyatapī adapta esse mesmo nome."
+      "O nome inglês deriva provavelmente de caterpillar (lagarta). O japonês Kyatapī adapta esse mesmo nome.",
+      "A ponta da cauda lembra a projeção encontrada em algumas lagartas de mariposas-esfinge. As semelhanças com espécies específicas de borboletas são hipóteses de inspiração, não confirmação do designer."
     ]
   },
   "morphology": {
@@ -173,31 +174,31 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Route 25: Disponível em Red e Blue. Viridian Forest: Disponível em Red e Blue. Route 2: Disponível em Blue. Route 24: Disponível em Blue.",
+      "obtaining": "Route 25: Red: 1%, nível 8; Blue: 25%, nível 8. Viridian Forest: Red: 5%, nível 3; Blue: 50%, níveis 3 a 5. Route 2: Somente Blue: 15%, níveis 3 a 5. Route 24: Somente Blue: 25%, nível 7.",
       "encounters": [
         {
           "pokemon": "Caterpie",
           "location": "Route 25",
           "method": "Encontro selvagem",
-          "details": "Disponível em Red e Blue."
+          "details": "Red: 1%, nível 8; Blue: 25%, nível 8."
         },
         {
           "pokemon": "Caterpie",
           "location": "Viridian Forest",
           "method": "Encontro selvagem",
-          "details": "Disponível em Red e Blue."
+          "details": "Red: 5%, nível 3; Blue: 50%, níveis 3 a 5."
         },
         {
           "pokemon": "Caterpie",
           "location": "Route 2",
           "method": "Encontro selvagem",
-          "details": "Disponível em Blue."
+          "details": "Somente Blue: 15%, níveis 3 a 5."
         },
         {
           "pokemon": "Caterpie",
           "location": "Route 24",
           "method": "Encontro selvagem",
-          "details": "Disponível em Blue."
+          "details": "Somente Blue: 25%, nível 7."
         }
       ],
       "moves_by_method": {
@@ -319,31 +320,13 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Route 24: Encontre Caterpie na vegetação alta. Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "obtaining": "Viridian Forest: 55% de chance na vegetação; níveis 3 a 6.",
       "encounters": [
-        {
-          "pokemon": "Caterpie",
-          "location": "Route 2",
-          "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
-        },
-        {
-          "pokemon": "Caterpie",
-          "location": "Route 24",
-          "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
-        },
-        {
-          "pokemon": "Caterpie",
-          "location": "Route 25",
-          "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
-        },
         {
           "pokemon": "Caterpie",
           "location": "Viridian Forest",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "55% de chance na vegetação; níveis 3 a 6."
         }
       ],
       "moves_by_method": {
@@ -2572,13 +2555,13 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Day Care: Cruze um membro compatível da linha evolutiva para obter um ovo de Caterpie.",
+      "obtaining": "Day Care: Cruze Metapod ou Butterfree com um parceiro compatível para obter um ovo de Caterpie.",
       "encounters": [
         {
           "pokemon": "Caterpie",
           "location": "Day Care",
           "method": "Reprodução",
-          "details": "Cruze um membro compatível da linha evolutiva para obter um ovo de Caterpie."
+          "details": "Cruze Metapod ou Butterfree com um parceiro compatível para obter um ovo de Caterpie."
         }
       ],
       "moves_by_method": {
@@ -2872,13 +2855,13 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Day Care: Cruze um membro compatível da linha evolutiva para obter um ovo de Caterpie.",
+      "obtaining": "Day Care: Cruze Butterfree com um parceiro compatível para obter um ovo de Caterpie.",
       "encounters": [
         {
           "pokemon": "Caterpie",
           "location": "Day Care",
           "method": "Reprodução",
-          "details": "Cruze um membro compatível da linha evolutiva para obter um ovo de Caterpie."
+          "details": "Cruze Butterfree com um parceiro compatível para obter um ovo de Caterpie."
         }
       ],
       "moves_by_method": {
@@ -4920,17 +4903,11 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Grassland Cave: No Grand Underground, após obter a Pokédex Nacional. Fountainspring Cave: No Grand Underground, após obter a Pokédex Nacional. Riverbank Cave: No Grand Underground, após obter a Pokédex Nacional. Sunlit Cavern: No Grand Underground, após obter a Pokédex Nacional. Still-Water Cavern: No Grand Underground, após obter a Pokédex Nacional. Spacious Cave: No Grand Underground, após obter a Pokédex Nacional. Bogsunk Cavern: No Grand Underground, após obter a Pokédex Nacional.",
+      "obtaining": "Grassland Cave: No Grand Underground, após obter a Pokédex Nacional. Riverbank Cave: No Grand Underground, após obter a Pokédex Nacional. Sunlit Cavern: No Grand Underground, após obter a Pokédex Nacional. Still-Water Cavern: No Grand Underground, após obter a Pokédex Nacional. Spacious Cave: No Grand Underground, após obter a Pokédex Nacional. Bogsunk Cavern: No Grand Underground, após obter a Pokédex Nacional. Swampy Cave: No Grand Underground, após obter a Pokédex Nacional.",
       "encounters": [
         {
           "pokemon": "Caterpie",
           "location": "Grassland Cave",
-          "method": "Encontro selvagem",
-          "details": "No Grand Underground, após obter a Pokédex Nacional."
-        },
-        {
-          "pokemon": "Caterpie",
-          "location": "Fountainspring Cave",
           "method": "Encontro selvagem",
           "details": "No Grand Underground, após obter a Pokédex Nacional."
         },
@@ -4961,6 +4938,12 @@
         {
           "pokemon": "Caterpie",
           "location": "Bogsunk Cavern",
+          "method": "Encontro selvagem",
+          "details": "No Grand Underground, após obter a Pokédex Nacional."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Swampy Cave",
           "method": "Encontro selvagem",
           "details": "No Grand Underground, após obter a Pokédex Nacional."
         }
@@ -5231,19 +5214,19 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "obtaining": "Route 25: 1% de chance, nível 8. Viridian Forest: 5% de chance, nível 3.",
       "encounters": [
         {
           "pokemon": "Caterpie",
           "location": "Route 25",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "1% de chance, nível 8."
         },
         {
           "pokemon": "Caterpie",
           "location": "Viridian Forest",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "5% de chance, nível 3."
         }
       ],
       "moves_by_method": {
@@ -5365,31 +5348,31 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Route 24: Encontre Caterpie na vegetação alta. Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "obtaining": "Route 2: 15% de chance, níveis 3 a 5. Route 24: 25% de chance, nível 7. Route 25: 25% de chance, nível 8. Viridian Forest: 50% de chance, níveis 3 a 5.",
       "encounters": [
         {
           "pokemon": "Caterpie",
           "location": "Route 2",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "15% de chance, níveis 3 a 5."
         },
         {
           "pokemon": "Caterpie",
           "location": "Route 24",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "25% de chance, nível 7."
         },
         {
           "pokemon": "Caterpie",
           "location": "Route 25",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "25% de chance, nível 8."
         },
         {
           "pokemon": "Caterpie",
           "location": "Viridian Forest",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "50% de chance, níveis 3 a 5."
         }
       ],
       "moves_by_method": {
@@ -5511,31 +5494,31 @@
           "note": "Resistência"
         }
       ],
-      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Route 24: Encontre Caterpie na vegetação alta. Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "obtaining": "Route 2: 15% de chance, níveis 3 a 5. Route 24: 25% de chance, nível 7. Route 25: 25% de chance, nível 8. Viridian Forest: 50% de chance, níveis 3 a 5.",
       "encounters": [
         {
           "pokemon": "Caterpie",
           "location": "Route 2",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "15% de chance, níveis 3 a 5."
         },
         {
           "pokemon": "Caterpie",
           "location": "Route 24",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "25% de chance, nível 7."
         },
         {
           "pokemon": "Caterpie",
           "location": "Route 25",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "25% de chance, nível 8."
         },
         {
           "pokemon": "Caterpie",
           "location": "Viridian Forest",
           "method": "Encontro selvagem",
-          "details": "Encontre Caterpie na vegetação alta."
+          "details": "50% de chance, níveis 3 a 5."
         }
       ],
       "moves_by_method": {
@@ -5733,7 +5716,7 @@
         "year": 2023,
         "category": "Pesquisa de sono",
         "description": "Caterpie é especialista em frutas, coleta Lum Berry e aparece no tipo de sono Dozing.",
-        "obtaining": "Pesquise seus estilos de sono nas áreas compatíveis; evolui a partir do nível 5 com 40 Doces Caterpie."
+        "obtaining": "Pesquise seus estilos de sono em Greengrass Isle, Cyan Beach, Old Gold Power Plant, Amber Canyon ou Greengrass Isle (Expert). Evolui a partir do nível 5 com 40 Doces Caterpie."
       }
     ]
   },
@@ -5791,7 +5774,7 @@
       {
         "title_en": "Pokémon Fashion Flash",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante a visita à cidade conhecida pela moda Pokémon.",
+        "description": "Caterpie aparece na Scissor Street.",
         "episode_code": "EP028",
         "jp_number": 28,
         "season_reference": 1,
@@ -5799,8 +5782,8 @@
       },
       {
         "title_en": "Dig Those Diglett!",
-        "appearance": "Pokémon selvagem",
-        "description": "Caterpie aparece entre os Pokémon da floresta.",
+        "appearance": "Imaginação",
+        "description": "Caterpie aparece em uma cena imaginada.",
         "episode_code": "EP031",
         "jp_number": 31,
         "season_reference": 1,
@@ -5808,8 +5791,8 @@
       },
       {
         "title_en": "The Ultimate Test",
-        "appearance": "Exame",
-        "description": "Caterpie aparece no episódio do exame de admissão à Liga Pokémon.",
+        "appearance": "Imagem",
+        "description": "Uma imagem de Caterpie integra o exame de admissão à Liga Pokémon.",
         "episode_code": "EP056",
         "jp_number": 56,
         "season_reference": 1,
@@ -5862,7 +5845,7 @@
       {
         "title_en": "The Bug Stops Here",
         "appearance": "Pokémon selvagem",
-        "description": "Misty se assusta com Caterpie durante os acontecimentos do concurso de captura de insetos."
+        "description": "Misty afasta um Caterpie depois de encontrá-lo interagindo com Togepi."
       },
       {
         "title_en": "Carrying On!",
@@ -5892,7 +5875,7 @@
       {
         "title_en": "Talkin' 'Bout an Evolution",
         "appearance": "Pokémon afetado",
-        "description": "Caterpie está entre os Pokémon afetados pelos experimentos da Equipe Rocket."
+        "description": "Um Caterpie adoece como consequência dos experimentos da Equipe Rocket."
       },
       {
         "title_en": "The Dunsparce Deception",
@@ -6116,8 +6099,8 @@
       },
       {
         "title_en": "A Snow Day for Searching!",
-        "appearance": "Caterpie de Goh",
-        "description": "Caterpie aparece durante a busca pelo osso perdido de Cubone."
+        "appearance": "Pokémon selvagem",
+        "description": "O Butterfree de Goh encontra um Caterpie enquanto procura o osso de Cubone."
       },
       {
         "title_en": "Caring for a Mystery!",
@@ -6217,11 +6200,6 @@
         "title_en": "Mewtwo Strikes Back",
         "year": 1998,
         "description": "Um treinador aparece acompanhado de Caterpie."
-      },
-      {
-        "title_en": "The Power of One",
-        "year": 1999,
-        "description": "Caterpie aparece entre os Pokémon afetados pelo desequilíbrio na natureza."
       },
       {
         "title_en": "Celebi: The Voice of the Forest",
@@ -6388,6 +6366,6 @@
   "audit": {
     "status": "partial",
     "review_date": "2026-11-24",
-    "notes": "Cobertura inicial de 36 registros de edições. Movimentos e localizações organizados por edição; revisão factual individual adicional necessária. Catálogo de mídias não exaustivo; títulos brasileiros e japoneses sem confirmação, identificadores não confirmados e imagens não publicadas não foram inventados. Ícones de jogos derivados e pegada pendentes de validação e hospedagem."
+    "notes": "36 registros de edições disponíveis. Revisão parcial: localizações, movimentos e entradas foram pesquisados e organizados; ainda faltam confirmação integral de títulos e identificadores de anime, auditoria exaustiva das aparições, pegada e hospedagem de imagens específicas. Sem certificação de cobertura total."
   }
 }
