@@ -34776,7 +34776,11 @@
         "title_en": "The Power of One",
         "description": "Vários Blastoise sentem a perturbação causada por Lawrence III.",
         "year": 1999,
-        "category": "Participação breve"
+        "category": "Participação breve",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/films/filmes-the-power-of-one.webp",
+          "alt": "Blastoise e outros Pokémon reunidos nas ilhas Shamouti em The Power of One."
+        }
       },
       {
         "title_en": "Destiny Deoxys",
@@ -34798,7 +34802,11 @@
         "title_en": "Diancie and the Cocoon of Destruction",
         "description": "Mega Blastoise aparece nos créditos de abertura.",
         "year": 2014,
-        "category": "Abertura"
+        "category": "Abertura",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/films/filmes-diancie-and-the-cocoon-of-destruction.webp",
+          "alt": "Mega Blastoise na introdução de Diancie and the Cocoon of Destruction."
+        }
       },
       {
         "title_en": "I Choose You!",
@@ -34879,19 +34887,31 @@
         "title_en": "GOTCHA!",
         "description": "Blastoise aparece brevemente como Pokémon de Red no videoclipe.",
         "category": "Videoclipe",
-        "year": 2020
+        "year": 2020,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/animations/animacoes-gotcha.webp",
+          "alt": "Blastoise de Red no Monte Silver durante o videoclipe GOTCHA!"
+        }
       },
       {
         "title_en": "Pikachu’s Vacation",
         "description": "Um Blastoise aparece no parque temático Pokémon.",
         "category": "Curta",
-        "year": 1998
+        "year": 1998,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/animations/animacoes-pikachus-vacation.webp",
+          "alt": "Blastoise entre os Pokémon aquáticos do parque em Pikachu’s Vacation."
+        }
       },
       {
         "title_en": "Pikachu’s Rescue Adventure",
         "description": "Blastoise aparece nos créditos japoneses do curta.",
         "category": "Créditos",
-        "year": 1999
+        "year": 1999,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/animations/animacoes-pikachus-rescue-adventure.webp",
+          "alt": "Blastoise reunido com outros Pokémon ao redor da fogueira nos créditos de Pikachu’s Rescue Adventure."
+        }
       },
       {
         "title_en": "Distant Blue Sky!",
