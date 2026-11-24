@@ -34972,7 +34972,11 @@
       {
         "title_en": "Pokémon Adventures · The Final Battle VIII",
         "description": "Blasty, Feraligatr de Silver e Swampert de Ruby combinam Hydro Cannon contra o falso Kyogre.",
-        "category": "Emerald"
+        "category": "Emerald",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-adventures-the-final-battle-viii.webp",
+          "alt": "Blasty, Feraligatr e Swampert combinando Hydro Cannon no capítulo PS335."
+        }
       },
       {
         "title_en": "Pokémon Adventures · Chinchou in Charge",
@@ -35004,7 +35008,11 @@
       },
       {
         "title_en": "Pokémon Pocket Monsters · Let’s Get that Moon Rock!!",
-        "description": "Misty aparece com um Blastoise."
+        "description": "Misty aparece com um Blastoise.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-pocket-monsters-lets-get-that-moon-rock.webp",
+          "alt": "Blastoise de Misty usando Water Gun no capítulo PM004."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Part-Time Job At The Swimming Pool!!",
@@ -35073,7 +35081,11 @@
       {
         "title_en": "Pokémon Pocket Monsters · Which One is the Real Clefairy!?",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-pocket-monsters-which-one-is-the-real-clefairy.webp",
+          "alt": "Blastoise entre outros Pokémon aquáticos no capítulo PM018."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Pulverize the strongest Pokémon!!",
@@ -35092,12 +35104,20 @@
       {
         "title_en": "Pokémon Pocket Monsters · Curry Showdown! Which is the Most Delicious?",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-pocket-monsters-curry-showdown-which-is-the-most-delicious.webp",
+          "alt": "Blastoise ajudando Red durante a competição culinária no capítulo PM027."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · The Thrill of a Perfect Score, Big Rampage at the Amusement Park!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-pocket-monsters-the-thrill-of-a-perfect-score-big-rampage-at-the-amusement-park.webp",
+          "alt": "Blastoise no parque de diversões durante o capítulo PM029."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Clefairy, a Doctor!?",
