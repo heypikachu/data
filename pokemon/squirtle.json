@@ -27967,8 +27967,14 @@
   },
   "media_appearances": {
     "title": "Aparições em outras mídias",
-    "lead": "Aparições selecionadas no anime, em animações e no mangá.",
+    "lead": "Aparições selecionadas no anime, no cinema, em animações derivadas e no mangá.",
     "anime": [
+      {
+        "episode_code": "EP001",
+        "title_en": "Pokémon - I Choose You!",
+        "appearance": "Estreia em sonho",
+        "description": "Ash imagina Squirtle como seu possível primeiro parceiro."
+      },
       {
         "jp_number": 12,
         "season": "Kanto",
@@ -27983,10 +27989,314 @@
         "appearance": "Pokémon de May",
         "title_en": "The Right Place and the Right Mime",
         "description": "May recebe um Squirtle no laboratório do Professor Oak."
+      },
+      {
+        "episode_code": "EP004",
+        "title_en": "Challenge of the Samurai",
+        "appearance": "Pokémon de Gary",
+        "description": "O Squirtle de Gary aparece em uma lembrança de sua batalha com o samurai."
+      },
+      {
+        "episode_code": "EP015",
+        "title_en": "Battle Aboard the St. Anne",
+        "appearance": "Pokémon de treinadores",
+        "description": "Dois Squirtle aparecem a bordo do St. Anne, um deles com um cavalheiro."
+      },
+      {
+        "episode_code": "EP028",
+        "title_en": "Pokémon Fashion Flash",
+        "appearance": "Participação",
+        "description": "Um Squirtle aparece na Scissor Street."
+      },
+      {
+        "episode_code": "EP056",
+        "title_en": "The Ultimate Test",
+        "appearance": "Exame da Liga Pokémon",
+        "description": "A Enfermeira Joy usa o Squirtle do instrutor durante o exame de admissão."
+      },
+      {
+        "title_en": "The Breeding Center Secret",
+        "appearance": "Participação",
+        "description": "Um Squirtle aparece no episódio sobre o centro de criação."
+      },
+      {
+        "title_en": "Friends to the End",
+        "appearance": "Conferência do Planalto Índigo",
+        "description": "Um Squirtle de treinador aparece na cerimônia de encerramento."
+      },
+      {
+        "title_en": "Bye Bye Psyduck",
+        "appearance": "Imaginação",
+        "description": "Marina imagina um Squirtle."
+      },
+      {
+        "episode_code": "EP106",
+        "title_en": "The Pokémon Water War",
+        "appearance": "Esquadrão Squirtle",
+        "description": "O Squirtle de Ash acompanha a equipe de Wartortle que combate incêndios."
+      },
+      {
+        "title_en": "Don't Touch That 'dile",
+        "appearance": "Flashback",
+        "description": "Um Squirtle aparece como opção de primeiro parceiro em uma lembrança."
+      },
+      {
+        "episode_code": "EP147",
+        "title_en": "The Fire-ing Squad!",
+        "appearance": "Esquadrão Squirtle",
+        "description": "Squirtle reencontra seu antigo grupo no torneio de resgate e volta a liderá-lo."
+      },
+      {
+        "title_en": "A Better Pill to Swallow",
+        "appearance": "Imaginação",
+        "description": "Um Squirtle aparece na imaginação de Brock."
+      },
+      {
+        "title_en": "Dueling Heroes",
+        "appearance": "Copa Whirl",
+        "description": "Um treinador usa Squirtle na Copa Whirl."
+      },
+      {
+        "title_en": "Gonna Rule The School!",
+        "appearance": "Pokémon da escola",
+        "description": "A escola empresta um Squirtle a um de seus alunos."
+      },
+      {
+        "title_en": "A Six Pack Attack!",
+        "appearance": "Pokémon do Professor Oak",
+        "description": "Squirtle viaja a Hoenn com o Professor Oak, Bulbasaur e Charmander."
+      },
+      {
+        "title_en": "Borrowing on Bad Faith!",
+        "appearance": "Participação",
+        "description": "Um Squirtle aparece durante o episódio."
+      },
+      {
+        "title_en": "Sticking With Who You Know!",
+        "appearance": "Pokémon afetado por uma máquina",
+        "description": "Sob o efeito da máquina do Professor Kodama, um Squirtle se apaixona por um Raichu."
+      },
+      {
+        "title_en": "The Fires of a Red-Hot Reunion!",
+        "appearance": "Feira de Kanto",
+        "description": "Squirtle participa da demonstração dos iniciais de Kanto do Professor Oak."
+      },
+      {
+        "episode_code": "XY039",
+        "title_en": "Summer of Discovery!",
+        "appearance": "Pokémon de Tierno",
+        "description": "Squirtle estreia como parceiro de Tierno no acampamento de verão."
+      },
+      {
+        "episode_code": "XY042",
+        "title_en": "Battling Into the Hall of Fame!",
+        "appearance": "Pokémon de Tierno",
+        "description": "Squirtle enfrenta Fennekin e Pikachu na final da batalha em equipe do acampamento."
+      },
+      {
+        "title_en": "A Shocking Grocery Run!",
+        "appearance": "Pokémon de treinador",
+        "description": "Um treinador aparece com Squirtle."
+      },
+      {
+        "title_en": "Alola, Kanto!",
+        "appearance": "Pokémon selvagem",
+        "description": "Um Squirtle selvagem aparece durante a visita a Kanto."
+      },
+      {
+        "episode_code": "JN001",
+        "title_en": "Enter Pikachu!",
+        "appearance": "Pokémon de treinadora",
+        "description": "Uma treinadora usa Squirtle para enfraquecer um Caterpie que pretende capturar."
+      },
+      {
+        "episode_code": "JN002",
+        "title_en": "Legend? Go! Friends? Go!",
+        "appearance": "Pokémon do Professor Cerise",
+        "description": "Squirtle é um dos primeiros parceiros oferecidos a Goh."
+      },
+      {
+        "title_en": "The Cuteness Quotient!",
+        "appearance": "Pokémon de treinador",
+        "description": "Um treinador aparece com Squirtle."
+      },
+      {
+        "title_en": "Getting More Than You Battled For!",
+        "appearance": "Imaginação",
+        "description": "Squirtle aparece ao lado de outros primeiros parceiros em uma fantasia."
+      },
+      {
+        "title_en": "Eyes on the Goal!",
+        "appearance": "Pokémon do Mestre dos Cascos",
+        "description": "Squirtle participa da corrida de Pokémon tartaruga."
+      },
+      {
+        "title_en": "The Fiery Road to Mastership!",
+        "appearance": "Pokémon de treinador",
+        "description": "Um treinador aparece com Squirtle."
+      },
+      {
+        "episode_code": "JN136",
+        "title_en": "This Could be the Start of Something Big!",
+        "appearance": "Participação",
+        "description": "Um Squirtle aparece no episódio."
+      },
+      {
+        "episode_code": "JN141",
+        "title_en": "A Squad’s Worth of Passion!",
+        "appearance": "Esquadrão Squirtle",
+        "description": "Ash reencontra Squirtle e sua equipe de bombeiros."
+      },
+      {
+        "episode_code": "HZ001",
+        "title_en": "The Pendant That Starts It All (Part One)",
+        "appearance": "Pokémon de treinadores",
+        "description": "Um treinador e estudantes da Academia Índigo aparecem com Squirtle."
+      },
+      {
+        "title_en": "Farewell, Sprigatito?",
+        "appearance": "Flashback",
+        "description": "Squirtle aparece em uma lembrança."
+      },
+      {
+        "title_en": "Eyes to the Skies Once Again (Part One)",
+        "appearance": "Pokémon de estudante",
+        "description": "Um estudante aparece com Squirtle."
+      },
+      {
+        "title_en": "Eyes to the Skies Once Again (Part Two)",
+        "appearance": "Pokémon de estudante",
+        "description": "O Squirtle de um estudante volta a aparecer."
+      },
+      {
+        "title_en": "A Hurdle for Squirtle",
+        "appearance": "Pokémon de May",
+        "description": "O Squirtle de May compete no Concurso de Saffron."
+      },
+      {
+        "title_en": "What I Did for Love!",
+        "appearance": "Pokémon de May",
+        "description": "Squirtle compete no concurso em que May enfrenta Brock."
+      },
+      {
+        "title_en": "Love, Pokémon Style!",
+        "appearance": "Pokémon de Ash",
+        "description": "Squirtle volta para disputar a Conferência de Prata."
+      },
+      {
+        "title_en": "Gathering the Gang of Four!",
+        "appearance": "Pokémon de Ash",
+        "description": "Squirtle se reúne com Pikachu, Bulbasaur e Charizard para a revanche contra Brandon."
+      },
+      {
+        "title_en": "Pace – The Final Frontier!",
+        "appearance": "Pokémon de Ash",
+        "description": "Squirtle enfrenta Ninjask na batalha contra Brandon."
+      },
+      {
+        "title_en": "The Rainbow and the Pokémon Master!",
+        "appearance": "Pokémon do Professor Oak",
+        "description": "Um Squirtle aparece no laboratório do Professor Oak."
       }
     ],
-    "films": [],
+    "films": [
+      {
+        "code": "M01",
+        "title_en": "Mewtwo Strikes Back",
+        "year": 1998,
+        "description": "O Squirtle de Ash enfrenta um clone criado por Mewtwo."
+      },
+      {
+        "code": "M02",
+        "title_en": "The Power of One",
+        "year": 1999,
+        "description": "O Squirtle de Ash acompanha o grupo durante a aventura nas Ilhas Laranja."
+      },
+      {
+        "code": "M08",
+        "title_en": "Lucario and the Mystery of Mew",
+        "year": 2005,
+        "description": "O Squirtle de May acompanha o grupo durante a aventura em Cameran Palace."
+      },
+      {
+        "code": "M20",
+        "title_en": "I Choose You!",
+        "year": 2017,
+        "description": "Em um flashback, Gary recebe Squirtle como primeiro parceiro."
+      },
+      {
+        "code": "M21",
+        "title_en": "The Power of Us",
+        "year": 2018,
+        "description": "Squirtle de vários treinadores aparecem em Fula City."
+      },
+      {
+        "title_en": "POKÉMON Detective Pikachu",
+        "year": 2019,
+        "description": "Squirtle aparecem em Ryme City, inclusive como parte de uma equipe de bombeiros."
+      },
+      {
+        "code": "M22",
+        "title_en": "Mewtwo Strikes Back—Evolution",
+        "year": 2019,
+        "description": "O Squirtle de Ash e seu clone aparecem na recriação do confronto em New Island."
+      }
+    ],
     "animations": [
+      {
+        "code": "PK01",
+        "title": "Pikachu’s Vacation",
+        "year": 1998,
+        "description": "O Squirtle de Ash acompanha Pikachu e os demais Pokémon no parque."
+      },
+      {
+        "title": "Pikachu’s Winter Vacation — Christmas Night",
+        "year": 1998,
+        "description": "Squirtle participa da aventura de Natal de Pikachu e seus amigos."
+      },
+      {
+        "title": "Pikachu’s Winter Vacation — Ice Games",
+        "year": 1998,
+        "description": "Squirtle participa das brincadeiras na neve com os outros Pokémon."
+      },
+      {
+        "code": "PK02",
+        "title": "Pikachu’s Rescue Adventure",
+        "year": 1999,
+        "description": "O Squirtle de Ash participa da aventura do grupo."
+      },
+      {
+        "title": "Mewtwo Returns",
+        "year": 2000,
+        "description": "O clone de Squirtle criado por Mewtwo reaparece no especial."
+      },
+      {
+        "title": "Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!",
+        "year": 2006,
+        "description": "Um humano transformado em Squirtle se junta à equipe de resgate e aprende Water Gun ao enfrentar Skarmory."
+      },
+      {
+        "title": "The Mastermind of Mirage Pokémon",
+        "year": 2006,
+        "description": "O Squirtle de May aparece no especial sobre os Pokémon Mirage."
+      },
+      {
+        "code": "PK09",
+        "title": "Pikachu’s Island Adventure",
+        "year": 2006,
+        "description": "O Squirtle de May aparece na aventura de Pikachu na ilha."
+      },
+      {
+        "title": "Meloetta’s Moonlight Serenade",
+        "year": 2012,
+        "description": "Um Squirtle assiste ao concerto de Meloetta."
+      },
+      {
+        "code": "PO01",
+        "title": "Pokémon Origins — File 1: Red",
+        "year": 2013,
+        "description": "Blue escolhe Squirtle como seu primeiro parceiro e vence o Charmander de Red."
+      },
       {
         "code": "TW08",
         "title": "Pokémon: Twilight Wings — The Gathering of Stars",
@@ -28008,6 +28318,10 @@
         "title": "POKÉTOON — Blossom’s Dream",
         "year": 2021,
         "description": "Um Squirtle aparece ao lado de seu treinador."
+      },
+      {
+        "title": "Pokémon Chronicles — Journey to the Starting Line!",
+        "description": "Um Squirtle oferecido como inicial a Gilbert foge e é resgatado pelo Bulbasaur de Ash."
       }
     ],
     "manga": [
@@ -28018,6 +28332,62 @@
       {
         "title": "Pokémon Adventures — They Have a Flare for a Li’l Kanga-Napping",
         "description": "Professor Sycamore aparece acompanhado de Squirtle."
+      },
+      {
+        "title": "Pokémon Adventures — Blasty",
+        "description": "Green rouba o Squirtle do Professor Oak. A forma inicial aparece em material do terceiro volume e em uma foto do laboratório."
+      },
+      {
+        "title": "Pokémon Adventures — The Jynx Jinx",
+        "description": "Um Squirtle é mostrado em silhueta enquanto Green fala de Mew."
+      },
+      {
+        "title": "Pokémon Pocket Monsters — Squirtle, the Crybaby Pokémon",
+        "description": "Giovanni revela que tem um Squirtle."
+      },
+      {
+        "title": "Pokémon Pocket Monsters — Fighting Over Otoshidama!!",
+        "description": "Um Squirtle aparece no capítulo."
+      },
+      {
+        "title": "Pokémon Pocket Monsters — Take me to the Dragon Palace!",
+        "description": "Um Squirtle aparece no capítulo."
+      },
+      {
+        "title": "Pokémon Pocket Monsters — Special Fireworks!!",
+        "description": "Um Squirtle aparece no capítulo."
+      },
+      {
+        "title": "The Electric Tale of Pikachu — You Gotta Have Friends",
+        "description": "O Squirtle de Ash estreia no mangá, saindo de sua Poké Bola."
+      },
+      {
+        "title": "The Electric Tale of Pikachu — Pikachu’s Excellent Adventure",
+        "description": "Um Squirtle abandonado ajuda Pikachu a encontrar a Vila Oculta."
+      },
+      {
+        "title": "Magical Pokémon Journey — Christmas Wishes",
+        "description": "Squirtle estreia e passa a tratar Almond como um irmão mais velho."
+      },
+      {
+        "title": "Magical Pokémon Journey — The Five Sisters of Squirtle",
+        "description": "Aparecem as cinco irmãs de Squirtle, entre elas as gêmeas Kamee e Kameao."
+      },
+      {
+        "title": "Pokémon Zensho",
+        "description": "Shigeru recebe Squirtle do Professor Oak como primeiro parceiro."
+      },
+      {
+        "title": "Pokémon Gold & Silver: The Golden Boys — GDZ38",
+        "description": "Kamero aparece com um Squirtle."
+      },
+      {
+        "title": "Mirage Pokémon Lugia’s Explosive Birth",
+        "description": "O Squirtle de Ash aparece na adaptação em mangá do segundo filme."
+      },
+      {
+        "title": "Pokémon: I Choose You! — ICYR1",
+        "description": "Em um flashback da adaptação em mangá, Squirtle está com o Professor Oak."
       }
     ]
   }
