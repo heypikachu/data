@@ -34695,7 +34695,11 @@
         "title_ja": "風を断つ稲妻！その名はゼラオラ！！",
         "appearance": "Flashback",
         "description": "O Blastoise dos Ultra Rangers tenta deter Guzzlord na Ultra Ruína.",
-        "title_pt": "Enfrentando a criatura interior!"
+        "title_pt": "Enfrentando a criatura interior!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/anime-sm100-2.webp",
+          "alt": "Blastoise dos Ultra Rangers usando Hydro Pump contra Guzzlord."
+        }
       },
       {
         "jp_number": 1087,
@@ -34732,7 +34736,11 @@
         "title_ja": "サトシとゴウ！あらたなる旅立ち！！",
         "appearance": "Participação breve",
         "description": "Um treinador aparece acompanhado de Blastoise.",
-        "title_pt": "Esse pode ser o começo de uma coisa maior!"
+        "title_pt": "Esse pode ser o começo de uma coisa maior!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/anime-jn136-2.webp",
+          "alt": "Blastoise acompanhado de seu treinador durante a passagem de Chloe pela cidade."
+        }
       },
       {
         "jp_number": 1224,
@@ -34743,7 +34751,11 @@
         "title_ja": "タケシとデントともりのまじょ！",
         "appearance": "Imaginação",
         "description": "Blastoise aparece em uma cena imaginada.",
-        "title_pt": "Os heróis e a Bruxa da Floresta!"
+        "title_pt": "Os heróis e a Bruxa da Floresta!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/anime-jn139-2.webp",
+          "alt": "Blastoise ao lado de outros Pokémon aquáticos na ilusão criada por Hatterene."
+        }
       }
     ],
     "films": [
