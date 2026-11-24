@@ -32,7 +32,7 @@
     "Água"
   ],
   "species_name": "Pokémon Tartaruga",
-  "height": 1.0,
+  "height": 1,
   "weight": 22.5,
   "capture_rate": 45,
   "egg_cycles": 20,
@@ -29246,7 +29246,24 @@
     "lead": "Aparições selecionadas no anime, cinema e mangá.",
     "anime": [
       {
+        "jp_number": 56,
+        "episode_code": "EP056",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "O Teste Final",
+        "title_en": "The Ultimate Test",
+        "title_ja": "ポケモンけんていしけん！？",
+        "appearance": "Imagem — versão japonesa",
+        "description": "Uma ilustração de Wartortle aparece na prova teórica de admissão à Liga Pokémon, exclusivamente na versão japonesa."
+      },
+      {
+        "jp_number": 60,
+        "episode_code": "EP060",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Desmaios na Praia de Blastoise",
         "title_en": "Beach Blank-Out Blastoise",
+        "title_ja": "カメックスのしま",
         "appearance": "Estreia",
         "description": "Wartortle selvagens tentam despertar o Blastoise que lidera seu grupo.",
         "image": {
@@ -29255,34 +29272,35 @@
         }
       },
       {
-        "title_en": "Judgment Day",
-        "appearance": "Pokémon de Jimmy",
-        "description": "O Wartortle de Jimmy evolui para Blastoise ao enfrentar a Equipe Rocket.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-judgment-day.webp",
-          "alt": "Wartortle de Jimmy ao lado de Ivysaur e Charmeleon."
-        }
+        "jp_number": 86,
+        "episode_code": "EP086",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_pt": "A Revolta do Pikachu",
+        "title_en": "Pikachu Re-Volts",
+        "title_ja": "きえたポケモンたちのナゾ！",
+        "appearance": "Pokémon controlado",
+        "description": "Um Wartortle está entre os Pokémon manipulados por Cassidy e Butch na Ilha Mandarin Norte."
       },
       {
-        "title_en": "Staging a Heroes’ Welcome!",
-        "appearance": "Pokémon de May",
-        "description": "O Squirtle de May já evoluiu para Wartortle e participa da apresentação da treinadora na Wallace Cup.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-staging-a-heroes-welcome.webp",
-          "alt": "Wartortle de May durante sua apresentação na Wallace Cup."
-        }
+        "jp_number": 91,
+        "episode_code": "EP091",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_pt": "Adeus Psyduck",
+        "title_en": "Bye Bye Psyduck",
+        "title_ja": "さよならコダック！またきてゴルダック？",
+        "appearance": "Imaginação",
+        "description": "Wartortle aparece em uma fantasia de Misty."
       },
       {
-        "title_en": "Good Friends, Great Training!",
-        "appearance": "Pokémon de Tierno",
-        "description": "O Squirtle de Tierno já evoluiu para Wartortle quando ele reencontra Ash.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-good-friends-great-training.webp",
-          "alt": "Wartortle de Tierno durante uma batalha em Kalos."
-        }
-      },
-      {
+        "jp_number": 106,
+        "episode_code": "EP106",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_pt": "A Guerra de Água Pokémon",
         "title_en": "The Pokémon Water War",
+        "title_ja": "ひけしたいけつ！ゼニガメＶＳカメール",
         "appearance": "Equipe Wartortle",
         "description": "O Squirtle de Ash acompanha temporariamente o grupo de Wartortle que combate incêndios.",
         "image": {
@@ -29291,13 +29309,251 @@
         }
       },
       {
+        "jp_number": 108,
+        "episode_code": "EP108",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_pt": "Pokémon Encrenca em Dobro",
+        "title_en": "Pokémon Double Trouble",
+        "title_ja": "タッグバトル！さいごのジム！！",
+        "appearance": "Pokémon de treinador",
+        "description": "Um Wartortle aparece treinando no Ginásio de Kumquat."
+      },
+      {
+        "jp_number": 122,
+        "episode_code": "EP122",
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_pt": "O Poder Floral",
+        "title_en": "Flower Power",
+        "title_ja": "キレイハナのバトルダンシング！",
+        "appearance": "Pokémon de Florando",
+        "description": "Dois Wartortle participam da exibição anual de Pokémon de Florando."
+      },
+      {
+        "jp_number": 147,
+        "episode_code": "EP147",
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_pt": "Os Soldados do Fogo!",
         "title_en": "The Fire-ing Squad!",
+        "title_ja": "もえろゼニガメだん！ほのおのように！！",
         "appearance": "Equipe Wartortle",
         "description": "A equipe de Wartortle compete com o Esquadrão Squirtle em uma prova de resgate.",
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-the-fire-ing-squad.webp",
           "alt": "Equipe de Wartortle do capitão Aidan durante a competição de resgate."
         }
+      },
+      {
+        "jp_number": 168,
+        "episode_code": "EP168",
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_pt": "Anzol, Isca e Pescaria",
+        "title_en": "Hook, Line, and Stinker",
+        "title_ja": "アズマオウ！フィッシングバトル！！",
+        "appearance": "Pokémon de treinador",
+        "description": "Um participante utiliza Wartortle para ajudá-lo na competição de pesca de Seaking."
+      },
+      {
+        "jp_number": 216,
+        "episode_code": "EP216",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Duelo entre Heróis",
+        "title_en": "Dueling Heroes",
+        "title_ja": "うずまきカップ！みずのコロシアムでだいバトル！！",
+        "appearance": "Copa Whirl",
+        "description": "Um Wartortle de treinador participa da Copa Whirl."
+      },
+      {
+        "jp_number": 219,
+        "episode_code": "EP219",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Uma Ilha muito Brilhante!",
+        "title_en": "Hi Ho Silver... Away!",
+        "title_ja": "ぎんいろのはねのでんせつ！ぎんがんとうのたたかい！！",
+        "appearance": "Flashback",
+        "description": "Um Wartortle integra a tripulação de um navio em uma lembrança da história da Asa Prateada."
+      },
+      {
+        "jp_number": 241,
+        "episode_code": "EP241",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Uma Bruxa das Arábias",
+        "title_en": "Hocus Pokémon",
+        "title_ja": "ポケモンまほうでだいへんしん！？",
+        "appearance": "Imagem",
+        "description": "Uma representação de Wartortle aparece durante o episódio sobre a magia Pokémon."
+      },
+      {
+        "jp_number": 289,
+        "episode_code": "AG015",
+        "season_reference": 6,
+        "season": "Avançado",
+        "title_pt": "Mandando no Pedaço!",
+        "title_en": "Gonna Rule The School!",
+        "title_ja": "勉強します！ポケモントレーナーズスクール！！",
+        "appearance": "Pokémon da escola",
+        "description": "A Escola de Treinadores empresta Wartortle aos alunos para atividades de aprendizado."
+      },
+      {
+        "jp_number": 336,
+        "episode_code": "AG062",
+        "season_reference": 7,
+        "season": "Desafio Avançado",
+        "title_pt": "No Limite do Disfarce",
+        "title_en": "Disguise Da Limit",
+        "title_ja": "シダケタウン！ポケモンコンテスト！！",
+        "appearance": "Pokémon de Stefano",
+        "description": "Wartortle de Stefano enfrenta o Skitty de May na etapa de batalhas do concurso de Verdanturf."
+      },
+      {
+        "jp_number": 366,
+        "episode_code": "AG092",
+        "season_reference": 7,
+        "season": "Desafio Avançado",
+        "title_pt": "Dia do Julgamento!",
+        "title_en": "Judgment Day!",
+        "title_ja": "あの三匹登場！審判学校の島！",
+        "appearance": "Pokémon de Jimmy",
+        "description": "O Wartortle de Jimmy evolui para Blastoise ao enfrentar a Equipe Rocket.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-judgment-day.webp",
+          "alt": "Wartortle de Jimmy ao lado de Ivysaur e Charmeleon."
+        }
+      },
+      {
+        "jp_number": 543,
+        "episode_code": "DP077",
+        "season_reference": 11,
+        "season": "Dimensão de Batalha",
+        "title_pt": "Rivalidade a Mil",
+        "title_en": "Staging a Heroes' Welcome!",
+        "title_ja": "みんなライバル！ミクリカップ！！",
+        "appearance": "Pokémon de May",
+        "description": "O Squirtle de May já evoluiu para Wartortle e participa da apresentação da treinadora na Wallace Cup.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-staging-a-heroes-welcome.webp",
+          "alt": "Wartortle de May durante sua apresentação na Wallace Cup."
+        }
+      },
+      {
+        "jp_number": 544,
+        "episode_code": "DP078",
+        "season_reference": 11,
+        "season": "Dimensão de Batalha",
+        "title_pt": "Separando um Grupo de Amigos!",
+        "title_en": "Pruning a Passel of Pals!",
+        "title_ja": "激闘！それぞれのバトル！！",
+        "appearance": "Pokémon de May",
+        "description": "Wartortle de May volta a aparecer durante a Copa Wallace em Sinnoh."
+      },
+      {
+        "jp_number": 864,
+        "episode_code": "XY065",
+        "season_reference": 18,
+        "season": "XY: Desafio em Kalos",
+        "title_pt": "Bons Amigos, Grandes Treinos!",
+        "title_en": "Good Friends, Great Training!",
+        "title_ja": "カメール、ライチュウ登場！ヌメイルがんばる！！",
+        "appearance": "Pokémon de Tierno",
+        "description": "O Squirtle de Tierno já evoluiu para Wartortle quando ele reencontra Ash.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/anime/anime-good-friends-great-training.webp",
+          "alt": "Wartortle de Tierno durante uma batalha em Kalos."
+        }
+      },
+      {
+        "jp_number": 1087,
+        "episode_code": "JN002",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Lendário? Sim! Amigos? Sim!",
+        "title_en": "Legend? Go! Friends? Go!",
+        "title_ja": "サトシとゴウ、ルギアでゴー！",
+        "appearance": "Pokémon de treinador",
+        "description": "Um Wartortle participa de uma batalha de reide contra Lugia."
+      },
+      {
+        "jp_number": 1143,
+        "episode_code": "JN058",
+        "season_reference": 24,
+        "season": "Jornadas de Mestre",
+        "title_pt": "De olho no objetivo!",
+        "title_en": "Eyes on the Goal!",
+        "title_ja": "カモンカムカメカメレース！",
+        "appearance": "Pokémon do Mestre dos Cascos",
+        "description": "Wartortle do Mestre dos Cascos participa da corrida de Pokémon tartaruga."
+      },
+      {
+        "jp_number": 1221,
+        "episode_code": "JN136",
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "Esse pode ser o começo de uma coisa maior!",
+        "title_en": "This Could be the Start of Something Big!",
+        "title_ja": "サトシとゴウ！あらたなる旅立ち！！",
+        "appearance": "Pokémon de treinador",
+        "description": "Um Wartortle de treinador aparece no episódio que encerra a jornada de Ash e Goh juntos."
+      },
+      {
+        "jp_number": 1233,
+        "episode_code": "HZ001",
+        "season_reference": 26,
+        "season": "Horizontes",
+        "title_pt": "O pingente que iniciou tudo – Parte 1",
+        "title_en": "The Pendant That Starts It All (Part One)",
+        "title_ja": "はじまりのペンダント　前編",
+        "appearance": "Pokémon de estudante",
+        "description": "Um aluno da Academia Índigo aparece com Wartortle."
+      },
+      {
+        "jp_number": 1278,
+        "episode_code": "HZ046",
+        "season_reference": 27,
+        "season": "Horizontes: A Busca por Laqua",
+        "title_pt": "Boas-vindas à Academia Laranja!",
+        "title_en": "Welcome to Naranja Academy!",
+        "title_ja": "ドキドキ！オレンジアカデミー",
+        "appearance": "Imagem de Pokémon de estudante",
+        "description": "Wartortle de um estudante aparece em uma imagem durante o episódio."
+      },
+      {
+        "jp_number": 1290,
+        "episode_code": "HZ058",
+        "season_reference": 27,
+        "season": "Horizontes: A Busca por Laqua",
+        "title_pt": "Comida à altura de um Kingambit!",
+        "title_en": "Food Fit for a Kingambit!",
+        "title_ja": "看板ポケモンはドドゲザン！？",
+        "appearance": "Pokémon de treinador",
+        "description": "Um Wartortle de treinador aparece durante a visita dos protagonistas ao Café Chega Mais."
+      },
+      {
+        "jp_number": 1321,
+        "episode_code": "HZ089",
+        "season_reference": 27,
+        "season": "Horizontes: A Busca por Laqua",
+        "title_pt": "Pra onde a aventura nos levar!",
+        "title_en": "Where the Adventure Leads",
+        "title_ja": "冒険の先に",
+        "appearance": "Pokémon de estudante",
+        "description": "Wartortle de um estudante aparece no episódio que encerra a busca por Laqua."
+      },
+      {
+        "jp_number": 1322,
+        "episode_code": "HZ090",
+        "season_reference": 28,
+        "season": "Horizontes: Altas Esperanças",
+        "title_pt": "De Olho nos Ares de Novo (Parte Um)",
+        "title_en": "Eyes to the Skies Once Again (Part One)",
+        "title_ja": "大空へ向かって、再び　前編",
+        "appearance": "Pokémon de estudante",
+        "description": "Wartortle de um estudante aparece no início da nova etapa da jornada de Liko e Rain."
       }
     ],
     "films": [
