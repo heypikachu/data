@@ -34016,105 +34016,176 @@
         "year": 1999,
         "category": "Pinball",
         "description": "Registre Blastoise na Pokédex da mesa.",
-        "obtaining": "Evolua Wartortle durante a partida."
+        "obtaining": "Evolua Wartortle durante a partida.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-pinball.png",
+          "alt": "Sprite de Blastoise em Pokémon Pinball"
+        }
       },
       {
         "game": "Pokémon Trozei!",
         "year": 2005,
         "category": "Quebra-cabeça",
         "description": "Blastoise aparece como peça em modos de quebra-cabeça.",
-        "obtaining": "Está no Endless Level 73, Forever Level 23 e no esconderijo de Mr. Who."
+        "obtaining": "Está no Endless Level 73, Forever Level 23 e no esconderijo de Mr. Who.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-trozei.png",
+          "alt": "Sprite de Blastoise em Pokémon Trozei!"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
         "year": 2005,
         "category": "Exploração",
         "description": "Blastoise pode ser recrutado no pós-jogo.",
-        "obtaining": "Procure-o nos andares B89F a B98F de Western Cave."
+        "obtaining": "Procure-o nos andares B89F a B98F de Western Cave.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-md.png",
+          "alt": "Sprite de Blastoise em Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team"
+        }
       },
       {
         "game": "Pokémon Ranger",
         "year": 2006,
         "category": "Captura",
         "description": "Blastoise aparece em Fall City.",
-        "obtaining": "Capture-o com o Capture Styler."
+        "obtaining": "Capture-o com o Capture Styler.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-ranger.png",
+          "alt": "Sprite de Blastoise em Pokémon Ranger"
+        }
       },
       {
-        "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness / Sky",
+        "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
         "year": 2007,
         "category": "Exploração",
         "description": "Blastoise aparece em Lake Afar.",
-        "obtaining": "Procure-o nos andares B17F a B24F."
+        "obtaining": "Procure-o nos andares B17F a B24F.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-md-time-darkness.png",
+          "alt": "Sprite de Blastoise em Pokémon Mystery Dungeon: Explorers of Time / Darkness"
+        }
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+        "year": 2009,
+        "category": "Exploração",
+        "description": "Blastoise aparece em Lake Afar.",
+        "obtaining": "Procure-o nos andares B17F a B24F.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-md-sky.png",
+          "alt": "Sprite de Blastoise em Pokémon Mystery Dungeon: Explorers of Sky"
+        }
       },
       {
         "game": "Pokémon Ranger: Shadows of Almia",
         "year": 2008,
         "category": "Captura",
         "description": "Blastoise aparece em Vien Forest.",
-        "obtaining": "Capture-o com o Capture Styler."
+        "obtaining": "Capture-o com o Capture Styler.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-md-soa.png",
+          "alt": "Sprite de Blastoise em Pokémon Ranger: Shadows of Almia"
+        }
       },
       {
         "game": "PokéPark Wii: Pikachu’s Adventure",
         "year": 2009,
         "category": "Aventura",
         "description": "Blastoise aparece em Granite Zone e Beach Zone.",
-        "obtaining": "Interaja com ele nas zonas em que aparece."
+        "obtaining": "Interaja com ele nas zonas em que aparece.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-pokepark.png",
+          "alt": "Sprite de Blastoise em PokéPark Wii: Pikachu’s Adventure"
+        }
       },
       {
         "game": "Pokémon Ranger: Guardian Signs",
         "year": 2010,
         "category": "Captura",
         "description": "Blastoise aparece em Silver Falls.",
-        "obtaining": "Capture-o com o Capture Styler."
+        "obtaining": "Capture-o com o Capture Styler.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-md-gs.png",
+          "alt": "Sprite de Blastoise em Pokémon Ranger: Guardian Signs"
+        }
       },
       {
         "game": "Pokémon Rumble Blast",
         "year": 2011,
         "category": "Ação",
         "description": "Blastoise aparece em Everspring Valley.",
-        "obtaining": "Procure-o na área Lake."
+        "obtaining": "Procure-o na área Lake.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-rumble.png",
+          "alt": "Sprite de Blastoise em Pokémon Rumble Blast"
+        }
       },
       {
         "game": "PokéPark 2: Wonders Beyond",
         "year": 2011,
         "category": "Aventura",
         "description": "Blastoise aparece na Arcane Area.",
-        "obtaining": "Encontre-o durante a exploração da área."
+        "obtaining": "Encontre-o durante a exploração da área.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-pokepark.png",
+          "alt": "Sprite de Blastoise em PokéPark 2: Wonders Beyond"
+        }
       },
       {
         "game": "Pokémon Battle Trozei",
         "year": 2014,
         "category": "Quebra-cabeça",
         "description": "Blastoise aparece em Blade-and-Shield Path.",
-        "obtaining": "Jogue o estágio 5."
+        "obtaining": "Jogue o estágio 5.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-battle-trozei.png",
+          "alt": "Sprite de Blastoise em Pokémon Battle Trozei"
+        }
       },
       {
         "game": "Pokémon Rumble World",
         "year": 2015,
         "category": "Ação",
         "description": "Blastoise é chefe em Pearl Lake.",
-        "obtaining": "Explore a rota de chefe de Pearl Marsh."
+        "obtaining": "Explore a rota de chefe de Pearl Marsh.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-rumble.png",
+          "alt": "Sprite de Blastoise em Pokémon Rumble World"
+        }
       },
       {
         "game": "Pokémon Shuffle",
         "year": 2015,
         "category": "Quebra-cabeça",
         "description": "Blastoise aparece como adversário em estágio especial.",
-        "obtaining": "Vença o estágio Expert EX8 e realize a captura."
+        "obtaining": "Vença o estágio Expert EX8 e realize a captura.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-shuffle.png",
+          "alt": "Sprite de Blastoise em Pokémon Shuffle"
+        }
       },
       {
         "game": "Pokémon Super Mystery Dungeon",
         "year": 2015,
         "category": "Exploração",
         "description": "Blastoise pode ser adicionado ao Connection Orb.",
-        "obtaining": "Conclua a missão de conexão dele."
+        "obtaining": "Conclua a missão de conexão dele.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-smd.png",
+          "alt": "Sprite de Blastoise em Pokémon Super Mystery Dungeon"
+        }
       },
       {
         "game": "Pokémon Picross",
         "year": 2015,
         "category": "Quebra-cabeça",
         "description": "Blastoise aparece em um painel de Picross.",
-        "obtaining": "Resolva o estágio 8 da Área 21."
+        "obtaining": "Resolva o estágio 8 da Área 21.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-picross.png",
+          "alt": "Sprite de Blastoise em Pokémon Picross"
+        }
       },
       {
         "game": "Pokémon GO",
@@ -34128,49 +34199,77 @@
         "year": 2018,
         "category": "Exploração",
         "description": "Blastoise é a evolução final de Squirtle na Ilha Tumblecube.",
-        "obtaining": "Evolua Wartortle ao nível 36."
+        "obtaining": "Evolua Wartortle ao nível 36.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-quest.png",
+          "alt": "Sprite de Blastoise em Pokémon Quest"
+        }
       },
       {
         "game": "Pokémon Masters EX",
         "year": 2019,
         "category": "Batalhas por duplas",
         "description": "Blue com Traje Sygna forma uma dupla com Blastoise, que pode megaevoluir.",
-        "obtaining": "A dupla foi disponibilizada em buscas próprias e também é uma das opções de recompensa de Victory Road."
+        "obtaining": "A dupla foi disponibilizada em buscas próprias e também é uma das opções de recompensa de Victory Road.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-masters.png",
+          "alt": "Sprite de Blastoise em Pokémon Masters EX"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Rescue Team DX",
         "year": 2020,
         "category": "Exploração",
         "description": "Blastoise pode ser encontrado no pós-jogo.",
-        "obtaining": "Explore os andares 50 a 59 de Mt. Faraway."
+        "obtaining": "Explore os andares 50 a 59 de Mt. Faraway.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-smd-dx.png",
+          "alt": "Sprite de Blastoise em Pokémon Mystery Dungeon: Rescue Team DX"
+        }
       },
       {
         "game": "New Pokémon Snap",
         "year": 2021,
         "category": "Fotografia",
         "description": "Blastoise aparece em Blushing Beach (diurno) e Maricopia Reef (noturno).",
-        "obtaining": "Explore os percursos nos níveis de pesquisa 3 e 2, respectivamente."
+        "obtaining": "Explore os percursos nos níveis de pesquisa 3 e 2, respectivamente.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-new-snap.png",
+          "alt": "Sprite de Blastoise em New Pokémon Snap"
+        }
       },
       {
         "game": "Pokémon UNITE",
         "year": 2021,
         "category": "MOBA",
         "description": "Blastoise é um Defensor de alcance à distância.",
-        "obtaining": "Desbloqueie sua licença. Na partida, Squirtle evolui no nível 5 e Wartortle no nível 9."
+        "obtaining": "Desbloqueie sua licença. Na partida, Squirtle evolui no nível 5 e Wartortle no nível 9.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-unite.png",
+          "alt": "Sprite de Blastoise em Pokémon UNITE"
+        }
       },
       {
         "game": "Pokémon Sleep",
         "year": 2023,
         "category": "Pesquisa de sono",
         "description": "Blastoise aparece na pesquisa de sono e também pode ser obtido por evolução.",
-        "obtaining": "Pode ser encontrado em áreas como Greengrass Isle, Cyan Beach e Lapis Lakeside, conforme o ranque."
+        "obtaining": "Pode ser encontrado em áreas como Greengrass Isle, Cyan Beach e Lapis Lakeside, conforme o ranque.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-sleep.png",
+          "alt": "Sprite de Blastoise em Pokémon Sleep"
+        }
       },
       {
         "game": "Pokémon Pokopia",
         "year": 2026,
         "category": "Simulação",
         "description": "Blastoise pode visitar a cidade e tem uma entrada própria numerada #009.",
-        "obtaining": "Prepare um dos habitats Hydrated Tall Grass ou Floating in the Shade. Seu ambiente ideal é úmido."
+        "obtaining": "Prepare um dos habitats Hydrated Tall Grass ou Floating in the Shade. Seu ambiente ideal é úmido.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/spinoff/0009-pokopia.png",
+          "alt": "Sprite de Blastoise em Pokémon Pokopia"
+        }
       }
     ]
   },
