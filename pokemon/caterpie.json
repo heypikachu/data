@@ -78,13 +78,24 @@
     "body_shape": {
       "label": "Formato corporal",
       "slug": "body-shape",
-      "name": "Corpo segmentado",
-      "official_category": "Pokémon com corpo segmentado",
-      "description": "O corpo alongado apresenta segmentos, pequenos pés e uma antena bifurcada.",
+      "name": "Corpo de inseto com várias pernas",
+      "official_category": "Pokémon com múltiplas pernas",
+      "description": "Caterpie tem corpo alongado e segmentado, quatro pequenos pés adesivos e uma antena vermelha bifurcada. A categoria de formato corporal mudou de corpo serpentino para múltiplas pernas em Pokémon X e Y.",
       "icon": {
         "name": "Body14.webp",
         "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/body/Body14.webp",
-        "alt": "Ícone de corpo segmentado"
+        "alt": "Ícone de formato corporal com múltiplas pernas de Caterpie"
+      }
+    },
+    "footprint": {
+      "label": "Pegada da Pokédex",
+      "slug": "footprint",
+      "name": "Pegada de Caterpie",
+      "description": "Símbolo da pegada utilizado nas Pokédex das gerações III, IV e V.",
+      "icon": {
+        "name": "F0010.png",
+        "url": "https://archives.bulbagarden.net/media/upload/7/77/F0010.png",
+        "alt": "Registro da pegada de Caterpie na Pokédex"
       }
     }
   },
@@ -5751,7 +5762,9 @@
         "episode_code": "EP010",
         "jp_number": 10,
         "season_reference": 1,
-        "season": "Liga Índigo"
+        "season": "Liga Índigo",
+        "title_pt": "Bulbasaur e a Vila Escondida",
+        "title_ja": "かくれざとのフシギダネ"
       },
       {
         "title_en": "Electric Shock Showdown",
@@ -5760,7 +5773,9 @@
         "episode_code": "EP014",
         "jp_number": 14,
         "season_reference": 1,
-        "season": "Liga Índigo"
+        "season": "Liga Índigo",
+        "title_pt": "A Exibição do Choque Elétrico",
+        "title_ja": "でんげきたいけつ！クチバジム"
       },
       {
         "title_en": "Battle Aboard the St. Anne",
@@ -5769,7 +5784,9 @@
         "episode_code": "EP015",
         "jp_number": 15,
         "season_reference": 1,
-        "season": "Liga Índigo"
+        "season": "Liga Índigo",
+        "title_pt": "Batalha a Bordo do St. Anne",
+        "title_ja": "サントアンヌごうのたたかい！"
       },
       {
         "title_en": "Pokémon Fashion Flash",
@@ -5778,7 +5795,9 @@
         "episode_code": "EP028",
         "jp_number": 28,
         "season_reference": 1,
-        "season": "Liga Índigo"
+        "season": "Liga Índigo",
+        "title_pt": "Na Moda dos Pokémon",
+        "title_ja": "ロコン！ブリーダーたいけつ！"
       },
       {
         "title_en": "Dig Those Diglett!",
@@ -5787,7 +5806,9 @@
         "episode_code": "EP031",
         "jp_number": 31,
         "season_reference": 1,
-        "season": "Liga Índigo"
+        "season": "Liga Índigo",
+        "title_pt": "Em Busca dos Digletts",
+        "title_ja": "ディグダがいっぱい！"
       },
       {
         "title_en": "The Ultimate Test",
@@ -5796,7 +5817,9 @@
         "episode_code": "EP056",
         "jp_number": 56,
         "season_reference": 1,
-        "season": "Liga Índigo"
+        "season": "Liga Índigo",
+        "title_pt": "O Teste Final",
+        "title_ja": "ポケモンけんていしけん！？"
       },
       {
         "title_en": "The Breeding Center Secret",
@@ -5805,82 +5828,178 @@
         "episode_code": "EP057",
         "jp_number": 57,
         "season_reference": 1,
-        "season": "Liga Índigo"
+        "season": "Liga Índigo",
+        "title_pt": "O Segredo do Centro de Criação!",
+        "title_ja": "そだてやのひみつ！"
       },
       {
         "title_en": "Clefairy Tales",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante os acontecimentos relacionados à nave de Clefairy."
+        "description": "Caterpie aparece durante os acontecimentos relacionados à nave de Clefairy.",
+        "episode_code": "EP062",
+        "jp_number": 62,
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Contos Clefairy!",
+        "title_ja": "ピッピＶＳプリン"
       },
       {
         "title_en": "In the Pink",
         "appearance": "Coloração especial",
-        "description": "Um Caterpie cor-de-rosa habita Pinkan Island, onde os frutos locais alteram a coloração dos Pokémon."
+        "description": "Um Caterpie cor-de-rosa habita Pinkan Island, onde os frutos locais alteram a coloração dos Pokémon.",
+        "episode_code": "EP088",
+        "jp_number": 88,
+        "season_reference": 2,
+        "season": "Aventuras nas Ilhas Laranja",
+        "title_pt": "Tudo Rosa",
+        "title_ja": "ピンクのポケモンじま"
       },
       {
         "title_en": "Tracey Gets Bugged",
         "appearance": "Pokémon selvagem",
-        "description": "Caterpie vive em Murcott Island, ilha conhecida por seus Pokémon insetos."
+        "description": "Caterpie vive em Murcott Island, ilha conhecida por seus Pokémon insetos.",
+        "episode_code": "EP097",
+        "jp_number": 97,
+        "season_reference": 2,
+        "season": "Aventuras nas Ilhas Laranja",
+        "title_pt": "Um Novo Amigo para o Tracey",
+        "title_ja": "ストライクせんしのほこり"
       },
       {
         "title_en": "Wherefore Art Thou, Pokémon?",
         "appearance": "Flashback",
-        "description": "Caterpie aparece na recordação envolvendo Ralph e Emily."
+        "description": "Caterpie aparece na recordação envolvendo Ralph e Emily.",
+        "episode_code": "EP100",
+        "jp_number": 100,
+        "season_reference": 2,
+        "season": "Aventuras nas Ilhas Laranja",
+        "title_pt": "Onde Estás, Pokémon?",
+        "title_ja": "ニドランのこいものがたり"
       },
       {
         "title_en": "Illusion Confusion!",
         "appearance": "Ilusão",
-        "description": "Caterpie aparece em uma ilusão provocada por Haunter e Gengar."
+        "description": "Caterpie aparece em uma ilusão provocada por Haunter e Gengar.",
+        "episode_code": "EP121",
+        "jp_number": 121,
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_pt": "Confusões de Ilusões",
+        "title_ja": "ホーホーとあやしいもり！"
       },
       {
         "title_en": "For Crying Out Loud",
         "appearance": "Pokémon selvagem",
-        "description": "Caterpie é atingido pela água lançada pelo Marill de Wilhomena."
+        "description": "Caterpie é atingido pela água lançada pelo Marill de Wilhomena.",
+        "episode_code": "EP132",
+        "jp_number": 132,
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_pt": "Marill Chorão",
+        "title_ja": "なきむしマリル！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Gettin' The Bugs Out",
         "appearance": "Pokémon de treinador",
-        "description": "Caterpie do ginásio de Azalea ajuda a conter a Equipe Rocket com sua seda."
+        "description": "Caterpie do ginásio de Azalea ajuda a conter a Equipe Rocket com sua seda.",
+        "episode_code": "EP144",
+        "jp_number": 144,
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_pt": "Exterminando Insetos",
+        "title_ja": "ヒワダジム！もりのバトルフィールド！！"
       },
       {
         "title_en": "The Bug Stops Here",
         "appearance": "Pokémon selvagem",
-        "description": "Misty afasta um Caterpie depois de encontrá-lo interagindo com Togepi."
+        "description": "Misty afasta um Caterpie depois de encontrá-lo interagindo com Togepi.",
+        "episode_code": "EP161",
+        "jp_number": 161,
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_pt": "O Bicho Vai Pegar",
+        "title_ja": "むしとりたいかい！しぜんこうえんでゲットだぜ！！"
       },
       {
         "title_en": "Carrying On!",
         "appearance": "Centro Pokémon",
-        "description": "Caterpie aparece no Centro Pokémon de Way Away Island."
+        "description": "Caterpie aparece no Centro Pokémon de Way Away Island.",
+        "episode_code": "EP164",
+        "jp_number": 164,
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_pt": "Mantendo a Tradição",
+        "title_ja": "ポッポやのでんしょポッポ！"
       },
       {
         "title_en": "Wings 'N' Things",
         "appearance": "Imaginação",
-        "description": "Caterpie aparece em uma fantasia de Jessie."
-      },
-      {
-        "title_en": "Got Miltank?",
-        "appearance": "Pokémon selvagem",
-        "description": "Caterpie habita o oásis visitado por Ash e seus amigos."
-      },
-      {
-        "title_en": "For Ho-Oh the Bells Toll!",
-        "appearance": "Pokémon selvagem",
-        "description": "Caterpie aparece entre os Pokémon que reagem à perturbação causada pelo roubo dos sinos."
-      },
-      {
-        "title_en": "Bulbasaur... the Ambassador!",
-        "appearance": "Flashback",
-        "description": "Caterpie reaparece em uma lembrança do refúgio de Melanie."
-      },
-      {
-        "title_en": "Talkin' 'Bout an Evolution",
-        "appearance": "Pokémon afetado",
-        "description": "Um Caterpie adoece como consequência dos experimentos da Equipe Rocket."
+        "description": "Caterpie aparece em uma fantasia de Jessie.",
+        "episode_code": "EP177",
+        "jp_number": 177,
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_pt": "Asas à Vista!",
+        "title_ja": "はばたけヤンヤンマ！あしたのそらへ！！"
       },
       {
         "title_en": "The Dunsparce Deception",
         "appearance": "Pokémon de treinador",
-        "description": "Caterpie participa dos acontecimentos envolvendo Bucky e a corrida de Pokémon."
+        "description": "Caterpie participa dos acontecimentos envolvendo Bucky e a corrida de Pokémon.",
+        "episode_code": "EP191",
+        "jp_number": 191,
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_pt": "Quem Espera Sempre Alcança",
+        "title_ja": "ノコッチはのこっちない！？"
+      },
+      {
+        "title_en": "Got Miltank?",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie habita o oásis visitado por Ash e seus amigos.",
+        "episode_code": "EP207",
+        "jp_number": 207,
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_pt": "A Miltank",
+        "title_ja": "せいぼミルタンク！さばくのひみつ！"
+      },
+      {
+        "title_en": "Bulbasaur... the Ambassador!",
+        "appearance": "Flashback",
+        "description": "Caterpie reaparece em uma lembrança do refúgio de Melanie.",
+        "episode_code": "EP225",
+        "jp_number": 225,
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Bulbasaur, o Embaixador!",
+        "title_ja": "さよならフシギダネ！オーキドていのぼうけん！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+      },
+      {
+        "title_en": "For Ho-Oh the Bells Toll!",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie aparece entre os Pokémon que reagem à perturbação causada pelo roubo dos sinos.",
+        "episode_code": "EP227",
+        "jp_number": 227,
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Os Sinos de Ho-Oh",
+        "title_ja": "スイクンとミナキ！ホウオウのでんせつ！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+      },
+      {
+        "title_en": "Talkin' 'Bout an Evolution",
+        "appearance": "Pokémon afetado",
+        "description": "Um Caterpie adoece como consequência dos experimentos da Equipe Rocket.",
+        "episode_code": "EP235",
+        "jp_number": 235,
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Falando de Evolução",
+        "title_ja": "ワタルとあかいギャラドス！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Gonna Rule The School!",
@@ -5889,24 +6008,43 @@
         "episode_code": "AG015",
         "jp_number": 289,
         "season_reference": 6,
-        "season": "Avançado"
+        "season": "Avançado",
+        "title_pt": "Mandando no Pedaço!",
+        "title_ja": "勉強します！ポケモントレーナーズスクール！！"
       },
       {
         "title_en": "Hi Ho Silver Wind!",
         "appearance": "Pokémon de coordenador",
-        "description": "Caterpie aparece durante os preparativos do Grande Festival."
+        "description": "Caterpie aparece durante os preparativos do Grande Festival.",
+        "episode_code": "AG121",
+        "jp_number": 395,
+        "season_reference": 8,
+        "season": "Batalha Avançada",
+        "title_pt": "Vento Prateado!",
+        "title_ja": "開幕！グランドフェスティバル①！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Caterpie's Big Dilemma",
         "appearance": "Caterpie de Zander",
         "description": "O Caterpie de Zander cresce de forma anormal após ingerir uma fórmula experimental e passa por suas evoluções.",
         "episode_code": "AG142",
-        "jp_number": 416
+        "jp_number": 416,
+        "season_reference": 8,
+        "season": "Batalha Avançada",
+        "title_pt": "O Grande Dilema de Caterpie",
+        "title_ja": "進化！その神秘と奇跡！！"
       },
       {
         "title_en": "The Green Guardian",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante a passagem dos protagonistas pela floresta."
+        "description": "Caterpie aparece durante a passagem dos protagonistas pela floresta.",
+        "episode_code": "AG155",
+        "jp_number": 429,
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_pt": "Guardião Verde",
+        "title_ja": "ポケモンレンジャー登場！セレビィ救出作戦！"
       },
       {
         "title_en": "What I Did for Love!",
@@ -5915,27 +6053,55 @@
         "episode_code": "AG167",
         "jp_number": 441,
         "season_reference": 9,
-        "season": "Batalha da Fronteira"
+        "season": "Batalha da Fronteira",
+        "title_pt": "O Que Eu Fiz por Amor!",
+        "title_ja": "大一番！ハルカＶＳタケシ！！"
       },
       {
         "title_en": "Some Enchanted Sweetening!",
         "appearance": "Pokémon selvagem",
-        "description": "Caterpie aparece durante a busca de Cheryl por mel."
+        "description": "Caterpie aparece durante a busca de Cheryl por mel.",
+        "episode_code": "DP030",
+        "jp_number": 496,
+        "season_reference": 10,
+        "season": "Diamante e Pérola",
+        "title_pt": "Doces Encantamentos!",
+        "title_ja": "ハクタイの森！ミノムッチ進化作戦！！"
       },
       {
         "title_en": "The Grass-Type Is Always Greener!",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante os acontecimentos envolvendo Cheryl e a floresta."
+        "description": "Caterpie aparece durante os acontecimentos envolvendo Cheryl e a floresta.",
+        "episode_code": "DP031",
+        "jp_number": 497,
+        "season_reference": 10,
+        "season": "Diamante e Pérola",
+        "title_pt": "O Tipo Grama É Sempre Mais Verde!",
+        "title_ja": "ナエトル対ナエトル！スピード対決！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "An Angry Combeenation!",
         "appearance": "Pokémon selvagem",
-        "description": "Dois Caterpie aparecem durante a busca pelo mel de Combee."
+        "description": "Dois Caterpie aparecem durante a busca pelo mel de Combee.",
+        "episode_code": "DP032",
+        "jp_number": 498,
+        "season_reference": 10,
+        "season": "Diamante e Pérola",
+        "title_pt": "Uma COMBEEnação Nervosa!",
+        "title_ja": "琥珀の城のビークイン！"
       },
       {
         "title_en": "One Big Happiny Family!",
         "appearance": "Imaginação",
-        "description": "Caterpie aparece em uma fantasia de Jessie."
+        "description": "Caterpie aparece em uma fantasia de Jessie.",
+        "episode_code": "DP038",
+        "jp_number": 504,
+        "season_reference": 10,
+        "season": "Diamante e Pérola",
+        "title_pt": "Uma Grande Família Happiny!",
+        "title_ja": "爆誕！サイクリングロード！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "One Team, Two Team, Red Team, Blue Team!",
@@ -5951,7 +6117,14 @@
       {
         "title_en": "Coming Full-Festival Circle!",
         "appearance": "Participação breve",
-        "description": "Vários Caterpie aparecem durante os acontecimentos do Grande Festival."
+        "description": "Vários Caterpie aparecem durante os acontecimentos do Grande Festival.",
+        "episode_code": "DP176",
+        "jp_number": 642,
+        "season_reference": 13,
+        "season": "Vencedores da Liga Sinnoh",
+        "title_pt": "O Grande Festival Chega à Reta Final!",
+        "title_ja": "セミファイナル！決勝へ進むのは！？",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Butterfree and Me!",
@@ -5960,52 +6133,118 @@
         "episode_code": "BW130",
         "jp_number": 787,
         "season_reference": 16,
-        "season": "Aventuras em Unova"
+        "season": "Aventuras em Unova e Mais Além",
+        "title_pt": "Butterfree e Eu!",
+        "title_ja": "サトシとバタフリー！また会う日まで！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Kalos, Where Dreams and Adventures Begin!",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece na estreia da jornada de Ash em Kalos."
+        "description": "Caterpie aparece na estreia da jornada de Ash em Kalos.",
+        "episode_code": "XY001",
+        "jp_number": 800,
+        "season_reference": 17,
+        "season": "XY",
+        "title_pt": "Kalos, Onde os Sonhos e as Aventuras Começam!",
+        "title_ja": "カロス地方にやってきた！夢と冒険のはじまり！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Lumiose City Pursuit!",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante os acontecimentos em Lumiose City."
+        "description": "Caterpie aparece durante os acontecimentos em Lumiose City.",
+        "episode_code": "XY002",
+        "jp_number": 801,
+        "season_reference": 17,
+        "season": "XY",
+        "title_pt": "Perseguição em Lumiose!",
+        "title_ja": "メガシンカとプリズムタワー！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Mega-Mega Meowth Madness!",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante os acontecimentos envolvendo a Equipe Rocket."
+        "description": "Caterpie aparece durante os acontecimentos envolvendo a Equipe Rocket.",
+        "episode_code": "XY010",
+        "jp_number": 809,
+        "season_reference": 17,
+        "season": "XY",
+        "title_pt": "A Loucura do Mega-Mega Meowth!",
+        "title_ja": "ハリマロンVSメガメガニャース！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Day Three Blockbusters!",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante o acampamento de verão de Kalos."
-      },
-      {
-        "title_en": "Battling With a Clean Slate!",
-        "appearance": "Laboratório",
-        "description": "Caterpie aparece no laboratório do Professor Sycamore."
+        "description": "Caterpie aparece durante o acampamento de verão de Kalos.",
+        "episode_code": "XY040",
+        "jp_number": 839,
+        "season_reference": 17,
+        "season": "XY",
+        "title_pt": "Sucessos do Terceiro Dia!",
+        "title_ja": "セレナVSサナ！ポケビジョン対決！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Seeing the Forest for the Trees!",
         "appearance": "Flashback",
-        "description": "Caterpie aparece em uma lembrança."
+        "description": "Caterpie aparece em uma lembrança.",
+        "episode_code": "XY121",
+        "jp_number": 920,
+        "season_reference": 19,
+        "season": "XYZ",
+        "title_pt": "Vendo a Floresta Além das Árvores!",
+        "title_ja": "迷いの森…進化の夜明け！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+      },
+      {
+        "title_en": "Battling With a Clean Slate!",
+        "appearance": "Laboratório",
+        "description": "Caterpie aparece no laboratório do Professor Sycamore.",
+        "episode_code": "XY137",
+        "jp_number": 936,
+        "season_reference": 19,
+        "season": "XYZ",
+        "title_pt": "Batalhando com um Novo Começo!",
+        "title_ja": "はじまりはゼロ！シトロンの決断！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Lillie's Egg-xhilarating Challenge!",
         "appearance": "Pokémon selvagem",
-        "description": "Dois Caterpie aparecem no jardim de Lillie."
-      },
-      {
-        "title_en": "The Ol' Raise and Switch!",
-        "appearance": "Pokémon selvagem",
-        "description": "Um Caterpie reaparece no jardim."
+        "description": "Dois Caterpie aparecem no jardim de Lillie.",
+        "episode_code": "SM008",
+        "jp_number": 947,
+        "season_reference": 20,
+        "season": "Sol e Lua",
+        "title_pt": "O Desafio de Lillie com o Ovo!",
+        "title_ja": "タマゴ係はだ～れだ？",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Lulled to La-La Land!",
         "appearance": "Imaginação",
-        "description": "Caterpie aparece em uma cena imaginada."
+        "description": "Caterpie aparece em uma cena imaginada.",
+        "episode_code": "SM029",
+        "jp_number": 968,
+        "season_reference": 20,
+        "season": "Sol e Lua",
+        "title_pt": "Embalados para o Mundo dos Sonhos!",
+        "title_ja": "ネマシュの森であなたも寝ましゅ？",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+      },
+      {
+        "title_en": "The Ol' Raise and Switch!",
+        "appearance": "Pokémon selvagem",
+        "description": "Um Caterpie reaparece no jardim.",
+        "episode_code": "SM030",
+        "jp_number": 969,
+        "season_reference": 20,
+        "season": "Sol e Lua",
+        "title_pt": "Trocando os Cuidados com os Pokémon!",
+        "title_ja": "リーリエ、ピカチュウをかわいがってあげてね",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Alola, Kanto!",
@@ -6014,37 +6253,81 @@
         "episode_code": "SM042",
         "jp_number": 981,
         "season_reference": 20,
-        "season": "Sol e Lua"
+        "season": "Sol e Lua",
+        "title_pt": "Alola, Kanto!",
+        "title_ja": "カントーでアローラ！タケシとカスミ！！"
       },
       {
         "title_en": "Now You See Them, Now You Don't!",
         "appearance": "Pokémon de treinador",
-        "description": "Um treinador aparece acompanhado de Caterpie."
+        "description": "Um treinador aparece acompanhado de Caterpie.",
+        "episode_code": "SM045",
+        "jp_number": 984,
+        "season_reference": 21,
+        "season": "Ultra-Aventuras",
+        "title_pt": "Agora Você Vê, Agora Não Vê!",
+        "title_ja": "ほしぐもパニック！テレポートは突然に！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Tasting the Bitter with the Sweet!",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante os acontecimentos em Alola."
+        "description": "Caterpie aparece durante os acontecimentos em Alola.",
+        "episode_code": "SM059",
+        "jp_number": 998,
+        "season_reference": 21,
+        "season": "Ultra-Aventuras",
+        "title_pt": "Saboreando o Amargo e o Doce!",
+        "title_ja": "マオとスイレン、にがあまメモリーズ！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Securing the Future!",
         "appearance": "Pokémon de treinador e selvagem",
-        "description": "Caterpie aparece entre os Pokémon que contribuem com sua luz para ajudar Necrozma."
+        "description": "Caterpie aparece entre os Pokémon que contribuem com sua luz para ajudar Necrozma.",
+        "episode_code": "SM090",
+        "jp_number": 1029,
+        "season_reference": 21,
+        "season": "Ultra-Aventuras",
+        "title_pt": "Garantindo o Futuro!",
+        "title_ja": "未来へつなげ！かがやきさまの伝説！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "The Battlefield of Truth and Love!",
         "appearance": "Pokémon espectador",
-        "description": "Caterpie observa Bewear e Stufful."
+        "description": "Caterpie observa Bewear e Stufful.",
+        "episode_code": "SM131",
+        "jp_number": 1070,
+        "season_reference": 22,
+        "season": "Ultralendas",
+        "title_pt": "O Campo de Batalha da Verdade e do Amor!",
+        "title_ja": "ムサシVSコジロウ！愛と真実のバトルフィールド！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Exhibition Unmasked!",
         "appearance": "Pokémon espectador",
-        "description": "Caterpie de treinador assiste à batalha de exibição."
+        "description": "Caterpie de treinador assiste à batalha de exibição.",
+        "episode_code": "SM141",
+        "jp_number": 1080,
+        "season_reference": 22,
+        "season": "Ultralendas",
+        "title_pt": "A Batalha de Exibição Revelada!",
+        "title_ja": "ファイナルバトル！サトシ対ククイ！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "From Z to Shining Z!",
         "appearance": "Pokémon espectador",
-        "description": "Caterpie de treinador aparece durante o confronto de exibição."
+        "description": "Caterpie de treinador aparece durante o confronto de exibição.",
+        "episode_code": "SM144",
+        "jp_number": 1083,
+        "season_reference": 22,
+        "season": "Ultralendas",
+        "title_pt": "De Z a um Z Brilhante!",
+        "title_ja": "アローラ最強のZ！カプ・コケコVSピカチュウ！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Enter Pikachu!",
@@ -6054,7 +6337,7 @@
         "jp_number": 1086,
         "season_reference": 23,
         "season": "Jornadas",
-        "title_pt": "A chegada de Pikachu!",
+        "title_pt": "A Chegada de Pikachu!",
         "title_ja": "ピカチュウ誕生！"
       },
       {
@@ -6075,87 +6358,190 @@
         "episode_code": "JN006",
         "jp_number": 1091,
         "season_reference": 23,
-        "season": "Jornadas"
+        "season": "Jornadas",
+        "title_pt": "Não Desistirei de Mew!",
+        "title_ja": "ポケモン大量ゲットだぜ！ミュウへの道！！"
       },
       {
         "title_en": "Serving Up the Flute Cup!",
         "appearance": "Caterpie de Goh",
-        "description": "O Caterpie capturado por Goh reaparece."
+        "description": "O Caterpie capturado por Goh reaparece.",
+        "episode_code": "JN007",
+        "jp_number": 1092,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "A Copa da Flauta!",
+        "title_ja": "激闘のホウエン地方！挑戦バトルフロンティア！！"
       },
       {
         "title_en": "Finding a Legend!",
         "appearance": "Caterpie de Goh",
-        "description": "O Caterpie de Goh reaparece durante sua jornada."
+        "description": "O Caterpie de Goh reaparece durante sua jornada.",
+        "episode_code": "JN009",
+        "jp_number": 1094,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Encontrando uma Lenda!",
+        "title_ja": "あの日の誓い！ジョウト地方のホウオウ伝説！！"
       },
       {
         "title_en": "Best Friend... Worst Nightmare!",
         "appearance": "Caterpie de Goh",
-        "description": "Caterpie aparece entre os Pokémon de Goh."
+        "description": "Caterpie aparece entre os Pokémon de Goh.",
+        "episode_code": "JN011",
+        "jp_number": 1096,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Melhor Amigo… Pior Pesadelo!",
+        "title_ja": "コハルとワンパチと、時々、ゲンガー"
       },
       {
         "title_en": "Raid Battle in the Ruins!",
         "appearance": "Caterpie de Goh",
-        "description": "O Caterpie de Goh reaparece."
+        "description": "O Caterpie de Goh reaparece.",
+        "episode_code": "JN014",
+        "jp_number": 1099,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Batalha de Reide nas Ruínas!",
+        "title_ja": "初イッシュ地方！遺跡でレイドバトル！！"
       },
       {
         "title_en": "A Snow Day for Searching!",
         "appearance": "Pokémon selvagem",
-        "description": "O Butterfree de Goh encontra um Caterpie enquanto procura o osso de Cubone."
+        "description": "O Butterfree de Goh encontra um Caterpie enquanto procura o osso de Cubone.",
+        "episode_code": "JN015",
+        "jp_number": 1100,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Procurando em um Dia de Neve!",
+        "title_ja": "雪の日、カラカラのホネはどこ？"
       },
       {
         "title_en": "Caring for a Mystery!",
         "appearance": "Pokémon de treinador",
-        "description": "Um treinador aparece acompanhado de Caterpie."
+        "description": "Um treinador aparece acompanhado de Caterpie.",
+        "episode_code": "JN021",
+        "jp_number": 1106,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Cuidando de um Mistério!",
+        "title_ja": "とどけ波導！サトシと不思議なタマゴ！！"
       },
       {
         "title_en": "Panic in the Park!",
         "appearance": "Caterpie de Goh",
-        "description": "Caterpie aparece no parque do laboratório."
-      },
-      {
-        "title_en": "The Cuteness Quotient!",
-        "appearance": "Caterpie de Goh",
-        "description": "Caterpie aparece entre os Pokémon de Goh."
-      },
-      {
-        "title_en": "Gotta Catch a What?!",
-        "appearance": "Caterpie de Goh",
-        "description": "Caterpie reaparece como Pokémon de Goh."
+        "description": "Caterpie aparece no parque do laboratório.",
+        "episode_code": "JN023",
+        "jp_number": 1108,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Pânico no Parque!",
+        "title_ja": "大パニック！サクラギパーク！"
       },
       {
         "title_en": "A Festival Reunion!",
         "appearance": "Pokémon de treinador",
-        "description": "Caterpie aparece acompanhado de um treinador."
+        "description": "Caterpie aparece acompanhado de um treinador.",
+        "episode_code": "JN025",
+        "jp_number": 1110,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Um Reencontro no Festival!",
+        "title_ja": "命爆発バトルフェス！VSメガルカリオ！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+      },
+      {
+        "title_en": "The Cuteness Quotient!",
+        "appearance": "Caterpie de Goh",
+        "description": "Caterpie aparece entre os Pokémon de Goh.",
+        "episode_code": "JN031",
+        "jp_number": 1116,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Excesso de Fofura!",
+        "title_ja": "ヒンバスのきれいなウロコ"
       },
       {
         "title_en": "Trade, Borrow, and Steal!",
         "appearance": "Participação breve",
-        "description": "Caterpie aparece durante os acontecimentos ligados ao evento de trocas."
+        "description": "Caterpie aparece durante os acontecimentos ligados ao evento de trocas.",
+        "episode_code": "JN033",
+        "jp_number": 1118,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Trocar, Emprestar e Surrupiar!",
+        "title_ja": "ポケモン交換しませんか？"
+      },
+      {
+        "title_en": "Gotta Catch a What?!",
+        "appearance": "Caterpie de Goh",
+        "description": "Caterpie reaparece como Pokémon de Goh.",
+        "episode_code": "JN035",
+        "jp_number": 1120,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Temos que Pegar o Quê?",
+        "title_ja": "ピカチュウ、ゲットだぜ！！"
       },
       {
         "title_en": "That New Old Gang of Mine!",
         "appearance": "Pokémon de treinador",
-        "description": "Um treinador aparece acompanhado de Caterpie."
+        "description": "Um treinador aparece acompanhado de Caterpie.",
+        "episode_code": "JN037",
+        "jp_number": 1122,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "A Minha Antiga Turma!",
+        "title_ja": "ただいま、はじめましてアローラ！"
       },
       {
         "title_en": "Not Too Close for Comfort!",
         "appearance": "Vídeo",
-        "description": "Caterpie aparece em um vídeo sobre evolução."
+        "description": "Caterpie aparece em um vídeo sobre evolução.",
+        "episode_code": "JN062",
+        "jp_number": 1147,
+        "season_reference": 24,
+        "season": "Jornadas de Mestre",
+        "title_pt": "Não Tão Perto para o Conforto!",
+        "title_ja": "じめじめジメレオン",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Take My Thief! Please!",
         "appearance": "Pokémon de treinador",
-        "description": "Um treinador aparece acompanhado de Caterpie."
+        "description": "Um treinador aparece acompanhado de Caterpie.",
+        "episode_code": "JN070",
+        "jp_number": 1155,
+        "season_reference": 24,
+        "season": "Jornadas de Mestre",
+        "title_pt": "Leve Meu Ladrão, Por Favor!",
+        "title_ja": "おねがい！モルペコゲットして！！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Infinite Possibilities!",
         "appearance": "Participação breve",
-        "description": "Dois Caterpie aparecem no episódio."
+        "description": "Dois Caterpie aparecem no episódio.",
+        "episode_code": "JN120",
+        "jp_number": 1205,
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "Possibilidades Infinitas!",
+        "title_ja": "コハルとイーブイ、可能性は無限大！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Heroes Unite!",
         "appearance": "Flashback",
-        "description": "Caterpie aparece em uma recordação."
+        "description": "Caterpie aparece em uma recordação.",
+        "episode_code": "JN135",
+        "jp_number": 1220,
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "Heróis Unidos!",
+        "title_ja": "ポケモン！きみにあえてよかった！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Must Be Our Heroes and the Witch!",
@@ -6165,8 +6551,9 @@
         "jp_number": 1224,
         "season_reference": 25,
         "season": "Jornadas Supremas",
-        "title_pt": "Os heróis e a Bruxa da Floresta!",
-        "title_ja": "タケシとデントともりのまじょ！"
+        "title_pt": "Os Heróis e a Bruxa da Floresta!",
+        "title_ja": "タケシとデントともりのまじょ！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "The Rainbow and the Pokémon Master!",
@@ -6176,196 +6563,429 @@
         "jp_number": 1232,
         "season_reference": 25,
         "season": "Jornadas Supremas",
-        "title_pt": "O arco-íris e o mestre Pokémon!",
-        "title_ja": "虹とポケモンマスター！"
+        "title_pt": "O Arco-Íris e o Mestre Pokémon!",
+        "title_ja": "虹とポケモンマスター！",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "The Treasure After the Storm!",
         "appearance": "Pokémon selvagem",
-        "description": "Dois Caterpie aparecem durante a jornada de Liko e Roy."
+        "description": "Dois Caterpie aparecem durante a jornada de Liko e Roy.",
+        "episode_code": "HZ004",
+        "jp_number": 1236,
+        "season_reference": 26,
+        "season": "Horizontes",
+        "title_pt": "O Tesouro Após a Tempestade!",
+        "title_ja": "ながれついた宝もの",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "Found You, Fuecoco!",
         "appearance": "Pokémon selvagem",
-        "description": "Dois Caterpie ajudam nos reparos do Brave Olivine com sua seda."
+        "description": "Dois Caterpie ajudam nos reparos do Brave Olivine com sua seda.",
+        "episode_code": "HZ005",
+        "jp_number": 1237,
+        "season_reference": 26,
+        "season": "Horizontes",
+        "title_pt": "Encontrei Você, Fuecoco!",
+        "title_ja": "みつけたよ、ホゲータ",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       },
       {
         "title_en": "A New Song for Fuecoco",
         "appearance": "Flashback",
-        "description": "Caterpie reaparece em uma lembrança."
+        "description": "Caterpie reaparece em uma lembrança.",
+        "episode_code": "HZ062",
+        "jp_number": 1294,
+        "season_reference": 27,
+        "season": "Horizontes: Em Busca de Laqua",
+        "title_pt": "Uma Nova Canção para Fuecoco",
+        "title_ja": "ホゲータとぼくの歌",
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
       }
     ],
     "films": [
       {
         "title_en": "Mewtwo Strikes Back",
         "year": 1998,
-        "description": "Um treinador aparece acompanhado de Caterpie."
+        "description": "Um treinador aparece acompanhado de Caterpie.",
+        "code": "M01",
+        "title_pt": "Pokémon: O Filme — Mewtwo Contra-Ataca",
+        "title_ja": "劇場版ポケットモンスター ミュウツーの逆襲",
+        "title": "Pokémon: O Filme — Mewtwo Contra-Ataca",
+        "category": "Filme"
       },
       {
         "title_en": "Celebi: The Voice of the Forest",
         "year": 2001,
-        "description": "Caterpie aparece entre os habitantes da floresta."
+        "description": "Caterpie aparece entre os habitantes da floresta.",
+        "code": "M04",
+        "title_pt": "Pokémon 4: Viajantes do Tempo",
+        "title_ja": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
+        "title": "Pokémon 4: Viajantes do Tempo",
+        "category": "Filme"
       },
       {
         "title_en": "Pokémon Heroes: Latios & Latias",
         "year": 2002,
-        "description": "Caterpie aparece durante os acontecimentos em Alto Mare."
+        "description": "Caterpie aparece durante os acontecimentos em Alto Mare.",
+        "code": "M05",
+        "title_pt": "Heróis Pokémon: Latios e Latias",
+        "title_ja": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
+        "title": "Heróis Pokémon: Latios e Latias",
+        "category": "Filme"
       },
       {
         "title_en": "Destiny Deoxys",
         "year": 2004,
-        "description": "Caterpie aparece durante os acontecimentos em LaRousse City."
+        "description": "Caterpie aparece durante os acontecimentos em LaRousse City.",
+        "code": "M07",
+        "title_pt": "Pokémon: Alma Gêmea",
+        "title_ja": "劇場版ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス",
+        "title": "Pokémon: Alma Gêmea",
+        "category": "Filme"
       },
       {
         "title_en": "Genesect and the Legend Awakened",
         "year": 2013,
-        "description": "Caterpie habita Pokémon Hills."
+        "description": "Caterpie habita Pokémon Hills.",
+        "code": "M16",
+        "title_pt": "Pokémon, o Filme: Genesect e a Lenda Revelada",
+        "title_ja": "劇場版ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒",
+        "title": "Pokémon, o Filme: Genesect e a Lenda Revelada",
+        "category": "Filme"
       },
       {
         "title_en": "I Choose You!",
         "year": 2017,
-        "description": "Na continuidade alternativa, Ash captura Caterpie, que evolui para Metapod e Butterfree durante a jornada."
+        "description": "Na continuidade alternativa, Ash captura Caterpie, que evolui para Metapod e Butterfree durante a jornada.",
+        "code": "M20",
+        "title_pt": "Pokémon, o Filme: Eu Escolho Você!",
+        "title_ja": "劇場版ポケットモンスター キミにきめた！",
+        "title": "Pokémon, o Filme: Eu Escolho Você!",
+        "category": "Filme"
       },
       {
         "title_en": "The Power of Us",
         "year": 2018,
-        "description": "Caterpie aparece acompanhado de um treinador."
+        "description": "Caterpie aparece acompanhado de um treinador.",
+        "code": "M21",
+        "title_pt": "Pokémon, o Filme: O Poder de Todos",
+        "title_ja": "劇場版ポケットモンスター みんなの物語",
+        "title": "Pokémon, o Filme: O Poder de Todos",
+        "category": "Filme"
       },
       {
         "title_en": "Secrets of the Jungle",
         "year": 2020,
-        "description": "Caterpie aparece entre os Pokémon da floresta."
+        "description": "Caterpie aparece entre os Pokémon da floresta.",
+        "code": "M23",
+        "title_pt": "Pokémon, o Filme: Segredos da Selva",
+        "title_ja": "劇場版ポケットモンスター ココ",
+        "title": "Pokémon, o Filme: Segredos da Selva",
+        "category": "Filme"
       }
     ],
     "animations": [
       {
         "title_en": "Pikachu's Rescue Adventure",
         "year": 1999,
-        "category": "Curta",
-        "description": "Caterpie aparece entre os Pokémon selvagens."
+        "category": "Curta-metragem",
+        "description": "Caterpie aparece entre os Pokémon selvagens.",
+        "code": "PK02",
+        "title_pt": "A Aventura de Resgate de Pikachu",
+        "title_ja": "ピカチュウたんけんたい",
+        "title": "A Aventura de Resgate de Pikachu"
       },
       {
         "title_en": "Camp Pikachu",
         "year": 2002,
-        "category": "Curta",
-        "description": "Caterpie aparece durante a aventura dos Pokémon."
+        "category": "Curta-metragem",
+        "description": "Caterpie aparece durante a aventura dos Pokémon.",
+        "code": "PK11",
+        "title_pt": "O Acampamento de Pikachu",
+        "title_ja": "ピカピカ星空キャンプ",
+        "title": "O Acampamento de Pikachu",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
       },
       {
         "title_en": "Pokémon Origins · File 1: Red",
         "code": "PO01",
         "year": 2013,
-        "description": "Caterpie aparece na série que adapta a jornada dos jogos de Kanto."
+        "description": "Caterpie aparece na série que adapta a jornada dos jogos de Kanto.",
+        "title_pt": "Pokémon Origens — Arquivo 1: Red",
+        "title_ja": "ポケットモンスター THE ORIGIN — レポート1 レッド",
+        "title": "Pokémon Origens — Arquivo 1: Red",
+        "category": "Pokémon Origens",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
       },
       {
         "title_en": "Pokémon Origins · File 3: Giovanni",
         "code": "PO03",
         "year": 2013,
-        "description": "Caterpie aparece no especial da jornada de Red."
+        "description": "Caterpie aparece no especial da jornada de Red.",
+        "title_pt": "Pokémon Origens — Arquivo 3: Giovanni",
+        "title_ja": "ポケットモンスター THE ORIGIN — レポート3 サカキ",
+        "title": "Pokémon Origens — Arquivo 3: Giovanni",
+        "category": "Pokémon Origens",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
       },
       {
         "title_en": "Pokémon Generations · The Adventure",
         "code": "PG01",
         "year": 2016,
-        "description": "Caterpie aparece durante a sequência da jornada de Red."
+        "description": "Caterpie aparece durante a sequência da jornada de Red.",
+        "title_pt": "Pokémon Gerações — A Aventura",
+        "title_ja": "ポケモンジェネレーションズ — 冒険",
+        "title": "Pokémon Gerações — A Aventura",
+        "category": "Pokémon Gerações"
       },
       {
         "title_en": "Pokémon Evolutions · The Show",
         "code": "PE07",
         "year": 2021,
-        "description": "Caterpie aparece na animação ambientada em Johto."
+        "description": "Caterpie aparece na animação ambientada em Johto.",
+        "title_pt": "Pokémon Evoluções — O Show",
+        "title_ja": "Pokémon Evolutions — ザ・ショウ",
+        "title": "Pokémon Evoluções — O Show",
+        "category": "Pokémon Evoluções"
       },
       {
         "title_en": "Pokémon Evolutions · The Discovery",
         "code": "PE08",
         "year": 2021,
-        "description": "Caterpie aparece na animação ambientada em Kanto."
+        "description": "Caterpie aparece na animação ambientada em Kanto.",
+        "title_pt": "Pokémon Evoluções — A Descoberta",
+        "title_ja": "Pokémon Evolutions — ザ・ディスカバリー",
+        "title": "Pokémon Evoluções — A Descoberta",
+        "category": "Pokémon Evoluções"
       },
       {
         "title_en": "Distant Blue Sky!",
         "year": 2022,
         "category": "Especial",
-        "description": "Caterpie aparece durante a jornada de Ash."
+        "description": "Caterpie aparece durante a jornada de Ash.",
+        "code": "JNS05",
+        "title_pt": "O Céu Azul Distante!",
+        "title_ja": "ポケットモンスター 遥かなる青い空",
+        "title": "O Céu Azul Distante!",
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
       },
       {
         "title_en": "POKÉTOON · My Gogoat Journey",
-        "category": "Animação derivada",
-        "description": "Caterpie aparece no curta sobre Gogoat."
+        "category": "POKÉTOON",
+        "description": "Caterpie aparece no curta sobre Gogoat.",
+        "code": "PT12",
+        "title_pt": "POKÉTOON — Minha Jornada com Gogoat",
+        "title_ja": "ゴーゴートに乗って",
+        "title": "POKÉTOON — Minha Jornada com Gogoat",
+        "year": 2024,
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
       }
     ],
     "manga": [
       {
         "title_en": "Pokémon Adventures · As Gastly as Before",
         "appearance": "Kitty de Yellow",
-        "description": "Yellow encontra Caterpie, que se torna seu parceiro Kitty e posteriormente evolui para Butterfree."
+        "description": "Yellow encontra Caterpie, que se torna seu parceiro Kitty e posteriormente evolui para Butterfree.",
+        "title_pt": "Pokémon Adventures — VS Gastly",
+        "title_ja": "VS ゴース",
+        "title": "Pokémon Adventures — VS Gastly",
+        "series": "Pokémon Adventures",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "PS049",
+        "chapter": 49,
+        "volume": 4,
+        "category": "Yellow"
       },
       {
-        "title_en": "Pokémon Adventures · Bulbasaur Come Home!",
+        "title_en": "Pokémon Adventures · Bulbasaur, Come Home!",
         "code": "PS002",
-        "description": "Caterpie aparece entre os Pokémon envolvidos na fuga do laboratório do Professor Oak."
+        "description": "Caterpie aparece entre os Pokémon envolvidos na fuga do laboratório do Professor Oak.",
+        "title_pt": "Pokémon Adventures — VS Machoke",
+        "title_ja": "VS ゴーリキー",
+        "title": "Pokémon Adventures — VS Machoke",
+        "series": "Pokémon Adventures",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "chapter": 2,
+        "volume": 1,
+        "category": "Red, Green & Blue"
       },
       {
         "title_en": "Pokémon Adventures · The Secret of Kangaskhan",
-        "description": "Caterpie aparece durante a aventura de Red."
+        "description": "Caterpie aparece durante a aventura de Red.",
+        "title_pt": "Pokémon Adventures — VS Kangaskhan",
+        "title_ja": "VS ガルーラ",
+        "title": "Pokémon Adventures — VS Kangaskhan",
+        "series": "Pokémon Adventures",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "PS003",
+        "chapter": 3,
+        "volume": 1,
+        "category": "Red, Green & Blue"
       },
       {
         "title_en": "Pokémon Adventures · The Jynx Jinx",
-        "description": "Caterpie aparece em silhueta."
+        "description": "Caterpie aparece em silhueta.",
+        "title_pt": "Pokémon Adventures — VS Jynx",
+        "title_ja": "VS ルージュラ",
+        "title": "Pokémon Adventures — VS Jynx",
+        "series": "Pokémon Adventures",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "PS017",
+        "chapter": 17,
+        "volume": 2,
+        "category": "Red, Green & Blue"
       },
       {
         "title_en": "Pokémon Adventures · Three Cheers for Chikorita",
-        "description": "Caterpie é mencionado no capítulo."
+        "description": "Caterpie é mencionado no capítulo.",
+        "title_pt": "Pokémon Adventures — VS Chikorita",
+        "title_ja": "VS チコリータ",
+        "title": "Pokémon Adventures — VS Chikorita",
+        "series": "Pokémon Adventures",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "PS118",
+        "chapter": 118,
+        "category": "Gold, Silver & Crystal"
       },
       {
         "title_en": "Pokémon Adventures · Absolutely Azumarill",
-        "description": "Uma tentativa de captura de Caterpie não tem sucesso."
+        "description": "Uma tentativa de captura de Caterpie não tem sucesso.",
+        "title_pt": "Pokémon Adventures — VS Azumarill",
+        "title_ja": "VS マリルリ",
+        "title": "Pokémon Adventures — VS Azumarill",
+        "series": "Pokémon Adventures",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "PS133",
+        "chapter": 133,
+        "volume": 11,
+        "category": "Gold, Silver & Crystal"
       },
       {
         "title_en": "Pokémon Adventures · The Last Battle XIII",
-        "description": "Caterpie aparece durante os acontecimentos em Ilex Forest."
+        "description": "Caterpie aparece durante os acontecimentos em Ilex Forest.",
+        "title_pt": "Pokémon Adventures — A Batalha Final XIII",
+        "title_ja": "最終決戦 XIII",
+        "title": "Pokémon Adventures — A Batalha Final XIII",
+        "series": "Pokémon Adventures",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "PS179",
+        "chapter": 179,
+        "volume": 14,
+        "category": "Gold, Silver & Crystal"
       },
       {
         "title_en": "Pokémon Pocket Monsters · Catch That Pokémon Thief!!",
-        "description": "Caterpie aparece no mangá de Red e Clefairy."
+        "description": "Caterpie aparece no mangá de Red e Clefairy.",
+        "title_pt": "Pokémon Pocket Monsters — Capture o Pokémon Ladrão!",
+        "title_ja": "強盗ポケモンをつかまえろ！！",
+        "title": "Pokémon Pocket Monsters — Capture o Pokémon Ladrão!",
+        "series": "Pokémon Pocket Monsters",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "PM008",
+        "chapter": 8
       },
       {
         "title_en": "The Electric Tale of Pikachu · Pikachu, I See You!",
-        "description": "Caterpie é o segundo Pokémon capturado por Ash nessa adaptação."
+        "description": "Caterpie é o segundo Pokémon capturado por Ash nessa adaptação.",
+        "title_pt": "O Conto Elétrico de Pikachu — Pikachu, Eu Vejo Você!",
+        "title_ja": "ピカチュー",
+        "title": "O Conto Elétrico de Pikachu — Pikachu, Eu Vejo Você!",
+        "series": "The Electric Tale of Pikachu",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "ET01",
+        "chapter": 1
       },
       {
         "title_en": "The Electric Tale of Pikachu · Play Misty For Me",
-        "description": "O Caterpie de Ash evolui para Metapod e depois para Butterfree."
+        "description": "O Caterpie de Ash evolui para Metapod e depois para Butterfree.",
+        "title_pt": "O Conto Elétrico de Pikachu — Misty",
+        "title_ja": "カスミ",
+        "title": "O Conto Elétrico de Pikachu — Misty",
+        "series": "The Electric Tale of Pikachu",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "ET02",
+        "chapter": 2
       },
       {
         "title_en": "Magical Pokémon Journey · Tangela's Secret",
-        "description": "Caterpie aparece durante os acontecimentos envolvendo Tangela."
+        "description": "Caterpie aparece durante os acontecimentos envolvendo Tangela.",
+        "title_pt": "Magical Pokémon Journey — O Segredo de Tangela",
+        "title_ja": "モンジャラくんの秘密",
+        "title": "Magical Pokémon Journey — O Segredo de Tangela",
+        "series": "Magical Pokémon Journey",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "PPP04",
+        "chapter": 4
       },
       {
-        "title_en": "Pokémon: Yeah! I Got Pokémon! · Shu and Pikachu",
-        "description": "Caterpie aparece na estreia da aventura de Shu e Pikachu."
+        "title_en": "Pokémon: Yeah! I Got Pokémon! · Shu and Pikachu's Debut!",
+        "description": "Caterpie aparece na estreia da aventura de Shu e Pikachu.",
+        "title_pt": "Pokémon: Yeah! I Got Pokémon! — A Estreia de Shu e Pikachu!",
+        "title_ja": "シュウ&ピカチュウ登場!",
+        "title": "Pokémon: Yeah! I Got Pokémon! — A Estreia de Shu e Pikachu!",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "GDZ01",
+        "chapter": 1,
+        "volume": 1
       },
       {
-        "title_en": "Pokémon: Yeah! I Got Pokémon! · GDZ23",
+        "title_en": "Pokémon: Yeah! I Got Pokémon! · Shu's Christmas",
         "code": "GDZ23",
-        "description": "Caterpie aparece neste capítulo."
+        "description": "Caterpie aparece neste capítulo.",
+        "title_pt": "Pokémon: Yeah! I Got Pokémon! — O Natal de Shu",
+        "title_ja": "シュウのクリスマス",
+        "title": "Pokémon: Yeah! I Got Pokémon! — O Natal de Shu",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "chapter": 23,
+        "volume": 2,
+        "title_en_note": "Tradução do título japonês."
       },
       {
-        "title_en": "Pokémon: Yeah! I Got Pokémon! · GDZ48",
+        "title_en": "Pokémon: Yeah! I Got Pokémon! · Aim for a Big One, the Bug-Catching Contest!",
         "code": "GDZ48",
-        "description": "Caterpie aparece neste capítulo."
+        "description": "Caterpie aparece neste capítulo.",
+        "title_pt": "Pokémon: Yeah! I Got Pokémon! — Em Busca de um Grande Pokémon no Concurso de Insetos!",
+        "title_ja": "ねらうは大物、むしとり大会！",
+        "title": "Pokémon: Yeah! I Got Pokémon! — Em Busca de um Grande Pokémon no Concurso de Insetos!",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "chapter": 48,
+        "volume": 4,
+        "title_en_note": "Tradução do título japonês."
       },
       {
         "title_en": "Pokémon Mystery Dungeon: Ginji's Rescue Team",
-        "description": "Ginji e Mudkip ajudam a resgatar Caterpie de Ariados."
+        "description": "Ginji e Mudkip ajudam a resgatar Caterpie de Ariados.",
+        "title_pt": "Pokémon Mystery Dungeon — A Equipe de Resgate de Ginji",
+        "title_ja": "ポケモン不思議のダンジョンギンジの救助隊",
+        "title": "Pokémon Mystery Dungeon — A Equipe de Resgate de Ginji",
+        "series": "Pokémon Mystery Dungeon: Ginji's Rescue Team",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "volume": 1
       },
       {
         "title_en": "Pokémon Journeys · Battle Frontier Challenge: The Flute Cup!",
-        "description": "O Caterpie capturado por Goh aparece na adaptação em mangá."
+        "description": "O Caterpie capturado por Goh aparece na adaptação em mangá.",
+        "title_pt": "Pokémon Jornadas — Desafio da Batalha da Fronteira: A Copa da Flauta!",
+        "title_ja": "激闘のホウエン地方！挑戦バトルフロンティア！！",
+        "title": "Pokémon Jornadas — Desafio da Batalha da Fronteira: A Copa da Flauta!",
+        "series": "Pokémon Journeys",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "JNM03",
+        "chapter": 3,
+        "volume": 1
       }
-    ]
+    ],
+    "title": "Aparições em outras mídias",
+    "lead": "Participações documentadas de Caterpie no anime, filmes, animações derivadas e mangás."
   },
   "audit": {
     "status": "partial",
     "review_date": "2026-11-24",
-    "notes": "36 registros de edições disponíveis. Revisão parcial: localizações, movimentos e entradas foram pesquisados e organizados; ainda faltam confirmação integral de títulos e identificadores de anime, auditoria exaustiva das aparições, pegada e hospedagem de imagens específicas. Sem certificação de cobertura total."
+    "notes": "36 registros de edições disponíveis. Revisão parcial: localizações, movimentos e entradas foram pesquisados e organizados; ainda faltam confirmação integral de títulos e identificadores de anime, auditoria exaustiva das aparições, pegada e hospedagem de imagens específicas. Sem certificação de cobertura total. Revisão de mídias: campos title_pt, title_en e title_ja preenchidos nos 109 registros existentes. Traduções editoriais em português identificadas quando a localização oficial não foi confirmada; capítulos GDZ23 e GDZ48 têm títulos ingleses traduzidos do japonês. Identificadores de episódios padronizados, numeração contínua conforme referências da dexH!P. Pegada histórica identificada. Exibição estruturada da morfologia depende do renderizador ativo."
   }
 }
