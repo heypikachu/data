@@ -27977,30 +27977,12 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep001.webp",
           "alt": "Squirtle no sonho de Ash sobre a escolha do primeiro parceiro."
-        }
-      },
-      {
-        "jp_number": 12,
-        "season": "Kanto",
-        "episode_code": "EP012",
-        "appearance": "Estreia física",
-        "title_en": "Here Comes the Squirtle Squad",
-        "description": "Ash conhece o Esquadrão Squirtle. O líder do grupo passa a fazer parte de sua equipe.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep012.webp",
-          "alt": "O líder do Esquadrão Squirtle junto dos outros integrantes."
-        }
-      },
-      {
-        "episode_code": "AG133",
-        "season": "Battle Frontier",
-        "appearance": "Pokémon de May",
-        "title_en": "The Right Place and the Right Mime",
-        "description": "May recebe um Squirtle no laboratório do Professor Oak.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ag133.webp",
-          "alt": "May recebe Squirtle no laboratório do Professor Oak."
-        }
+        },
+        "jp_number": 1,
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Pokémon, Eu Escolho Você!",
+        "title_ja": "ポケモン！きみにきめた！"
       },
       {
         "episode_code": "EP004",
@@ -28010,7 +27992,27 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep004.webp",
           "alt": "O Squirtle de Gary na lembrança da batalha contra o samurai."
-        }
+        },
+        "jp_number": 4,
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "O Desafio do Samurai",
+        "title_ja": "サムライしょうねんのちょうせん！"
+      },
+      {
+        "jp_number": 12,
+        "season": "Liga Índigo",
+        "episode_code": "EP012",
+        "appearance": "Estreia física",
+        "title_en": "Here Comes the Squirtle Squad",
+        "description": "Ash conhece o Esquadrão Squirtle. O líder do grupo passa a fazer parte de sua equipe.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep012.webp",
+          "alt": "O líder do Esquadrão Squirtle junto dos outros integrantes."
+        },
+        "season_reference": 1,
+        "title_pt": "Aí Vem o Esquadrão Squirtle",
+        "title_ja": "ゼニガメぐんだんとうじょう！"
       },
       {
         "episode_code": "EP015",
@@ -28020,7 +28022,12 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep015.webp",
           "alt": "O Squirtle do cavalheiro a bordo do St. Anne."
-        }
+        },
+        "jp_number": 15,
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Batalha a bordo do St. Anne",
+        "title_ja": "サントアンヌごうのたたかい！"
       },
       {
         "episode_code": "EP028",
@@ -28030,7 +28037,12 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep028.webp",
           "alt": "Squirtle na Scissor Street."
-        }
+        },
+        "jp_number": 28,
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Na Moda dos Pokémon",
+        "title_ja": "ロコン！ブリーダーたいけつ！"
       },
       {
         "episode_code": "EP056",
@@ -28040,22 +28052,45 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep056.webp",
           "alt": "Squirtle durante o exame de admissão da Liga Pokémon."
-        }
+        },
+        "jp_number": 56,
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "O Teste Final",
+        "title_ja": "ポケモンけんていしけん！？"
       },
       {
         "title_en": "The Breeding Center Secret",
         "appearance": "Participação",
-        "description": "Um Squirtle aparece no episódio sobre o centro de criação."
+        "description": "Um Squirtle aparece no episódio sobre o centro de criação.",
+        "jp_number": 57,
+        "episode_code": "EP057",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "O Segredo do Centro de Criação!",
+        "title_ja": "そだてやのひみつ！"
       },
       {
         "title_en": "Friends to the End",
         "appearance": "Conferência do Planalto Índigo",
-        "description": "Um Squirtle de treinador aparece na cerimônia de encerramento."
+        "description": "Um Squirtle de treinador aparece na cerimônia de encerramento.",
+        "jp_number": 80,
+        "episode_code": "EP080",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Amigos até o Fim",
+        "title_ja": "ポケモンリーグ！さいごのたたかい！"
       },
       {
         "title_en": "Bye Bye Psyduck",
         "appearance": "Imaginação",
-        "description": "Marina imagina um Squirtle."
+        "description": "Marina imagina um Squirtle.",
+        "jp_number": 91,
+        "episode_code": "EP091",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_pt": "Adeus Psyduck!",
+        "title_ja": "さよならコダック！またきてゴルダック？"
       },
       {
         "episode_code": "EP106",
@@ -28065,7 +28100,12 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep106.webp",
           "alt": "A equipe Squirtle no episódio sobre os Pokémon bombeiros."
-        }
+        },
+        "jp_number": 106,
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_pt": "A Guerra de Água Pokémon",
+        "title_ja": "ひけしたいけつ！ゼニガメＶＳカメール"
       },
       {
         "title_en": "Don't Touch That 'dile",
@@ -28074,7 +28114,13 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-don-t-touch-that-dile.webp",
           "alt": "Squirtle de Ash utilizando Jato d'Água ao lado dos outros Pokémon de Kanto."
-        }
+        },
+        "jp_number": 117,
+        "episode_code": "EP117",
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_pt": "Com o Totodile Não se Brinca!",
+        "title_ja": "ワカバタウン！はじまりをつげるかぜのふくまち！"
       },
       {
         "episode_code": "EP147",
@@ -28084,22 +28130,60 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep147.webp",
           "alt": "O Squirtle de Ash ao lado de Bulbasaur."
-        }
+        },
+        "jp_number": 147,
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_pt": "Os Soldados do Fogo!",
+        "title_ja": "もえろゼニガメだん！ほのおのように！！"
       },
       {
         "title_en": "A Better Pill to Swallow",
         "appearance": "Imaginação",
-        "description": "Um Squirtle aparece na imaginação de Brock."
+        "description": "Um Squirtle aparece na imaginação de Brock.",
+        "jp_number": 170,
+        "episode_code": "EP170",
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_pt": "O Remédio Bombástico!",
+        "title_ja": "ツボツボＶＳマダツボミ"
       },
       {
         "title_en": "Dueling Heroes",
         "appearance": "Copa Whirl",
-        "description": "Um treinador usa Squirtle na Copa Whirl."
+        "description": "Um treinador usa Squirtle na Copa Whirl.",
+        "jp_number": 216,
+        "episode_code": "EP216",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Duelo Entre Heróis!",
+        "title_ja": "うずまきカップ！みずのコロシアムでだいバトル！！"
+      },
+      {
+        "title_en": "Love, Pokémon Style!",
+        "appearance": "Pokémon de Ash",
+        "description": "Squirtle volta para disputar a Conferência de Prata.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-love-pokemon-style.webp",
+          "alt": "O Squirtle de Ash usa Bubble durante a Conferência de Prata."
+        },
+        "jp_number": 267,
+        "episode_code": "EP267",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Amor ao Estilo Pokémon!",
+        "title_ja": "よせんリーグ！マグマラシほのおのバトル！！"
       },
       {
         "title_en": "Gonna Rule The School!",
         "appearance": "Pokémon da escola",
-        "description": "A escola empresta um Squirtle a um de seus alunos."
+        "description": "A escola empresta um Squirtle a um de seus alunos.",
+        "jp_number": 289,
+        "episode_code": "AG015",
+        "season_reference": 6,
+        "season": "Avançado",
+        "title_pt": "Mandando no Pedaço!",
+        "title_ja": "勉強します！ポケモントレーナーズスクール！！"
       },
       {
         "title_en": "A Six Pack Attack!",
@@ -28108,17 +28192,106 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-a-six-pack-attack.webp",
           "alt": "Squirtle reunido com os Pokémon iniciais de Kanto e Hoenn."
-        }
+        },
+        "jp_number": 345,
+        "episode_code": "AG071",
+        "season_reference": 7,
+        "season": "Desafio Avançado",
+        "title_pt": "O Ataque do Grupo dos Seis!",
+        "title_ja": "オーキド博士とオダマキ博士！秘密基地の戦い！！"
+      },
+      {
+        "episode_code": "AG133",
+        "season": "Batalha Avançada",
+        "appearance": "Pokémon de May",
+        "title_en": "The Right Place and the Right Mime",
+        "description": "May recebe um Squirtle no laboratório do Professor Oak.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ag133.webp",
+          "alt": "May recebe Squirtle no laboratório do Professor Oak."
+        },
+        "jp_number": 407,
+        "season_reference": 8,
+        "title_pt": "O Lugar Certo e o Mime Certo!",
+        "title_ja": "オーキド研究所！全員集合！！"
+      },
+      {
+        "title_en": "A Hurdle for Squirtle",
+        "appearance": "Pokémon de May",
+        "description": "O Squirtle de May compete no Concurso de Saffron.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-a-hurdle-for-squirtle.webp",
+          "alt": "O Squirtle de May no episódio do Concurso de Saffron."
+        },
+        "jp_number": 418,
+        "episode_code": "AG144",
+        "season_reference": 8,
+        "season": "Batalha Avançada",
+        "title_pt": "Um Obstáculo para Squirtle",
+        "title_ja": "ポケモンコンテスト・ヤマブキ大会！！（後編）"
+      },
+      {
+        "title_en": "What I Did for Love!",
+        "appearance": "Pokémon de May",
+        "description": "Squirtle compete no concurso em que May enfrenta Brock.",
+        "jp_number": 441,
+        "episode_code": "AG167",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_pt": "O Que Eu Fiz Por Amor!",
+        "title_ja": "大一番！ハルカＶＳタケシ！！"
+      },
+      {
+        "title_en": "Gathering the Gang of Four!",
+        "appearance": "Pokémon de Ash",
+        "description": "Squirtle se reúne com Pikachu, Bulbasaur e Charizard para a revanche contra Brandon.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-gathering-the-gang-of-four.webp",
+          "alt": "Squirtle reunido com Ash, Pikachu, Bulbasaur e Charizard."
+        },
+        "jp_number": 463,
+        "episode_code": "AG189",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_pt": "Reunindo a Gangue dos Quatro!",
+        "title_ja": "最初のポケモン！最後の戦い！！"
+      },
+      {
+        "title_en": "Pace – The Final Frontier!",
+        "appearance": "Pokémon de Ash",
+        "description": "Squirtle enfrenta Ninjask na batalha contra Brandon.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-pace-the-final-frontier.webp",
+          "alt": "Squirtle usa Hydro Pump na batalha de Ash contra Brandon."
+        },
+        "jp_number": 464,
+        "episode_code": "AG190",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_pt": "Passo - A Fronteira Final!",
+        "title_ja": "決戦！ＶＳレジアイス！！"
       },
       {
         "title_en": "Borrowing on Bad Faith!",
         "appearance": "Participação",
-        "description": "Um Squirtle aparece durante o episódio."
+        "description": "Um Squirtle aparece durante o episódio.",
+        "jp_number": 488,
+        "episode_code": "DP022",
+        "season_reference": 10,
+        "season": "Diamante e Pérola",
+        "title_pt": "Emprestando aos Maus!",
+        "title_ja": "パチリスＶＳエイパム！コンテストバトル！！"
       },
       {
         "title_en": "Sticking With Who You Know!",
         "appearance": "Pokémon afetado por uma máquina",
-        "description": "Sob o efeito da máquina do Professor Kodama, um Squirtle se apaixona por um Raichu."
+        "description": "Sob o efeito da máquina do Professor Kodama, um Squirtle se apaixona por um Raichu.",
+        "jp_number": 615,
+        "episode_code": "DP149",
+        "season_reference": 12,
+        "season": "Batalhas Galácticas",
+        "title_pt": "Grudado em Quem Você Conhece!",
+        "title_ja": "ピカチュウポッチャマくっつかないで！！"
       },
       {
         "title_en": "The Fires of a Red-Hot Reunion!",
@@ -28127,7 +28300,13 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-the-fires-of-a-red-hot-reunion.webp",
           "alt": "O Squirtle do Professor Oak durante a demonstração dos iniciais de Kanto."
-        }
+        },
+        "jp_number": 773,
+        "episode_code": "BW116",
+        "season_reference": 16,
+        "season": "Aventuras em Unova",
+        "title_pt": "Uma Reunião Acalorada!",
+        "title_ja": "燃えよリザードン！VSカイリュー！"
       },
       {
         "episode_code": "XY039",
@@ -28137,7 +28316,12 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-xy039.webp",
           "alt": "Tierno escolhe Squirtle como parceiro."
-        }
+        },
+        "jp_number": 838,
+        "season_reference": 17,
+        "season": "XY",
+        "title_pt": "Verão de Descoberta!",
+        "title_ja": "ポケモン・サマーキャンプ！ライバル三人組登場！！"
       },
       {
         "episode_code": "XY042",
@@ -28147,12 +28331,23 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-xy042.webp",
           "alt": "Squirtle no acampamento Pokémon."
-        }
+        },
+        "jp_number": 841,
+        "season_reference": 17,
+        "season": "XY",
+        "title_pt": "Batalhando Pelo Hall da Fama!",
+        "title_ja": "チームバトル！殿堂入り決戦！！"
       },
       {
         "title_en": "A Shocking Grocery Run!",
         "appearance": "Pokémon de treinador",
-        "description": "Um treinador aparece com Squirtle."
+        "description": "Um treinador aparece com Squirtle.",
+        "jp_number": 945,
+        "episode_code": "SM006",
+        "season_reference": 20,
+        "season": "Sol e Lua",
+        "title_pt": "Ida eletrizante ao mercado!",
+        "title_ja": "びりびりちくちくトゲデマル！"
       },
       {
         "title_en": "Alola, Kanto!",
@@ -28161,13 +28356,24 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-alola-kanto.webp",
           "alt": "Squirtle ao lado de Horsea, Goldeen e Seadra no laboratório do Professor Oak."
-        }
+        },
+        "jp_number": 981,
+        "episode_code": "SM042",
+        "season_reference": 20,
+        "season": "Sol e Lua",
+        "title_pt": "Alola, Kanto!",
+        "title_ja": "カントーでアローラ！タケシとカスミ！！"
       },
       {
         "episode_code": "JN001",
         "title_en": "Enter Pikachu!",
         "appearance": "Pokémon de treinadora",
-        "description": "Uma treinadora usa Squirtle para enfraquecer um Caterpie que pretende capturar."
+        "description": "Uma treinadora usa Squirtle para enfraquecer um Caterpie que pretende capturar.",
+        "jp_number": 1086,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "A chegada de Pikachu!",
+        "title_ja": "ピカチュウ誕生！"
       },
       {
         "episode_code": "JN002",
@@ -28177,33 +28383,67 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-jn002.webp",
           "alt": "Squirtle aparece junto dos outros primeiros parceiros oferecidos por Cerise."
-        }
+        },
+        "jp_number": 1087,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Lendário? Sim! Amigos? Sim!",
+        "title_ja": "サトシとゴウ、ルギアでゴー！"
       },
       {
         "title_en": "The Cuteness Quotient!",
         "appearance": "Pokémon de treinador",
-        "description": "Um treinador aparece com Squirtle."
+        "description": "Um treinador aparece com Squirtle.",
+        "jp_number": 1116,
+        "episode_code": "JN031",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Excesso de fofura!",
+        "title_ja": "ヒンバスのきれいなウロコ"
       },
       {
         "title_en": "Getting More Than You Battled For!",
         "appearance": "Imaginação",
-        "description": "Squirtle aparece ao lado de outros primeiros parceiros em uma fantasia."
+        "description": "Squirtle aparece ao lado de outros primeiros parceiros em uma fantasia.",
+        "jp_number": 1131,
+        "episode_code": "JN046",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "É muito mais do que você esperava!",
+        "title_ja": "バトル＆ゲット！ミュウツーの復活"
       },
       {
         "title_en": "Eyes on the Goal!",
         "appearance": "Pokémon do Mestre dos Cascos",
-        "description": "Squirtle participa da corrida de Pokémon tartaruga."
+        "description": "Squirtle participa da corrida de Pokémon tartaruga.",
+        "jp_number": 1143,
+        "episode_code": "JN058",
+        "season_reference": 24,
+        "season": "Jornadas de Mestre",
+        "title_pt": "De olho no objetivo!",
+        "title_ja": "カモンカムカメカメレース！"
       },
       {
         "title_en": "The Fiery Road to Mastership!",
         "appearance": "Pokémon de treinador",
-        "description": "Um treinador aparece com Squirtle."
+        "description": "Um treinador aparece com Squirtle.",
+        "jp_number": 1202,
+        "episode_code": "JN117",
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "O caminho incansável à maestria!",
+        "title_ja": "VSシロナ！アイリス、ドラゴンマスターへの道！！"
       },
       {
         "episode_code": "JN136",
         "title_en": "This Could be the Start of Something Big!",
         "appearance": "Participação",
-        "description": "Um Squirtle aparece no episódio."
+        "description": "Um Squirtle aparece no episódio.",
+        "jp_number": 1221,
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "Esse pode ser o começo de uma coisa maior!",
+        "title_ja": "サトシとゴウ！あらたなる旅立ち！！"
       },
       {
         "episode_code": "JN141",
@@ -28213,69 +28453,12 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-jn141.webp",
           "alt": "O Esquadrão Squirtle atua como equipe de bombeiros."
-        }
-      },
-      {
-        "episode_code": "HZ001",
-        "title_en": "The Pendant That Starts It All (Part One)",
-        "appearance": "Pokémon de treinadores",
-        "description": "Um treinador e estudantes da Academia Índigo aparecem com Squirtle."
-      },
-      {
-        "title_en": "Farewell, Sprigatito?",
-        "appearance": "Flashback",
-        "description": "Squirtle aparece em uma lembrança."
-      },
-      {
-        "title_en": "Eyes to the Skies Once Again (Part One)",
-        "appearance": "Pokémon de estudante",
-        "description": "Um estudante aparece com Squirtle."
-      },
-      {
-        "title_en": "Eyes to the Skies Once Again (Part Two)",
-        "appearance": "Pokémon de estudante",
-        "description": "O Squirtle de um estudante volta a aparecer."
-      },
-      {
-        "title_en": "A Hurdle for Squirtle",
-        "appearance": "Pokémon de May",
-        "description": "O Squirtle de May compete no Concurso de Saffron.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-a-hurdle-for-squirtle.webp",
-          "alt": "O Squirtle de May no episódio do Concurso de Saffron."
-        }
-      },
-      {
-        "title_en": "What I Did for Love!",
-        "appearance": "Pokémon de May",
-        "description": "Squirtle compete no concurso em que May enfrenta Brock."
-      },
-      {
-        "title_en": "Love, Pokémon Style!",
-        "appearance": "Pokémon de Ash",
-        "description": "Squirtle volta para disputar a Conferência de Prata.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-love-pokemon-style.webp",
-          "alt": "O Squirtle de Ash usa Bubble durante a Conferência de Prata."
-        }
-      },
-      {
-        "title_en": "Gathering the Gang of Four!",
-        "appearance": "Pokémon de Ash",
-        "description": "Squirtle se reúne com Pikachu, Bulbasaur e Charizard para a revanche contra Brandon.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-gathering-the-gang-of-four.webp",
-          "alt": "Squirtle reunido com Ash, Pikachu, Bulbasaur e Charizard."
-        }
-      },
-      {
-        "title_en": "Pace – The Final Frontier!",
-        "appearance": "Pokémon de Ash",
-        "description": "Squirtle enfrenta Ninjask na batalha contra Brandon.",
-        "image": {
-          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-pace-the-final-frontier.webp",
-          "alt": "Squirtle usa Hydro Pump na batalha de Ash contra Brandon."
-        }
+        },
+        "jp_number": 1226,
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "Um esquadrão apaixonante!",
+        "title_ja": "もえよ！ゼニガメしょうぼうだん！！"
       },
       {
         "title_en": "The Rainbow and the Pokémon Master!",
@@ -28284,7 +28467,57 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-the-rainbow-and-the-pokemon-master.webp",
           "alt": "Squirtle junto dos outros iniciais de Kanto no laboratório do Professor Oak."
-        }
+        },
+        "jp_number": 1232,
+        "episode_code": "JN147",
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "O arco-íris e o mestre Pokémon!",
+        "title_ja": "虹とポケモンマスター！"
+      },
+      {
+        "episode_code": "HZ001",
+        "title_en": "The Pendant That Starts It All (Part One)",
+        "appearance": "Pokémon de treinadores",
+        "description": "Um treinador e estudantes da Academia Índigo aparecem com Squirtle.",
+        "jp_number": 1233,
+        "season_reference": 26,
+        "season": "Horizontes",
+        "title_pt": "O pingente que iniciou tudo – Parte 1",
+        "title_ja": "はじまりのペンダント　前編"
+      },
+      {
+        "title_en": "Farewell, Sprigatito?",
+        "appearance": "Flashback",
+        "description": "Squirtle aparece em uma lembrança.",
+        "jp_number": 1272,
+        "episode_code": "HZ040",
+        "season_reference": 26,
+        "season": "Horizontes",
+        "title_pt": "Adeus, Sprigatito?",
+        "title_ja": "さよなら、ニャオハ？"
+      },
+      {
+        "title_en": "Eyes to the Skies Once Again (Part One)",
+        "appearance": "Pokémon de estudante",
+        "description": "Um estudante aparece com Squirtle.",
+        "jp_number": 1322,
+        "episode_code": "HZ090",
+        "season_reference": 28,
+        "season": "Horizontes: Altas Esperanças",
+        "title_pt": "De Olho nos Ares de Novo (Parte Um)",
+        "title_ja": "大空へ向かって、再び　前編"
+      },
+      {
+        "title_en": "Eyes to the Skies Once Again (Part Two)",
+        "appearance": "Pokémon de estudante",
+        "description": "O Squirtle de um estudante volta a aparecer.",
+        "jp_number": 1323,
+        "episode_code": "HZ091",
+        "season_reference": 28,
+        "season": "Horizontes: Altas Esperanças",
+        "title_pt": "De Olho nos Ares de Novo (Parte Dois)",
+        "title_ja": "大空へ向かって、再び　後編"
       }
     ],
     "films": [
