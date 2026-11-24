@@ -5686,7 +5686,11 @@
         "year": 2013,
         "category": "Ação",
         "description": "Caterpie participa dos desafios em arenas.",
-        "obtaining": "Vehicle Gallery: Slithering Trains e Chill Battle: Forest of Memories."
+        "obtaining": "Vehicle Gallery: Slithering Trains e Chill Battle: Forest of Memories.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-rumble-u.png",
+          "alt": "Caterpie em Pokémon Rumble U"
+        }
       },
       {
         "game": "Pokémon Battle Trozei",
