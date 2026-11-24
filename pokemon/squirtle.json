@@ -27847,7 +27847,11 @@
         "year": 2013,
         "category": "Ação",
         "description": "Squirtle integra as listas de espécies de dois desafios.",
-        "obtaining": "Procure-o em Wet and Wild Battle e Get 1,000 Combos!."
+        "obtaining": "Procure-o em Wet and Wild Battle e Get 1,000 Combos!.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-rumble-u.png",
+          "alt": "Modelo de Squirtle em Pokémon Rumble U"
+        }
       },
       {
         "game": "Pokémon Battle Trozei",
