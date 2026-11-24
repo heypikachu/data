@@ -5742,7 +5742,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "Emergência Pokémon!",
-        "title_ja": "たいけつ！ポケモンセンター！"
+        "title_ja": "たいけつ！ポケモンセンター！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep002.webp",
+          "alt": "Primeira aparição de Caterpie selvagem no anime Pokémon."
+        }
       },
       {
         "title_en": "Ash Catches a Pokémon",
@@ -5753,7 +5757,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "Ash Pega um Pokémon",
-        "title_ja": "ポケモン ゲットだぜ！"
+        "title_ja": "ポケモン ゲットだぜ！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep003.webp",
+          "alt": "Caterpie de Ash utilizando String Shot."
+        }
       },
       {
         "title_en": "Bulbasaur and the Hidden Village",
@@ -5764,7 +5772,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "Bulbasaur e a Vila Escondida",
-        "title_ja": "かくれざとのフシギダネ"
+        "title_ja": "かくれざとのフシギダネ",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep010.webp",
+          "alt": "Caterpie e Weepinbell no refúgio de Melanie."
+        }
       },
       {
         "title_en": "Electric Shock Showdown",
@@ -5775,7 +5787,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "A Exibição do Choque Elétrico",
-        "title_ja": "でんげきたいけつ！クチバジム"
+        "title_ja": "でんげきたいけつ！クチバジム",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep014.webp",
+          "alt": "Caterpie recebendo atendimento no Centro Pokémon."
+        }
       },
       {
         "title_en": "Battle Aboard the St. Anne",
@@ -5786,7 +5802,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "Batalha a Bordo do St. Anne",
-        "title_ja": "サントアンヌごうのたたかい！"
+        "title_ja": "サントアンヌごうのたたかい！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep015.webp",
+          "alt": "Caterpie entre os Pokémon a bordo do St. Anne."
+        }
       },
       {
         "title_en": "Pokémon Fashion Flash",
@@ -5797,7 +5817,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "Na Moda dos Pokémon",
-        "title_ja": "ロコン！ブリーダーたいけつ！"
+        "title_ja": "ロコン！ブリーダーたいけつ！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep028.webp",
+          "alt": "Caterpie e Charmander na Scissor Street."
+        }
       },
       {
         "title_en": "Dig Those Diglett!",
@@ -5808,7 +5832,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "Em Busca dos Digletts",
-        "title_ja": "ディグダがいっぱい！"
+        "title_ja": "ディグダがいっぱい！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep031.webp",
+          "alt": "Caterpie entre os Pokémon apresentados em uma cena imaginada."
+        }
       },
       {
         "title_en": "The Ultimate Test",
@@ -5819,7 +5847,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "O Teste Final",
-        "title_ja": "ポケモンけんていしけん！？"
+        "title_ja": "ポケモンけんていしけん！？",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep056.webp",
+          "alt": "Representação de Caterpie durante a prova teórica de admissão à Liga Pokémon."
+        }
       },
       {
         "title_en": "The Breeding Center Secret",
@@ -5830,7 +5862,11 @@
         "season_reference": 1,
         "season": "Liga Índigo",
         "title_pt": "O Segredo do Centro de Criação!",
-        "title_ja": "そだてやのひみつ！"
+        "title_ja": "そだてやのひみつ！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep057.webp",
+          "alt": "Caterpie entre os Pokémon do centro de criação."
+        }
       },
       {
         "title_en": "Clefairy Tales",
@@ -5852,7 +5888,11 @@
         "season_reference": 2,
         "season": "Aventuras nas Ilhas Laranja",
         "title_pt": "Tudo Rosa",
-        "title_ja": "ピンクのポケモンじま"
+        "title_ja": "ピンクのポケモンじま",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep088.webp",
+          "alt": "Caterpie cor-de-rosa entre os habitantes de Pinkan Island."
+        }
       },
       {
         "title_en": "Tracey Gets Bugged",
@@ -5863,7 +5903,11 @@
         "season_reference": 2,
         "season": "Aventuras nas Ilhas Laranja",
         "title_pt": "Um Novo Amigo para o Tracey",
-        "title_ja": "ストライクせんしのほこり"
+        "title_ja": "ストライクせんしのほこり",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep097.webp",
+          "alt": "Caterpie selvagem encontrado em Murcott Island."
+        }
       },
       {
         "title_en": "Wherefore Art Thou, Pokémon?",
@@ -5874,7 +5918,11 @@
         "season_reference": 2,
         "season": "Aventuras nas Ilhas Laranja",
         "title_pt": "Onde Estás, Pokémon?",
-        "title_ja": "ニドランのこいものがたり"
+        "title_ja": "ニドランのこいものがたり",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep100.webp",
+          "alt": "Caterpie na recordação envolvendo Emily e Ralph."
+        }
       },
       {
         "title_en": "Illusion Confusion!",
@@ -5885,7 +5933,11 @@
         "season_reference": 3,
         "season": "A Jornada Johto",
         "title_pt": "Confusões de Ilusões",
-        "title_ja": "ホーホーとあやしいもり！"
+        "title_ja": "ホーホーとあやしいもり！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep121.webp",
+          "alt": "Ilusão de Caterpie e outros Pokémon do tipo Inseto assustando Misty."
+        }
       },
       {
         "title_en": "For Crying Out Loud",
@@ -5897,7 +5949,11 @@
         "season": "A Jornada Johto",
         "title_pt": "Marill Chorão",
         "title_ja": "なきむしマリル！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep132.webp",
+          "alt": "Caterpie e Weedle no episódio Marill Chorão."
+        }
       },
       {
         "title_en": "Gettin' The Bugs Out",
@@ -5908,7 +5964,11 @@
         "season_reference": 3,
         "season": "A Jornada Johto",
         "title_pt": "Exterminando Insetos",
-        "title_ja": "ヒワダジム！もりのバトルフィールド！！"
+        "title_ja": "ヒワダジム！もりのバトルフィールド！！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep144.webp",
+          "alt": "Caterpie e os demais Pokémon do Ginásio de Azalea utilizando String Shot."
+        }
       },
       {
         "title_en": "The Bug Stops Here",
@@ -5930,7 +5990,11 @@
         "season_reference": 4,
         "season": "Campeões da Liga Johto",
         "title_pt": "Mantendo a Tradição",
-        "title_ja": "ポッポやのでんしょポッポ！"
+        "title_ja": "ポッポやのでんしょポッポ！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep164.webp",
+          "alt": "Caterpie entre os Pokémon de Way Away Island."
+        }
       },
       {
         "title_en": "Wings 'N' Things",
@@ -5952,7 +6016,11 @@
         "season_reference": 4,
         "season": "Campeões da Liga Johto",
         "title_pt": "Quem Espera Sempre Alcança",
-        "title_ja": "ノコッチはのこっちない！？"
+        "title_ja": "ノコッチはのこっちない！？",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep191.webp",
+          "alt": "Caterpie pertencente ao treinador Bucky."
+        }
       },
       {
         "title_en": "Got Miltank?",
@@ -5987,7 +6055,11 @@
         "season": "Master Quest",
         "title_pt": "Os Sinos de Ho-Oh",
         "title_ja": "スイクンとミナキ！ホウオウのでんせつ！！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep227.webp",
+          "alt": "Caterpie ao lado de Tangela durante os acontecimentos envolvendo os sinos de Ho-Oh."
+        }
       },
       {
         "title_en": "Talkin' 'Bout an Evolution",
@@ -5999,7 +6071,11 @@
         "season": "Master Quest",
         "title_pt": "Falando de Evolução",
         "title_ja": "ワタルとあかいギャラドス！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ep235.webp",
+          "alt": "Caterpie, Weedle e Spinarak afetados pelos experimentos da Equipe Rocket."
+        }
       },
       {
         "title_en": "Gonna Rule The School!",
@@ -6033,7 +6109,11 @@
         "season_reference": 8,
         "season": "Batalha Avançada",
         "title_pt": "O Grande Dilema de Caterpie",
-        "title_ja": "進化！その神秘と奇跡！！"
+        "title_ja": "進化！その神秘と奇跡！！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-ag142.webp",
+          "alt": "Caterpie de Zander no episódio O Grande Dilema de Caterpie."
+        }
       },
       {
         "title_en": "The Green Guardian",
@@ -6066,7 +6146,11 @@
         "season_reference": 10,
         "season": "Diamante e Pérola",
         "title_pt": "Doces Encantamentos!",
-        "title_ja": "ハクタイの森！ミノムッチ進化作戦！！"
+        "title_ja": "ハクタイの森！ミノムッチ進化作戦！！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-dp030.webp",
+          "alt": "Caterpie entre os Pokémon encontrados durante a exploração da floresta."
+        }
       },
       {
         "title_en": "The Grass-Type Is Always Greener!",
@@ -6124,7 +6208,11 @@
         "season": "Vencedores da Liga Sinnoh",
         "title_pt": "O Grande Festival Chega à Reta Final!",
         "title_ja": "セミファイナル！決勝へ進むのは！？",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-dp176.webp",
+          "alt": "Caterpie e outros Pokémon ouvindo Nando tocar música durante o Grande Festival de Sinnoh."
+        }
       },
       {
         "title_en": "Butterfree and Me!",
@@ -6136,7 +6224,11 @@
         "season": "Aventuras em Unova e Mais Além",
         "title_pt": "Butterfree e Eu!",
         "title_ja": "サトシとバタフリー！また会う日まで！！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-bw130.webp",
+          "alt": "Ash acompanhando Caterpie no episódio Butterfree e Eu."
+        }
       },
       {
         "title_en": "Kalos, Where Dreams and Adventures Begin!",
@@ -6160,7 +6252,11 @@
         "season": "XY",
         "title_pt": "Perseguição em Lumiose!",
         "title_ja": "メガシンカとプリズムタワー！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-xy002.webp",
+          "alt": "Aparição de Caterpie no episódio Perseguição em Lumiose."
+        }
       },
       {
         "title_en": "Mega-Mega Meowth Madness!",
@@ -6220,7 +6316,11 @@
         "season": "Sol e Lua",
         "title_pt": "O Desafio de Lillie com o Ovo!",
         "title_ja": "タマゴ係はだ～れだ？",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-sm008.webp",
+          "alt": "Caterpie entre os Pokémon que habitam o jardim de Lillie."
+        }
       },
       {
         "title_en": "Lulled to La-La Land!",
@@ -6232,7 +6332,11 @@
         "season": "Sol e Lua",
         "title_pt": "Embalados para o Mundo dos Sonhos!",
         "title_ja": "ネマシュの森であなたも寝ましゅ？",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-sm029.webp",
+          "alt": "Caterpie adormecidos ao lado de outros Pokémon na floresta, em uma cena do segmento Poké Problem."
+        }
       },
       {
         "title_en": "The Ol' Raise and Switch!",
@@ -6255,7 +6359,11 @@
         "season_reference": 20,
         "season": "Sol e Lua",
         "title_pt": "Alola, Kanto!",
-        "title_ja": "カントーでアローラ！タケシとカスミ！！"
+        "title_ja": "カントーでアローラ！タケシとカスミ！！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-sm042.webp",
+          "alt": "Caterpie no laboratório do Professor Oak durante a visita a Kanto."
+        }
       },
       {
         "title_en": "Now You See Them, Now You Don't!",
@@ -6291,7 +6399,11 @@
         "season": "Ultra-Aventuras",
         "title_pt": "Garantindo o Futuro!",
         "title_ja": "未来へつなげ！かがやきさまの伝説！！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-sm090.webp",
+          "alt": "Caterpie entre os Pokémon reunidos no estabelecimento de Oranguru."
+        }
       },
       {
         "title_en": "The Battlefield of Truth and Love!",
@@ -6303,7 +6415,11 @@
         "season": "Ultralendas",
         "title_pt": "O Campo de Batalha da Verdade e do Amor!",
         "title_ja": "ムサシVSコジロウ！愛と真実のバトルフィールド！！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-sm131.webp",
+          "alt": "Caterpie entre os Pokémon visitantes de Bewear."
+        }
       },
       {
         "title_en": "Exhibition Unmasked!",
@@ -6360,7 +6476,11 @@
         "season_reference": 23,
         "season": "Jornadas",
         "title_pt": "Não Desistirei de Mew!",
-        "title_ja": "ポケモン大量ゲットだぜ！ミュウへの道！！"
+        "title_ja": "ポケモン大量ゲットだぜ！ミュウへの道！！",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-jn006.webp",
+          "alt": "Caterpie entre os Pokémon do tipo Inseto capturados por Goh em Kanto."
+        }
       },
       {
         "title_en": "Serving Up the Flute Cup!",
@@ -6505,7 +6625,11 @@
         "season": "Jornadas de Mestre",
         "title_pt": "Não Tão Perto para o Conforto!",
         "title_ja": "じめじめジメレオン",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-jn062.webp",
+          "alt": "Projeção holográfica de Caterpie durante uma apresentação sobre evolução Pokémon."
+        }
       },
       {
         "title_en": "Take My Thief! Please!",
@@ -6529,7 +6653,11 @@
         "season": "Jornadas Supremas",
         "title_pt": "Possibilidades Infinitas!",
         "title_ja": "コハルとイーブイ、可能性は無限大！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-jn120.webp",
+          "alt": "Caterpie selvagem sobre um galho de árvore."
+        }
       },
       {
         "title_en": "Heroes Unite!",
@@ -6565,7 +6693,11 @@
         "season": "Jornadas Supremas",
         "title_pt": "O Arco-Íris e o Mestre Pokémon!",
         "title_ja": "虹とポケモンマスター！",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-jn147.webp",
+          "alt": "Caterpie e outros Pokémon abrigando-se da chuva junto de Ash e Pikachu."
+        }
       },
       {
         "title_en": "The Treasure After the Storm!",
@@ -6577,7 +6709,11 @@
         "season": "Horizontes",
         "title_pt": "O Tesouro Após a Tempestade!",
         "title_ja": "ながれついた宝もの",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-hz004.webp",
+          "alt": "Caterpie e Weedle na ilha natal de Roy."
+        }
       },
       {
         "title_en": "Found You, Fuecoco!",
@@ -6589,7 +6725,11 @@
         "season": "Horizontes",
         "title_pt": "Encontrei Você, Fuecoco!",
         "title_ja": "みつけたよ、ホゲータ",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-hz005.webp",
+          "alt": "Caterpie selvagens no anime Pokémon Horizontes."
+        }
       },
       {
         "title_en": "A New Song for Fuecoco",
@@ -6601,7 +6741,11 @@
         "season": "Horizontes: Em Busca de Laqua",
         "title_pt": "Uma Nova Canção para Fuecoco",
         "title_ja": "ホゲータとぼくの歌",
-        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial."
+        "title_pt_note": "Título em português registrado como tradução editorial ou localização ainda não confirmada em fonte oficial.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/anime/anime-hz062.webp",
+          "alt": "Caterpie entre os Pokémon selvagens presentes na recordação de Roy."
+        }
       }
     ],
     "films": [
