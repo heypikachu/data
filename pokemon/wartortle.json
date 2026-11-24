@@ -29311,7 +29311,11 @@
     "animations": [
       {
         "title": "Pokémon Origins — File 1: Red",
-        "description": "Wartortle aparece na apresentação do Professor Oak."
+        "description": "Wartortle aparece na apresentação do Professor Oak.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/animations/animacoes-pokemon-origins-file-1-red.webp",
+          "alt": "Professor Oak diante do painel de silhuetas de Pokémon, incluindo Wartortle, na introdução de Pokémon Origins."
+        }
       },
       {
         "title": "POKÉTOON — Summer Days with Wartortle",
