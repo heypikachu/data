@@ -28143,7 +28143,11 @@
         "episode_code": "XY042",
         "title_en": "Battling Into the Hall of Fame!",
         "appearance": "Pokémon de Tierno",
-        "description": "Squirtle enfrenta Fennekin e Pikachu na final da batalha em equipe do acampamento."
+        "description": "Squirtle enfrenta Fennekin e Pikachu na final da batalha em equipe do acampamento.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-xy042.webp",
+          "alt": "Squirtle no acampamento Pokémon."
+        }
       },
       {
         "title_en": "A Shocking Grocery Run!",
