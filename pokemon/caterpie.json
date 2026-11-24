@@ -7035,7 +7035,11 @@
         "code": "PK02",
         "title_pt": "A Aventura de Resgate de Pikachu",
         "title_ja": "ピカチュウたんけんたい",
-        "title": "A Aventura de Resgate de Pikachu"
+        "title": "A Aventura de Resgate de Pikachu",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-pk02.webp",
+          "alt": "Caterpie entre os Pokémon selvagens da floresta em A Aventura de Resgate de Pikachu."
+        }
       },
       {
         "title_en": "Camp Pikachu",
@@ -7046,7 +7050,11 @@
         "title_pt": "O Acampamento de Pikachu",
         "title_ja": "ピカピカ星空キャンプ",
         "title": "O Acampamento de Pikachu",
-        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-pk11.webp",
+          "alt": "Caterpie e Butterfree no curta O Acampamento de Pikachu."
+        }
       },
       {
         "title_en": "Pokémon Origins · File 1: Red",
@@ -7057,7 +7065,11 @@
         "title_ja": "ポケットモンスター THE ORIGIN — レポート1 レッド",
         "title": "Pokémon Origens — Arquivo 1: Red",
         "category": "Pokémon Origens",
-        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-po01.webp",
+          "alt": "Registro de Caterpie na Pokédex de Red em Pokémon Origens."
+        }
       },
       {
         "title_en": "Pokémon Origins · File 3: Giovanni",
@@ -7068,7 +7080,11 @@
         "title_ja": "ポケットモンスター THE ORIGIN — レポート3 サカキ",
         "title": "Pokémon Origens — Arquivo 3: Giovanni",
         "category": "Pokémon Origens",
-        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-po03.webp",
+          "alt": "Caterpie entre os Pokémon aprisionados pela Equipe Rocket em Pokémon Origens."
+        }
       },
       {
         "title_en": "Pokémon Generations · The Adventure",
@@ -7078,7 +7094,11 @@
         "title_pt": "Pokémon Gerações — A Aventura",
         "title_ja": "ポケモンジェネレーションズ — 冒険",
         "title": "Pokémon Gerações — A Aventura",
-        "category": "Pokémon Gerações"
+        "category": "Pokémon Gerações",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-pg01.webp",
+          "alt": "Caterpie selvagem na floresta no primeiro episódio de Pokémon Gerações."
+        }
       },
       {
         "title_en": "Pokémon Evolutions · The Show",
@@ -7088,7 +7108,11 @@
         "title_pt": "Pokémon Evoluções — O Show",
         "title_ja": "Pokémon Evolutions — ザ・ショウ",
         "title": "Pokémon Evoluções — O Show",
-        "category": "Pokémon Evoluções"
+        "category": "Pokémon Evoluções",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-pe07.webp",
+          "alt": "Caterpie acompanhado de uma treinadora durante o festival de Ecruteak City em Pokémon Evoluções."
+        }
       },
       {
         "title_en": "Pokémon Evolutions · The Discovery",
@@ -7098,7 +7122,11 @@
         "title_pt": "Pokémon Evoluções — A Descoberta",
         "title_ja": "Pokémon Evolutions — ザ・ディスカバリー",
         "title": "Pokémon Evoluções — A Descoberta",
-        "category": "Pokémon Evoluções"
+        "category": "Pokémon Evoluções",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-pe08.webp",
+          "alt": "Caterpie sobre um galho comendo uma folha enquanto Butterfree aparece ao fundo em Pokémon Evoluções."
+        }
       },
       {
         "title_en": "Distant Blue Sky!",
@@ -7109,7 +7137,11 @@
         "title_pt": "O Céu Azul Distante!",
         "title_ja": "ポケットモンスター 遥かなる青い空",
         "title": "O Céu Azul Distante!",
-        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-jns05.webp",
+          "alt": "Caterpie segurando uma folha entre os Pokémon da floresta no especial O Céu Azul Distante."
+        }
       },
       {
         "title_en": "POKÉTOON · My Gogoat Journey",
@@ -7120,7 +7152,11 @@
         "title_ja": "ゴーゴートに乗って",
         "title": "POKÉTOON — Minha Jornada com Gogoat",
         "year": 2024,
-        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido."
+        "title_pt_note": "Tradução editorial; título localizado oficial ainda não conferido.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/animations/animacoes-pt12.webp",
+          "alt": "Caterpie ao lado de Weedle e Nymble no POKÉTOON Minha Jornada com Gogoat."
+        }
       }
     ],
     "manga": [
