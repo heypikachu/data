@@ -40,6 +40,11 @@
       "name": "Wartortle",
       "published": true,
       "url": "https://dex.heypikachu.com/wartortle"
+    },
+    "9": {
+      "name": "Blastoise",
+      "published": true,
+      "url": "https://dex.heypikachu.com/blastoise"
     }
   }
 }
