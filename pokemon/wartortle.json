@@ -29718,7 +29718,11 @@
         "volume": 27,
         "category": "Emerald",
         "appearance": "Pokémon roubado",
-        "description": "Um Wartortle da Battle Factory está entre os Pokémon roubados por Guile Hideout."
+        "description": "Um Wartortle da Battle Factory está entre os Pokémon roubados por Guile Hideout.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-ps315.webp",
+          "alt": "Wartortle entre os Pokémon da Battle Factory roubados por Guile Hideout."
+        }
       },
       {
         "code": "PS326",
@@ -29844,7 +29848,11 @@
         "title_ja": "ともに戦おう!! 未来のために",
         "volume": 3,
         "appearance": "Pokémon de treinador",
-        "description": "Um Wartortle aparece entre os Pokémon de treinadores no capítulo final, durante a crise envolvendo o Tyranitar negro."
+        "description": "Um Wartortle aparece entre os Pokémon de treinadores no capítulo final, durante a crise envolvendo o Tyranitar negro.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-gb23.webp",
+          "alt": "Wartortle ajudando no confronto contra Tyranitar em Pokémon Gold & Silver: The Golden Boys."
+        }
       },
       {
         "code": "PRV1",
@@ -29852,7 +29860,11 @@
         "chapter": 1,
         "title_en": "Pokémon Ranger: The Comic – Shadows of Almia — Chapter 1",
         "appearance": "Imaginação",
-        "description": "Wartortle aparece em uma cena imaginada no primeiro capítulo da adaptação de Pokémon Ranger: Shadows of Almia."
+        "description": "Wartortle aparece em uma cena imaginada no primeiro capítulo da adaptação de Pokémon Ranger: Shadows of Almia.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-prv1.webp",
+          "alt": "Wartortle em uma cena imaginada no primeiro capítulo de Pokémon Ranger: Shadows of Almia."
+        }
       }
     ]
   }
