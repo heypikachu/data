@@ -99,7 +99,11 @@
       {
         "game": "Pokémon Pinball",
         "year": 1999,
-        "description": "Evolua Squirtle durante a partida."
+        "description": "Evolua Squirtle durante a partida.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-pinball.png",
+          "alt": "Sprite de Wartortle em Pokémon Pinball"
+        }
       },
       {
         "game": "Pokémon Trozei!",
