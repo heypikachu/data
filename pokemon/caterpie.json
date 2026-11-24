@@ -6865,7 +6865,11 @@
         "title_pt": "Heróis Pokémon: Latios e Latias",
         "title_ja": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
         "title": "Heróis Pokémon: Latios e Latias",
-        "category": "Filme"
+        "category": "Filme",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/films/filmes-m05.webp",
+          "alt": "Caterpie sobre um galho ao lado de Scyther na sequência introdutória de Heróis Pokémon: Latios e Latias."
+        }
       },
       {
         "title_en": "Destiny Deoxys",
