@@ -34191,6 +34191,10 @@
         "game": "Pokémon GO",
         "year": 2016,
         "category": "Captura e evolução",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/pokemongo-sprites/main/normal/9.webp",
+          "alt": "Blastoise em Pokémon GO"
+        },
         "description": "Blastoise pode megaevoluir com Megaenergia e tem uma forma Gigantamax.",
         "obtaining": "Evolua Wartortle com 100 Doces Squirtle. O fator Gigantamax depende de um encontro que conceda essa forma."
       },
