@@ -29245,13 +29245,21 @@
       },
       {
         "title": "POKÉTOON — Summer Days with Wartortle",
-        "description": "Wartortle acompanha Rikuto em um dia de verão. As algas no casco indicam que o Pokémon já brincava com gerações anteriores da família."
+        "description": "Wartortle acompanha Rikuto em um dia de verão. As algas no casco indicam que o Pokémon já brincava com gerações anteriores da família.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/animations/animacoes-poketoon-summer-days-with-wartortle.webp",
+          "alt": "Wartortle sorrindo na floresta durante o especial Summer Days with Wartortle."
+        }
       }
     ],
     "manga": [
       {
         "title": "Pokémon Adventures — Wartortle Wars",
-        "description": "Blasty aparece como Wartortle antes de evoluir para Blastoise."
+        "description": "Blasty aparece como Wartortle antes de evoluir para Blastoise.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-pokemon-adventures-wartortle-wars.webp",
+          "alt": "Blasty em sua forma Wartortle no capítulo PS015 de Pokémon Adventures."
+        }
       }
     ]
   }
