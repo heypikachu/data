@@ -34710,7 +34710,11 @@
         "title_ja": "サトシとゴウ、ルギアでゴー！",
         "appearance": "Holograma",
         "description": "Um Blastoise é exibido em um vídeo holográfico.",
-        "title_pt": "Lendário? Sim! Amigos? Sim!"
+        "title_pt": "Lendário? Sim! Amigos? Sim!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/anime-jn002-2.webp",
+          "alt": "Blastoise em vídeo holográfico durante a apresentação do Professor Cerise."
+        }
       },
       {
         "jp_number": 1143,
