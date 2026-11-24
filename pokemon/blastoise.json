@@ -34176,7 +34176,7 @@
   },
   "media_appearances": {
     "title": "Aparições em outras mídias",
-    "lead": "Aparições documentadas de Blastoise no anime, no cinema, em animações derivadas e no mangá.",
+    "lead": "Aparições documentadas de Blastoise no anime, no cinema, em animações derivadas e no mangá. Miniaturas podem ser capturas da cena, imagens de referência da obra ou arte oficial ilustrativa.",
     "anime": [
       {
         "jp_number": 20,
@@ -34186,8 +34186,12 @@
         "title_en": "The Ghost of Maiden's Peak",
         "title_ja": "ゆうれいポケモンとなつまつり",
         "appearance": "Ilusão",
-        "description": "Gastly cria uma ilusão de Blastoise para assustar o Squirtle de Ash.",
-        "title_pt": "O Fantasma do Pico da Donzela"
+        "description": "Gastly cria uma ilusão de Blastoise para assustar o Squirtle de Ash. (Imagem de referência da obra.)",
+        "title_pt": "O Fantasma do Pico da Donzela",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep020.webp",
+          "alt": "Imagem de referência de O Fantasma do Pico da Donzela (contexto da obra)"
+        }
       },
       {
         "jp_number": 25,
@@ -34197,8 +34201,12 @@
         "title_en": "Primeape Goes Bananas",
         "title_ja": "おこらないでねオコリザル！",
         "appearance": "Lembrança",
-        "description": "Blastoise aparece em um anúncio do concurso em que Ash ganhou seu boné.",
-        "title_pt": "Primeape Endoidece"
+        "description": "Blastoise aparece em um anúncio do concurso em que Ash ganhou seu boné. (Imagem de referência da obra.)",
+        "title_pt": "Primeape Endoidece",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep025.webp",
+          "alt": "Imagem de referência de Primeape Endoidece (contexto da obra)"
+        }
       },
       {
         "title_en": "Beach Blank-Out Blastoise",
@@ -34223,8 +34231,12 @@
         "title_en": "Lights, Camera, Quack-tion",
         "title_ja": "ポケモン・ザ・ムービー！",
         "appearance": "Filmagem",
-        "description": "Blastoise faz parte do elenco do filme gravado dentro do episódio.",
-        "title_pt": "Luz, Câmera, Quack-Ação"
+        "description": "Blastoise faz parte do elenco do filme gravado dentro do episódio. (Imagem de referência da obra.)",
+        "title_pt": "Luz, Câmera, Quack-Ação",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep069.webp",
+          "alt": "Imagem de referência de Luz, Câmera, Quack-Ação (contexto da obra)"
+        }
       },
       {
         "jp_number": 85,
@@ -34249,8 +34261,12 @@
         "title_en": "A Way Off Day Off",
         "title_ja": "みなみのしまだよぜんいんしゅうごう！",
         "appearance": "Flashback",
-        "description": "Uma lembrança revisita o Blastoise de Cissy e sua corrida aquática.",
-        "title_pt": "Mas Que Dia"
+        "description": "Uma lembrança revisita o Blastoise de Cissy e sua corrida aquática. (Imagem de referência da obra.)",
+        "title_pt": "Mas Que Dia",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep098.webp",
+          "alt": "Imagem de referência de Mas Que Dia (contexto da obra)"
+        }
       },
       {
         "jp_number": 106,
@@ -34260,8 +34276,12 @@
         "title_en": "The Pokémon Water War",
         "title_ja": "ひけしたいけつ！ゼニガメＶＳカメール",
         "appearance": "Equipe de resgate",
-        "description": "Os Blastoise do capitão Aidan combatem incêndios com Squirtle e Wartortle.",
-        "title_pt": "A Guerra de Água Pokémon"
+        "description": "Os Blastoise do capitão Aidan combatem incêndios com Squirtle e Wartortle. (Imagem de referência da obra.)",
+        "title_pt": "A Guerra de Água Pokémon",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep106.webp",
+          "alt": "Imagem de referência de A Guerra de Água Pokémon (contexto da obra)"
+        }
       },
       {
         "jp_number": 111,
@@ -34271,8 +34291,12 @@
         "title_en": "Hello, Pummelo!",
         "title_ja": "ウィナーズカップ！フルバトル６ＶＳ６！！",
         "appearance": "Flashback",
-        "description": "O Blastoise de Cissy reaparece em uma lembrança das Ilhas Laranja.",
-        "title_pt": "Alô, Pummelo!"
+        "description": "O Blastoise de Cissy reaparece em uma lembrança das Ilhas Laranja. (Imagem de referência da obra.)",
+        "title_pt": "Alô, Pummelo!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep111.webp",
+          "alt": "Imagem de referência de Alô, Pummelo! (contexto da obra)"
+        }
       },
       {
         "jp_number": 113,
@@ -34282,8 +34306,12 @@
         "title_en": "Viva Las Lapras",
         "title_ja": "さよならラプラス！",
         "appearance": "Flashback",
-        "description": "Uma lembrança volta à corrida de Ash contra o Blastoise de Cissy.",
-        "title_pt": "Vivas las Lapras"
+        "description": "Uma lembrança volta à corrida de Ash contra o Blastoise de Cissy. (Imagem de referência da obra.)",
+        "title_pt": "Vivas las Lapras",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep113.webp",
+          "alt": "Imagem de referência de Vivas las Lapras (contexto da obra)"
+        }
       },
       {
         "jp_number": 147,
@@ -34293,8 +34321,12 @@
         "title_en": "The Fire-ing Squad!",
         "title_ja": "もえろゼニガメだん！ほのおのように！！",
         "appearance": "Equipe de resgate",
-        "description": "Blastoise participa da competição de combate a incêndios e resgate.",
-        "title_pt": "Os Soldados do Fogo!"
+        "description": "Blastoise participa da competição de combate a incêndios e resgate. (Imagem de referência da obra.)",
+        "title_pt": "Os Soldados do Fogo!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep147.webp",
+          "alt": "Imagem de referência de Os Soldados do Fogo! (contexto da obra)"
+        }
       },
       {
         "jp_number": 194,
@@ -34305,7 +34337,11 @@
         "title_ja": "オーダイルＶＳカメックス！すもうバトル！！",
         "appearance": "Torneio de sumô",
         "description": "Blastoise é derrotado pelo Feraligatr de Raiden no torneio de sumô.",
-        "title_pt": "Gigantes do Ringue"
+        "title_pt": "Gigantes do Ringue",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep194.webp",
+          "alt": "Blastoise disputa o torneio de sumô em Gigantes do Ringue."
+        }
       },
       {
         "jp_number": 245,
@@ -34315,8 +34351,12 @@
         "title_en": "Will the Real Oak Please Stand Up?",
         "title_ja": "にせオーキド！？ ポケモンせんりゅうたいけつ！！",
         "appearance": "Poema",
-        "description": "Blastoise aparece durante um poema da Enfermeira Joy.",
-        "title_pt": "Quem é o Verdadeiro Professor Carvalho?"
+        "description": "Blastoise aparece durante um poema da Enfermeira Joy. (Imagem de referência da obra.)",
+        "title_pt": "Quem é o Verdadeiro Professor Carvalho?",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep245.webp",
+          "alt": "Imagem de referência de Quem é o Verdadeiro Professor Carvalho? (contexto da obra)"
+        }
       },
       {
         "jp_number": 248,
@@ -34327,7 +34367,11 @@
         "title_ja": "バトルパーク！ＶＳカメックス・リザードン・フシギバナ！",
         "appearance": "Equipe Rocket",
         "description": "Jessie usa um Blastoise emprestado para enfrentar o Pikachu de Ash.",
-        "title_pt": "Um Truque Falso!"
+        "title_pt": "Um Truque Falso!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ep248.webp",
+          "alt": "Blastoise aparece ao lado de Charizard e Venusaur em Um Truque Falso!"
+        }
       },
       {
         "title_en": "The Ties That Bind",
@@ -34367,8 +34411,12 @@
         "title_en": "Disguise Da Limit",
         "title_ja": "シダケタウン！ポケモンコンテスト！！",
         "appearance": "Concurso",
-        "description": "Um Blastoise participa do Concurso Pokémon de Verdanturf.",
-        "title_pt": "No Limite do Disfarce"
+        "description": "Um Blastoise participa do Concurso Pokémon de Verdanturf. (Imagem de referência da obra.)",
+        "title_pt": "No Limite do Disfarce",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ag062.webp",
+          "alt": "Imagem de referência de No Limite do Disfarce (contexto da obra)"
+        }
       },
       {
         "jp_number": 366,
@@ -34393,8 +34441,12 @@
         "title_en": "Training Wrecks",
         "title_ja": "筋肉バトル！？ダブルバトル！！",
         "appearance": "Participação breve",
-        "description": "Um Blastoise de treinador aparece no episódio.",
-        "title_pt": "Malhando Muito"
+        "description": "Um Blastoise de treinador aparece no episódio. (Imagem de referência da obra.)",
+        "title_pt": "Malhando Muito",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ag096.webp",
+          "alt": "Imagem de referência de Malhando Muito (contexto da obra)"
+        }
       },
       {
         "jp_number": 385,
@@ -34404,8 +34456,12 @@
         "title_en": "Eight Ain't Enough",
         "title_ja": "ルネジム！水のアーティスト・アダン！（後編）",
         "appearance": "Participação breve",
-        "description": "Um treinador aparece com Blastoise no episódio.",
-        "title_pt": "Oito não é o Bastante"
+        "description": "Um treinador aparece com Blastoise no episódio. (Imagem de referência da obra.)",
+        "title_pt": "Oito não é o Bastante",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ag111.webp",
+          "alt": "Imagem de referência de Oito não é o Bastante (contexto da obra)"
+        }
       },
       {
         "jp_number": 402,
@@ -34415,8 +34471,12 @@
         "title_en": "Shocks and Bonds",
         "title_ja": "決勝トーナメントへ！熱き戦いの日々！",
         "appearance": "Placar",
-        "description": "O Blastoise de Johnny aparece no placar da batalha contra Tyson, depois de cair fora de cena.",
-        "title_pt": "Choques e Bônus"
+        "description": "O Blastoise de Johnny aparece no placar da batalha contra Tyson, depois de cair fora de cena. (Imagem de referência da obra.)",
+        "title_pt": "Choques e Bônus",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ag128.webp",
+          "alt": "Imagem de referência de Choques e Bônus (contexto da obra)"
+        }
       },
       {
         "jp_number": 436,
@@ -34426,8 +34486,12 @@
         "title_en": "Spontaneous Combusken!",
         "title_ja": "ポケモンコンテスト！ユズリハ大会！！",
         "appearance": "Concurso",
-        "description": "Uma pessoa competindo no Concurso de Chrysanthemum usa Blastoise.",
-        "title_pt": "Combusken Espontâneo!"
+        "description": "Uma pessoa competindo no Concurso de Chrysanthemum usa Blastoise. (Imagem de referência da obra.)",
+        "title_pt": "Combusken Espontâneo!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ag162.webp",
+          "alt": "Imagem de referência de Combusken Espontâneo! (contexto da obra)"
+        }
       },
       {
         "jp_number": 451,
@@ -34437,8 +34501,12 @@
         "title_en": "Grating Spaces!",
         "title_ja": "タケシ＆サトシ！タッグバトルでニビジムを守れ！！",
         "appearance": "Imaginação",
-        "description": "O Blastoise de Lola reaparece em uma cena imaginada.",
-        "title_pt": "Grades Espaciais"
+        "description": "O Blastoise de Lola reaparece em uma cena imaginada. (Imagem de referência da obra.)",
+        "title_pt": "Grades Espaciais",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-ag177.webp",
+          "alt": "Imagem de referência de Grades Espaciais (contexto da obra)"
+        }
       },
       {
         "jp_number": 538,
@@ -34448,8 +34516,12 @@
         "title_en": "Pokémon Ranger and the Kidnapped Riolu! Part 2",
         "title_ja": "ポケモンレンジャー！波導のリオル！！(後編)",
         "appearance": "Resgate",
-        "description": "Kellyn usa o Capture Styler em três Blastoise para apagar um incêndio com Rain Dance.",
-        "title_pt": "O Patrulheiro Pokémon e o Riolu sequestrado! Segunda Parte"
+        "description": "Kellyn usa o Capture Styler em três Blastoise para apagar um incêndio com Rain Dance. (Imagem de referência da obra.)",
+        "title_pt": "O Patrulheiro Pokémon e o Riolu sequestrado! Segunda Parte",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-dp072.webp",
+          "alt": "Imagem de referência de O Patrulheiro Pokémon e o Riolu sequestrado! Segunda Parte (contexto da obra)"
+        }
       },
       {
         "jp_number": 557,
@@ -34459,8 +34531,12 @@
         "title_en": "One Team, Two Team, Red Team, Blue Team!",
         "title_ja": "最後の大勝負！ポケモントライアスロン！！",
         "appearance": "Triatlo",
-        "description": "Um aluno usa um Blastoise da Academia Pokémon na primeira etapa do triatlo.",
-        "title_pt": "Uma Equipe, Duas Equipes, Equipe Vermelha, Equipe Azul!"
+        "description": "Um aluno usa um Blastoise da Academia Pokémon na primeira etapa do triatlo. (Imagem de referência da obra.)",
+        "title_pt": "Uma Equipe, Duas Equipes, Equipe Vermelha, Equipe Azul!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-dp091.webp",
+          "alt": "Imagem de referência de Uma Equipe, Duas Equipes, Equipe Vermelha, Equipe Azul! (contexto da obra)"
+        }
       },
       {
         "title_en": "Tag Team Battle Inspiration!",
@@ -34500,8 +34576,12 @@
         "title_en": "A Glaring Rivalry!",
         "title_ja": "出でよ！紅き眼差しルガルガン！！",
         "appearance": "Batalha",
-        "description": "O Blastoise de um marinheiro perde para o Lycanroc Forma Noturna de Gladion.",
-        "title_pt": "Uma rivalidade de olhares!"
+        "description": "O Blastoise de um marinheiro perde para o Lycanroc Forma Noturna de Gladion. (Imagem de referência da obra.)",
+        "title_pt": "Uma rivalidade de olhares!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-sm027.webp",
+          "alt": "Imagem de referência de Uma rivalidade de olhares! (contexto da obra)"
+        }
       },
       {
         "jp_number": 1039,
@@ -34511,8 +34591,12 @@
         "title_en": "Battling the Beast Within!",
         "title_ja": "風を断つ稲妻！その名はゼラオラ！！",
         "appearance": "Flashback",
-        "description": "O Blastoise dos Ultra Rangers tenta deter Guzzlord na Ultra Ruína.",
-        "title_pt": "Enfrentando a criatura interior!"
+        "description": "O Blastoise dos Ultra Rangers tenta deter Guzzlord na Ultra Ruína. (Imagem de referência da obra.)",
+        "title_pt": "Enfrentando a criatura interior!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-sm100.webp",
+          "alt": "Imagem de referência de Enfrentando a criatura interior! (contexto da obra)"
+        }
       },
       {
         "jp_number": 1087,
@@ -34522,8 +34606,12 @@
         "title_en": "Legend? Go! Friends? Go!",
         "title_ja": "サトシとゴウ、ルギアでゴー！",
         "appearance": "Holograma",
-        "description": "Um Blastoise é exibido em um vídeo holográfico.",
-        "title_pt": "Lendário? Sim! Amigos? Sim!"
+        "description": "Um Blastoise é exibido em um vídeo holográfico. (Imagem de referência da obra.)",
+        "title_pt": "Lendário? Sim! Amigos? Sim!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-jn002.webp",
+          "alt": "Imagem de referência de Lendário? Sim! Amigos? Sim! (contexto da obra)"
+        }
       },
       {
         "jp_number": 1143,
@@ -34533,8 +34621,12 @@
         "title_en": "Eyes on the Goal!",
         "title_ja": "カモンカムカメカメレース！",
         "appearance": "Prática de futebol",
-        "description": "Seis Blastoise do Mestre dos Cascos aparecem no episódio.",
-        "title_pt": "De olho no objetivo!"
+        "description": "Seis Blastoise do Mestre dos Cascos aparecem no episódio. (Imagem de referência da obra.)",
+        "title_pt": "De olho no objetivo!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-jn058.webp",
+          "alt": "Imagem de referência de De olho no objetivo! (contexto da obra)"
+        }
       },
       {
         "jp_number": 1221,
@@ -34544,8 +34636,12 @@
         "title_en": "This Could be the Start of Something Big!",
         "title_ja": "サトシとゴウ！あらたなる旅立ち！！",
         "appearance": "Participação breve",
-        "description": "Um treinador aparece acompanhado de Blastoise.",
-        "title_pt": "Esse pode ser o começo de uma coisa maior!"
+        "description": "Um treinador aparece acompanhado de Blastoise. (Imagem de referência da obra.)",
+        "title_pt": "Esse pode ser o começo de uma coisa maior!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-jn136.webp",
+          "alt": "Imagem de referência de Esse pode ser o começo de uma coisa maior! (contexto da obra)"
+        }
       },
       {
         "jp_number": 1224,
@@ -34555,8 +34651,12 @@
         "title_en": "Must Be Our Heroes and the Witch!",
         "title_ja": "タケシとデントともりのまじょ！",
         "appearance": "Imaginação",
-        "description": "Blastoise aparece em uma cena imaginada.",
-        "title_pt": "Os heróis e a Bruxa da Floresta!"
+        "description": "Blastoise aparece em uma cena imaginada. (Imagem de referência da obra.)",
+        "title_pt": "Os heróis e a Bruxa da Floresta!",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/anime-jn139.webp",
+          "alt": "Imagem de referência de Os heróis e a Bruxa da Floresta! (contexto da obra)"
+        }
       }
     ],
     "films": [
@@ -34571,9 +34671,13 @@
       },
       {
         "title_en": "The Power of One",
-        "description": "Vários Blastoise sentem a perturbação causada por Lawrence III.",
+        "description": "Vários Blastoise sentem a perturbação causada por Lawrence III. (Imagem de referência da obra.)",
         "year": 1999,
-        "category": "Participação breve"
+        "category": "Participação breve",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/films/films-the-power-of-one.webp",
+          "alt": "Imagem de referência de The Power of One (contexto da obra)"
+        }
       },
       {
         "title_en": "Destiny Deoxys",
@@ -34587,15 +34691,23 @@
       },
       {
         "title_en": "Lucario and the Mystery of Mew",
-        "description": "Blastoise aparece entre os Pokémon dos exércitos em conflito no passado.",
+        "description": "Blastoise aparece entre os Pokémon dos exércitos em conflito no passado. (Imagem de referência da obra.)",
         "year": 2005,
-        "category": "Flashback"
+        "category": "Flashback",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/films/films-lucario-and-the-mystery-of-mew.webp",
+          "alt": "Imagem de referência de Lucario and the Mystery of Mew (contexto da obra)"
+        }
       },
       {
         "title_en": "Diancie and the Cocoon of Destruction",
-        "description": "Mega Blastoise aparece nos créditos de abertura.",
+        "description": "Mega Blastoise aparece nos créditos de abertura. (Imagem de referência da obra.)",
         "year": 2014,
-        "category": "Abertura"
+        "category": "Abertura",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/films/films-diancie-and-the-cocoon-of-destruction.webp",
+          "alt": "Imagem de referência de Diancie and the Cocoon of Destruction (contexto da obra)"
+        }
       },
       {
         "title_en": "I Choose You!",
@@ -34668,33 +34780,53 @@
       },
       {
         "title_en": "Pokémon Origins · File 1: Red",
-        "description": "Blastoise aparece na introdução narrada pelo Professor Oak.",
+        "description": "Blastoise aparece na introdução narrada pelo Professor Oak. (Imagem de referência da obra.)",
         "code": "PO01",
-        "year": 2013
+        "year": 2013,
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/animations-pokemon-origins-file-1-red.webp",
+          "alt": "Imagem de referência de Pokémon Origins · File 1: Red (contexto da obra)"
+        }
       },
       {
         "title_en": "GOTCHA!",
-        "description": "Blastoise aparece brevemente como Pokémon de Red no videoclipe.",
+        "description": "Blastoise aparece brevemente como Pokémon de Red no videoclipe. (Arte oficial ilustrativa.)",
         "category": "Videoclipe",
-        "year": 2020
+        "year": 2020,
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de GOTCHA! ainda não localizada."
+        }
       },
       {
         "title_en": "Pikachu’s Vacation",
-        "description": "Um Blastoise aparece no parque temático Pokémon.",
+        "description": "Um Blastoise aparece no parque temático Pokémon. (Imagem de referência da obra.)",
         "category": "Curta",
-        "year": 1998
+        "year": 1998,
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/animations-pikachus-vacation.webp",
+          "alt": "Imagem de referência de Pikachu’s Vacation (contexto da obra)"
+        }
       },
       {
         "title_en": "Pikachu’s Rescue Adventure",
-        "description": "Blastoise aparece nos créditos japoneses do curta.",
+        "description": "Blastoise aparece nos créditos japoneses do curta. (Imagem de referência da obra.)",
         "category": "Créditos",
-        "year": 1999
+        "year": 1999,
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/animations-pikachus-rescue-adventure.webp",
+          "alt": "Imagem de referência de Pikachu’s Rescue Adventure (contexto da obra)"
+        }
       },
       {
         "title_en": "Distant Blue Sky!",
         "year": 2022,
         "category": "Especial",
-        "description": "Um treinador aparece com Blastoise em uma participação breve."
+        "description": "Um treinador aparece com Blastoise em uma participação breve. (Imagem de referência da obra.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/animations-distant-blue-sky.webp",
+          "alt": "Imagem de referência de Distant Blue Sky! (contexto da obra)"
+        }
       }
     ],
     "manga": [
@@ -34736,19 +34868,31 @@
       },
       {
         "title_en": "Pokémon Adventures · The Final Battle VIII",
-        "description": "Blasty, Feraligatr de Silver e Swampert de Ruby combinam Hydro Cannon contra o falso Kyogre.",
-        "category": "Emerald"
+        "description": "Blasty, Feraligatr de Silver e Swampert de Ruby combinam Hydro Cannon contra o falso Kyogre. (Arte oficial ilustrativa.)",
+        "category": "Emerald",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Adventures · The Final Battle VIII ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Adventures · Chinchou in Charge",
-        "description": "Blastoise aparece em uma cena imaginada junto aos outros iniciais de Kanto totalmente evoluídos.",
-        "category": "Gold, Silver & Crystal"
+        "description": "Blastoise aparece em uma cena imaginada junto aos outros iniciais de Kanto totalmente evoluídos. (Arte oficial ilustrativa.)",
+        "category": "Gold, Silver & Crystal",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Adventures · Chinchou in Charge ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Adventures · Pokémon Ranger: The Comic – Shadows of Almia",
-        "description": "Kellyn captura temporariamente um Blastoise para apagar o incêndio em Vien Forest.",
+        "description": "Kellyn captura temporariamente um Blastoise para apagar o incêndio em Vien Forest. (Arte oficial ilustrativa.)",
         "code": "PRV1",
-        "category": "Especial"
+        "category": "Especial",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Adventures · Pokémon Ranger: The Comic – Shadows of Almia ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Get The Flying Machine!!",
@@ -34761,117 +34905,217 @@
       },
       {
         "title_en": "Pokémon Pocket Monsters · Let’s Get that Moon Rock!!",
-        "description": "Misty aparece com um Blastoise."
+        "description": "Misty aparece com um Blastoise. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Let’s Get that Moon Rock!! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Part-Time Job At The Swimming Pool!!",
-        "description": "O Blastoise de Green desafia Red para uma competição de natação."
+        "description": "O Blastoise de Green desafia Red para uma competição de natação. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Part-Time Job At The Swimming Pool!! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Save the Pokémon Zoo!!",
-        "description": "O Blastoise do Professor Oak estreia no capítulo."
+        "description": "O Blastoise do Professor Oak estreia no capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Save the Pokémon Zoo!! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Ruby-Sapphire · Clefairy’s Golf Debut!",
-        "description": "Blastoise aparece no capítulo da estreia de Clefairy no golfe."
+        "description": "Blastoise aparece no capítulo da estreia de Clefairy no golfe. (Imagem de referência da obra.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/manga-pokemon-ruby-sapphire-clefairys-golf-debut.webp",
+          "alt": "Imagem de referência de Pokémon Ruby-Sapphire · Clefairy’s Golf Debut! (contexto da obra)"
+        }
       },
       {
         "title_en": "Pocket Monsters HGSS · PMHGSS11",
-        "description": "Blastoise aparece no décimo primeiro capítulo."
+        "description": "Blastoise aparece no décimo primeiro capítulo. (Imagem de referência da obra.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/manga-pocket-monsters-hgss-pmhgss11.webp",
+          "alt": "Imagem de referência de Pocket Monsters HGSS · PMHGSS11 (contexto da obra)"
+        }
       },
       {
         "title_en": "Magical Pokémon Journey · The Five Sisters of Squirtle",
-        "description": "Kameko e Kamemi, duas irmãs mais velhas de Squirtle, são Blastoise."
+        "description": "Kameko e Kamemi, duas irmãs mais velhas de Squirtle, são Blastoise. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Magical Pokémon Journey · The Five Sisters of Squirtle ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Zensho",
-        "description": "O Blastoise de Shigeru enfrenta o Charizard de Satoshi pelo título da Liga Pokémon."
+        "description": "O Blastoise de Shigeru enfrenta o Charizard de Satoshi pelo título da Liga Pokémon. (Imagem de referência da obra.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/manga-pokemon-zensho.webp",
+          "alt": "Imagem de referência de Pokémon Zensho (contexto da obra)"
+        }
       },
       {
         "title_en": "Mewtwo Strikes Back! · Adaptação em mangá",
-        "description": "Shellshocker, de Neesha, e seu clone Blastoisetwo aparecem na adaptação."
+        "description": "Shellshocker, de Neesha, e seu clone Blastoisetwo aparecem na adaptação. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Mewtwo Strikes Back! · Adaptação em mangá ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon: Yeah! I Got Pokémon!",
-        "description": "Blastoise aparece em A Mischievous Wartortle e o Blastoise de Kameta aparece em GDZ38."
+        "description": "Blastoise aparece em A Mischievous Wartortle e o Blastoise de Kameta aparece em GDZ38. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon: Yeah! I Got Pokémon! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Gold & Silver: The Golden Boys · Ilhas Redemoinho",
-        "description": "Gold enfrenta o Blastoise que dominava a ilha. Ele reaparece no fim da batalha com Lugia."
+        "description": "Gold enfrenta o Blastoise que dominava a ilha. Ele reaparece no fim da batalha com Lugia. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Gold & Silver: The Golden Boys · Ilhas Redemoinho ainda não localizada."
+        }
       },
       {
         "title_en": "Ash & Pikachu · One Half Of A Poké Ball",
-        "description": "O Blastoise de Gary enfrenta o Pikachu de Ash como último Pokémon de Gary na batalha."
+        "description": "O Blastoise de Gary enfrenta o Pikachu de Ash como último Pokémon de Gary na batalha. (Imagem de referência da obra.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/manga-ash-pikachu-one-half-of-a-poke-ball.webp",
+          "alt": "Imagem de referência de Ash & Pikachu · One Half Of A Poké Ball (contexto da obra)"
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Which One is the Real Clefairy!?",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Which One is the Real Clefairy!? ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Pulverize the strongest Pokémon!!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Pulverize the strongest Pokémon!! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Good-Bye, Pikachu?!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Good-Bye, Pikachu?! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Curry Showdown! Which is the Most Delicious?",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Curry Showdown! Which is the Most Delicious? ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · The Thrill of a Perfect Score, Big Rampage at the Amusement Park!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · The Thrill of a Perfect Score, Big Rampage at the Amusement Park! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Clefairy, a Doctor!?",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Clefairy, a Doctor!? ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · The Fake Pikachu!!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · The Fake Pikachu!! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Team Rocket’s Downfall!!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Team Rocket’s Downfall!! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Pikachu’s Birthday Party",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Pikachu’s Birthday Party ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · The Ancient Pokémon Discovery!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · The Ancient Pokémon Discovery! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Clefairy, a Supernatural Being?!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Clefairy, a Supernatural Being?! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Marill’s Special Training to Surpass Pikachu!!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Marill’s Special Training to Surpass Pikachu!! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Take me to the Dragon Palace!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Take me to the Dragon Palace! ainda não localizada."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Special Fireworks!!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo. (Arte oficial ilustrativa.)",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/illustrations/arte-referencia.webp",
+          "alt": "Arte oficial ilustrativa de Blastoise. Captura de Pokémon Pocket Monsters · Special Fireworks!! ainda não localizada."
+        }
       }
     ]
   },
