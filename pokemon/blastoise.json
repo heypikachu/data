@@ -34796,7 +34796,11 @@
         "title_en": "Lucario and the Mystery of Mew",
         "description": "Blastoise aparece entre os Pokémon dos exércitos em conflito no passado.",
         "year": 2005,
-        "category": "Flashback"
+        "category": "Flashback",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/films/filmes-lucario-and-the-mystery-of-mew.webp",
+          "alt": "Blastoise com armadura durante o confronto dos exércitos em Lucario and the Mystery of Mew."
+        }
       },
       {
         "title_en": "Diancie and the Cocoon of Destruction",
@@ -34917,7 +34921,11 @@
         "title_en": "Distant Blue Sky!",
         "year": 2022,
         "category": "Especial",
-        "description": "Um treinador aparece com Blastoise em uma participação breve."
+        "description": "Um treinador aparece com Blastoise em uma participação breve.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/animations/animacoes-distant-blue-sky.webp",
+          "alt": "Blastoise acompanhado de seu treinador no Centro Pokémon em Distant Blue Sky!"
+        }
       }
     ],
     "manga": [
