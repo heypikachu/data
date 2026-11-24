@@ -45,6 +45,11 @@
       "name": "Blastoise",
       "published": true,
       "url": "https://dex.heypikachu.com/blastoise"
+    },
+    "10": {
+      "name": "Caterpie",
+      "published": true,
+      "url": "https://dex.heypikachu.com/caterpie"
     }
   }
 }
