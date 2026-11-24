@@ -29231,7 +29231,11 @@
       {
         "title_en": "The Power of One",
         "year": 1999,
-        "description": "Wartortle estão entre os Pokémon que reagem ao desequilíbrio causado por Lawrence III."
+        "description": "Wartortle estão entre os Pokémon que reagem ao desequilíbrio causado por Lawrence III.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/films/filmes-the-power-of-one.webp",
+          "alt": "Wartortle entre os Pokémon reunidos nas Ilhas Shamouti em The Power of One."
+        }
       }
     ],
     "animations": [
