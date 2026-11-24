@@ -1,0 +1,6393 @@
+{
+  "schema": 1,
+  "species": "caterpie",
+  "name": "Caterpie",
+  "number": "0010",
+  "evolution_line": [
+    {
+      "name": "Caterpie",
+      "number": 10,
+      "method": null,
+      "level": null
+    },
+    {
+      "name": "Metapod",
+      "number": 11,
+      "method": "Lv.7",
+      "level": 7
+    },
+    {
+      "name": "Butterfree",
+      "number": 12,
+      "method": "Lv.10",
+      "level": 10
+    }
+  ],
+  "japanese": {
+    "kanji": "キャタピー",
+    "romaji": "Kyatapī",
+    "spelling": "Caterpie"
+  },
+  "types": [
+    "Inseto"
+  ],
+  "species_name": "Pokémon Lagarta",
+  "height": "0,3 m",
+  "weight": "2,9 kg",
+  "capture_rate": 255,
+  "egg_cycles": 15,
+  "egg_groups": [
+    "Inseto"
+  ],
+  "gender_ratio": {
+    "male": 50,
+    "female": 50
+  },
+  "growth_rate": "Médio-rápido",
+  "pokedex_color": "Verde",
+  "debut_generation": "I",
+  "experience_at_level_100": 1000000,
+  "pokedex_habitat": {
+    "name": "Floresta",
+    "description": "Categoria de habitat atribuída à espécie na Pokédex de FireRed e LeafGreen."
+  },
+  "unavailable_games": [
+    "Pokémon Scarlet",
+    "Pokémon Violet",
+    "Pokémon Legends: Arceus",
+    "Pokémon Legends: Z-A"
+  ],
+  "concept_origin": {
+    "title": "Conceito e origem",
+    "designer": {
+      "label": "Ilustração de Pokémon Red e Green",
+      "name": "Ken Sugimori",
+      "description": "A arte clássica publicada é de Ken Sugimori. A autoria individual do design original da espécie não está confirmada."
+    },
+    "form_designers": [],
+    "curiosity": "Caterpie foi um dos primeiros Pokémon capturados por Ash no anime. Sua evolução rápida também caracteriza a linha nos jogos.",
+    "origin": [
+      "Caterpie lembra uma lagarta de borboleta, especialmente larvas de papilionídeos. Sua antena vermelha lembra o osmetério, órgão de defesa que certas lagartas projetam para liberar substâncias de odor desagradável.",
+      "Os desenhos circulares nas laterais do corpo lembram manchas que simulam olhos e podem afastar predadores. Os pequenos pés adesivos permitem escalar superfícies.",
+      "A linha Caterpie, Metapod e Butterfree representa as fases de larva, pupa e adulto da metamorfose de uma borboleta.",
+      "O nome inglês deriva provavelmente de caterpillar (lagarta). O japonês Kyatapī adapta esse mesmo nome."
+    ]
+  },
+  "morphology": {
+    "body_shape": {
+      "label": "Formato corporal",
+      "slug": "body-shape",
+      "name": "Corpo segmentado",
+      "official_category": "Pokémon com corpo segmentado",
+      "description": "O corpo alongado apresenta segmentos, pequenos pés e uma antena bifurcada.",
+      "icon": {
+        "name": "Body14.webp",
+        "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/body/Body14.webp",
+        "alt": "Ícone de corpo segmentado"
+      }
+    }
+  },
+  "records": {
+    "rb": {
+      "game_name": "Pokémon Red / Blue",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Os pequenos pés aderem às superfícies, permitindo que Caterpie suba encostas e paredes.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 25: Disponível em Red e Blue. Viridian Forest: Disponível em Red e Blue. Route 2: Disponível em Blue. Route 24: Disponível em Blue.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 25",
+          "method": "Encontro selvagem",
+          "details": "Disponível em Red e Blue."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Disponível em Red e Blue."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Disponível em Blue."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 24",
+          "method": "Encontro selvagem",
+          "details": "Disponível em Blue."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Sistema histórico sem EVs modernos. Golpes separados por método.",
+      "last_review": "24/11/2026",
+      "base_exp": "53"
+    },
+    "yellow": {
+      "game_name": "Pokémon Yellow",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Ao tocar a antena da cabeça, Caterpie libera um odor desagradável para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Route 24: Encontre Caterpie na vegetação alta. Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 24",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 25",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Sistema histórico sem EVs modernos. Golpes separados por método.",
+      "last_review": "24/11/2026",
+      "base_exp": "53"
+    },
+    "gold": {
+      "game_name": "Pokémon Gold",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Quando ameaçado, libera pela antena um cheiro repulsivo para afastar o inimigo.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Johto #024",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Durante a manhã e o dia. Route 30: Durante a manhã e o dia. Route 31: Durante a manhã e o dia. Ilex Forest: Durante a manhã e o dia. National Park: Durante a manhã e o dia. National Park: Concurso de captura de insetos, realizado às terças, quintas e sábados. Route 26: Use Headbutt nas árvores compatíveis. Route 27: Use Headbutt nas árvores compatíveis. Route 34: Use Headbutt nas árvores compatíveis. Route 35: Use Headbutt nas árvores compatíveis. Route 36: Use Headbutt nas árvores compatíveis. Route 37: Use Headbutt nas árvores compatíveis. Route 38: Use Headbutt nas árvores compatíveis. Route 39: Use Headbutt nas árvores compatíveis. Azalea Town: Use Headbutt nas árvores compatíveis. Ilex Forest: Use Headbutt nas árvores compatíveis. Lake of Rage: Use Headbutt nas árvores compatíveis.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 30",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 31",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Ilex Forest",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "National Park",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "National Park",
+          "method": "Bug-Catching Contest",
+          "details": "Concurso de captura de insetos, realizado às terças, quintas e sábados."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 26",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 27",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 34",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 35",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 36",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 37",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 38",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 39",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Azalea Town",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Ilex Forest",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Lake of Rage",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Sistema histórico sem EVs modernos. Golpes separados por método.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "silver": {
+      "game_name": "Pokémon Silver",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Seus pés adesivos agarram-se a diferentes superfícies. Ele escala árvores em busca de alimento.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Johto #024",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "National Park: Concurso de captura de insetos, realizado às terças, quintas e sábados.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "National Park",
+          "method": "Bug-Catching Contest",
+          "details": "Concurso de captura de insetos, realizado às terças, quintas e sábados."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Sistema histórico sem EVs modernos. Golpes separados por método.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "crystal": {
+      "game_name": "Pokémon Crystal",
+      "gen": "II",
+      "console": "Game Boy Color",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "A coloração verde permite que se esconda entre as folhas, onde passa despercebido.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Johto #024",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Durante a manhã e o dia. Route 24: Durante a manhã e o dia. Route 25: Durante a manhã e o dia. Route 30: Durante a manhã e o dia. Route 31: Durante a manhã e o dia. Ilex Forest: Durante a manhã e o dia. National Park: Durante a manhã e o dia. National Park: Concurso de captura de insetos, realizado às terças, quintas e sábados. Ilex Forest: Use Headbutt nas árvores compatíveis.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 24",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 25",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 30",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 31",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Ilex Forest",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "National Park",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "National Park",
+          "method": "Bug-Catching Contest",
+          "details": "Concurso de captura de insetos, realizado às terças, quintas e sábados."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Ilex Forest",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Sistema histórico sem EVs modernos. Golpes separados por método.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "ruby": {
+      "game_name": "Pokémon Ruby",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Tem grande apetite, devora folhas maiores que seu corpo e usa o cheiro da antena para repelir inimigos.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca com outra edição compatível: Não há encontro selvagem nesta edição; obtenha Caterpie por troca.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Troca com outra edição compatível",
+          "method": "Troca",
+          "details": "Não há encontro selvagem nesta edição; obtenha Caterpie por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "sapphire": {
+      "game_name": "Pokémon Sapphire",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Tem grande apetite, devora folhas maiores que seu corpo e usa o cheiro da antena para repelir inimigos.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca com outra edição compatível: Não há encontro selvagem nesta edição; obtenha Caterpie por troca.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Troca com outra edição compatível",
+          "method": "Troca",
+          "details": "Não há encontro selvagem nesta edição; obtenha Caterpie por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "firered": {
+      "game_name": "Pokémon FireRed",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "A pele verde ajuda a camuflá-lo na vegetação. Troca de pele repetidamente e produz seda antes da evolução.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Route 24: Encontre Caterpie na vegetação alta. Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta. Pattern Bush: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 24",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 25",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Pattern Bush",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "leafgreen": {
+      "game_name": "Pokémon LeafGreen",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Os pequenos pés aderem às superfícies, permitindo que Caterpie suba encostas e paredes.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Route 24: Encontre Caterpie na vegetação alta. Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta. Pattern Bush: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 24",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 25",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Pattern Bush",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "emerald": {
+      "game_name": "Pokémon Emerald",
+      "gen": "III",
+      "console": "Game Boy Advance",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "É voraz, devora folhas grandes e afasta inimigos com o odor da antena.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca com outra edição compatível: Não há encontro selvagem nesta edição; obtenha Caterpie por troca.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Troca com outra edição compatível",
+          "method": "Troca",
+          "details": "Não há encontro selvagem nesta edição; obtenha Caterpie por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "diamond": {
+      "game_name": "Pokémon Diamond",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 204: Insira Pokémon FireRed no compartimento GBA de um Nintendo DS ou DS Lite.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 204",
+          "method": "Encontro selvagem",
+          "details": "Insira Pokémon FireRed no compartimento GBA de um Nintendo DS ou DS Lite."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "pearl": {
+      "game_name": "Pokémon Pearl",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 204: Insira Pokémon FireRed no compartimento GBA de um Nintendo DS ou DS Lite.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 204",
+          "method": "Encontro selvagem",
+          "details": "Insira Pokémon FireRed no compartimento GBA de um Nintendo DS ou DS Lite."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "platinum": {
+      "game_name": "Pokémon Platinum",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 204: Insira Pokémon FireRed no compartimento GBA de um Nintendo DS ou DS Lite. Eterna Forest: Insira Pokémon FireRed no compartimento GBA de um Nintendo DS ou DS Lite.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 204",
+          "method": "Encontro selvagem",
+          "details": "Insira Pokémon FireRed no compartimento GBA de um Nintendo DS ou DS Lite."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Eterna Forest",
+          "method": "Encontro selvagem",
+          "details": "Insira Pokémon FireRed no compartimento GBA de um Nintendo DS ou DS Lite."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "heartgold": {
+      "game_name": "Pokémon HeartGold",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Quando ameaçado, libera pela antena um cheiro repulsivo para afastar o inimigo.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Johto #024",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Durante a manhã e o dia. Route 30: Durante a manhã e o dia. Route 31: Durante a manhã e o dia. Ilex Forest: Durante a manhã e o dia. National Park: Durante a manhã e o dia. Viridian Forest: Durante a manhã e o dia. National Park: Concurso de captura de insetos, realizado às terças, quintas e sábados. Ilex Forest: Use Headbutt nas árvores compatíveis.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 30",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 31",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Ilex Forest",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "National Park",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Durante a manhã e o dia."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "National Park",
+          "method": "Bug-Catching Contest",
+          "details": "Concurso de captura de insetos, realizado às terças, quintas e sábados."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Ilex Forest",
+          "method": "Headbutt",
+          "details": "Use Headbutt nas árvores compatíveis."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "name": "String Shot",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "soulsilver": {
+      "game_name": "Pokémon SoulSilver",
+      "gen": "IV",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Seus pés adesivos agarram-se a diferentes superfícies. Ele escala árvores em busca de alimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Johto #024",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "National Park: Concurso de captura de insetos, realizado às terças, quintas e sábados.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "National Park",
+          "method": "Bug-Catching Contest",
+          "details": "Concurso de captura de insetos, realizado às terças, quintas e sábados."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15
+          },
+          {
+            "name": "String Shot",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "53",
+      "base_friendship": "70"
+    },
+    "black": {
+      "game_name": "Pokémon Black",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca com outra edição compatível: Não há encontro selvagem nesta edição; obtenha Caterpie por troca.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Troca com outra edição compatível",
+          "method": "Troca",
+          "details": "Não há encontro selvagem nesta edição; obtenha Caterpie por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "white": {
+      "game_name": "Pokémon White",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Day Care: Cruze um membro compatível da linha evolutiva para obter um ovo de Caterpie.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Day Care",
+          "method": "Reprodução",
+          "details": "Cruze um membro compatível da linha evolutiva para obter um ovo de Caterpie."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "black2": {
+      "game_name": "Pokémon Black 2",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca com outra edição compatível: Não há encontro selvagem nesta edição; obtenha Caterpie por troca.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Troca com outra edição compatível",
+          "method": "Troca",
+          "details": "Não há encontro selvagem nesta edição; obtenha Caterpie por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "name": "Electroweb",
+            "method": "tutor",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "white2": {
+      "game_name": "Pokémon White 2",
+      "gen": "V",
+      "console": "Nintendo DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Day Care: Cruze um membro compatível da linha evolutiva para obter um ovo de Caterpie.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Day Care",
+          "method": "Reprodução",
+          "details": "Cruze um membro compatível da linha evolutiva para obter um ovo de Caterpie."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "name": "Electroweb",
+            "method": "tutor",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "x": {
+      "game_name": "Pokémon X",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Quando ameaçado, libera pela antena um cheiro repulsivo para afastar o inimigo.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kalos Central #023",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Santalune Forest: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Santalune Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "y": {
+      "game_name": "Pokémon Y",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Seus pés adesivos agarram-se a diferentes superfícies. Ele escala árvores em busca de alimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kalos Central #023",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Santalune Forest: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Santalune Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "omega-ruby": {
+      "game_name": "Pokémon Omega Ruby",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Tem grande apetite, devora folhas maiores que seu corpo e usa o cheiro da antena para repelir inimigos.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca com outra edição compatível: Não há encontro selvagem nesta edição; obtenha Caterpie por troca.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Troca com outra edição compatível",
+          "method": "Troca",
+          "details": "Não há encontro selvagem nesta edição; obtenha Caterpie por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "name": "Electroweb",
+            "method": "tutor",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "alpha-sapphire": {
+      "game_name": "Pokémon Alpha Sapphire",
+      "gen": "VI",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Tem grande apetite, devora folhas maiores que seu corpo e usa o cheiro da antena para repelir inimigos.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca com outra edição compatível: Não há encontro selvagem nesta edição; obtenha Caterpie por troca.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Troca com outra edição compatível",
+          "method": "Troca",
+          "details": "Não há encontro selvagem nesta edição; obtenha Caterpie por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 15
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "name": "Electroweb",
+            "method": "tutor",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "sun": {
+      "game_name": "Pokémon Sun",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Apesar do cheiro defensivo da antena, é caçado por Pokémon pássaros.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Alola #017",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 1: Encontre Caterpie na vegetação alta. Route 5: Encontre Caterpie na vegetação alta. Melemele Meadow: Encontre Caterpie na vegetação alta. Lush Jungle: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 1",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 5",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Melemele Meadow",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Lush Jungle",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "moon": {
+      "game_name": "Pokémon Moon",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "É fácil de capturar e cresce rapidamente, características que favorecem treinadores iniciantes.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Alola #017",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 1: Encontre Caterpie na vegetação alta. Route 5: Encontre Caterpie na vegetação alta. Melemele Meadow: Encontre Caterpie na vegetação alta. Lush Jungle: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 1",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 5",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Melemele Meadow",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Lush Jungle",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "ultra-sun": {
+      "game_name": "Pokémon Ultra Sun",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Seu apetite é tão grande que consegue consumir cerca de cem folhas em um dia.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Alola #017",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 1: Encontre Caterpie na vegetação alta. Route 5: Encontre Caterpie na vegetação alta. Melemele Meadow: Encontre Caterpie na vegetação alta. Lush Jungle: Pode aparecer como aliado chamado durante uma batalha selvagem.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 1",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 5",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Melemele Meadow",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Lush Jungle",
+          "method": "SOS Battle",
+          "details": "Pode aparecer como aliado chamado durante uma batalha selvagem."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "name": "Electroweb",
+            "method": "tutor",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "ultra-moon": {
+      "game_name": "Pokémon Ultra Moon",
+      "gen": "VII",
+      "console": "Nintendo 3DS",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Seu corpo mole oferece pouca proteção, tornando-o presa de outros Pokémon.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Alola #017",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 1: Encontre Caterpie na vegetação alta. Route 5: Encontre Caterpie na vegetação alta. Melemele Meadow: Encontre Caterpie na vegetação alta. Lush Jungle: Pode aparecer como aliado chamado durante uma batalha selvagem.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 1",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 5",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Melemele Meadow",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Lush Jungle",
+          "method": "SOS Battle",
+          "details": "Pode aparecer como aliado chamado durante uma batalha selvagem."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20
+          },
+          {
+            "name": "Electroweb",
+            "method": "tutor",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15
+          },
+          {
+            "name": "Snore",
+            "method": "tutor",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 15
+          }
+        ],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "lets-go-pikachu": {
+      "game_name": "Pokémon Let's Go, Pikachu!",
+      "gen": "VII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Ao tocar a antena da cabeça, Caterpie libera um odor desagradável para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Esta edição usa AVs, não EVs convencionais, e não tem habilidades ou reprodução.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "lets-go-eevee": {
+      "game_name": "Pokémon Let's Go, Eevee!",
+      "gen": "VII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Ao tocar a antena da cabeça, Caterpie libera um odor desagradável para se defender.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Esta edição usa AVs, não EVs convencionais, e não tem habilidades ou reprodução.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "70"
+    },
+    "sword": {
+      "game_name": "Pokémon Sword",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Quando ameaçado, libera pela antena um cheiro repulsivo para afastar o inimigo.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Galar #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 1: Encontre Caterpie na vegetação alta. Bridge Field: Pode aparecer em tocas compatíveis. Dappled Grove: Pode aparecer em tocas compatíveis. Rolling Fields: Pode aparecer em tocas compatíveis. South Lake Miloch: Pode aparecer em tocas compatíveis.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 1",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Bridge Field",
+          "method": "Max Raid Battle",
+          "details": "Pode aparecer em tocas compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Dappled Grove",
+          "method": "Max Raid Battle",
+          "details": "Pode aparecer em tocas compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Rolling Fields",
+          "method": "Max Raid Battle",
+          "details": "Pode aparecer em tocas compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "South Lake Miloch",
+          "method": "Max Raid Battle",
+          "details": "Pode aparecer em tocas compatíveis."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9
+          }
+        ],
+        "evolution": [],
+        "tm": [
+          {
+            "name": "Electroweb",
+            "method": "tm",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "machine": "TM82"
+          }
+        ],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "50"
+    },
+    "shield": {
+      "game_name": "Pokémon Shield",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Os pequenos pés aderem às superfícies, permitindo que Caterpie suba encostas e paredes.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Galar #013",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 1: Encontre Caterpie na vegetação alta. Bridge Field: Pode aparecer em tocas compatíveis. Dappled Grove: Pode aparecer em tocas compatíveis. Rolling Fields: Pode aparecer em tocas compatíveis. South Lake Miloch: Pode aparecer em tocas compatíveis.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 1",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Bridge Field",
+          "method": "Max Raid Battle",
+          "details": "Pode aparecer em tocas compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Dappled Grove",
+          "method": "Max Raid Battle",
+          "details": "Pode aparecer em tocas compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Rolling Fields",
+          "method": "Max Raid Battle",
+          "details": "Pode aparecer em tocas compatíveis."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "South Lake Miloch",
+          "method": "Max Raid Battle",
+          "details": "Pode aparecer em tocas compatíveis."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9
+          }
+        ],
+        "evolution": [],
+        "tm": [
+          {
+            "name": "Electroweb",
+            "method": "tm",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "machine": "TM82"
+          }
+        ],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "50"
+    },
+    "brilliant-diamond": {
+      "game_name": "Pokémon Brilliant Diamond",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Grassland Cave: No Grand Underground, após obter a Pokédex Nacional. Fountainspring Cave: No Grand Underground, após obter a Pokédex Nacional. Riverbank Cave: No Grand Underground, após obter a Pokédex Nacional. Sunlit Cavern: No Grand Underground, após obter a Pokédex Nacional. Still-Water Cavern: No Grand Underground, após obter a Pokédex Nacional. Spacious Cave: No Grand Underground, após obter a Pokédex Nacional. Bogsunk Cavern: No Grand Underground, após obter a Pokédex Nacional.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Grassland Cave",
+          "method": "Encontro selvagem",
+          "details": "No Grand Underground, após obter a Pokédex Nacional."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Fountainspring Cave",
+          "method": "Encontro selvagem",
+          "details": "No Grand Underground, após obter a Pokédex Nacional."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Riverbank Cave",
+          "method": "Encontro selvagem",
+          "details": "No Grand Underground, após obter a Pokédex Nacional."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Sunlit Cavern",
+          "method": "Encontro selvagem",
+          "details": "No Grand Underground, após obter a Pokédex Nacional."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Still-Water Cavern",
+          "method": "Encontro selvagem",
+          "details": "No Grand Underground, após obter a Pokédex Nacional."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Spacious Cave",
+          "method": "Encontro selvagem",
+          "details": "No Grand Underground, após obter a Pokédex Nacional."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Bogsunk Cavern",
+          "method": "Encontro selvagem",
+          "details": "No Grand Underground, após obter a Pokédex Nacional."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "50"
+    },
+    "shining-pearl": {
+      "game_name": "Pokémon Shining Pearl",
+      "gen": "VIII",
+      "console": "Nintendo Switch",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Ataque Especial",
+        "Defesa Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Shield Dust (Principal) · Run Away (Oculta).",
+      "breeding": "Grupo de ovos: Inseto · 50% macho / 50% fêmea. O ovo da linha evolutiva eclode como Caterpie.",
+      "pokedex_entry": "Usa a antena vermelha para liberar um odor desagradável. Troca de pele várias vezes durante o crescimento.",
+      "ev_yield": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Nacional #0010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Troca com outra edição compatível: Não há encontro selvagem nesta edição; obtenha Caterpie por troca.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Troca com outra edição compatível",
+          "method": "Troca",
+          "details": "Não há encontro selvagem nesta edição; obtenha Caterpie por troca."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          },
+          {
+            "name": "Bug Bite",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "level": 9
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Golpes organizados por método e edição. Caterpie não recebe golpes de ovo próprios.",
+      "last_review": "24/11/2026",
+      "base_exp": "39",
+      "base_friendship": "50"
+    },
+    "red-jp": {
+      "game_name": "Pokémon Red (JP)",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "A pele verde ajuda a camuflá-lo na vegetação. Troca de pele repetidamente e produz seda antes da evolução.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 25",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Sistema histórico sem EVs modernos. Golpes separados por método.",
+      "last_review": "24/11/2026",
+      "base_exp": "53"
+    },
+    "green-jp": {
+      "game_name": "Pokémon Green (JP)",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "A pele verde ajuda a camuflá-lo na vegetação. Troca de pele repetidamente e produz seda antes da evolução.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Route 24: Encontre Caterpie na vegetação alta. Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 24",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 25",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Sistema histórico sem EVs modernos. Golpes separados por método.",
+      "last_review": "24/11/2026",
+      "base_exp": "53"
+    },
+    "blue-jp": {
+      "game_name": "Pokémon Blue (JP)",
+      "gen": "I",
+      "console": "Game Boy",
+      "evolves_from": "Estágio inicial da linha evolutiva",
+      "evolves_to": "Metapod no nível 7",
+      "review_status": "partial",
+      "stats": [
+        45,
+        30,
+        35,
+        20,
+        45
+      ],
+      "stat_names": [
+        "HP",
+        "Ataque",
+        "Defesa",
+        "Especial",
+        "Velocidade"
+      ],
+      "types": [
+        "Inseto"
+      ],
+      "abilities": "Habilidades não são utilizadas nesta edição.",
+      "breeding": "A reprodução não existe nesta edição.",
+      "pokedex_entry": "Os pequenos pés aderem às superfícies, permitindo que Caterpie suba encostas e paredes.",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "pokedex_number": "Kanto #010",
+      "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+      "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/10.png",
+      "forms": [
+        {
+          "name": "Caterpie",
+          "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/10.png",
+          "types": [
+            "Inseto"
+          ],
+          "detail": "Forma padrão."
+        }
+      ],
+      "defenses": [
+        {
+          "type": "Fogo",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Voador",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Pedra",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Venenoso",
+          "multiplier": "2×",
+          "note": "Fraqueza"
+        },
+        {
+          "type": "Grama",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Lutador",
+          "multiplier": "½×",
+          "note": "Resistência"
+        },
+        {
+          "type": "Terrestre",
+          "multiplier": "½×",
+          "note": "Resistência"
+        }
+      ],
+      "obtaining": "Route 2: Encontre Caterpie na vegetação alta. Route 24: Encontre Caterpie na vegetação alta. Route 25: Encontre Caterpie na vegetação alta. Viridian Forest: Encontre Caterpie na vegetação alta.",
+      "encounters": [
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 2",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 24",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Route 25",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        },
+        {
+          "pokemon": "Caterpie",
+          "location": "Viridian Forest",
+          "method": "Encontro selvagem",
+          "details": "Encontre Caterpie na vegetação alta."
+        }
+      ],
+      "moves_by_method": {
+        "level": [
+          {
+            "name": "Tackle",
+            "method": "level",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 35,
+            "accuracy": 95,
+            "pp": 35,
+            "level": 1
+          },
+          {
+            "name": "String Shot",
+            "method": "level",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "level": 1
+          }
+        ],
+        "evolution": [],
+        "tm": [],
+        "tr": [],
+        "egg": [],
+        "tutor": [],
+        "other": []
+      },
+      "learnset_notes": "Sistema histórico sem EVs modernos. Golpes separados por método.",
+      "last_review": "24/11/2026",
+      "base_exp": "53"
+    }
+  },
+  "spin_off_games": {
+    "title": "Além dos jogos principais",
+    "lead": "Participações documentadas de Caterpie em jogos derivados e métodos de obtenção.",
+    "entries": [
+      {
+        "game": "Pokémon Pinball",
+        "year": 1999,
+        "category": "Pinball",
+        "description": "Caterpie é uma espécie registrável nas mesas.",
+        "obtaining": "Capture-o nas áreas de Viridian Forest e Cerulean City, conforme a mesa."
+      },
+      {
+        "game": "Pokémon Channel",
+        "year": 2003,
+        "category": "Simulação",
+        "description": "Caterpie aparece no ambiente explorável.",
+        "obtaining": "Procure-o na floresta."
+      },
+      {
+        "game": "Pokémon Trozei!",
+        "year": 2005,
+        "category": "Quebra-cabeça",
+        "description": "Caterpie é uma peça colecionável.",
+        "obtaining": "Phobos Train, Endless Level 9, Trozei Battle e esconderijo de Mr. Who."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
+        "year": 2005,
+        "category": "Exploração",
+        "description": "Caterpie é o primeiro cliente que pede ajuda para resgatar seu amigo Metapod.",
+        "obtaining": "Pode ser recrutado nos andares B2F a B4F de Wish Cave."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
+        "year": 2007,
+        "category": "Exploração",
+        "description": "Caterpie é recrutável durante a exploração.",
+        "obtaining": "Apple Woods e Oran Forest, andares 1F a 4F."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Explorers of Sky",
+        "year": 2009,
+        "category": "Exploração",
+        "description": "Caterpie é recrutável durante a exploração.",
+        "obtaining": "Apple Woods e Oran Forest, andares 1F a 4F."
+      },
+      {
+        "game": "Pokémon Rumble",
+        "year": 2009,
+        "category": "Ação",
+        "description": "Caterpie aparece como Pokémon de brinquedo.",
+        "obtaining": "Silent Forest, dificuldade Normal, Rank C."
+      },
+      {
+        "game": "PokéPark Wii: Pikachu’s Adventure",
+        "year": 2009,
+        "category": "Aventura",
+        "description": "Caterpie vive na Meadow Zone.",
+        "obtaining": "Interaja com ele na White Tree e participe de Bulbasaur's Daring Dash."
+      },
+      {
+        "game": "Pokémon Rumble Blast",
+        "year": 2011,
+        "category": "Ação",
+        "description": "Caterpie aparece como Pokémon de brinquedo.",
+        "obtaining": "Sun-Dappled Bank, área Treetops."
+      },
+      {
+        "game": "PokéPark 2: Wonders Beyond",
+        "year": 2011,
+        "category": "Aventura",
+        "description": "Caterpie vive na Arbor Area.",
+        "obtaining": "Encontre-o durante a exploração."
+      },
+      {
+        "game": "Pokémon Rumble U",
+        "year": 2013,
+        "category": "Ação",
+        "description": "Caterpie participa dos desafios em arenas.",
+        "obtaining": "Vehicle Gallery: Slithering Trains e Chill Battle: Forest of Memories."
+      },
+      {
+        "game": "Pokémon Battle Trozei",
+        "year": 2014,
+        "category": "Quebra-cabeça",
+        "description": "Caterpie aparece como peça do quebra-cabeça.",
+        "obtaining": "Safari Jungle, estágio 2, domingo."
+      },
+      {
+        "game": "Pokémon Rumble World",
+        "year": 2015,
+        "category": "Ação",
+        "description": "Caterpie aparece em áreas de floresta.",
+        "obtaining": "Fairy Land: Pixie Glen; Origin Hideaway: Old-Growth Woods."
+      },
+      {
+        "game": "Pokémon Shuffle",
+        "year": 2015,
+        "category": "Quebra-cabeça",
+        "description": "Caterpie pode ser capturado em estágio especial.",
+        "obtaining": "Pokémon Safari, 20ª edição."
+      },
+      {
+        "game": "Pokémon Super Mystery Dungeon",
+        "year": 2015,
+        "category": "Exploração",
+        "description": "Caterpie pode integrar a rede de conexões.",
+        "obtaining": "Converse com ele em Serene Village."
+      },
+      {
+        "game": "Pokémon GO",
+        "year": 2016,
+        "category": "Captura e evolução",
+        "description": "Caterpie é do tipo Inseto. Sua forma Brilhante está disponível.",
+        "obtaining": "Capture Caterpie e use 12 Doces Caterpie para evoluí-lo para Metapod. Como companheiro, encontra doces a cada 1 km.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/pokemongo-sprites/main/normal/10.webp",
+          "alt": "Caterpie em Pokémon GO"
+        }
+      },
+      {
+        "game": "Pokémon Quest",
+        "year": 2018,
+        "category": "Exploração",
+        "description": "Caterpie pode integrar a equipe na Ilha Tumblecube.",
+        "obtaining": "Prepare receitas de atração, como Mulligan Stew à la Cube."
+      },
+      {
+        "game": "Pokémon Rumble Rush",
+        "year": 2019,
+        "category": "Ação",
+        "description": "Caterpie aparece como Pokémon de brinquedo.",
+        "obtaining": "Disponível no tutorial e em explorações de ilhas compatíveis."
+      },
+      {
+        "game": "Pokémon Masters EX",
+        "year": 2019,
+        "category": "Batalhas por duplas",
+        "description": "Caterpie pode formar dupla com o protagonista a partir de um ovo.",
+        "obtaining": "Obtenha ovos que incluam a espécie em eventos de ovos compatíveis."
+      },
+      {
+        "game": "Pokémon Mystery Dungeon: Rescue Team DX",
+        "year": 2020,
+        "category": "Exploração",
+        "description": "Caterpie participa do primeiro pedido de resgate e pode integrar a equipe.",
+        "obtaining": "Purity Forest, andares 2F a 4F; também pode aparecer desmaiado em masmorras compatíveis."
+      },
+      {
+        "game": "New Pokémon Snap",
+        "year": 2021,
+        "category": "Fotografia",
+        "description": "Caterpie pode ser fotografado durante expedições noturnas.",
+        "obtaining": "Florio Nature Park (noite) e Secret Side Path (noite)."
+      },
+      {
+        "game": "Pokémon Sleep",
+        "year": 2023,
+        "category": "Pesquisa de sono",
+        "description": "Caterpie é especialista em frutas, coleta Lum Berry e aparece no tipo de sono Dozing.",
+        "obtaining": "Pesquise seus estilos de sono nas áreas compatíveis; evolui a partir do nível 5 com 40 Doces Caterpie."
+      }
+    ]
+  },
+  "media_appearances": {
+    "anime": [
+      {
+        "title_en": "Pokémon Emergency!",
+        "appearance": "Estreia",
+        "description": "Ash encontra um Caterpie selvagem na floresta ao final do episódio.",
+        "episode_code": "EP002",
+        "jp_number": 2,
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Emergência Pokémon!",
+        "title_ja": "たいけつ！ポケモンセンター！"
+      },
+      {
+        "title_en": "Ash Catches a Pokémon",
+        "appearance": "Caterpie de Ash",
+        "description": "Ash captura Caterpie, que derrota Ekans e Koffing com sua seda e evolui para Metapod.",
+        "episode_code": "EP003",
+        "jp_number": 3,
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Ash Pega um Pokémon",
+        "title_ja": "ポケモン ゲットだぜ！"
+      },
+      {
+        "title_en": "Bulbasaur and the Hidden Village",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie vive no refúgio de Pokémon mantido por Melanie.",
+        "episode_code": "EP010",
+        "jp_number": 10,
+        "season_reference": 1,
+        "season": "Liga Índigo"
+      },
+      {
+        "title_en": "Electric Shock Showdown",
+        "appearance": "Pokémon de treinador",
+        "description": "Um Caterpie ferido após enfrentar o Raichu de Lt. Surge recebe atendimento no Centro Pokémon.",
+        "episode_code": "EP014",
+        "jp_number": 14,
+        "season_reference": 1,
+        "season": "Liga Índigo"
+      },
+      {
+        "title_en": "Battle Aboard the St. Anne",
+        "appearance": "Pokémon de treinador",
+        "description": "Caterpie aparece entre os Pokémon a bordo do navio.",
+        "episode_code": "EP015",
+        "jp_number": 15,
+        "season_reference": 1,
+        "season": "Liga Índigo"
+      },
+      {
+        "title_en": "Pokémon Fashion Flash",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante a visita à cidade conhecida pela moda Pokémon.",
+        "episode_code": "EP028",
+        "jp_number": 28,
+        "season_reference": 1,
+        "season": "Liga Índigo"
+      },
+      {
+        "title_en": "Dig Those Diglett!",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie aparece entre os Pokémon da floresta.",
+        "episode_code": "EP031",
+        "jp_number": 31,
+        "season_reference": 1,
+        "season": "Liga Índigo"
+      },
+      {
+        "title_en": "The Ultimate Test",
+        "appearance": "Exame",
+        "description": "Caterpie aparece no episódio do exame de admissão à Liga Pokémon.",
+        "episode_code": "EP056",
+        "jp_number": 56,
+        "season_reference": 1,
+        "season": "Liga Índigo"
+      },
+      {
+        "title_en": "The Breeding Center Secret",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece no centro de criação explorado pela Equipe Rocket.",
+        "episode_code": "EP057",
+        "jp_number": 57,
+        "season_reference": 1,
+        "season": "Liga Índigo"
+      },
+      {
+        "title_en": "Clefairy Tales",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante os acontecimentos relacionados à nave de Clefairy."
+      },
+      {
+        "title_en": "In the Pink",
+        "appearance": "Coloração especial",
+        "description": "Um Caterpie cor-de-rosa habita Pinkan Island, onde os frutos locais alteram a coloração dos Pokémon."
+      },
+      {
+        "title_en": "Tracey Gets Bugged",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie vive em Murcott Island, ilha conhecida por seus Pokémon insetos."
+      },
+      {
+        "title_en": "Wherefore Art Thou, Pokémon?",
+        "appearance": "Flashback",
+        "description": "Caterpie aparece na recordação envolvendo Ralph e Emily."
+      },
+      {
+        "title_en": "Illusion Confusion!",
+        "appearance": "Ilusão",
+        "description": "Caterpie aparece em uma ilusão provocada por Haunter e Gengar."
+      },
+      {
+        "title_en": "For Crying Out Loud",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie é atingido pela água lançada pelo Marill de Wilhomena."
+      },
+      {
+        "title_en": "Gettin' The Bugs Out",
+        "appearance": "Pokémon de treinador",
+        "description": "Caterpie do ginásio de Azalea ajuda a conter a Equipe Rocket com sua seda."
+      },
+      {
+        "title_en": "The Bug Stops Here",
+        "appearance": "Pokémon selvagem",
+        "description": "Misty se assusta com Caterpie durante os acontecimentos do concurso de captura de insetos."
+      },
+      {
+        "title_en": "Carrying On!",
+        "appearance": "Centro Pokémon",
+        "description": "Caterpie aparece no Centro Pokémon de Way Away Island."
+      },
+      {
+        "title_en": "Wings 'N' Things",
+        "appearance": "Imaginação",
+        "description": "Caterpie aparece em uma fantasia de Jessie."
+      },
+      {
+        "title_en": "Got Miltank?",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie habita o oásis visitado por Ash e seus amigos."
+      },
+      {
+        "title_en": "For Ho-Oh the Bells Toll!",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie aparece entre os Pokémon que reagem à perturbação causada pelo roubo dos sinos."
+      },
+      {
+        "title_en": "Bulbasaur... the Ambassador!",
+        "appearance": "Flashback",
+        "description": "Caterpie reaparece em uma lembrança do refúgio de Melanie."
+      },
+      {
+        "title_en": "Talkin' 'Bout an Evolution",
+        "appearance": "Pokémon afetado",
+        "description": "Caterpie está entre os Pokémon afetados pelos experimentos da Equipe Rocket."
+      },
+      {
+        "title_en": "The Dunsparce Deception",
+        "appearance": "Pokémon de treinador",
+        "description": "Caterpie participa dos acontecimentos envolvendo Bucky e a corrida de Pokémon."
+      },
+      {
+        "title_en": "Gonna Rule The School!",
+        "appearance": "Escola",
+        "description": "Caterpie é um dos Pokémon disponibilizados para os alunos da escola de treinadores.",
+        "episode_code": "AG015",
+        "jp_number": 289,
+        "season_reference": 6,
+        "season": "Avançado"
+      },
+      {
+        "title_en": "Hi Ho Silver Wind!",
+        "appearance": "Pokémon de coordenador",
+        "description": "Caterpie aparece durante os preparativos do Grande Festival."
+      },
+      {
+        "title_en": "Caterpie's Big Dilemma",
+        "appearance": "Caterpie de Zander",
+        "description": "O Caterpie de Zander cresce de forma anormal após ingerir uma fórmula experimental e passa por suas evoluções.",
+        "episode_code": "AG142",
+        "jp_number": 416
+      },
+      {
+        "title_en": "The Green Guardian",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante a passagem dos protagonistas pela floresta."
+      },
+      {
+        "title_en": "What I Did for Love!",
+        "appearance": "Pokémon de coordenador",
+        "description": "Um Caterpie aparece no concurso Pokémon.",
+        "episode_code": "AG167",
+        "jp_number": 441,
+        "season_reference": 9,
+        "season": "Batalha da Fronteira"
+      },
+      {
+        "title_en": "Some Enchanted Sweetening!",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie aparece durante a busca de Cheryl por mel."
+      },
+      {
+        "title_en": "The Grass-Type Is Always Greener!",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante os acontecimentos envolvendo Cheryl e a floresta."
+      },
+      {
+        "title_en": "An Angry Combeenation!",
+        "appearance": "Pokémon selvagem",
+        "description": "Dois Caterpie aparecem durante a busca pelo mel de Combee."
+      },
+      {
+        "title_en": "One Big Happiny Family!",
+        "appearance": "Imaginação",
+        "description": "Caterpie aparece em uma fantasia de Jessie."
+      },
+      {
+        "title_en": "One Team, Two Team, Red Team, Blue Team!",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante o acampamento de verão Pokémon.",
+        "episode_code": "DP091",
+        "jp_number": 557,
+        "season_reference": 11,
+        "season": "Dimensão de Batalha",
+        "title_pt": "Uma Equipe, Duas Equipes, Equipe Vermelha, Equipe Azul!",
+        "title_ja": "最後の大勝負！ポケモントライアスロン！！"
+      },
+      {
+        "title_en": "Coming Full-Festival Circle!",
+        "appearance": "Participação breve",
+        "description": "Vários Caterpie aparecem durante os acontecimentos do Grande Festival."
+      },
+      {
+        "title_en": "Butterfree and Me!",
+        "appearance": "Pokémon selvagem",
+        "description": "Ash ajuda um Caterpie da Wayfarer Island a amadurecer e evoluir até Butterfree.",
+        "episode_code": "BW130",
+        "jp_number": 787,
+        "season_reference": 16,
+        "season": "Aventuras em Unova"
+      },
+      {
+        "title_en": "Kalos, Where Dreams and Adventures Begin!",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece na estreia da jornada de Ash em Kalos."
+      },
+      {
+        "title_en": "Lumiose City Pursuit!",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante os acontecimentos em Lumiose City."
+      },
+      {
+        "title_en": "Mega-Mega Meowth Madness!",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante os acontecimentos envolvendo a Equipe Rocket."
+      },
+      {
+        "title_en": "Day Three Blockbusters!",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante o acampamento de verão de Kalos."
+      },
+      {
+        "title_en": "Battling With a Clean Slate!",
+        "appearance": "Laboratório",
+        "description": "Caterpie aparece no laboratório do Professor Sycamore."
+      },
+      {
+        "title_en": "Seeing the Forest for the Trees!",
+        "appearance": "Flashback",
+        "description": "Caterpie aparece em uma lembrança."
+      },
+      {
+        "title_en": "Lillie's Egg-xhilarating Challenge!",
+        "appearance": "Pokémon selvagem",
+        "description": "Dois Caterpie aparecem no jardim de Lillie."
+      },
+      {
+        "title_en": "The Ol' Raise and Switch!",
+        "appearance": "Pokémon selvagem",
+        "description": "Um Caterpie reaparece no jardim."
+      },
+      {
+        "title_en": "Lulled to La-La Land!",
+        "appearance": "Imaginação",
+        "description": "Caterpie aparece em uma cena imaginada."
+      },
+      {
+        "title_en": "Alola, Kanto!",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie aparece durante a visita da turma à região de Kanto.",
+        "episode_code": "SM042",
+        "jp_number": 981,
+        "season_reference": 20,
+        "season": "Sol e Lua"
+      },
+      {
+        "title_en": "Now You See Them, Now You Don't!",
+        "appearance": "Pokémon de treinador",
+        "description": "Um treinador aparece acompanhado de Caterpie."
+      },
+      {
+        "title_en": "Tasting the Bitter with the Sweet!",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante os acontecimentos em Alola."
+      },
+      {
+        "title_en": "Securing the Future!",
+        "appearance": "Pokémon de treinador e selvagem",
+        "description": "Caterpie aparece entre os Pokémon que contribuem com sua luz para ajudar Necrozma."
+      },
+      {
+        "title_en": "The Battlefield of Truth and Love!",
+        "appearance": "Pokémon espectador",
+        "description": "Caterpie observa Bewear e Stufful."
+      },
+      {
+        "title_en": "Exhibition Unmasked!",
+        "appearance": "Pokémon espectador",
+        "description": "Caterpie de treinador assiste à batalha de exibição."
+      },
+      {
+        "title_en": "From Z to Shining Z!",
+        "appearance": "Pokémon espectador",
+        "description": "Caterpie de treinador aparece durante o confronto de exibição."
+      },
+      {
+        "title_en": "Enter Pikachu!",
+        "appearance": "Flashback",
+        "description": "Dois Caterpie aparecem no passado de Pikachu; um deles é capturado por uma treinadora.",
+        "episode_code": "JN001",
+        "jp_number": 1086,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "A chegada de Pikachu!",
+        "title_ja": "ピカチュウ誕生！"
+      },
+      {
+        "title_en": "Legend? Go! Friends? Go!",
+        "appearance": "Holograma",
+        "description": "Três Caterpie aparecem na apresentação holográfica.",
+        "episode_code": "JN002",
+        "jp_number": 1087,
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_pt": "Lendário? Sim! Amigos? Sim!",
+        "title_ja": "サトシとゴウ、ルギアでゴー！"
+      },
+      {
+        "title_en": "Working My Way Back to Mew!",
+        "appearance": "Caterpie de Goh",
+        "description": "Goh captura Caterpie durante sua primeira grande sequência de capturas de Pokémon insetos.",
+        "episode_code": "JN006",
+        "jp_number": 1091,
+        "season_reference": 23,
+        "season": "Jornadas"
+      },
+      {
+        "title_en": "Serving Up the Flute Cup!",
+        "appearance": "Caterpie de Goh",
+        "description": "O Caterpie capturado por Goh reaparece."
+      },
+      {
+        "title_en": "Finding a Legend!",
+        "appearance": "Caterpie de Goh",
+        "description": "O Caterpie de Goh reaparece durante sua jornada."
+      },
+      {
+        "title_en": "Best Friend... Worst Nightmare!",
+        "appearance": "Caterpie de Goh",
+        "description": "Caterpie aparece entre os Pokémon de Goh."
+      },
+      {
+        "title_en": "Raid Battle in the Ruins!",
+        "appearance": "Caterpie de Goh",
+        "description": "O Caterpie de Goh reaparece."
+      },
+      {
+        "title_en": "A Snow Day for Searching!",
+        "appearance": "Caterpie de Goh",
+        "description": "Caterpie aparece durante a busca pelo osso perdido de Cubone."
+      },
+      {
+        "title_en": "Caring for a Mystery!",
+        "appearance": "Pokémon de treinador",
+        "description": "Um treinador aparece acompanhado de Caterpie."
+      },
+      {
+        "title_en": "Panic in the Park!",
+        "appearance": "Caterpie de Goh",
+        "description": "Caterpie aparece no parque do laboratório."
+      },
+      {
+        "title_en": "The Cuteness Quotient!",
+        "appearance": "Caterpie de Goh",
+        "description": "Caterpie aparece entre os Pokémon de Goh."
+      },
+      {
+        "title_en": "Gotta Catch a What?!",
+        "appearance": "Caterpie de Goh",
+        "description": "Caterpie reaparece como Pokémon de Goh."
+      },
+      {
+        "title_en": "A Festival Reunion!",
+        "appearance": "Pokémon de treinador",
+        "description": "Caterpie aparece acompanhado de um treinador."
+      },
+      {
+        "title_en": "Trade, Borrow, and Steal!",
+        "appearance": "Participação breve",
+        "description": "Caterpie aparece durante os acontecimentos ligados ao evento de trocas."
+      },
+      {
+        "title_en": "That New Old Gang of Mine!",
+        "appearance": "Pokémon de treinador",
+        "description": "Um treinador aparece acompanhado de Caterpie."
+      },
+      {
+        "title_en": "Not Too Close for Comfort!",
+        "appearance": "Vídeo",
+        "description": "Caterpie aparece em um vídeo sobre evolução."
+      },
+      {
+        "title_en": "Take My Thief! Please!",
+        "appearance": "Pokémon de treinador",
+        "description": "Um treinador aparece acompanhado de Caterpie."
+      },
+      {
+        "title_en": "Infinite Possibilities!",
+        "appearance": "Participação breve",
+        "description": "Dois Caterpie aparecem no episódio."
+      },
+      {
+        "title_en": "Heroes Unite!",
+        "appearance": "Flashback",
+        "description": "Caterpie aparece em uma recordação."
+      },
+      {
+        "title_en": "Must Be Our Heroes and the Witch!",
+        "appearance": "Ilusão",
+        "description": "Caterpie aparece em uma cena imaginada.",
+        "episode_code": "JN139",
+        "jp_number": 1224,
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "Os heróis e a Bruxa da Floresta!",
+        "title_ja": "タケシとデントともりのまじょ！"
+      },
+      {
+        "title_en": "The Rainbow and the Pokémon Master!",
+        "appearance": "Pokémon selvagem",
+        "description": "Caterpie se abriga em uma árvore durante a chuva.",
+        "episode_code": "JN147",
+        "jp_number": 1232,
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_pt": "O arco-íris e o mestre Pokémon!",
+        "title_ja": "虹とポケモンマスター！"
+      },
+      {
+        "title_en": "The Treasure After the Storm!",
+        "appearance": "Pokémon selvagem",
+        "description": "Dois Caterpie aparecem durante a jornada de Liko e Roy."
+      },
+      {
+        "title_en": "Found You, Fuecoco!",
+        "appearance": "Pokémon selvagem",
+        "description": "Dois Caterpie ajudam nos reparos do Brave Olivine com sua seda."
+      },
+      {
+        "title_en": "A New Song for Fuecoco",
+        "appearance": "Flashback",
+        "description": "Caterpie reaparece em uma lembrança."
+      }
+    ],
+    "films": [
+      {
+        "title_en": "Mewtwo Strikes Back",
+        "year": 1998,
+        "description": "Um treinador aparece acompanhado de Caterpie."
+      },
+      {
+        "title_en": "The Power of One",
+        "year": 1999,
+        "description": "Caterpie aparece entre os Pokémon afetados pelo desequilíbrio na natureza."
+      },
+      {
+        "title_en": "Celebi: The Voice of the Forest",
+        "year": 2001,
+        "description": "Caterpie aparece entre os habitantes da floresta."
+      },
+      {
+        "title_en": "Pokémon Heroes: Latios & Latias",
+        "year": 2002,
+        "description": "Caterpie aparece durante os acontecimentos em Alto Mare."
+      },
+      {
+        "title_en": "Destiny Deoxys",
+        "year": 2004,
+        "description": "Caterpie aparece durante os acontecimentos em LaRousse City."
+      },
+      {
+        "title_en": "Genesect and the Legend Awakened",
+        "year": 2013,
+        "description": "Caterpie habita Pokémon Hills."
+      },
+      {
+        "title_en": "I Choose You!",
+        "year": 2017,
+        "description": "Na continuidade alternativa, Ash captura Caterpie, que evolui para Metapod e Butterfree durante a jornada."
+      },
+      {
+        "title_en": "The Power of Us",
+        "year": 2018,
+        "description": "Caterpie aparece acompanhado de um treinador."
+      },
+      {
+        "title_en": "Secrets of the Jungle",
+        "year": 2020,
+        "description": "Caterpie aparece entre os Pokémon da floresta."
+      }
+    ],
+    "animations": [
+      {
+        "title_en": "Pikachu's Rescue Adventure",
+        "year": 1999,
+        "category": "Curta",
+        "description": "Caterpie aparece entre os Pokémon selvagens."
+      },
+      {
+        "title_en": "Camp Pikachu",
+        "year": 2002,
+        "category": "Curta",
+        "description": "Caterpie aparece durante a aventura dos Pokémon."
+      },
+      {
+        "title_en": "Pokémon Origins · File 1: Red",
+        "code": "PO01",
+        "year": 2013,
+        "description": "Caterpie aparece na série que adapta a jornada dos jogos de Kanto."
+      },
+      {
+        "title_en": "Pokémon Origins · File 3: Giovanni",
+        "code": "PO03",
+        "year": 2013,
+        "description": "Caterpie aparece no especial da jornada de Red."
+      },
+      {
+        "title_en": "Pokémon Generations · The Adventure",
+        "code": "PG01",
+        "year": 2016,
+        "description": "Caterpie aparece durante a sequência da jornada de Red."
+      },
+      {
+        "title_en": "Pokémon Evolutions · The Show",
+        "code": "PE07",
+        "year": 2021,
+        "description": "Caterpie aparece na animação ambientada em Johto."
+      },
+      {
+        "title_en": "Pokémon Evolutions · The Discovery",
+        "code": "PE08",
+        "year": 2021,
+        "description": "Caterpie aparece na animação ambientada em Kanto."
+      },
+      {
+        "title_en": "Distant Blue Sky!",
+        "year": 2022,
+        "category": "Especial",
+        "description": "Caterpie aparece durante a jornada de Ash."
+      },
+      {
+        "title_en": "POKÉTOON · My Gogoat Journey",
+        "category": "Animação derivada",
+        "description": "Caterpie aparece no curta sobre Gogoat."
+      }
+    ],
+    "manga": [
+      {
+        "title_en": "Pokémon Adventures · As Gastly as Before",
+        "appearance": "Kitty de Yellow",
+        "description": "Yellow encontra Caterpie, que se torna seu parceiro Kitty e posteriormente evolui para Butterfree."
+      },
+      {
+        "title_en": "Pokémon Adventures · Bulbasaur Come Home!",
+        "code": "PS002",
+        "description": "Caterpie aparece entre os Pokémon envolvidos na fuga do laboratório do Professor Oak."
+      },
+      {
+        "title_en": "Pokémon Adventures · The Secret of Kangaskhan",
+        "description": "Caterpie aparece durante a aventura de Red."
+      },
+      {
+        "title_en": "Pokémon Adventures · The Jynx Jinx",
+        "description": "Caterpie aparece em silhueta."
+      },
+      {
+        "title_en": "Pokémon Adventures · Three Cheers for Chikorita",
+        "description": "Caterpie é mencionado no capítulo."
+      },
+      {
+        "title_en": "Pokémon Adventures · Absolutely Azumarill",
+        "description": "Uma tentativa de captura de Caterpie não tem sucesso."
+      },
+      {
+        "title_en": "Pokémon Adventures · The Last Battle XIII",
+        "description": "Caterpie aparece durante os acontecimentos em Ilex Forest."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Catch That Pokémon Thief!!",
+        "description": "Caterpie aparece no mangá de Red e Clefairy."
+      },
+      {
+        "title_en": "The Electric Tale of Pikachu · Pikachu, I See You!",
+        "description": "Caterpie é o segundo Pokémon capturado por Ash nessa adaptação."
+      },
+      {
+        "title_en": "The Electric Tale of Pikachu · Play Misty For Me",
+        "description": "O Caterpie de Ash evolui para Metapod e depois para Butterfree."
+      },
+      {
+        "title_en": "Magical Pokémon Journey · Tangela's Secret",
+        "description": "Caterpie aparece durante os acontecimentos envolvendo Tangela."
+      },
+      {
+        "title_en": "Pokémon: Yeah! I Got Pokémon! · Shu and Pikachu",
+        "description": "Caterpie aparece na estreia da aventura de Shu e Pikachu."
+      },
+      {
+        "title_en": "Pokémon: Yeah! I Got Pokémon! · GDZ23",
+        "code": "GDZ23",
+        "description": "Caterpie aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon: Yeah! I Got Pokémon! · GDZ48",
+        "code": "GDZ48",
+        "description": "Caterpie aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Mystery Dungeon: Ginji's Rescue Team",
+        "description": "Ginji e Mudkip ajudam a resgatar Caterpie de Ariados."
+      },
+      {
+        "title_en": "Pokémon Journeys · Battle Frontier Challenge: The Flute Cup!",
+        "description": "O Caterpie capturado por Goh aparece na adaptação em mangá."
+      }
+    ]
+  },
+  "audit": {
+    "status": "partial",
+    "review_date": "2026-11-24",
+    "notes": "Cobertura inicial de 36 registros de edições. Movimentos e localizações organizados por edição; revisão factual individual adicional necessária. Catálogo de mídias não exaustivo; títulos brasileiros e japoneses sem confirmação, identificadores não confirmados e imagens não publicadas não foram inventados. Ícones de jogos derivados e pegada pendentes de validação e hospedagem."
+  }
+}
