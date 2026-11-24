@@ -166,7 +166,11 @@
         "game": "Pokémon Rumble",
         "year": 2009,
         "category": "Ação",
-        "description": "A espécie aparece em Bright Beach no modo Normal, níveis C e A."
+        "description": "A espécie aparece em Bright Beach no modo Normal, níveis C e A.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-rumble.png",
+          "alt": "Wartortle na arte de Pokémon Rumble Rush usada pelo Serebii para ilustrar Pokémon Rumble"
+        }
       },
       {
         "game": "PokéPark Wii: Pikachu’s Adventure",
@@ -178,7 +182,11 @@
         "game": "Pokémon Rumble Blast",
         "year": 2011,
         "category": "Ação",
-        "description": "Procure a espécie em Everspring Valley, no cenário Lake."
+        "description": "Procure a espécie em Everspring Valley, no cenário Lake.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-rumble-blast.png",
+          "alt": "Ícone de Wartortle em Pokémon Rumble Blast"
+        }
       },
       {
         "game": "PokéPark 2: Wonders Beyond",
@@ -190,7 +198,11 @@
         "game": "Pokémon Rumble U",
         "year": 2013,
         "category": "Ação",
-        "description": "Wartortle participa do desafio Wet and Wild Battle."
+        "description": "Wartortle participa do desafio Wet and Wild Battle.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-rumble-u.png",
+          "alt": "Ícone de Wartortle usado pelo Serebii na ficha de Pokémon Rumble U"
+        }
       },
       {
         "game": "Pokémon Battle Trozei",
