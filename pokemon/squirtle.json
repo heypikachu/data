@@ -27704,14 +27704,22 @@
         "year": 1999,
         "category": "Pinball",
         "description": "Squirtle pode ser registrado na mesa Blue.",
-        "obtaining": "Encontre-o em Viridian City na mesa Blue."
+        "obtaining": "Encontre-o em Viridian City na mesa Blue.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-pinball.gif",
+          "alt": "Sprite animado de Squirtle em Pokémon Pinball"
+        }
       },
       {
         "game": "Pokémon Stadium",
         "year": 1999,
         "category": "Batalha",
         "description": "Squirtle é um dos iniciais disponíveis como prêmio.",
-        "obtaining": "Vença o Gym Leader Castle para concorrer ao prêmio."
+        "obtaining": "Vença o Gym Leader Castle para concorrer ao prêmio.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-stadium.png",
+          "alt": "Squirtle em Pokémon Stadium"
+        }
       },
       {
         "game": "Pokémon Channel",
@@ -27751,7 +27759,11 @@
         "year": 2006,
         "category": "Aventura",
         "description": "Squirtle pode ser encontrado em Fiore.",
-        "obtaining": "Procure a espécie em Waterworks."
+        "obtaining": "Procure a espécie em Waterworks.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-ranger.png",
+          "alt": "Squirtle em Pokémon Ranger"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
