@@ -34977,7 +34977,11 @@
       {
         "title_en": "Pokémon Adventures · Chinchou in Charge",
         "description": "Blastoise aparece em uma cena imaginada junto aos outros iniciais de Kanto totalmente evoluídos.",
-        "category": "Gold, Silver & Crystal"
+        "category": "Gold, Silver & Crystal",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-adventures-chinchou-in-charge.webp",
+          "alt": "Blastoise ao lado de Venusaur e Charizard em uma cena imaginada no capítulo PS150."
+        }
       },
       {
         "title_en": "Pokémon Adventures · Pokémon Ranger: The Comic – Shadows of Almia",
@@ -35004,7 +35008,11 @@
       },
       {
         "title_en": "Pokémon Pocket Monsters · Part-Time Job At The Swimming Pool!!",
-        "description": "O Blastoise de Green desafia Red para uma competição de natação."
+        "description": "O Blastoise de Green desafia Red para uma competição de natação.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-pocket-monsters-part-time-job-at-the-swimming-pool.webp",
+          "alt": "Blastoise entre os participantes da competição de natação no capítulo PM022."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Save the Pokémon Zoo!!",
@@ -35048,7 +35056,11 @@
       },
       {
         "title_en": "Pokémon Gold & Silver: The Golden Boys · Ilhas Redemoinho",
-        "description": "Gold enfrenta o Blastoise que dominava a ilha. Ele reaparece no fim da batalha com Lugia."
+        "description": "Gold enfrenta o Blastoise que dominava a ilha. Ele reaparece no fim da batalha com Lugia.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-gold-silver-the-golden-boys-ilhas-redemoinho.webp",
+          "alt": "Blastoise selvagem nas Ilhas Redemoinho no capítulo GB19."
+        }
       },
       {
         "title_en": "Ash & Pikachu · One Half Of A Poké Ball",
@@ -35066,7 +35078,11 @@
       {
         "title_en": "Pokémon Pocket Monsters · Pulverize the strongest Pokémon!!",
         "category": "Participação breve",
-        "description": "Blastoise aparece neste capítulo."
+        "description": "Blastoise aparece neste capítulo.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/manga/manga-pokemon-pocket-monsters-pulverize-the-strongest-pokemon.webp",
+          "alt": "Blastoise alterado pelo DNA de Clefairy no capítulo PM025."
+        }
       },
       {
         "title_en": "Pokémon Pocket Monsters · Good-Bye, Pikachu?!",
