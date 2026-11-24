@@ -29648,12 +29648,187 @@
     ],
     "manga": [
       {
-        "title": "Pokémon Adventures — Wartortle Wars",
+        "code": "PS015",
+        "series": "Pokémon Adventures",
+        "chapter": 15,
+        "title_en": "Pokémon Adventures — Wartortle Wars",
+        "title_ja": "VS カメール",
+        "title_pt": "Pokémon Adventures — VS Wartortle",
+        "volume": 2,
+        "category": "Red, Green & Blue",
+        "appearance": "Blasty de Green",
         "description": "Blasty aparece como Wartortle antes de evoluir para Blastoise.",
+        "title": "Pokémon Adventures — Wartortle Wars",
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-pokemon-adventures-wartortle-wars.webp",
           "alt": "Blasty em sua forma Wartortle no capítulo PS015 de Pokémon Adventures."
         }
+      },
+      {
+        "code": "PS016",
+        "series": "Pokémon Adventures",
+        "chapter": 16,
+        "title_en": "Pokémon Adventures — Tauros the Tyrant",
+        "title_ja": "VS ケンタロス",
+        "title_pt": "Pokémon Adventures — VS Tauros",
+        "volume": 2,
+        "category": "Red, Green & Blue",
+        "appearance": "Blasty de Green",
+        "description": "Blasty protege o disco com informações sobre Mew e enfrenta os Pokémon dos integrantes da Equipe Rocket, até ser dominado pelo grupo liderado por Tauros."
+      },
+      {
+        "code": "PS017",
+        "series": "Pokémon Adventures",
+        "chapter": 17,
+        "title_en": "Pokémon Adventures — The Jynx Jinx",
+        "title_ja": "VS ルージュラ",
+        "title_pt": "Pokémon Adventures — VS Jynx",
+        "volume": 2,
+        "category": "Red, Green & Blue",
+        "appearance": "Blasty de Green",
+        "description": "Blasty acompanha Green durante o confronto com a Equipe Rocket envolvendo Mew."
+      },
+      {
+        "code": "PS306",
+        "series": "Pokémon Adventures",
+        "chapter": 306,
+        "title_en": "Pokémon Adventures — Pinsir Me, I Must Be Dreaming",
+        "title_ja": "VS カイロス",
+        "title_pt": "Pokémon Adventures — Vs. Pinsir",
+        "volume": 26,
+        "category": "Emerald",
+        "appearance": "Pokémon de aluguel",
+        "description": "Um Wartortle integra o conjunto de Pokémon da Battle Factory na Battle Frontier."
+      },
+      {
+        "code": "PS315",
+        "series": "Pokémon Adventures",
+        "chapter": 315,
+        "title_en": "Pokémon Adventures — Skirting Around Surskit I",
+        "title_ja": "VS アメタマI",
+        "title_pt": "Pokémon Adventures — Vs. Surskit - Parte 1",
+        "volume": 27,
+        "category": "Emerald",
+        "appearance": "Pokémon roubado",
+        "description": "Um Wartortle da Battle Factory está entre os Pokémon roubados por Guile Hideout."
+      },
+      {
+        "code": "PS326",
+        "series": "Pokémon Adventures",
+        "chapter": 326,
+        "title_en": "Pokémon Adventures — Lemme at 'Em, Lapras!",
+        "title_ja": "VS ラプラス",
+        "title_pt": "Pokémon Adventures — Vs. Lapras",
+        "volume": 28,
+        "category": "Emerald",
+        "appearance": "Pokémon roubado",
+        "description": "Outro Wartortle da Battle Factory aparece entre os Pokémon roubados por Guile Hideout."
+      },
+      {
+        "code": "PM094",
+        "series": "Pokémon Pocket Monsters",
+        "chapter": 94,
+        "title_en": "Pokémon Pocket Monsters — Take me to the Dragon Palace!",
+        "title_ja": "竜宮城へ連れられて……",
+        "volume": 12,
+        "appearance": "Participação breve",
+        "description": "Wartortle aparece no capítulo da visita ao Palácio do Dragão, que também apresenta outros integrantes de sua linha evolutiva."
+      },
+      {
+        "code": "PPP19",
+        "series": "Magical Pokémon Journey",
+        "chapter": 19,
+        "title_en": "Magical Pokémon Journey — The Five Sisters of Squirtle",
+        "title_ja": "ゼニガメ５人姉妹参上",
+        "appearance": "Kamena",
+        "description": "Kamena, uma das cinco irmãs de Squirtle, é um Wartortle."
+      },
+      {
+        "code": "PZ07",
+        "series": "Pokémon Zensho",
+        "chapter": 6,
+        "title_en": "Pokémon Zensho — Yamabuki City",
+        "title_ja": "ヤマブキシティ",
+        "appearance": "Flashback · Pokémon de Shigeru",
+        "description": "O parceiro de Shigeru aparece em uma lembrança, já evoluído de Squirtle para Wartortle."
+      },
+      {
+        "code": "GDZ05",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "chapter": 5,
+        "title_en": "Pokémon: Yeah! I Got Pokémon! — A Mischievous Wartortle",
+        "title_ja": "いたずらカメール",
+        "volume": 1,
+        "appearance": "Captura por Shu",
+        "description": "Shu encontra um Wartortle brincalhão na praia e consegue capturá-lo depois de enfrentar suas travessuras."
+      },
+      {
+        "code": "GDZ07",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "chapter": 7,
+        "title_en": "Pokémon: Yeah! I Got Pokémon! — Down with the \"Kick Fighter\"",
+        "title_ja": "\"辻げり\"たいじだ!",
+        "volume": 1,
+        "appearance": "Pokémon de Shu",
+        "description": "Wartortle combina Water Gun com o Thunderbolt de Pikachu para ajudar Shu a derrotar Hitmonlee."
+      },
+      {
+        "code": "GDZ23",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "chapter": 23,
+        "title_en": "Pokémon: Yeah! I Got Pokémon! — Shu's Christmas",
+        "title_ja": "シュウのクリスマス",
+        "volume": 2,
+        "appearance": "Participação breve",
+        "description": "Wartortle está entre os Pokémon presentes no capítulo natalino de Shu e Pikachu."
+      },
+      {
+        "code": "GDZ24",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "chapter": 24,
+        "title_en": "Pokémon: Yeah! I Got Pokémon! — Ruler of Ice, Freezer",
+        "title_ja": "氷の王者・フリーザー",
+        "volume": 2,
+        "appearance": "Pokémon de Shu",
+        "description": "O Wartortle de Shu participa do capítulo ambientado nas montanhas em que Articuno aparece. Seu uso de Hydro Pump é documentado nessa história."
+      },
+      {
+        "code": "GDZ38",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "chapter": 38,
+        "title_en": "Pokémon: Yeah! I Got Pokémon! — Clash!? The 3 Kame-kame Siblings!",
+        "title_ja": "激突！？カメカメ３兄弟！",
+        "volume": 3,
+        "appearance": "Pokémon de Kameo",
+        "description": "Kameo aparece com Wartortle, enquanto Kamero possui Squirtle e Kameta possui Blastoise."
+      },
+      {
+        "code": "GB17",
+        "series": "Pokémon Gold & Silver: The Golden Boys",
+        "chapter": 17,
+        "title_en": "Pokémon Gold & Silver: The Golden Boys — A Spectacular Battle to save Ampharos!!",
+        "title_ja": "デンリュウ救出大作戦!!",
+        "volume": 3,
+        "appearance": "Pokémon de treinador",
+        "description": "Em Olivine City, Wartortle enfrenta o Gyarados de Black em uma batalha interrompida por Jasmine."
+      },
+      {
+        "code": "GB23",
+        "series": "Pokémon Gold & Silver: The Golden Boys",
+        "chapter": 23,
+        "title_en": "Pokémon Gold & Silver: The Golden Boys — Let's Fight for the Future!!",
+        "title_ja": "ともに戦おう!! 未来のために",
+        "volume": 3,
+        "appearance": "Pokémon de treinador",
+        "description": "Um Wartortle aparece entre os Pokémon de treinadores no capítulo final, durante a crise envolvendo o Tyranitar negro."
+      },
+      {
+        "code": "PRV1",
+        "series": "Pokémon Ranger: The Comic – Shadows of Almia",
+        "chapter": 1,
+        "title_en": "Pokémon Ranger: The Comic – Shadows of Almia — Chapter 1",
+        "appearance": "Imaginação",
+        "description": "Wartortle aparece em uma cena imaginada no primeiro capítulo da adaptação de Pokémon Ranger: Shadows of Almia."
       }
     ]
   }
