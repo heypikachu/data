@@ -29706,7 +29706,11 @@
         "volume": 26,
         "category": "Emerald",
         "appearance": "Pokémon de aluguel",
-        "description": "Um Wartortle integra o conjunto de Pokémon da Battle Factory na Battle Frontier."
+        "description": "Um Wartortle integra o conjunto de Pokémon da Battle Factory na Battle Frontier.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-ps306.webp",
+          "alt": "Wartortle da Battle Factory no capítulo PS306 de Pokémon Adventures."
+        }
       },
       {
         "code": "PS315",
