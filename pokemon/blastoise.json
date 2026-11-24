@@ -34290,7 +34290,11 @@
         "title_ja": "ゆうれいポケモンとなつまつり",
         "appearance": "Ilusão",
         "description": "Gastly cria uma ilusão de Blastoise para assustar o Squirtle de Ash.",
-        "title_pt": "O Fantasma do Pico da Donzela"
+        "title_pt": "O Fantasma do Pico da Donzela",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep020.webp",
+          "alt": "Ilusão de Blastoise criada por Gastly diante do Squirtle de Ash."
+        }
       },
       {
         "jp_number": 25,
@@ -34301,7 +34305,11 @@
         "title_ja": "おこらないでねオコリザル！",
         "appearance": "Lembrança",
         "description": "Blastoise aparece em um anúncio do concurso em que Ash ganhou seu boné.",
-        "title_pt": "Primeape Endoidece"
+        "title_pt": "Primeape Endoidece",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep025.webp",
+          "alt": "Blastoise e Charizard usam o boné da Liga Pokémon em um anúncio."
+        }
       },
       {
         "title_en": "Beach Blank-Out Blastoise",
@@ -34327,7 +34335,11 @@
         "title_ja": "ポケモン・ザ・ムービー！",
         "appearance": "Filmagem",
         "description": "Blastoise faz parte do elenco do filme gravado dentro do episódio.",
-        "title_pt": "Luz, Câmera, Quack-Ação"
+        "title_pt": "Luz, Câmera, Quack-Ação",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep069.webp",
+          "alt": "Blastoise aparece à esquerda, atrás da Equipe Rocket, durante as filmagens."
+        }
       },
       {
         "jp_number": 85,
@@ -34353,7 +34365,11 @@
         "title_ja": "みなみのしまだよぜんいんしゅうごう！",
         "appearance": "Flashback",
         "description": "Uma lembrança revisita o Blastoise de Cissy e sua corrida aquática.",
-        "title_pt": "Mas Que Dia"
+        "title_pt": "Mas Que Dia",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep098.webp",
+          "alt": "O Blastoise de Cissy nada ao lado do Lapras de Ash em um flashback."
+        }
       },
       {
         "jp_number": 106,
@@ -34364,7 +34380,11 @@
         "title_ja": "ひけしたいけつ！ゼニガメＶＳカメール",
         "appearance": "Equipe de resgate",
         "description": "Os Blastoise do capitão Aidan combatem incêndios com Squirtle e Wartortle.",
-        "title_pt": "A Guerra de Água Pokémon"
+        "title_pt": "A Guerra de Água Pokémon",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep106.webp",
+          "alt": "Blastoise da equipe de resgate do capitão Aidan."
+        }
       },
       {
         "jp_number": 111,
@@ -34375,7 +34395,11 @@
         "title_ja": "ウィナーズカップ！フルバトル６ＶＳ６！！",
         "appearance": "Flashback",
         "description": "O Blastoise de Cissy reaparece em uma lembrança das Ilhas Laranja.",
-        "title_pt": "Alô, Pummelo!"
+        "title_pt": "Alô, Pummelo!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep111.webp",
+          "alt": "A corrida do Blastoise de Cissy aparece no quadrante superior esquerdo da montagem."
+        }
       },
       {
         "jp_number": 113,
@@ -34386,7 +34410,11 @@
         "title_ja": "さよならラプラス！",
         "appearance": "Flashback",
         "description": "Uma lembrança volta à corrida de Ash contra o Blastoise de Cissy.",
-        "title_pt": "Vivas las Lapras"
+        "title_pt": "Vivas las Lapras",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep113.webp",
+          "alt": "Cissy cavalga Blastoise ao lado do Lapras de Ash em um flashback."
+        }
       },
       {
         "jp_number": 147,
@@ -34397,7 +34425,11 @@
         "title_ja": "もえろゼニガメだん！ほのおのように！！",
         "appearance": "Equipe de resgate",
         "description": "Blastoise participa da competição de combate a incêndios e resgate.",
-        "title_pt": "Os Soldados do Fogo!"
+        "title_pt": "Os Soldados do Fogo!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep147.webp",
+          "alt": "Blastoise aparece com os outros Pokémon da equipe de resgate."
+        }
       },
       {
         "jp_number": 194,
@@ -34423,7 +34455,11 @@
         "title_ja": "にせオーキド！？ ポケモンせんりゅうたいけつ！！",
         "appearance": "Poema",
         "description": "Blastoise aparece durante um poema da Enfermeira Joy.",
-        "title_pt": "Quem é o Verdadeiro Professor Carvalho?"
+        "title_pt": "Quem é o Verdadeiro Professor Carvalho?",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ep245.webp",
+          "alt": "Blastoise recolhido no casco na cena imaginada durante a recitação."
+        }
       },
       {
         "jp_number": 248,
@@ -34479,7 +34515,11 @@
         "title_ja": "シダケタウン！ポケモンコンテスト！！",
         "appearance": "Concurso",
         "description": "Um Blastoise participa do Concurso Pokémon de Verdanturf.",
-        "title_pt": "No Limite do Disfarce"
+        "title_pt": "No Limite do Disfarce",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ag062.webp",
+          "alt": "Blastoise dispara água pelos canhões no Concurso de Verdanturf."
+        }
       },
       {
         "jp_number": 366,
@@ -34505,7 +34545,11 @@
         "title_ja": "筋肉バトル！？ダブルバトル！！",
         "appearance": "Participação breve",
         "description": "Um Blastoise de treinador aparece no episódio.",
-        "title_pt": "Malhando Muito"
+        "title_pt": "Malhando Muito",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ag096.webp",
+          "alt": "Blastoise com seu treinador na Ilha Muscle."
+        }
       },
       {
         "jp_number": 385,
@@ -34516,7 +34560,11 @@
         "title_ja": "ルネジム！水のアーティスト・アダン！（後編）",
         "appearance": "Participação breve",
         "description": "Um treinador aparece com Blastoise no episódio.",
-        "title_pt": "Oito não é o Bastante"
+        "title_pt": "Oito não é o Bastante",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ag111.webp",
+          "alt": "Blastoise ergue os braços com os canhões à mostra."
+        }
       },
       {
         "jp_number": 402,
@@ -34527,7 +34575,11 @@
         "title_ja": "決勝トーナメントへ！熱き戦いの日々！",
         "appearance": "Placar",
         "description": "O Blastoise de Johnny aparece no placar da batalha contra Tyson, depois de cair fora de cena.",
-        "title_pt": "Choques e Bônus"
+        "title_pt": "Choques e Bônus",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ag128.webp",
+          "alt": "Ícone do Blastoise de Johnny no canto inferior esquerdo do placar."
+        }
       },
       {
         "jp_number": 436,
@@ -34538,7 +34590,11 @@
         "title_ja": "ポケモンコンテスト！ユズリハ大会！！",
         "appearance": "Concurso",
         "description": "Uma pessoa competindo no Concurso de Chrysanthemum usa Blastoise.",
-        "title_pt": "Combusken Espontâneo!"
+        "title_pt": "Combusken Espontâneo!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ag162.webp",
+          "alt": "Blastoise dispara jatos de água no Concurso de Chrysanthemum."
+        }
       },
       {
         "jp_number": 451,
@@ -34549,7 +34605,11 @@
         "title_ja": "タケシ＆サトシ！タッグバトルでニビジムを守れ！！",
         "appearance": "Imaginação",
         "description": "O Blastoise de Lola reaparece em uma cena imaginada.",
-        "title_pt": "Grades Espaciais"
+        "title_pt": "Grades Espaciais",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-ag177.webp",
+          "alt": "O canhão e parte do casco de Blastoise aparecem à esquerda de Meowth."
+        }
       },
       {
         "jp_number": 538,
@@ -34560,7 +34620,11 @@
         "title_ja": "ポケモンレンジャー！波導のリオル！！(後編)",
         "appearance": "Resgate",
         "description": "Kellyn usa o Capture Styler em três Blastoise para apagar um incêndio com Rain Dance.",
-        "title_pt": "O Patrulheiro Pokémon e o Riolu sequestrado! Segunda Parte"
+        "title_pt": "O Patrulheiro Pokémon e o Riolu sequestrado! Segunda Parte",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-dp072.webp",
+          "alt": "Três Blastoise que Kellyn usa para ajudar a apagar o incêndio."
+        }
       },
       {
         "jp_number": 557,
@@ -34571,7 +34635,11 @@
         "title_ja": "最後の大勝負！ポケモントライアスロン！！",
         "appearance": "Triatlo",
         "description": "Um aluno usa um Blastoise da Academia Pokémon na primeira etapa do triatlo.",
-        "title_pt": "Uma Equipe, Duas Equipes, Equipe Vermelha, Equipe Azul!"
+        "title_pt": "Uma Equipe, Duas Equipes, Equipe Vermelha, Equipe Azul!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-dp091.webp",
+          "alt": "Blastoise aparece parcialmente encoberto entre os Pokémon que caem no triatlo."
+        }
       },
       {
         "title_en": "Tag Team Battle Inspiration!",
