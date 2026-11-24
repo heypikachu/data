@@ -5664,7 +5664,11 @@
         "year": 2011,
         "category": "Ação",
         "description": "Caterpie aparece como Pokémon de brinquedo.",
-        "obtaining": "Sun-Dappled Bank, área Treetops."
+        "obtaining": "Sun-Dappled Bank, área Treetops.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-rumble-blast.png",
+          "alt": "Caterpie em Pokémon Rumble Blast"
+        }
       },
       {
         "game": "PokéPark 2: Wonders Beyond",
@@ -5700,7 +5704,11 @@
         "year": 2015,
         "category": "Ação",
         "description": "Caterpie aparece em áreas de floresta.",
-        "obtaining": "Fairy Land: Pixie Glen; Origin Hideaway: Old-Growth Woods."
+        "obtaining": "Fairy Land: Pixie Glen; Origin Hideaway: Old-Growth Woods.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/spinoff/0010-rumble-world.png",
+          "alt": "Caterpie em Pokémon Rumble World"
+        }
       },
       {
         "game": "Pokémon Shuffle",
