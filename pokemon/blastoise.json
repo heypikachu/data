@@ -34885,7 +34885,11 @@
         "title_en": "Pokémon Origins · File 1: Red",
         "description": "Blastoise aparece na introdução narrada pelo Professor Oak.",
         "code": "PO01",
-        "year": 2013
+        "year": 2013,
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/animations/animacoes-po01.webp",
+          "alt": "Blastoise na introdução narrada pelo Professor Oak em Pokémon Origins File 1 Red."
+        }
       },
       {
         "title_en": "GOTCHA!",
