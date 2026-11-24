@@ -230,7 +230,11 @@
         "game": "Pokémon Super Mystery Dungeon",
         "year": 2015,
         "category": "Exploração",
-        "description": "Encontre Wartortle em Capim Town."
+        "description": "Encontre Wartortle em Capim Town.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-super-mystery-dungeon.png",
+          "alt": "Retrato de Wartortle em Pokémon Super Mystery Dungeon"
+        }
       },
       {
         "game": "Pokémon GO",
