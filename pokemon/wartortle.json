@@ -109,12 +109,20 @@
       {
         "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
         "year": 2005,
-        "description": "Recrute Wartortle em Northwind Field, do 27º ao 29º piso."
+        "description": "Recrute Wartortle em Northwind Field, do 27º ao 29º piso.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-md.png",
+          "alt": "Sprite de Wartortle em Pokémon Mystery Dungeon"
+        }
       },
       {
         "game": "Pokémon Ranger",
         "year": 2006,
-        "description": "Encontre Wartortle em Lyra Forest."
+        "description": "Encontre Wartortle em Lyra Forest.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-ranger.png",
+          "alt": "Sprite de Wartortle em Pokémon Ranger"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
@@ -159,7 +167,11 @@
       {
         "game": "Pokémon Battle Trozei",
         "year": 2014,
-        "description": "Encontre Wartortle no estágio 3 de Blade-and-Shield Path."
+        "description": "Encontre Wartortle no estágio 3 de Blade-and-Shield Path.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-battle-trozei.png",
+          "alt": "Ícone de Wartortle em Pokémon Battle Trozei"
+        }
       },
       {
         "game": "Pokémon Shuffle",
