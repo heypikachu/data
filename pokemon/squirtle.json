@@ -27973,7 +27973,11 @@
         "episode_code": "EP001",
         "title_en": "Pokémon - I Choose You!",
         "appearance": "Estreia em sonho",
-        "description": "Ash imagina Squirtle como seu possível primeiro parceiro."
+        "description": "Ash imagina Squirtle como seu possível primeiro parceiro.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep001.webp",
+          "alt": "Squirtle no sonho de Ash sobre a escolha do primeiro parceiro."
+        }
       },
       {
         "jp_number": 12,
@@ -27981,38 +27985,62 @@
         "episode_code": "EP012",
         "appearance": "Estreia física",
         "title_en": "Here Comes the Squirtle Squad",
-        "description": "Ash conhece o Esquadrão Squirtle. O líder do grupo passa a fazer parte de sua equipe."
+        "description": "Ash conhece o Esquadrão Squirtle. O líder do grupo passa a fazer parte de sua equipe.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep012.webp",
+          "alt": "O líder do Esquadrão Squirtle junto dos outros integrantes."
+        }
       },
       {
         "episode_code": "AG133",
         "season": "Battle Frontier",
         "appearance": "Pokémon de May",
         "title_en": "The Right Place and the Right Mime",
-        "description": "May recebe um Squirtle no laboratório do Professor Oak."
+        "description": "May recebe um Squirtle no laboratório do Professor Oak.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ag133.webp",
+          "alt": "May recebe Squirtle no laboratório do Professor Oak."
+        }
       },
       {
         "episode_code": "EP004",
         "title_en": "Challenge of the Samurai",
         "appearance": "Pokémon de Gary",
-        "description": "O Squirtle de Gary aparece em uma lembrança de sua batalha com o samurai."
+        "description": "O Squirtle de Gary aparece em uma lembrança de sua batalha com o samurai.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep004.webp",
+          "alt": "O Squirtle de Gary na lembrança da batalha contra o samurai."
+        }
       },
       {
         "episode_code": "EP015",
         "title_en": "Battle Aboard the St. Anne",
         "appearance": "Pokémon de treinadores",
-        "description": "Dois Squirtle aparecem a bordo do St. Anne, um deles com um cavalheiro."
+        "description": "Dois Squirtle aparecem a bordo do St. Anne, um deles com um cavalheiro.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep015.webp",
+          "alt": "O Squirtle do cavalheiro a bordo do St. Anne."
+        }
       },
       {
         "episode_code": "EP028",
         "title_en": "Pokémon Fashion Flash",
         "appearance": "Participação",
-        "description": "Um Squirtle aparece na Scissor Street."
+        "description": "Um Squirtle aparece na Scissor Street.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep028.webp",
+          "alt": "Squirtle na Scissor Street."
+        }
       },
       {
         "episode_code": "EP056",
         "title_en": "The Ultimate Test",
         "appearance": "Exame da Liga Pokémon",
-        "description": "A Enfermeira Joy usa o Squirtle do instrutor durante o exame de admissão."
+        "description": "A Enfermeira Joy usa o Squirtle do instrutor durante o exame de admissão.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep056.webp",
+          "alt": "Squirtle durante o exame de admissão da Liga Pokémon."
+        }
       },
       {
         "title_en": "The Breeding Center Secret",
@@ -28033,7 +28061,11 @@
         "episode_code": "EP106",
         "title_en": "The Pokémon Water War",
         "appearance": "Esquadrão Squirtle",
-        "description": "O Squirtle de Ash acompanha a equipe de Wartortle que combate incêndios."
+        "description": "O Squirtle de Ash acompanha a equipe de Wartortle que combate incêndios.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep106.webp",
+          "alt": "A equipe Squirtle no episódio sobre os Pokémon bombeiros."
+        }
       },
       {
         "title_en": "Don't Touch That 'dile",
@@ -28044,7 +28076,11 @@
         "episode_code": "EP147",
         "title_en": "The Fire-ing Squad!",
         "appearance": "Esquadrão Squirtle",
-        "description": "Squirtle reencontra seu antigo grupo no torneio de resgate e volta a liderá-lo."
+        "description": "Squirtle reencontra seu antigo grupo no torneio de resgate e volta a liderá-lo.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-ep147.webp",
+          "alt": "O Squirtle de Ash ao lado de Bulbasaur."
+        }
       },
       {
         "title_en": "A Better Pill to Swallow",
@@ -28079,13 +28115,21 @@
       {
         "title_en": "The Fires of a Red-Hot Reunion!",
         "appearance": "Feira de Kanto",
-        "description": "Squirtle participa da demonstração dos iniciais de Kanto do Professor Oak."
+        "description": "Squirtle participa da demonstração dos iniciais de Kanto do Professor Oak.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-the-fires-of-a-red-hot-reunion.webp",
+          "alt": "O Squirtle do Professor Oak durante a demonstração dos iniciais de Kanto."
+        }
       },
       {
         "episode_code": "XY039",
         "title_en": "Summer of Discovery!",
         "appearance": "Pokémon de Tierno",
-        "description": "Squirtle estreia como parceiro de Tierno no acampamento de verão."
+        "description": "Squirtle estreia como parceiro de Tierno no acampamento de verão.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-xy039.webp",
+          "alt": "Tierno escolhe Squirtle como parceiro."
+        }
       },
       {
         "episode_code": "XY042",
@@ -28113,7 +28157,11 @@
         "episode_code": "JN002",
         "title_en": "Legend? Go! Friends? Go!",
         "appearance": "Pokémon do Professor Cerise",
-        "description": "Squirtle é um dos primeiros parceiros oferecidos a Goh."
+        "description": "Squirtle é um dos primeiros parceiros oferecidos a Goh.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-jn002.webp",
+          "alt": "Squirtle aparece junto dos outros primeiros parceiros oferecidos por Cerise."
+        }
       },
       {
         "title_en": "The Cuteness Quotient!",
@@ -28145,7 +28193,11 @@
         "episode_code": "JN141",
         "title_en": "A Squad’s Worth of Passion!",
         "appearance": "Esquadrão Squirtle",
-        "description": "Ash reencontra Squirtle e sua equipe de bombeiros."
+        "description": "Ash reencontra Squirtle e sua equipe de bombeiros.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-jn141.webp",
+          "alt": "O Esquadrão Squirtle atua como equipe de bombeiros."
+        }
       },
       {
         "episode_code": "HZ001",
@@ -28171,7 +28223,11 @@
       {
         "title_en": "A Hurdle for Squirtle",
         "appearance": "Pokémon de May",
-        "description": "O Squirtle de May compete no Concurso de Saffron."
+        "description": "O Squirtle de May compete no Concurso de Saffron.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-a-hurdle-for-squirtle.webp",
+          "alt": "O Squirtle de May no episódio do Concurso de Saffron."
+        }
       },
       {
         "title_en": "What I Did for Love!",
@@ -28181,7 +28237,11 @@
       {
         "title_en": "Love, Pokémon Style!",
         "appearance": "Pokémon de Ash",
-        "description": "Squirtle volta para disputar a Conferência de Prata."
+        "description": "Squirtle volta para disputar a Conferência de Prata.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-love-pokemon-style.webp",
+          "alt": "O Squirtle de Ash usa Bubble durante a Conferência de Prata."
+        }
       },
       {
         "title_en": "Gathering the Gang of Four!",
@@ -28191,12 +28251,20 @@
       {
         "title_en": "Pace – The Final Frontier!",
         "appearance": "Pokémon de Ash",
-        "description": "Squirtle enfrenta Ninjask na batalha contra Brandon."
+        "description": "Squirtle enfrenta Ninjask na batalha contra Brandon.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-pace-the-final-frontier.webp",
+          "alt": "Squirtle usa Hydro Pump na batalha de Ash contra Brandon."
+        }
       },
       {
         "title_en": "The Rainbow and the Pokémon Master!",
         "appearance": "Pokémon do Professor Oak",
-        "description": "Um Squirtle aparece no laboratório do Professor Oak."
+        "description": "Um Squirtle aparece no laboratório do Professor Oak.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-the-rainbow-and-the-pokemon-master.webp",
+          "alt": "Squirtle junto dos outros iniciais de Kanto no laboratório do Professor Oak."
+        }
       }
     ],
     "films": [
