@@ -29637,7 +29637,11 @@
         "title_ja": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
         "year": 2002,
         "category": "Pokémon de competidor",
-        "description": "O Wartortle de um competidor participa da corrida aquática Tour de Alto Mare."
+        "description": "O Wartortle de um competidor participa da corrida aquática Tour de Alto Mare.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/films/filmes-m05.webp",
+          "alt": "Competidores da corrida aquática Tour de Alto Mare em Heróis Pokémon: Latios e Latias."
+        }
       },
       {
         "title": "Pokémon, o Filme: Eu Escolho Você!",
