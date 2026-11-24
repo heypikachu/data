@@ -29780,7 +29780,11 @@
         "title_ja": "いたずらカメール",
         "volume": 1,
         "appearance": "Captura por Shu",
-        "description": "Shu encontra um Wartortle brincalhão na praia e consegue capturá-lo depois de enfrentar suas travessuras."
+        "description": "Shu encontra um Wartortle brincalhão na praia e consegue capturá-lo depois de enfrentar suas travessuras.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/manga/manga-gdz05.webp",
+          "alt": "Wartortle de Shu no mangá Pokémon: Yeah! I Got Pokémon!"
+        }
       },
       {
         "code": "GDZ07",
