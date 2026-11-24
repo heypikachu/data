@@ -110,7 +110,11 @@
         "game": "Pokémon Trozei!",
         "year": 2005,
         "category": "Quebra-cabeça",
-        "description": "A espécie aparece nos níveis Endless 56 e 65, no Forever 6 e no esconderijo de Mr. Who."
+        "description": "A espécie aparece nos níveis Endless 56 e 65, no Forever 6 e no esconderijo de Mr. Who.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-trozei.gif",
+          "alt": "Sprite animado de Wartortle em Pokémon Trozei!"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
@@ -142,13 +146,21 @@
         "game": "Pokémon Ranger: Shadows of Almia",
         "year": 2008,
         "category": "Captura",
-        "description": "Encontre Wartortle em Vien Forest."
+        "description": "Encontre Wartortle em Vien Forest.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-ranger-shadows-of-almia.png",
+          "alt": "Sprite de Wartortle em Pokémon Ranger: Shadows of Almia"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Sky",
         "year": 2009,
         "category": "Exploração",
-        "description": "Procure Wartortle em Lake Afar, do 9º ao 16º subsolo."
+        "description": "Procure Wartortle em Lake Afar, do 9º ao 16º subsolo.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-md-explorers-sky.png",
+          "alt": "Sprite de Wartortle em Pokémon Mystery Dungeon: Explorers of Sky"
+        }
       },
       {
         "game": "Pokémon Rumble",
@@ -194,13 +206,21 @@
         "game": "Pokémon Shuffle",
         "year": 2015,
         "category": "Quebra-cabeça",
-        "description": "A espécie está nos estágios 57 e 411."
+        "description": "A espécie está nos estágios 57 e 411.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-shuffle.png",
+          "alt": "Sprite de Wartortle em Pokémon Shuffle"
+        }
       },
       {
         "game": "Pokémon Rumble World",
         "year": 2015,
         "category": "Ação",
-        "description": "Wartortle aparece em Pearl Lake e é chefe na entrada."
+        "description": "Wartortle aparece em Pearl Lake e é chefe na entrada.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-rumble-world.png",
+          "alt": "Sprite de Wartortle em Pokémon Rumble World"
+        }
       },
       {
         "game": "Pokémon Super Mystery Dungeon",
@@ -213,25 +233,41 @@
         "year": 2016,
         "category": "Captura e evolução",
         "description": "Wartortle pode ser obtido ao evoluir Squirtle.",
-        "obtaining": "Use 25 Doces Squirtle."
+        "obtaining": "Use 25 Doces Squirtle.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-go.png",
+          "alt": "Sprite de Wartortle em Pokémon GO"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Rescue Team DX",
         "year": 2020,
         "category": "Exploração",
-        "description": "Procure Wartortle entre os pisos 20 e 29 de Northwind Field."
+        "description": "Procure Wartortle entre os pisos 20 e 29 de Northwind Field.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-md-rescue-team-dx.png",
+          "alt": "Retrato de Wartortle em Pokémon Mystery Dungeon: Rescue Team DX"
+        }
       },
       {
         "game": "Pokémon Sleep",
         "year": 2023,
         "category": "Pesquisa de sono",
-        "description": "Wartortle pode aparecer em Greengrass Isle, Cyan Beach e Lapis Lakeside, conforme a classificação de Snorlax."
+        "description": "Wartortle pode aparecer em Greengrass Isle, Cyan Beach e Lapis Lakeside, conforme a classificação de Snorlax.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-sleep.png",
+          "alt": "Imagem de perfil de Wartortle em Pokémon Sleep"
+        }
       },
       {
         "game": "Pokémon Pokopia",
         "year": 2026,
         "category": "Simulação",
-        "description": "Wartortle está no catálogo de Pokémon que podem visitar a cidade."
+        "description": "Wartortle está no catálogo de Pokémon que podem visitar a cidade.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/spinoff/0008-pokopia.png",
+          "alt": "Sprite de Wartortle em Pokémon Pokopia"
+        }
       }
     ]
   },
