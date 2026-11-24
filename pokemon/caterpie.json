@@ -6935,7 +6935,11 @@
         "title_pt": "Pokémon, o Filme: Segredos da Selva",
         "title_ja": "劇場版ポケットモンスター ココ",
         "title": "Pokémon, o Filme: Segredos da Selva",
-        "category": "Filme"
+        "category": "Filme",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/caterpie/films/filmes-m23.webp",
+          "alt": "Desenho de Caterpie presente em Pokémon, o Filme: Segredos da Selva."
+        }
       }
     ],
     "animations": [
