@@ -27805,14 +27805,22 @@
         "year": 2011,
         "category": "Ação",
         "description": "Squirtle aparece em Everspring Valley.",
-        "obtaining": "Procure-o no cenário Lake."
+        "obtaining": "Procure-o no cenário Lake.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-rumble-blast.png",
+          "alt": "Imagem de Squirtle em Pokémon Rumble Blast"
+        }
       },
       {
         "game": "PokéPark 2: Wonders Beyond",
         "year": 2011,
         "category": "Aventura",
         "description": "Squirtle aparece na Arcane Area.",
-        "obtaining": "Visite essa área durante a aventura."
+        "obtaining": "Visite essa área durante a aventura.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-pokepark-2.png",
+          "alt": "Imagem de Squirtle em PokéPark 2: Wonders Beyond"
+        }
       },
       {
         "game": "Pokémon Rumble U",
@@ -27870,14 +27878,22 @@
         "year": 2015,
         "category": "Quebra-cabeça",
         "description": "Squirtle tem um quebra-cabeça dedicado.",
-        "obtaining": "Conclua o estágio 4 da Área 7."
+        "obtaining": "Conclua o estágio 4 da Área 7.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-picross.png",
+          "alt": "Imagem de Squirtle em Pokémon Picross"
+        }
       },
       {
         "game": "Pokémon Masters EX",
         "year": 2019,
         "category": "Batalha",
         "description": "Squirtle pode formar uma dupla com Scottie ou Bettie.",
-        "obtaining": "Obtenha um Squirtle por Ovo quando disponível."
+        "obtaining": "Obtenha um Squirtle por Ovo quando disponível.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-masters-ex.png",
+          "alt": "Imagem de Squirtle em Pokémon Masters EX"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Rescue Team DX",
@@ -27895,14 +27911,22 @@
         "year": 2020,
         "category": "Quebra-cabeça",
         "description": "Squirtle pode integrar a equipe do café.",
-        "obtaining": "A espécie aparece por visitas regulares e também teve disponibilidade via Delivery."
+        "obtaining": "A espécie aparece por visitas regulares e também teve disponibilidade via Delivery.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-cafe-remix.png",
+          "alt": "Imagem de Squirtle em Pokémon Café ReMix"
+        }
       },
       {
         "game": "New Pokémon Snap",
         "year": 2021,
         "category": "Fotografia",
         "description": "Squirtle aparece no recife de Maricopia e no fundo do mar de Lental.",
-        "obtaining": "No recife diurno, fica disponível a partir do nível 2. No fundo do mar, aparece no nível 3."
+        "obtaining": "No recife diurno, fica disponível a partir do nível 2. No fundo do mar, aparece no nível 3.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-new-pokemon-snap.png",
+          "alt": "Imagem de Squirtle em New Pokémon Snap"
+        }
       },
       {
         "game": "Pokémon Sleep",
