@@ -35,6 +35,11 @@
       "name": "Squirtle",
       "published": true,
       "url": "https://dex.heypikachu.com/squirtle"
+    },
+    "8": {
+      "name": "Wartortle",
+      "published": true,
+      "url": "https://dex.heypikachu.com/wartortle"
     }
   }
 }
