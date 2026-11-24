@@ -28070,7 +28070,11 @@
       {
         "title_en": "Don't Touch That 'dile",
         "appearance": "Flashback",
-        "description": "Um Squirtle aparece como opção de primeiro parceiro em uma lembrança."
+        "description": "Um Squirtle aparece como opção de primeiro parceiro em uma lembrança.",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/anime/anime-don-t-touch-that-dile.webp",
+          "alt": "Squirtle de Ash utilizando Jato d'Água ao lado dos outros Pokémon de Kanto."
+        }
       },
       {
         "episode_code": "EP147",
