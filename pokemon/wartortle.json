@@ -29610,12 +29610,26 @@
     ],
     "animations": [
       {
+        "code": "PK01",
+        "title_pt": "As Férias de Pikachu",
+        "title_en": "Pikachu's Vacation",
+        "title_ja": "ピカチュウのなつやすみ",
+        "year": 1998,
+        "category": "Curta-metragem",
+        "description": "Um Wartortle aparece entre os Pokémon aquáticos que frequentam o parque temático visitado por Pikachu e seus amigos."
+      },
+      {
         "title": "Pokémon Origins — File 1: Red",
         "description": "Wartortle aparece na apresentação do Professor Oak.",
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/animations/animacoes-pokemon-origins-file-1-red.webp",
           "alt": "Professor Oak diante do painel de silhuetas de Pokémon, incluindo Wartortle, na introdução de Pokémon Origins."
-        }
+        },
+        "code": "PO01",
+        "title_en": "Pokémon Origins — File 1: Red",
+        "title_ja": "ポケットモンスター THE ORIGIN — レポート1 レッド",
+        "year": 2013,
+        "category": "Minissérie — introdução"
       },
       {
         "title": "POKÉTOON — Summer Days with Wartortle",
@@ -29623,7 +29637,13 @@
         "image": {
           "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/wartortle/animations/animacoes-poketoon-summer-days-with-wartortle.webp",
           "alt": "Wartortle sorrindo na floresta durante o especial Summer Days with Wartortle."
-        }
+        },
+        "code": "PT21",
+        "title_pt": "POKÉTOON — Dias de Verão com Wartortle",
+        "title_en": "POKÉTOON — Summer Days with Wartortle",
+        "title_ja": "カメールと、夏のつづき",
+        "year": 2026,
+        "category": "POKÉTOON — protagonista"
       }
     ],
     "manga": [
