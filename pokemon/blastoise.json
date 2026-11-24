@@ -34179,6 +34179,28 @@
     "lead": "Aparições documentadas de Blastoise no anime, no cinema, em animações derivadas e no mangá.",
     "anime": [
       {
+        "jp_number": 20,
+        "episode_code": "EP020",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_en": "The Ghost of Maiden's Peak",
+        "title_ja": "ゆうれいポケモンとなつまつり",
+        "appearance": "Ilusão",
+        "description": "Gastly cria uma ilusão de Blastoise para assustar o Squirtle de Ash.",
+        "title_pt": "O Fantasma do Pico da Donzela"
+      },
+      {
+        "jp_number": 25,
+        "episode_code": "EP025",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_en": "Primeape Goes Bananas",
+        "title_ja": "おこらないでねオコリザル！",
+        "appearance": "Lembrança",
+        "description": "Blastoise aparece em um anúncio do concurso em que Ash ganhou seu boné.",
+        "title_pt": "Primeape Endoidece"
+      },
+      {
         "title_en": "Beach Blank-Out Blastoise",
         "appearance": "Blastoise da Ilha das Tartarugas",
         "description": "Blastoise adormece ao ouvir o Jigglypuff preso em um dos seus canhões.",
@@ -34192,6 +34214,116 @@
         "season": "Liga Índigo",
         "title_pt": "Desmaios na Praia de Blastoise",
         "title_ja": "カメックスのしま"
+      },
+      {
+        "jp_number": 69,
+        "episode_code": "EP069",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_en": "Lights, Camera, Quack-tion",
+        "title_ja": "ポケモン・ザ・ムービー！",
+        "appearance": "Filmagem",
+        "description": "Blastoise faz parte do elenco do filme gravado dentro do episódio.",
+        "title_pt": "Luz, Câmera, Quack-Ação"
+      },
+      {
+        "jp_number": 85,
+        "episode_code": "EP085",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_en": "Fit To Be Tide",
+        "title_ja": "オレンジリーグ！ナツカンジム！",
+        "appearance": "Blastoise de Cissy",
+        "description": "O Blastoise de Cissy disputa uma corrida aquática contra o Lapras de Ash.",
+        "title_pt": "Maré de Sorte"
+      },
+      {
+        "jp_number": 98,
+        "episode_code": "EP098",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_en": "A Way Off Day Off",
+        "title_ja": "みなみのしまだよぜんいんしゅうごう！",
+        "appearance": "Flashback",
+        "description": "Uma lembrança revisita o Blastoise de Cissy e sua corrida aquática.",
+        "title_pt": "Mas Que Dia"
+      },
+      {
+        "jp_number": 106,
+        "episode_code": "EP106",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_en": "The Pokémon Water War",
+        "title_ja": "ひけしたいけつ！ゼニガメＶＳカメール",
+        "appearance": "Equipe de resgate",
+        "description": "Os Blastoise do capitão Aidan combatem incêndios com Squirtle e Wartortle.",
+        "title_pt": "A Guerra de Água Pokémon"
+      },
+      {
+        "jp_number": 111,
+        "episode_code": "EP111",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_en": "Hello, Pummelo!",
+        "title_ja": "ウィナーズカップ！フルバトル６ＶＳ６！！",
+        "appearance": "Flashback",
+        "description": "O Blastoise de Cissy reaparece em uma lembrança das Ilhas Laranja.",
+        "title_pt": "Alô, Pummelo!"
+      },
+      {
+        "jp_number": 113,
+        "episode_code": "EP113",
+        "season_reference": 2,
+        "season": "Ilhas Laranja",
+        "title_en": "Viva Las Lapras",
+        "title_ja": "さよならラプラス！",
+        "appearance": "Flashback",
+        "description": "Uma lembrança volta à corrida de Ash contra o Blastoise de Cissy.",
+        "title_pt": "Vivas las Lapras"
+      },
+      {
+        "jp_number": 147,
+        "episode_code": "EP147",
+        "season_reference": 3,
+        "season": "A Jornada Johto",
+        "title_en": "The Fire-ing Squad!",
+        "title_ja": "もえろゼニガメだん！ほのおのように！！",
+        "appearance": "Equipe de resgate",
+        "description": "Blastoise participa da competição de combate a incêndios e resgate.",
+        "title_pt": "Os Soldados do Fogo!"
+      },
+      {
+        "jp_number": 194,
+        "episode_code": "EP194",
+        "season_reference": 4,
+        "season": "Campeões da Liga Johto",
+        "title_en": "Ring Masters",
+        "title_ja": "オーダイルＶＳカメックス！すもうバトル！！",
+        "appearance": "Torneio de sumô",
+        "description": "Blastoise é derrotado pelo Feraligatr de Raiden no torneio de sumô.",
+        "title_pt": "Gigantes do Ringue"
+      },
+      {
+        "jp_number": 245,
+        "episode_code": "EP245",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_en": "Will the Real Oak Please Stand Up?",
+        "title_ja": "にせオーキド！？ ポケモンせんりゅうたいけつ！！",
+        "appearance": "Poema",
+        "description": "Blastoise aparece durante um poema da Enfermeira Joy.",
+        "title_pt": "Quem é o Verdadeiro Professor Carvalho?"
+      },
+      {
+        "jp_number": 248,
+        "episode_code": "EP248",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_en": "One Trick Phony!",
+        "title_ja": "バトルパーク！ＶＳカメックス・リザードン・フシギバナ！",
+        "appearance": "Equipe Rocket",
+        "description": "Jessie usa um Blastoise emprestado para enfrentar o Pikachu de Ash.",
+        "title_pt": "Um Truque Falso!"
       },
       {
         "title_en": "The Ties That Bind",
@@ -34224,6 +34356,105 @@
         "title_ja": "ライバルたいけつ！カメックスＶＳリザードン！！"
       },
       {
+        "jp_number": 336,
+        "episode_code": "AG062",
+        "season_reference": 7,
+        "season": "Desafio Avançado",
+        "title_en": "Disguise Da Limit",
+        "title_ja": "シダケタウン！ポケモンコンテスト！！",
+        "appearance": "Concurso",
+        "description": "Um Blastoise participa do Concurso Pokémon de Verdanturf.",
+        "title_pt": "No Limite do Disfarce"
+      },
+      {
+        "jp_number": 366,
+        "episode_code": "AG092",
+        "season_reference": 7,
+        "season": "Desafio Avançado",
+        "title_en": "Judgment Day!",
+        "title_ja": "あの三匹登場！審判学校の島！",
+        "appearance": "Evolução",
+        "description": "O Wartortle de Jimmy evolui dentro da armadilha da Equipe Rocket e consegue escapar.",
+        "title_pt": "Dia do Julgamento!"
+      },
+      {
+        "jp_number": 370,
+        "episode_code": "AG096",
+        "season_reference": 8,
+        "season": "Batalha Avançada",
+        "title_en": "Training Wrecks",
+        "title_ja": "筋肉バトル！？ダブルバトル！！",
+        "appearance": "Participação breve",
+        "description": "Um Blastoise de treinador aparece no episódio.",
+        "title_pt": "Malhando Muito"
+      },
+      {
+        "jp_number": 385,
+        "episode_code": "AG111",
+        "season_reference": 8,
+        "season": "Batalha Avançada",
+        "title_en": "Eight Ain't Enough",
+        "title_ja": "ルネジム！水のアーティスト・アダン！（後編）",
+        "appearance": "Participação breve",
+        "description": "Um treinador aparece com Blastoise no episódio.",
+        "title_pt": "Oito não é o Bastante"
+      },
+      {
+        "jp_number": 402,
+        "episode_code": "AG128",
+        "season_reference": 8,
+        "season": "Batalha Avançada",
+        "title_en": "Shocks and Bonds",
+        "title_ja": "決勝トーナメントへ！熱き戦いの日々！",
+        "appearance": "Placar",
+        "description": "O Blastoise de Johnny aparece no placar da batalha contra Tyson, depois de cair fora de cena.",
+        "title_pt": "Choques e Bônus"
+      },
+      {
+        "jp_number": 436,
+        "episode_code": "AG162",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_en": "Spontaneous Combusken!",
+        "title_ja": "ポケモンコンテスト！ユズリハ大会！！",
+        "appearance": "Concurso",
+        "description": "Uma pessoa competindo no Concurso de Chrysanthemum usa Blastoise.",
+        "title_pt": "Combusken Espontâneo!"
+      },
+      {
+        "jp_number": 451,
+        "episode_code": "AG177",
+        "season_reference": 9,
+        "season": "Batalha da Fronteira",
+        "title_en": "Grating Spaces!",
+        "title_ja": "タケシ＆サトシ！タッグバトルでニビジムを守れ！！",
+        "appearance": "Imaginação",
+        "description": "O Blastoise de Lola reaparece em uma cena imaginada.",
+        "title_pt": "Grades Espaciais"
+      },
+      {
+        "jp_number": 538,
+        "episode_code": "DP072",
+        "season_reference": 11,
+        "season": "Dimensão de Batalha",
+        "title_en": "Pokémon Ranger and the Kidnapped Riolu! Part 2",
+        "title_ja": "ポケモンレンジャー！波導のリオル！！(後編)",
+        "appearance": "Resgate",
+        "description": "Kellyn usa o Capture Styler em três Blastoise para apagar um incêndio com Rain Dance.",
+        "title_pt": "O Patrulheiro Pokémon e o Riolu sequestrado! Segunda Parte"
+      },
+      {
+        "jp_number": 557,
+        "episode_code": "DP091",
+        "season_reference": 11,
+        "season": "Dimensão de Batalha",
+        "title_en": "One Team, Two Team, Red Team, Blue Team!",
+        "title_ja": "最後の大勝負！ポケモントライアスロン！！",
+        "appearance": "Triatlo",
+        "description": "Um aluno usa um Blastoise da Academia Pokémon na primeira etapa do triatlo.",
+        "title_pt": "Uma Equipe, Duas Equipes, Equipe Vermelha, Equipe Azul!"
+      },
+      {
         "title_en": "Tag Team Battle Inspiration!",
         "appearance": "Blastoise de Tierno",
         "description": "Já evoluído, o Blastoise de Tierno luta ao lado do Pikachu de Ash em uma batalha em dupla.",
@@ -34252,6 +34483,72 @@
         "season": "XYZ",
         "title_pt": "Uma Experiência Valiosa Para Todos!",
         "title_ja": "メガジュカイン対ライチュウ！経験値いただきます！！"
+      },
+      {
+        "jp_number": 966,
+        "episode_code": "SM027",
+        "season_reference": 20,
+        "season": "Sol e Lua",
+        "title_en": "A Glaring Rivalry!",
+        "title_ja": "出でよ！紅き眼差しルガルガン！！",
+        "appearance": "Batalha",
+        "description": "O Blastoise de um marinheiro perde para o Lycanroc Forma Noturna de Gladion.",
+        "title_pt": "Uma rivalidade de olhares!"
+      },
+      {
+        "jp_number": 1039,
+        "episode_code": "SM100",
+        "season_reference": 22,
+        "season": "Ultralendas",
+        "title_en": "Battling the Beast Within!",
+        "title_ja": "風を断つ稲妻！その名はゼラオラ！！",
+        "appearance": "Flashback",
+        "description": "O Blastoise dos Ultra Rangers tenta deter Guzzlord na Ultra Ruína.",
+        "title_pt": "Enfrentando a criatura interior!"
+      },
+      {
+        "jp_number": 1087,
+        "episode_code": "JN002",
+        "season_reference": 23,
+        "season": "Jornadas",
+        "title_en": "Legend? Go! Friends? Go!",
+        "title_ja": "サトシとゴウ、ルギアでゴー！",
+        "appearance": "Holograma",
+        "description": "Um Blastoise é exibido em um vídeo holográfico.",
+        "title_pt": "Lendário? Sim! Amigos? Sim!"
+      },
+      {
+        "jp_number": 1143,
+        "episode_code": "JN058",
+        "season_reference": 24,
+        "season": "Jornadas de Mestre",
+        "title_en": "Eyes on the Goal!",
+        "title_ja": "カモンカムカメカメレース！",
+        "appearance": "Prática de futebol",
+        "description": "Seis Blastoise do Mestre dos Cascos aparecem no episódio.",
+        "title_pt": "De olho no objetivo!"
+      },
+      {
+        "jp_number": 1221,
+        "episode_code": "JN136",
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_en": "This Could be the Start of Something Big!",
+        "title_ja": "サトシとゴウ！あらたなる旅立ち！！",
+        "appearance": "Participação breve",
+        "description": "Um treinador aparece acompanhado de Blastoise.",
+        "title_pt": "Esse pode ser o começo de uma coisa maior!"
+      },
+      {
+        "jp_number": 1224,
+        "episode_code": "JN139",
+        "season_reference": 25,
+        "season": "Jornadas Supremas",
+        "title_en": "Must Be Our Heroes and the Witch!",
+        "title_ja": "タケシとデントともりのまじょ！",
+        "appearance": "Imaginação",
+        "description": "Blastoise aparece em uma cena imaginada.",
+        "title_pt": "Os heróis e a Bruxa da Floresta!"
       }
     ],
     "films": [
@@ -34263,6 +34560,30 @@
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/films/mewtwo-strikes-back.webp",
           "alt": "Shellshocker, o Blastoise de Neesha, no filme de 1998"
         }
+      },
+      {
+        "title_en": "The Power of One",
+        "description": "Vários Blastoise sentem a perturbação causada por Lawrence III.",
+        "year": 1999,
+        "category": "Participação breve"
+      },
+      {
+        "title_en": "Destiny Deoxys",
+        "description": "Sid usa Blastoise como seu principal Pokémon de batalha.",
+        "year": 2004,
+        "category": "Blastoise de Sid"
+      },
+      {
+        "title_en": "Lucario and the Mystery of Mew",
+        "description": "Blastoise aparece entre os Pokémon dos exércitos em conflito no passado.",
+        "year": 2005,
+        "category": "Flashback"
+      },
+      {
+        "title_en": "Diancie and the Cocoon of Destruction",
+        "description": "Mega Blastoise aparece nos créditos de abertura.",
+        "year": 2014,
+        "category": "Abertura"
       },
       {
         "title_en": "I Choose You!",
@@ -34292,6 +34613,72 @@
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/pokemon-origins.webp",
           "alt": "Blastoise de Blue em Pokémon Origins"
         }
+      },
+      {
+        "title_en": "A Family That Battles Together Stays Together!",
+        "description": "O Blastoise de Lola resgata o Golem de Flint depois que ele cai na água.",
+        "category": "Pokémon Chronicles"
+      },
+      {
+        "title_en": "Mega Evolution Special I",
+        "description": "O Mega Blastoise de Siebold derrota o Mega Charizard X de Alain.",
+        "code": "ME001",
+        "category": "Megaevolução",
+        "year": 2014,
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/mega-evolution-special-i.webp",
+          "alt": "Mega Blastoise de Siebold no primeiro especial de Megaevolução"
+        }
+      },
+      {
+        "title_en": "Pokémon Generations · The Challenger",
+        "description": "O Blastoise de Blue derrota Dragonite na batalha contra Lance, e Blue se torna Campeão.",
+        "code": "PG03",
+        "year": 2016,
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/generations-the-challenger.webp",
+          "alt": "Blastoise de Blue em Pokémon Generations"
+        }
+      },
+      {
+        "title_en": "Pokémon Evolutions · The Discovery",
+        "description": "Green usa Blastoise para atravessar a Cerulean Cave. Ele megaevolui contra o Mewtwo de Elaine.",
+        "code": "PE08",
+        "year": 2021,
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/animations/evolutions-the-discovery.webp",
+          "alt": "Mega Blastoise de Green em The Discovery"
+        }
+      },
+      {
+        "title_en": "Pokémon Origins · File 1: Red",
+        "description": "Blastoise aparece na introdução narrada pelo Professor Oak.",
+        "code": "PO01",
+        "year": 2013
+      },
+      {
+        "title_en": "GOTCHA!",
+        "description": "Blastoise aparece brevemente como Pokémon de Red no videoclipe.",
+        "category": "Videoclipe",
+        "year": 2020
+      },
+      {
+        "title_en": "Pikachu’s Vacation",
+        "description": "Um Blastoise aparece no parque temático Pokémon.",
+        "category": "Curta",
+        "year": 1998
+      },
+      {
+        "title_en": "Pikachu’s Rescue Adventure",
+        "description": "Blastoise aparece nos créditos japoneses do curta.",
+        "category": "Créditos",
+        "year": 1999
+      },
+      {
+        "title_en": "Distant Blue Sky!",
+        "year": 2022,
+        "category": "Especial",
+        "description": "Um treinador aparece com Blastoise em uma participação breve."
       }
     ],
     "manga": [
@@ -34330,6 +34717,145 @@
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/mega-blastoise.webp",
           "alt": "Blasty na forma Mega Blastoise em Pokémon Adventures"
         }
+      },
+      {
+        "title_en": "Pokémon Adventures · The Final Battle VIII",
+        "description": "Blasty, Feraligatr de Silver e Swampert de Ruby combinam Hydro Cannon contra o falso Kyogre.",
+        "category": "Emerald"
+      },
+      {
+        "title_en": "Pokémon Adventures · Chinchou in Charge",
+        "description": "Blastoise aparece em uma cena imaginada junto aos outros iniciais de Kanto totalmente evoluídos.",
+        "category": "Gold, Silver & Crystal"
+      },
+      {
+        "title_en": "Pokémon Adventures · Pokémon Ranger: The Comic – Shadows of Almia",
+        "description": "Kellyn captura temporariamente um Blastoise para apagar o incêndio em Vien Forest.",
+        "code": "PRV1",
+        "category": "Especial"
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Get The Flying Machine!!",
+        "description": "Blue aparece com Blastoise, seu principal parceiro nas batalhas.",
+        "category": "Blastoise de Blue",
+        "image": {
+          "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/manga/pocket-monsters-blue.webp",
+          "alt": "Blastoise de Blue no mangá Pokémon Pocket Monsters"
+        }
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Let’s Get that Moon Rock!!",
+        "description": "Misty aparece com um Blastoise."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Part-Time Job At The Swimming Pool!!",
+        "description": "O Blastoise de Green desafia Red para uma competição de natação."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Save the Pokémon Zoo!!",
+        "description": "O Blastoise do Professor Oak estreia no capítulo."
+      },
+      {
+        "title_en": "Pokémon Ruby-Sapphire · Clefairy’s Golf Debut!",
+        "description": "Blastoise aparece no capítulo da estreia de Clefairy no golfe."
+      },
+      {
+        "title_en": "Pocket Monsters HGSS · PMHGSS11",
+        "description": "Blastoise aparece no décimo primeiro capítulo."
+      },
+      {
+        "title_en": "Magical Pokémon Journey · The Five Sisters of Squirtle",
+        "description": "Kameko e Kamemi, duas irmãs mais velhas de Squirtle, são Blastoise."
+      },
+      {
+        "title_en": "Pokémon Zensho",
+        "description": "O Blastoise de Shigeru enfrenta o Charizard de Satoshi pelo título da Liga Pokémon."
+      },
+      {
+        "title_en": "Mewtwo Strikes Back! · Adaptação em mangá",
+        "description": "Shellshocker, de Neesha, e seu clone Blastoisetwo aparecem na adaptação."
+      },
+      {
+        "title_en": "Pokémon: Yeah! I Got Pokémon!",
+        "description": "Blastoise aparece em A Mischievous Wartortle e o Blastoise de Kameta aparece em GDZ38."
+      },
+      {
+        "title_en": "Pokémon Gold & Silver: The Golden Boys · Ilhas Redemoinho",
+        "description": "Gold enfrenta o Blastoise que dominava a ilha. Ele reaparece no fim da batalha com Lugia."
+      },
+      {
+        "title_en": "Ash & Pikachu · One Half Of A Poké Ball",
+        "description": "O Blastoise de Gary enfrenta o Pikachu de Ash como último Pokémon de Gary na batalha."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Which One is the Real Clefairy!?",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Pulverize the strongest Pokémon!!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Good-Bye, Pikachu?!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Curry Showdown! Which is the Most Delicious?",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · The Thrill of a Perfect Score, Big Rampage at the Amusement Park!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Clefairy, a Doctor!?",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · The Fake Pikachu!!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Team Rocket’s Downfall!!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Pikachu’s Birthday Party",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · The Ancient Pokémon Discovery!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Clefairy, a Supernatural Being?!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Marill’s Special Training to Surpass Pikachu!!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Take me to the Dragon Palace!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
+      },
+      {
+        "title_en": "Pokémon Pocket Monsters · Special Fireworks!!",
+        "category": "Participação breve",
+        "description": "Blastoise aparece neste capítulo."
       }
     ]
   },
