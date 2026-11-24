@@ -27810,7 +27810,11 @@
         "year": 2009,
         "category": "Aventura",
         "description": "Squirtle aparece entre os habitantes do parque.",
-        "obtaining": "Encontre-o na Iceberg Zone."
+        "obtaining": "Encontre-o na Iceberg Zone.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/squirtle/spinoff/0007-pokepark-wii.png",
+          "alt": "Modelo de Squirtle em PokéPark Wii: Pikachu’s Adventure"
+        }
       },
       {
         "game": "Pokémon Rumble Blast",
