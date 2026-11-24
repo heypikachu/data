@@ -34680,7 +34680,11 @@
         "title_ja": "出でよ！紅き眼差しルガルガン！！",
         "appearance": "Batalha",
         "description": "O Blastoise de um marinheiro perde para o Lycanroc Forma Noturna de Gladion.",
-        "title_pt": "Uma rivalidade de olhares!"
+        "title_pt": "Uma rivalidade de olhares!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-sm027-cedeb666b51f6216.webp",
+          "alt": "Blastoise do marinheiro em Uma rivalidade de olhares!"
+        }
       },
       {
         "jp_number": 1039,
@@ -34713,7 +34717,11 @@
         "title_ja": "カモンカムカメカメレース！",
         "appearance": "Prática de futebol",
         "description": "Seis Blastoise do Mestre dos Cascos aparecem no episódio.",
-        "title_pt": "De olho no objetivo!"
+        "title_pt": "De olho no objetivo!",
+        "image": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/blastoise/anime/scene-jn058-e81ca7359b3b22a7.webp",
+          "alt": "Blastoise do Mestre dos Cascos em De olho no objetivo!"
+        }
       },
       {
         "jp_number": 1221,
