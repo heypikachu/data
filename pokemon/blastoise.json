@@ -34181,11 +34181,17 @@
       {
         "title_en": "Beach Blank-Out Blastoise",
         "appearance": "Blastoise da Ilha das Tartarugas",
-        "description": "Com um Jigglypuff preso em um dos canhões, Blastoise adormece junto com os Pokémon da ilha ao ouvir seu canto.",
+        "description": "Blastoise adormece ao ouvir o Jigglypuff preso em um dos seus canhões.",
         "image": {
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/ep060.webp",
           "alt": "Blastoise da Ilha das Tartarugas em Beach Blank-Out Blastoise"
-        }
+        },
+        "jp_number": 60,
+        "episode_code": "EP060",
+        "season_reference": 1,
+        "season": "Liga Índigo",
+        "title_pt": "Desmaios na Praia de Blastoise",
+        "title_ja": "カメックスのしま"
       },
       {
         "title_en": "The Ties That Bind",
@@ -34194,34 +34200,58 @@
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/ep269.webp",
           "alt": "Blastoise de Gary em The Ties That Bind"
         },
-        "description": "Gary revela, na Conferência de Prata, a evolução final do Squirtle que recebeu do Professor Oak."
+        "description": "Gary revela seu Blastoise na batalha contra Ash na Conferência de Prata.",
+        "jp_number": 269,
+        "episode_code": "EP269",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Os Empates que Amarram",
+        "title_ja": "けっしょうトーナメント！フルバトル６ＶＳ６！！"
       },
       {
         "title_en": "Can't Beat the Heat!",
         "appearance": "Blastoise de Gary",
-        "description": "É o último Pokémon de Gary na batalha da Conferência de Prata contra Ash.",
+        "description": "O Blastoise de Gary enfrenta o Charizard de Ash no duelo decisivo.",
         "image": {
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/ep270.webp",
           "alt": "Blastoise de Gary enfrenta Charizard em Can’t Beat the Heat!"
-        }
+        },
+        "jp_number": 270,
+        "episode_code": "EP270",
+        "season_reference": 5,
+        "season": "Master Quest",
+        "title_pt": "Não Dá pra Vencer o Calor!",
+        "title_ja": "ライバルたいけつ！カメックスＶＳリザードン！！"
       },
       {
         "title_en": "Tag Team Battle Inspiration!",
         "appearance": "Blastoise de Tierno",
-        "description": "O Wartortle de Tierno reaparece na sua evolução final.",
+        "description": "Já evoluído, o Blastoise de Tierno luta ao lado do Pikachu de Ash em uma batalha em dupla.",
         "image": {
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/xy090.webp",
           "alt": "Blastoise de Tierno em Tag Team Battle Inspiration!"
-        }
+        },
+        "jp_number": 889,
+        "episode_code": "XY090",
+        "season_reference": 18,
+        "season": "XY: Desafio em Kalos",
+        "title_pt": "Inspiração de Batalha de Dupla!",
+        "title_ja": "タッグバトルは友情バトル！イーブイ初参戦！！"
       },
       {
         "title_en": "Valuable Experience for All!",
         "appearance": "Blastoise de Tierno",
-        "description": "Tierno usa Blastoise na Conferência de Lumiose.",
+        "description": "O Blastoise de Tierno usa Hydro Cannon na batalha contra Sawyer na Liga de Kalos.",
         "image": {
           "url": "https://cdn.jsdelivr.net/gh/heypikachu/data@main/pokemon/media/blastoise/anime/xy126.webp",
           "alt": "Blastoise de Tierno usa Hydro Cannon em Valuable Experience for All!"
-        }
+        },
+        "jp_number": 925,
+        "episode_code": "XY126",
+        "season_reference": 19,
+        "season": "XYZ",
+        "title_pt": "Uma Experiência Valiosa Para Todos!",
+        "title_ja": "メガジュカイン対ライチュウ！経験値いただきます！！"
       }
     ],
     "films": [
