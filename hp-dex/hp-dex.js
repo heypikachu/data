@@ -437,9 +437,23 @@ async function hpDexRender() {
       `;
     }
 
-    document.getElementById('morphology').innerHTML = POKEDEX_DATA.morphology
-      ? `<div class="morph-card"><div><small>FORMATO CORPORAL</small><strong>${POKEDEX_DATA.morphology}</strong></div></div>`
-      : `<div class="stateempty">Informações morfológicas específicas não cadastradas.</div>`;
+    // Morfologia: preservar o card original e aceitar o esquema estruturado da dexH!P.
+    const morphologyData = POKEDEX_DATA.morphology;
+    const morphologyEmpty = '<div class="stateempty">Informações morfológicas específicas não cadastradas.</div>';
+    const morphologyCard = (entry, label) => {
+      if (typeof entry === 'string') entry = { name: entry };
+      if (!entry || typeof entry !== 'object' || !(entry.name || entry.description)) return '';
+      const icon = entry.icon && typeof entry.icon === 'object' ? entry.icon : {};
+      const url = typeof icon.url === 'string' ? icon.url.trim() : '';
+      const validIcon = /^(https:\/\/|data:image\/(?:png|webp|gif|jpeg);base64,)/i.test(url);
+      return `<div class="morph-card">${validIcon ? `<img src="${escapeHtml(url)}" alt="${escapeHtml(icon.alt || entry.name || label)}" width="48" height="48" loading="lazy" decoding="async">` : ''}<div><small>${escapeHtml(label)}</small><strong>${escapeHtml(entry.name || '')}</strong>${entry.description ? `<span>${escapeHtml(entry.description)}</span>` : ''}</div></div>`;
+    };
+    const morphologyMarkup = typeof morphologyData === 'string'
+      ? morphologyCard(morphologyData, 'FORMATO CORPORAL')
+      : morphologyData && typeof morphologyData === 'object'
+        ? morphologyCard(morphologyData.body_shape, 'FORMATO CORPORAL') + morphologyCard(morphologyData.footprint, 'PEGADA DA POKÉDEX')
+        : '';
+    document.getElementById('morphology').innerHTML = morphologyMarkup || morphologyEmpty;
 
     atualizarImagem(rec);
     renderizarLinhaEvolutiva(rec);
