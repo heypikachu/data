@@ -93,9 +93,18 @@ async function hpDexRender() {
 
 
   try {
-    const response = await fetch(JSON_URL);
-    if (!response.ok) throw new Error(`HTTP ${response.status} em ${JSON_URL}`);
-    POKEDEX_DATA = await response.json();
+    // GitHub Raw é a fonte principal dos JSONs; o CDN @main fica como reserva.
+    const rawPokemonURL = `https://raw.githubusercontent.com/heypikachu/data/main/pokemon/${encodeURIComponent(pokemonId)}.json`;
+    try {
+      const response = await fetch(rawPokemonURL + '?v=' + Math.floor(Date.now() / 300000), {cache:'no-store', credentials:'omit'});
+      if (!response.ok) throw new Error(`HTTP ${response.status} em ${rawPokemonURL}`);
+      POKEDEX_DATA = await response.json();
+    } catch (rawError) {
+      console.warn('H!P DEX: GitHub Raw indisponível; tentando CDN.', rawError);
+      const response = await fetch(JSON_URL);
+      if (!response.ok) throw new Error(`HTTP ${response.status} em ${JSON_URL}`);
+      POKEDEX_DATA = await response.json();
+    }
     // Estado de forma registrado antes de abrir o modal: útil para fallback visual.
     const nomeOriginalFormas = (POKEDEX_DATA.name || '').trim().toLocaleLowerCase('pt-BR');
     app.setAttribute('data-hp-no-other-forms', String(catalogoFormas().every(forma =>
@@ -437,23 +446,30 @@ async function hpDexRender() {
       `;
     }
 
-    // Morfologia: preservar o card original e aceitar o esquema estruturado da dexH!P.
+    // Morfologia: contrato estruturado, com estado explícito da pegada.
     const morphologyData = POKEDEX_DATA.morphology;
-    const morphologyEmpty = '<div class="stateempty">Informações morfológicas específicas não cadastradas.</div>';
-    const morphologyCard = (entry, label) => {
-      if (typeof entry === 'string') entry = { name: entry };
+    const morphologyObject = morphologyData && typeof morphologyData === 'object' && !Array.isArray(morphologyData) ? morphologyData : {};
+    const bodyEntry = typeof morphologyData === 'string' ? {name:morphologyData} : morphologyObject.body_shape;
+    const footprintEntry = morphologyObject.footprint;
+    const absentFootprint = footprintEntry && typeof footprintEntry === 'object' && (
+      footprintEntry.status === 'absent' ||
+      (!footprintEntry.status && /^(sem pegada própria|sem pegada identificável)$/i.test(String(footprintEntry.name || '').trim()) && !footprintEntry.icon?.url)
+    );
+    const pokeball = '<svg class="hp-morph-pokeball" viewBox="0 0 48 48" width="48" height="48" aria-hidden="true" focusable="false"><circle cx="24" cy="24" r="20" fill="none" stroke="currentColor" stroke-width="3"/><path d="M4 24a20 20 0 0 1 40 0H4Z" fill="currentColor" fill-opacity=".12"/><path d="M4 24h40" stroke="currentColor" stroke-width="3"/><circle cx="24" cy="24" r="7" fill="var(--surface-alt, #242c38)" stroke="currentColor" stroke-width="3"/><circle cx="24" cy="24" r="2.7" fill="currentColor"/></svg>';
+    const morphologyCard = (entry, label, absent = false) => {
+      if (typeof entry === 'string') entry = {name:entry};
       if (!entry || typeof entry !== 'object' || !(entry.name || entry.description)) return '';
       const icon = entry.icon && typeof entry.icon === 'object' ? entry.icon : {};
       const url = typeof icon.url === 'string' ? icon.url.trim() : '';
       const validIcon = /^(https:\/\/|data:image\/(?:png|webp|gif|jpeg);base64,)/i.test(url);
-      return `<div class="morph-card">${validIcon ? `<img src="${escapeHtml(url)}" alt="${escapeHtml(icon.alt || entry.name || label)}" width="48" height="48" loading="lazy" decoding="async">` : ''}<div><small>${escapeHtml(label)}</small><strong>${escapeHtml(entry.name || '')}</strong>${entry.description ? `<span>${escapeHtml(entry.description)}</span>` : ''}</div></div>`;
+      const graphic = absent ? pokeball : validIcon ? `<img src="${escapeHtml(url)}" alt="${escapeHtml(icon.alt || entry.name || label)}" width="48" height="48" loading="lazy" decoding="async">` : '';
+      return `<div class="morph-card${absent ? ' hp-morph-no-footprint' : ''}">${graphic}<div><small>${escapeHtml(label)}</small><strong>${escapeHtml(entry.name || '')}</strong>${entry.description ? `<span class="hp-morph-description">${escapeHtml(entry.description)}</span>` : ''}</div></div>`;
     };
-    const morphologyMarkup = typeof morphologyData === 'string'
-      ? morphologyCard(morphologyData, 'FORMATO CORPORAL')
-      : morphologyData && typeof morphologyData === 'object'
-        ? morphologyCard(morphologyData.body_shape, 'FORMATO CORPORAL') + morphologyCard(morphologyData.footprint, 'PEGADA DA POKÉDEX')
-        : '';
-    document.getElementById('morphology').innerHTML = morphologyMarkup || morphologyEmpty;
+    const bodyMarkup = morphologyCard(bodyEntry, 'FORMATO CORPORAL') || morphologyCard({name:'Formato corporal não cadastrado',description:'A classificação corporal ainda precisa ser confirmada.'}, 'FORMATO CORPORAL');
+    const footprintMarkup = absentFootprint
+      ? morphologyCard({name:'Sem pegada própria',description:'Este Pokémon não possui uma pegada identificável registrada na Pokédex.'}, 'PEGADA DA POKÉDEX', true)
+      : morphologyCard(footprintEntry, 'PEGADA DA POKÉDEX') || morphologyCard({name:'Pegada não cadastrada',description:'O registro da pegada ainda precisa ser confirmado.'}, 'PEGADA DA POKÉDEX');
+    document.getElementById('morphology').innerHTML = bodyMarkup + footprintMarkup;
 
     atualizarImagem(rec);
     renderizarLinhaEvolutiva(rec);

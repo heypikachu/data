@@ -98,3 +98,21 @@
   display:block;max-width:390px;font-size:13px;line-height:1.65;
   text-align:center;color:var(--ink,#f2f5fa);font-weight:600;
 }
+
+/* Morfologia: estabilizar tipografia no F5 sem mudar os cards do tema. */
+#hp-dex-app #morphology .morph-card .hp-morph-description,
+#hp-dex-app #morphology .morph-card > div > span{
+  display:block;
+  margin:5px 0 0;
+  font-size:12px!important;
+  line-height:1.45!important;
+  font-weight:400!important;
+  letter-spacing:normal!important;
+  text-transform:none!important;
+  overflow-wrap:anywhere;
+  color:var(--muted,inherit);
+}
+#hp-dex-app #morphology .morph-card > .hp-morph-pokeball{
+  display:block;width:48px;height:48px;max-width:48px;
+  flex:0 0 48px;margin:0 auto;color:var(--gold,#E09711);
+}

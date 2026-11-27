@@ -84,7 +84,8 @@
       "label": "Pegada da Pokédex",
       "slug": "footprint",
       "name": "Sem pegada própria",
-      "description": "O registro de pegada de Metapod nas gerações III, IV e V é vazio: sua forma de crisálida não possui uma pegada identificável."
+      "description": "O registro de pegada de Metapod nas gerações III, IV e V é vazio: sua forma de crisálida não possui uma pegada identificável.",
+      "status": "absent"
     }
   },
   "spin_off_games": {
