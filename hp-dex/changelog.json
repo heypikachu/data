@@ -3,16 +3,27 @@
   "project": "dexH!P",
   "status": "Beta · Em desenvolvimento",
   "latest": {
-    "version": "4.88",
-    "date": "2026-11-23",
-    "title": "Fichas de Kanto, evolução e gerador SEO V7",
+    "version": "4.89",
+    "date": "2026-11-27",
+    "title": "Novas fichas de Kanto e habilidades mais completas",
     "changes": [
-      "Novas fichas: Ivysaur e Venusaur; Bulbasaur em preparação.",
-      "Linhas evolutivas completas e links entre fichas sincronizados.",
-      "Modo claro refinado e Gerador SEO V7 com capa e descrição automáticas."
+      "Novas fichas disponíveis: Bulbasaur, Squirtle, Wartortle, Blastoise, Caterpie e Metapod.",
+      "Habilidades principais, secundárias e ocultas com identificação e descrição de seus efeitos em português, respeitando a edição e a forma selecionadas.",
+      "Formato corporal e pegadas com apresentação aprimorada. Pokémon sem pegada identificável recebem um card especial com uma Poké Bola dourada.",
+      "Melhorias na navegação entre fichas e na estabilidade da exibição das informações."
     ]
   },
   "history": [
+    {
+      "version": "4.88",
+      "date": "2026-11-23",
+      "title": "Fichas de Kanto, evolução e gerador SEO V7",
+      "changes": [
+        "Novas fichas: Ivysaur e Venusaur; Bulbasaur em preparação.",
+        "Linhas evolutivas completas e links entre fichas sincronizados.",
+        "Modo claro refinado e Gerador SEO V7 com capa e descrição automáticas."
+      ]
+    },
     {
       "version": "4.83",
       "date": "2026-11-20",
