@@ -71,14 +71,20 @@
     "body_shape": {
       "label": "Formato corporal",
       "slug": "body-shape",
-      "name": "Serpentino",
-      "official_category": "Corpo alongado e sem membros",
-      "description": "Crisálida verde de corpo curvado, sem membros externos, com placas angulosas e olhos laterais. Metapod não deixa pegada identificável.",
+      "name": "Corpo serpentino",
+      "official_category": "Pokémon com corpo serpentino",
+      "description": "Crisálida verde de corpo curvado e alongado, sem membros externos, com placas angulosas e olhos laterais.",
       "icon": {
         "name": "Body02.webp",
         "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/body/Body02.webp",
         "alt": "Ícone do formato corporal alongado sem membros"
       }
+    },
+    "footprint": {
+      "label": "Pegada da Pokédex",
+      "slug": "footprint",
+      "name": "Sem pegada própria",
+      "description": "O registro de pegada de Metapod nas gerações III, IV e V é vazio: sua forma de crisálida não possui uma pegada identificável."
     }
   },
   "spin_off_games": {
