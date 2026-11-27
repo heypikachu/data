@@ -50,6 +50,11 @@
       "name": "Caterpie",
       "published": true,
       "url": "https://dex.heypikachu.com/caterpie"
+    },
+    "11": {
+      "name": "Metapod",
+      "published": true,
+      "url": "https://dex.heypikachu.com/metapod"
     }
   }
 }
