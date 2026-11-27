@@ -97,70 +97,110 @@
         "year": 1999,
         "category": "Fotografia",
         "description": "Metapod aparece na vegetação do percurso e pode ser fotografado durante o passeio.",
-        "obtaining": "Percurso River."
+        "obtaining": "Percurso River.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-snap.png",
+          "alt": "Modelo tridimensional de Metapod em Pokémon Snap"
+        }
       },
       {
         "game": "Pokémon Pinball",
         "year": 1999,
         "category": "Pinball",
         "description": "Metapod é registrável nas mesas de pinball por evolução.",
-        "obtaining": "Evolua Caterpie durante a partida."
+        "obtaining": "Evolua Caterpie durante a partida.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-pinball.png",
+          "alt": "Sprite de Metapod em Pokémon Pinball"
+        }
       },
       {
         "game": "Pokémon Trozei!",
         "year": 2005,
         "category": "Quebra-cabeça",
         "description": "Metapod integra a coleção de peças do quebra-cabeça.",
-        "obtaining": "SOL Laboratory 2, Endless Level 4, Secret Storage 8 e esconderijo de Mr. Who."
+        "obtaining": "SOL Laboratory 2, Endless Level 4, Secret Storage 8 e esconderijo de Mr. Who.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-trozei.png",
+          "alt": "Ícone de Metapod em Pokémon Trozei!"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
         "year": 2005,
         "category": "Exploração",
         "description": "Caterpie solicita à equipe de resgate que salve seu amigo Metapod no início da história.",
-        "obtaining": "Recrutamento em Joyous Tower, andares 7F a 8F."
+        "obtaining": "Recrutamento em Joyous Tower, andares 7F a 8F.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-md.gif",
+          "alt": "Sprite animado de Metapod em Pokémon Mystery Dungeon: Red Rescue Team e Blue Rescue Team"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
         "year": 2007,
         "category": "Exploração",
         "description": "Metapod pode ser recrutado em masmorras.",
-        "obtaining": "Mystifying Forest (B1F–B13F), Mystery Jungle (B1F–B29F) e Happy Outlook (1F–15F)."
+        "obtaining": "Mystifying Forest (B1F–B13F), Mystery Jungle (B1F–B29F) e Happy Outlook (1F–15F).",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-md-time-darkness.png",
+          "alt": "Retrato de Metapod em Pokémon Mystery Dungeon: Explorers of Time e Darkness"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Sky",
         "year": 2009,
         "category": "Exploração",
         "description": "Metapod é encontrável em várias masmorras, incluindo Sky Peak.",
-        "obtaining": "Mystifying Forest (B1F–B13F), Mystery Jungle (B1F–B29F), Happy Outlook (1F–15F) e Sky Peak (1st Station Pass 1F até 5th Station Pass 3F)."
+        "obtaining": "Mystifying Forest (B1F–B13F), Mystery Jungle (B1F–B29F), Happy Outlook (1F–15F) e Sky Peak (1st Station Pass 1F até 5th Station Pass 3F).",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-md-sky.png",
+          "alt": "Retrato de Metapod em Pokémon Mystery Dungeon: Explorers of Sky"
+        }
       },
       {
         "game": "Pokémon Rumble",
         "year": 2009,
         "category": "Ação",
         "description": "A espécie integra os Pokémon de brinquedo que podem ser recrutados.",
-        "obtaining": "Silent Forest, Normal Mode C e A."
+        "obtaining": "Silent Forest, Normal Mode C e A.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-rumble.png",
+          "alt": "Modelo de brinquedo de Metapod em Pokémon Rumble"
+        }
       },
       {
         "game": "PokéPark Wii: Pikachu's Adventure",
         "year": 2009,
         "category": "Aventura",
         "description": "Metapod é um dos habitantes exploráveis do PokéPark.",
-        "obtaining": "Haunted Zone."
+        "obtaining": "Haunted Zone.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-pokepark.png",
+          "alt": "Metapod em PokéPark Wii: Pikachu's Adventure"
+        }
       },
       {
         "game": "Pokémon Rumble Blast",
         "year": 2011,
         "category": "Ação",
         "description": "A espécie aparece entre os Pokémon de brinquedo dos estágios.",
-        "obtaining": "Treetops: Sun-Dappled Bank."
+        "obtaining": "Treetops: Sun-Dappled Bank.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-rumble-blast.png",
+          "alt": "Metapod em Pokémon Rumble Blast"
+        }
       },
       {
         "game": "PokéPark 2: Wonders Beyond",
         "year": 2011,
         "category": "Aventura",
         "description": "Metapod pode ser encontrado ao explorar a região.",
-        "obtaining": "Crag Area."
+        "obtaining": "Crag Area.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-pokepark2.png",
+          "alt": "Metapod em PokéPark 2: Wonders Beyond"
+        }
       },
       {
         "game": "Pokémon Rumble U",
@@ -174,14 +214,22 @@
         "year": 2014,
         "category": "Quebra-cabeça",
         "description": "Metapod é uma peça colecionável do jogo.",
-        "obtaining": "Safari Jungle, fase 2, aos domingos."
+        "obtaining": "Safari Jungle, fase 2, aos domingos.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-battle-trozei.png",
+          "alt": "Ícone de Metapod em Pokémon Battle Trozei"
+        }
       },
       {
         "game": "Pokémon Shuffle",
         "year": 2015,
         "category": "Quebra-cabeça",
         "description": "Metapod integra a seleção de espécies de um Pokémon Safari.",
-        "obtaining": "20ª edição do evento Pokémon Safari."
+        "obtaining": "20ª edição do evento Pokémon Safari.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-shuffle.png",
+          "alt": "Ícone de Metapod em Pokémon Shuffle"
+        }
       },
       {
         "game": "Pokémon Rumble World",
@@ -195,21 +243,33 @@
         "year": 2015,
         "category": "Exploração",
         "description": "Metapod pode integrar a rede de aliados da Connection Orb.",
-        "obtaining": "Conclua a missão associada a Metapod."
+        "obtaining": "Conclua a missão associada a Metapod.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-smd.png",
+          "alt": "Retrato de Metapod em Pokémon Super Mystery Dungeon"
+        }
       },
       {
         "game": "Pokémon GO",
         "year": 2016,
         "category": "Captura e evolução",
         "description": "Metapod tem 45 de Ataque, 80 de Defesa e 137 de Resistência; a distância de companheiro é de 1 km.",
-        "obtaining": "Evolua Caterpie com 12 doces; use mais 50 doces para evoluir Metapod em Butterfree."
+        "obtaining": "Evolua Caterpie com 12 doces; use mais 50 doces para evoluir Metapod em Butterfree.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-go.png",
+          "alt": "Metapod em Pokémon GO"
+        }
       },
       {
         "game": "Pokémon Quest",
         "year": 2018,
         "category": "Exploração",
         "description": "Metapod integra a linha evolutiva de Caterpie na ilha Tumblecube.",
-        "obtaining": "Evolua Caterpie no nível 7; Metapod evolui no nível 10."
+        "obtaining": "Evolua Caterpie no nível 7; Metapod evolui no nível 10.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-quest.png",
+          "alt": "Modelo tridimensional de Metapod em Pokémon Quest"
+        }
       },
       {
         "game": "Super Smash Bros. Ultimate",
@@ -223,35 +283,55 @@
         "year": 2019,
         "category": "Ação",
         "description": "A espécie apareceu durante o período de funcionamento do jogo, encerrado em 2020.",
-        "obtaining": "Tutorial e áreas de eventos como Charizard Sea, Butterfree Sea e Bulbasaur Sea."
+        "obtaining": "Tutorial e áreas de eventos como Charizard Sea, Butterfree Sea e Bulbasaur Sea.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-rumble-rush.png",
+          "alt": "Modelo tridimensional de Metapod em Pokémon Rumble Rush"
+        }
       },
       {
         "game": "Pokémon Masters EX",
         "year": 2019,
         "category": "Simulação",
         "description": "Metapod pode integrar a dupla do protagonista por evolução de um Pokémon de ovo.",
-        "obtaining": "Evolua Caterpie obtido de ovo."
+        "obtaining": "Evolua Caterpie obtido de ovo.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-masters.png",
+          "alt": "Ícone de Metapod em Pokémon Masters EX"
+        }
       },
       {
         "game": "Pokémon Mystery Dungeon: Rescue Team DX",
         "year": 2020,
         "category": "Exploração",
         "description": "A espécie participa da história inicial e também pode ser recrutada em masmorras.",
-        "obtaining": "Joyous Tower (4F–8F); Pokémon desmaiado em Northwind Field e Murky Cave."
+        "obtaining": "Joyous Tower (4F–8F); Pokémon desmaiado em Northwind Field e Murky Cave.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-md-dx.png",
+          "alt": "Retrato de Metapod em Pokémon Mystery Dungeon: Rescue Team DX"
+        }
       },
       {
         "game": "New Pokémon Snap",
         "year": 2021,
         "category": "Fotografia",
         "description": "Metapod é um dos Pokémon fotografáveis dos percursos de exploração.",
-        "obtaining": "Founja Jungle e Mightywide River durante o dia."
+        "obtaining": "Founja Jungle e Mightywide River durante o dia.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-new-snap.png",
+          "alt": "Modelo de Metapod em New Pokémon Snap"
+        }
       },
       {
         "game": "Pokémon Sleep",
         "year": 2023,
         "category": "Pesquisa de sono",
         "description": "Metapod pode aparecer durante pesquisas de sono.",
-        "obtaining": "Greengrass Isle a partir de Great 1; Old Gold Power Plant, Amber Canyon e Greengrass Isle Expert a partir de Basic 1."
+        "obtaining": "Greengrass Isle a partir de Great 1; Old Gold Power Plant, Amber Canyon e Greengrass Isle Expert a partir de Basic 1.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-sleep.png",
+          "alt": "Ícone de Metapod em Pokémon Sleep"
+        }
       }
     ]
   },
