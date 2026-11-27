@@ -116,3 +116,12 @@
   display:block;width:48px;height:48px;max-width:48px;
   flex:0 0 48px;margin:0 auto;color:var(--gold,#E09711);
 }
+
+/* Habilidades: título e efeitos em PT-BR no quadro dourado já existente. */
+#hp-dex-app #abilities .hp-ability-card{display:block;text-align:left;overflow-wrap:anywhere;}
+#hp-dex-app #abilities .hp-ability-title{display:flex;align-items:center;gap:7px;font-size:11px!important;line-height:1.4!important;font-weight:800;letter-spacing:.045em;color:var(--gold,#E09711);margin-bottom:8px;}
+#hp-dex-app #abilities .hp-ability-row{border-top:1px solid var(--accent-line,var(--line));padding:9px 0 0;margin-top:8px;}
+#hp-dex-app #abilities .hp-ability-heading{display:flex;align-items:baseline;justify-content:space-between;gap:6px 12px;flex-wrap:wrap;}
+#hp-dex-app #abilities .hp-ability-heading strong{font-size:13px!important;line-height:1.4!important;font-weight:750;color:var(--ink,inherit);}
+#hp-dex-app #abilities .hp-ability-heading span{font-size:10px!important;line-height:1.4!important;font-weight:500;color:var(--muted,inherit);}
+#hp-dex-app #abilities .hp-ability-effect{display:block;margin-top:4px;font-size:12px!important;line-height:1.55!important;font-weight:400!important;letter-spacing:normal;color:var(--ink,inherit);}

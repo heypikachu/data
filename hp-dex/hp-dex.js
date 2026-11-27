@@ -406,7 +406,69 @@ async function hpDexRender() {
     document.getElementById('stattotalLabel').textContent = rec.gen === 'I' ? 'Total dos 5 atributos da Gen I' : 'Total dos 6 atributos base';
     document.getElementById('stattotal').textContent = totalStats;
     
-    document.getElementById('abilities').innerHTML = `<div class="hint">🧬 ${['I','II'].includes(rec.gen) ? 'Habilidades ainda não existiam nesta geração.' : ((selectedForm && selectedForm.ability) || rec.abilities || 'Habilidades não cadastradas.')}</div>`;
+
+    // Habilidades: catálogo compartilhado em PT-BR e descrições específicas opcionais por edição/forma.
+    // Novos JSONs podem manter a string histórica e adicionar ability_details: {"Nome oficial":"Efeito em PT-BR"}.
+    // O renderizador também aceita abilities: [{name,slot,description}].
+    const abilityEffects = {
+      'Overgrow': 'Com um terço ou menos do HP máximo, aumenta em 50% o poder dos golpes do tipo Grama.',
+      'Blaze': 'Com um terço ou menos do HP máximo, aumenta em 50% o poder dos golpes do tipo Fogo.',
+      'Torrent': 'Com um terço ou menos do HP máximo, aumenta em 50% o poder dos golpes do tipo Água.',
+      'Swarm': 'Com um terço ou menos do HP máximo, aumenta em 50% o poder dos golpes do tipo Inseto.',
+      'Chlorophyll': 'Dobra a Velocidade do Pokémon enquanto houver sol forte.',
+      'Solar Power': 'Sob sol forte, aumenta o Ataque Especial em 50%, mas o Pokémon perde 1/8 do HP máximo ao final de cada turno.',
+      'Rain Dish': 'Recupera 1/16 do HP máximo ao final de cada turno enquanto estiver chovendo.',
+      'Thick Fat': 'Reduz pela metade o dano recebido de golpes dos tipos Fogo e Gelo.',
+      'Tough Claws': 'Aumenta em cerca de 30% o poder dos golpes que fazem contato físico com o alvo.',
+      'Drought': ['III','IV','V'].includes(rec.gen) ? 'Invoca sol forte ao entrar em batalha. O clima permanece até ser substituído por outro.' : 'Invoca sol forte ao entrar em batalha por cinco turnos, ou oito se o Pokémon estiver segurando Heat Rock.',
+      'Mega Launcher': 'Aumenta em 50% o poder dos golpes de pulso e aura compatíveis. Heal Pulse recupera 75% do HP máximo do alvo.',
+      'Shield Dust': 'Impede os efeitos secundários dos golpes de outros Pokémon que atingem o portador, como a chance de causar paralisia ou reduzir atributos.',
+      'Run Away': 'Permite fugir com garantia de batalhas contra Pokémon selvagens, quando a fuga é permitida. Não garante fuga de batalhas contra treinadores.',
+      'Shed Skin': 'Ao final de cada turno, tem '+(rec.gen==='IV'?'30%':'aproximadamente 33%')+' de chance de curar uma condição de status persistente, como sono, paralisia, queimadura, envenenamento ou congelamento.',
+      'Compound Eyes': 'Multiplica a precisão dos golpes utilizados pelo Pokémon por 1,3.',
+      'Tinted Lens': 'Dobra o dano dos golpes pouco eficazes. Não elimina imunidades de tipo.',
+      'Sniper': ['IV','V'].includes(rec.gen) ? 'Aumenta o multiplicador de dano dos acertos críticos de 2 para 3.' : 'Aumenta em 50% o dano dos acertos críticos.'
+    };
+    const abilityRaw = (selectedForm && (selectedForm.abilities || selectedForm.ability)) || rec.abilities;
+    const abilityDetails = (selectedForm && selectedForm.ability_details) || rec.ability_details || {};
+    const noAbility = ['I','II'].includes(rec.gen) || (typeof abilityRaw === 'string' && /(?:habilidades?.{0,35}(?:não|ainda não).{0,35}(?:exist|utiliz)|(?:não|ainda não).{0,25}(?:exist|utiliz).{0,25}habilidades?)/i.test(abilityRaw));
+    const abilitySlot = (slot, index) => {
+      const t=String(slot || '').toLowerCase();
+      if (/ocult|hidden/.test(t)) return 'Habilidade oculta';
+      if (/secund|second|normal 2|^2$/.test(t)) return 'Habilidade secundária';
+      if (/principal|first|normal 1|^1$/.test(t)) return 'Habilidade principal';
+      return index===0?'Habilidade principal':'Habilidade secundária';
+    };
+    const abilityEntries = [];
+    if (!noAbility) {
+      if (Array.isArray(abilityRaw)) {
+        abilityRaw.forEach((v,i)=>{
+          if(typeof v==='string' && v.trim()) abilityEntries.push({name:v.trim(),slot:abilitySlot('',i)});
+          else if(v && typeof v.name==='string' && v.name.trim()) abilityEntries.push({name:v.name.trim(),slot:abilitySlot(v.slot || (v.hidden?'hidden':''),i),description:typeof v.description==='string'?v.description:''});
+        });
+      } else if (typeof abilityRaw==='string' && abilityRaw.trim()) {
+        const cleaned=abilityRaw.replace(/\.\s+(?:A habilidade oculta|As habilidades ocultas)\b.*$/i,'');
+        const parts=cleaned.split(/\s*[·;/]\s*|\.\s+(?=[A-Z][A-Za-z'’ -]+\s*\((?:Principal|Secundária|Oculta|habilidade oculta)\))/);
+        parts.forEach((v,i)=>{
+          const idx=v.indexOf(':');
+          const title=(idx<0?v:v.slice(0,idx)).trim().replace(/\.+$/,'').trim();
+          const match=title.match(/^(.+?)\s*\(([^)]+)\)$/);
+          const name=(match?match[1]:title).trim();
+          if(!name)return;
+          abilityEntries.push({name,slot:abilitySlot(match?match[2]:'',i),description:idx<0?'':v.slice(idx+1).trim()});
+        });
+      }
+    }
+    const abilityTitle=abilityEntries.length>1?'HABILIDADES DO POKÉMON':'HABILIDADE DO POKÉMON';
+    const abilityContent=noAbility
+      ? '<div class="hp-ability-effect">'+(['I','II'].includes(rec.gen)?'Habilidades ainda não existiam nesta geração.':'Este jogo não utiliza habilidades nas batalhas.')+'</div>'
+      : abilityEntries.length ? abilityEntries.map(item=>{
+          const custom=Object.prototype.hasOwnProperty.call(abilityDetails,item.name)?abilityDetails[item.name]:null;
+          const customText=typeof custom==='string'?custom:custom&&typeof custom.description==='string'?custom.description:'';
+          const effect=customText || (Object.prototype.hasOwnProperty.call(abilityEffects,item.name)?abilityEffects[item.name]:'') || item.description || 'Descrição desta habilidade ainda não cadastrada para esta edição.';
+          return '<div class="hp-ability-row"><div class="hp-ability-heading"><strong>'+escapeHtml(item.name)+'</strong><span>'+escapeHtml(item.slot)+'</span></div><div class="hp-ability-effect">'+escapeHtml(effect)+'</div></div>';
+        }).join('') : '<div class="hp-ability-effect">Habilidades não cadastradas nesta edição.</div>';
+    document.getElementById('abilities').innerHTML = '<div class="hint hp-ability-card"><div class="hp-ability-title"><span aria-hidden="true">🧬</span> '+abilityTitle+'</div>'+abilityContent+'</div>';
     
     document.getElementById('speciesfacts').innerHTML = `
       <div class="fact">${f(svgEspecie, 'Espécie')}<strong>${POKEDEX_DATA.species_name}</strong></div>
