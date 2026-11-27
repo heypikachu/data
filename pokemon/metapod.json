@@ -32,8 +32,8 @@
     "Inseto"
   ],
   "species_name": "Pokémon Casulo",
-  "height": 0.7,
-  "weight": 9.9,
+  "height": "0,7 m",
+  "weight": "9,9 kg",
   "capture_rate": 120,
   "egg_cycles": 15,
   "egg_groups": [
@@ -43,7 +43,7 @@
     "male": 50,
     "female": 50
   },
-  "growth_rate": "Médio",
+  "growth_rate": "Médio-rápido",
   "pokedex_color": "Verde",
   "debut_generation": "I",
   "experience_at_level_100": 1000000,
@@ -54,12 +54,18 @@
   "concept_origin": {
     "title": "Conceito e origem",
     "form_designers": [],
-    "curiosity": "Metapod pode endurecer sua carapaça até enquanto dorme. Pikipek é um predador natural.",
+    "curiosity": "Metapod integra um grupo de Pokémon que representam a fase de pupa, como Kakuna, Silcoon e Cascoon. Todos têm Shed Skin, não possuem habilidade oculta e concedem 2 EVs de Defesa nas edições que utilizam esse sistema. A espécie estreou no anime quando o Caterpie de Ash evoluiu.",
     "origin": [
-      "A espécie representa a fase de crisálida da metamorfose de uma borboleta.",
-      "O nome Metapod provavelmente combina metamorphosis (metamorfose) e pod (vagem ou cápsula).",
-      "O nome japonês Transel pode aludir a transform (transformar) e cell (célula)."
-    ]
+      "Metapod representa a crisálida de uma borboleta, fase intermediária entre a lagarta Caterpie e a forma adulta Butterfree.",
+      "Sua carapaça verde em forma de meia-lua protege o organismo durante a reorganização interna. Mesmo com a proteção endurecida, o interior permanece delicado; por isso, a espécie economiza movimentos até a metamorfose terminar.",
+      "As pontas e placas geométricas da carapaça, combinadas aos olhos laterais, produzem a silhueta característica. Em certas perspectivas, as projeções dorsais lembram um rosto.",
+      "O nome inglês provavelmente combina metamorphosis (metamorfose) com pod (cápsula ou vagem). O japonês Transel pode combinar transform e cell; outra interpretação é um trocadilho com randoseru, a mochila escolar japonesa. São hipóteses etimológicas."
+    ],
+    "designer": {
+      "label": "Ilustração de Pokémon Red e Green",
+      "name": "Ken Sugimori",
+      "description": "A arte clássica publicada é creditada a Ken Sugimori; a autoria individual do desenho original da espécie não foi confirmada."
+    }
   },
   "morphology": {
     "body_shape": {
@@ -67,7 +73,7 @@
       "slug": "body-shape",
       "name": "Serpentino",
       "official_category": "Corpo alongado e sem membros",
-      "description": "Crisálida verde de corpo curvado, segmentado e com olhos laterais.",
+      "description": "Crisálida verde de corpo curvado, sem membros externos, com placas angulosas e olhos laterais. Metapod não deixa pegada identificável.",
       "icon": {
         "name": "Body02.webp",
         "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/body/Body02.webp",
@@ -77,139 +83,168 @@
   },
   "spin_off_games": {
     "title": "Além dos jogos principais",
-    "lead": "Onde encontrar Metapod em jogos derivados.",
+    "lead": "Participações documentadas de Metapod em jogos derivados e seus métodos de obtenção.",
     "entries": [
       {
         "game": "Pokémon Snap",
         "year": 1999,
         "category": "Fotografia",
-        "description": "Fotografe Metapod no percurso River."
+        "description": "Metapod aparece na vegetação do percurso e pode ser fotografado durante o passeio.",
+        "obtaining": "Percurso River."
       },
       {
         "game": "Pokémon Pinball",
         "year": 1999,
         "category": "Pinball",
-        "description": "Evolua Caterpie durante a partida."
+        "description": "Metapod é registrável nas mesas de pinball por evolução.",
+        "obtaining": "Evolua Caterpie durante a partida."
       },
       {
         "game": "Pokémon Trozei!",
         "year": 2005,
         "category": "Quebra-cabeça",
-        "description": "SOL Laboratory 2, Endless 4, Secret Storage 8 e esconderijo de Mr. Who."
+        "description": "Metapod integra a coleção de peças do quebra-cabeça.",
+        "obtaining": "SOL Laboratory 2, Endless Level 4, Secret Storage 8 e esconderijo de Mr. Who."
       },
       {
         "game": "Pokémon Mystery Dungeon: Red Rescue Team / Blue Rescue Team",
         "year": 2005,
         "category": "Exploração",
-        "description": "Joyous Tower, pisos 7–8; Metapod também é amigo de Caterpie na história."
+        "description": "Caterpie solicita à equipe de resgate que salve seu amigo Metapod no início da história.",
+        "obtaining": "Recrutamento em Joyous Tower, andares 7F a 8F."
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Time / Darkness",
         "year": 2007,
         "category": "Exploração",
-        "description": "Mystifying Forest (B1–B13), Mystery Jungle (B1–B29) e Happy Outlook (1–15)."
+        "description": "Metapod pode ser recrutado em masmorras.",
+        "obtaining": "Mystifying Forest (B1F–B13F), Mystery Jungle (B1F–B29F) e Happy Outlook (1F–15F)."
       },
       {
         "game": "Pokémon Mystery Dungeon: Explorers of Sky",
         "year": 2009,
         "category": "Exploração",
-        "description": "Mystifying Forest, Mystery Jungle, Happy Outlook e Sky Peak."
+        "description": "Metapod é encontrável em várias masmorras, incluindo Sky Peak.",
+        "obtaining": "Mystifying Forest (B1F–B13F), Mystery Jungle (B1F–B29F), Happy Outlook (1F–15F) e Sky Peak (1st Station Pass 1F até 5th Station Pass 3F)."
       },
       {
         "game": "Pokémon Rumble",
         "year": 2009,
         "category": "Ação",
-        "description": "Silent Forest, modos Normal C e A."
+        "description": "A espécie integra os Pokémon de brinquedo que podem ser recrutados.",
+        "obtaining": "Silent Forest, Normal Mode C e A."
       },
       {
         "game": "PokéPark Wii: Pikachu's Adventure",
         "year": 2009,
         "category": "Aventura",
-        "description": "Haunted Zone."
+        "description": "Metapod é um dos habitantes exploráveis do PokéPark.",
+        "obtaining": "Haunted Zone."
       },
       {
         "game": "Pokémon Rumble Blast",
         "year": 2011,
         "category": "Ação",
-        "description": "Treetops: Sun-Dappled Bank."
+        "description": "A espécie aparece entre os Pokémon de brinquedo dos estágios.",
+        "obtaining": "Treetops: Sun-Dappled Bank."
       },
       {
         "game": "PokéPark 2: Wonders Beyond",
         "year": 2011,
         "category": "Aventura",
-        "description": "Crag Area."
+        "description": "Metapod pode ser encontrado ao explorar a região.",
+        "obtaining": "Crag Area."
       },
       {
         "game": "Pokémon Rumble U",
         "year": 2013,
         "category": "Ação",
-        "description": "Chill Battle: The Forest of Memories."
+        "description": "Metapod está entre os Pokémon de brinquedo disponíveis na campanha.",
+        "obtaining": "Chill Battle: The Forest of Memories."
       },
       {
         "game": "Pokémon Battle Trozei",
         "year": 2014,
         "category": "Quebra-cabeça",
-        "description": "Safari Jungle, fase 2, aos domingos."
+        "description": "Metapod é uma peça colecionável do jogo.",
+        "obtaining": "Safari Jungle, fase 2, aos domingos."
       },
       {
         "game": "Pokémon Shuffle",
         "year": 2015,
         "category": "Quebra-cabeça",
-        "description": "Disponível na 20ª edição do evento Pokémon Safari."
+        "description": "Metapod integra a seleção de espécies de um Pokémon Safari.",
+        "obtaining": "20ª edição do evento Pokémon Safari."
       },
       {
         "game": "Pokémon Rumble World",
         "year": 2015,
         "category": "Ação",
-        "description": "Pixie Glen e Old-Growth Woods."
+        "description": "A espécie pode ser encontrada em áreas visitadas por balão.",
+        "obtaining": "Fairy Land: Pixie Glen; Origin Hideaway: Old-Growth Woods (todas as áreas)."
       },
       {
         "game": "Pokémon Super Mystery Dungeon",
         "year": 2015,
         "category": "Exploração",
-        "description": "Conclua a missão de Metapod na Connection Orb."
+        "description": "Metapod pode integrar a rede de aliados da Connection Orb.",
+        "obtaining": "Conclua a missão associada a Metapod."
       },
       {
         "game": "Pokémon GO",
         "year": 2016,
         "category": "Captura e evolução",
-        "description": "Evolua Caterpie com 12 doces; Metapod evolui para Butterfree com 50 doces. Ataque base 45, defesa 80 e resistência 137. Distância de companheiro: 1 km."
+        "description": "Metapod tem 45 de Ataque, 80 de Defesa e 137 de Resistência; a distância de companheiro é de 1 km.",
+        "obtaining": "Evolua Caterpie com 12 doces; use mais 50 doces para evoluir Metapod em Butterfree."
       },
       {
         "game": "Pokémon Quest",
         "year": 2018,
         "category": "Exploração",
-        "description": "Evolua Caterpie no nível 7; Metapod evolui para Butterfree no nível 10."
+        "description": "Metapod integra a linha evolutiva de Caterpie na ilha Tumblecube.",
+        "obtaining": "Evolua Caterpie no nível 7; Metapod evolui no nível 10."
+      },
+      {
+        "game": "Super Smash Bros. Ultimate",
+        "year": 2018,
+        "category": "Luta",
+        "description": "Metapod aparece como espírito colecionável, não como lutador jogável.",
+        "obtaining": "Na batalha de espírito, Yoshi representa Metapod em Distant Planet, com chão pegajoso e aumento de defesa após 30 segundos."
       },
       {
         "game": "Pokémon Rumble Rush",
         "year": 2019,
         "category": "Ação",
-        "description": "Apareceu no tutorial e em áreas de eventos como Butterfree Sea e Bulbasaur Sea."
+        "description": "A espécie apareceu durante o período de funcionamento do jogo, encerrado em 2020.",
+        "obtaining": "Tutorial e áreas de eventos como Charizard Sea, Butterfree Sea e Bulbasaur Sea."
       },
       {
         "game": "Pokémon Masters EX",
         "year": 2019,
         "category": "Simulação",
-        "description": "Evolua Caterpie obtido de ovo, parceiro do protagonista."
+        "description": "Metapod pode integrar a dupla do protagonista por evolução de um Pokémon de ovo.",
+        "obtaining": "Evolua Caterpie obtido de ovo."
       },
       {
         "game": "Pokémon Mystery Dungeon: Rescue Team DX",
         "year": 2020,
         "category": "Exploração",
-        "description": "Joyous Tower, pisos 4–8. Também pode aparecer desmaiado em Northwind Field e Murky Cave."
+        "description": "A espécie participa da história inicial e também pode ser recrutada em masmorras.",
+        "obtaining": "Joyous Tower (4F–8F); Pokémon desmaiado em Northwind Field e Murky Cave."
       },
       {
         "game": "New Pokémon Snap",
         "year": 2021,
         "category": "Fotografia",
-        "description": "Founja Jungle e Mightywide River durante o dia."
+        "description": "Metapod é um dos Pokémon fotografáveis dos percursos de exploração.",
+        "obtaining": "Founja Jungle e Mightywide River durante o dia."
       },
       {
         "game": "Pokémon Sleep",
         "year": 2023,
         "category": "Pesquisa de sono",
-        "description": "Greengrass Isle a partir de Great 1; Old Gold Power Plant, Amber Canyon e Greengrass Isle Expert a partir de Basic 1."
+        "description": "Metapod pode aparecer durante pesquisas de sono.",
+        "obtaining": "Greengrass Isle a partir de Great 1; Old Gold Power Plant, Amber Canyon e Greengrass Isle Expert a partir de Basic 1."
       }
     ]
   },
@@ -282,8 +317,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Enquanto a carapaça ainda está mole, seu corpo delicado fica vulnerável a ataques.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -365,9 +400,17 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
       "base_exp": 72,
-      "pokedex_number": "Kanto #011"
+      "pokedex_number": "Kanto #011",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "yellow": {
       "game_name": "Pokémon Yellow",
@@ -431,8 +474,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Endurece a carapaça para se proteger, mas um impacto forte pode expulsá-lo dela.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -512,9 +555,17 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
       "base_exp": 72,
-      "pokedex_number": "Kanto #011"
+      "pokedex_number": "Kanto #011",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "gold": {
       "game_name": "Pokémon Gold",
@@ -575,8 +626,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Permanece imóvel enquanto o corpo macio no interior da carapaça se prepara para evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -752,10 +803,18 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
       "base_exp": 72,
       "base_friendship": 70,
-      "pokedex_number": "Johto #025"
+      "pokedex_number": "Johto #025",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "silver": {
       "game_name": "Pokémon Silver",
@@ -816,8 +875,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Para proteger seu corpo frágil durante a evolução, endurece a carapaça ao máximo.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -897,10 +956,18 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
       "base_exp": 72,
       "base_friendship": 70,
-      "pokedex_number": "Johto #025"
+      "pokedex_number": "Johto #025",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "crystal": {
       "game_name": "Pokémon Crystal",
@@ -961,8 +1028,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Nesta fase, endurecer a carapaça é sua única defesa. Por isso, permanece imóvel para evitar ataques.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -1066,10 +1133,18 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
       "base_exp": 72,
       "base_friendship": 70,
-      "pokedex_number": "Johto #025"
+      "pokedex_number": "Johto #025",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "ruby": {
       "game_name": "Pokémon Ruby",
@@ -1086,7 +1161,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -1130,8 +1205,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "A carapaça é resistente como uma chapa de ferro. Metapod quase não se move enquanto seu organismo se prepara para evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -1205,7 +1280,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1215,7 +1290,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "sapphire": {
       "game_name": "Pokémon Sapphire",
@@ -1232,7 +1308,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -1276,8 +1352,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "A carapaça é resistente como uma chapa de ferro. Metapod quase não se move enquanto seu organismo se prepara para evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -1351,7 +1427,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1361,7 +1437,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "firered": {
       "game_name": "Pokémon FireRed",
@@ -1378,7 +1455,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -1422,8 +1499,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Apesar de possuir uma carapaça resistente, seu corpo é delicado e não suporta golpes violentos.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -1521,7 +1598,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1549,7 +1626,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -1593,8 +1670,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Seu corpo frágil fica desprotegido enquanto a carapaça ainda não endureceu.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -1692,7 +1769,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1720,7 +1797,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -1764,8 +1841,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "A carapaça tem a resistência de uma chapa de ferro. Quase não se move enquanto se transforma por dentro.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -1839,7 +1916,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1849,7 +1926,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "diamond": {
       "game_name": "Pokémon Diamond",
@@ -1866,7 +1944,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -1910,8 +1988,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -1931,7 +2009,7 @@
           "pokemon": "Metapod",
           "location": "Eterna Forest",
           "method": "Selvagem",
-          "details": "Com o cartucho de Pokémon FireRed inserido no slot GBA de um Nintendo DS compatível."
+          "details": "Encontro com o cartucho de Pokémon FireRed no slot GBA de um Nintendo DS ou DS Lite compatível."
         },
         {
           "pokemon": "Metapod",
@@ -2003,7 +2081,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2013,7 +2091,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "pearl": {
       "game_name": "Pokémon Pearl",
@@ -2030,7 +2109,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -2074,8 +2153,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -2095,7 +2174,7 @@
           "pokemon": "Metapod",
           "location": "Eterna Forest",
           "method": "Selvagem",
-          "details": "Com o cartucho de Pokémon FireRed inserido no slot GBA de um Nintendo DS compatível."
+          "details": "Encontro com o cartucho de Pokémon FireRed no slot GBA de um Nintendo DS ou DS Lite compatível."
         },
         {
           "pokemon": "Metapod",
@@ -2167,7 +2246,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2177,7 +2256,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "platinum": {
       "game_name": "Pokémon Platinum",
@@ -2194,7 +2274,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -2238,8 +2318,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -2259,7 +2339,7 @@
           "pokemon": "Metapod",
           "location": "Eterna Forest",
           "method": "Selvagem",
-          "details": "Com o cartucho de Pokémon FireRed inserido no slot GBA de um Nintendo DS compatível."
+          "details": "Encontro com o cartucho de Pokémon FireRed no slot GBA de um Nintendo DS ou DS Lite compatível."
         },
         {
           "pokemon": "Metapod",
@@ -2361,7 +2441,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2371,7 +2451,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "heartgold": {
       "game_name": "Pokémon HeartGold",
@@ -2388,7 +2469,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -2432,8 +2513,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Permanece imóvel enquanto o corpo macio no interior da carapaça se prepara para evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -2615,7 +2696,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2643,7 +2724,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -2687,8 +2768,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Para proteger seu corpo frágil durante a evolução, endurece a carapaça ao máximo.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -2822,7 +2903,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2850,7 +2931,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -2894,8 +2975,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -2979,7 +3060,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2989,7 +3070,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "white": {
       "game_name": "Pokémon White",
@@ -3006,7 +3088,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -3050,8 +3132,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -3141,7 +3223,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3151,7 +3233,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "black2": {
       "game_name": "Pokémon Black 2",
@@ -3168,7 +3251,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -3212,8 +3295,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -3335,7 +3418,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3345,7 +3428,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "white2": {
       "game_name": "Pokémon White 2",
@@ -3362,7 +3446,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -3406,8 +3490,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -3529,7 +3613,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3539,7 +3623,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "x": {
       "game_name": "Pokémon X",
@@ -3556,7 +3641,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -3600,8 +3685,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -3685,7 +3770,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3713,7 +3798,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -3757,8 +3842,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Enquanto a carapaça ainda está mole, seu corpo delicado fica vulnerável a ataques.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -3848,7 +3933,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3876,7 +3961,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -3920,8 +4005,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "A carapaça é resistente como uma chapa de ferro. Metapod quase não se move enquanto seu organismo se prepara para evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -4043,7 +4128,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4053,7 +4138,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "alpha-sapphire": {
       "game_name": "Pokémon Alpha Sapphire",
@@ -4070,7 +4156,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -4114,8 +4200,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "A carapaça é resistente como uma chapa de ferro. Metapod quase não se move enquanto seu organismo se prepara para evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -4237,7 +4323,7 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4247,7 +4333,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "sun": {
       "game_name": "Pokémon Sun",
@@ -4264,7 +4351,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -4308,8 +4395,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "O interior da carapaça é macio. Evita se mover para não derramar acidentalmente seu conteúdo.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -4417,7 +4504,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4445,7 +4532,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -4489,8 +4576,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Apesar de resistente, sua carapaça de inseto pode se romper. É melhor evitar batalhas intensas.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -4598,7 +4685,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4626,7 +4713,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -4670,8 +4757,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Um líquido espesso preenche a carapaça. Todas as células do corpo se reorganizam para a evolução.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -4811,7 +4898,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4839,7 +4926,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -4883,8 +4970,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Nem as bicadas de Pikipek racham sua carapaça, mas podem derrubá-lo e fazer seu conteúdo vazar.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -5024,7 +5111,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -5096,8 +5183,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Endurece a carapaça para se proteger, mas um impacto forte pode expulsá-lo dela.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -5156,7 +5243,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é aprendido no nível 1 e ao evoluir. Esta edição não usa habilidades, reprodução, TRs ou EVs tradicionais. Não há compatibilidade com TM.",
       "pokedex_number": "Kanto #011"
     },
     "lets-go-eevee": {
@@ -5218,8 +5305,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Endurece a carapaça para se proteger, mas um impacto forte pode expulsá-lo dela.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -5278,7 +5365,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é aprendido no nível 1 e ao evoluir. Esta edição não usa habilidades, reprodução, TRs ou EVs tradicionais. Não há compatibilidade com TM.",
       "pokedex_number": "Kanto #011"
     },
     "sword": {
@@ -5296,7 +5383,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -5340,8 +5427,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Aguarda o momento da evolução. Como nesta fase só pode endurecer a carapaça, fica imóvel para evitar ataques.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -5487,7 +5574,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 50,
       "ev_yield": [
@@ -5515,7 +5602,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -5559,8 +5646,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Apesar de possuir uma carapaça resistente, seu corpo é delicado e não suporta golpes violentos.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -5706,7 +5793,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 50,
       "ev_yield": [
@@ -5734,7 +5821,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -5778,8 +5865,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -5863,7 +5950,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 50,
       "ev_yield": [
@@ -5873,7 +5960,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "shining-pearl": {
       "game_name": "Pokémon Shining Pearl",
@@ -5890,7 +5978,7 @@
       "types": [
         "Inseto"
       ],
-      "abilities": "Shed Skin",
+      "abilities": "Shed Skin (Principal).",
       "defenses": [
         {
           "type": "Fogo",
@@ -5934,8 +6022,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Uma carapaça resistente como aço protege seu corpo delicado. Suporta as adversidades em silêncio até evoluir.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -6019,7 +6107,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
       "base_exp": 72,
       "base_friendship": 50,
       "ev_yield": [
@@ -6029,7 +6117,8 @@
         0,
         0,
         0
-      ]
+      ],
+      "pokedex_number": "Nacional #011"
     },
     "red-jp": {
       "game_name": "Pokémon Red (JP)",
@@ -6093,8 +6182,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Apesar de possuir uma carapaça resistente, seu corpo é delicado e não suporta golpes violentos.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -6170,9 +6259,17 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
       "base_exp": 72,
-      "pokedex_number": "Kanto #011"
+      "pokedex_number": "Kanto #011",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "green-jp": {
       "game_name": "Pokémon Green (JP)",
@@ -6236,8 +6333,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Apesar de possuir uma carapaça resistente, seu corpo é delicado e não suporta golpes violentos.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -6319,9 +6416,17 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
       "base_exp": 72,
-      "pokedex_number": "Kanto #011"
+      "pokedex_number": "Kanto #011",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "blue-jp": {
       "game_name": "Pokémon Blue (JP)",
@@ -6385,8 +6490,8 @@
       ],
       "evolves_from": "Caterpie no nível 7",
       "evolves_to": "Butterfree no nível 10",
-      "review_status": "reviewed",
-      "last_review": "24/11/2026",
+      "review_status": "partial",
+      "last_review": "27/11/2026",
       "pokedex_entry": "Enquanto a carapaça ainda está mole, seu corpo delicado fica vulnerável a ataques.",
       "sprite": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/11.png",
       "sprite_shiny": "https://cdn.jsdelivr.net/gh/PokeAPI/sprites@master/sprites/pokemon/other/home/shiny/11.png",
@@ -6468,26 +6573,34 @@
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes separados por método. Os golpes exclusivos de Caterpie são indicados separadamente; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
       "base_exp": 72,
-      "pokedex_number": "Kanto #011"
+      "pokedex_number": "Kanto #011",
+      "ev_yield": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     }
   },
   "audit": {
-    "status": "reviewed",
-    "review_date": "2026-11-24",
-    "notes": "36 registros de jogos das gerações I–VIII; golpes, dados de espécie e disponibilidade conferidos. As listas de aparições são selecionadas. Títulos localizados, numeração global de alguns episódios, imagens de mídia, ícones individuais e detalhes de encontros ainda requerem conferência editorial; não foram aprovados como auditoria integral."
+    "status": "partial",
+    "review_date": "2026-11-27",
+    "notes": "Revisão incremental do arquivo existente: 36 edições preservadas; quatro jogos indisponíveis; biologia, crescimento, morfologia, histórico de golpes, localizações gerais, spin-offs e metadados de anime revisados. Títulos em português não confirmados oficialmente são traduções editoriais; a numeração contínua segue a convenção utilizada pela dexH!P. Mangás adicionais registrados, com dois títulos japoneses ainda pendentes. Imagens de mídia e ícones específicos dos spin-offs ainda aguardam pesquisa visual, aprovação e hospedagem. Taxas/níveis individuais de encontros, valores históricos completos e renderização no Blogger ainda não auditados integralmente. Metapod não deixa pegada."
   },
   "media_appearances": {
     "title": "Aparições em outras mídias",
-    "lead": "Aparições selecionadas no anime, cinema e mangá.",
+    "lead": "Aparições documentadas de Metapod no anime, cinema, animações derivadas e mangás. Imagens são acrescentadas após a aprovação das cenas.",
     "anime": [
       {
         "jp_number": 3,
         "episode_code": "EP003",
         "season_reference": 1,
         "season": "Liga Índigo",
-        "title_pt": "Ash Captura um Pokémon",
+        "title_pt": "Ash Pega um Pokémon",
         "title_en": "Ash Catches a Pokémon",
         "title_ja": "ポケモン ゲットだぜ！",
         "appearance": "Estreia",
@@ -6509,7 +6622,7 @@
         "episode_code": "EP015",
         "season_reference": 1,
         "season": "Liga Índigo",
-        "title_pt": "Batalha a bordo do St. Anne",
+        "title_pt": "Batalha a Bordo do St. Anne",
         "title_en": "Battle Aboard the St. Anne",
         "title_ja": "サントアンヌごうのたたかい！",
         "appearance": "Imaginação",
@@ -6527,37 +6640,37 @@
         "description": "Um cliente leva seu Metapod ao centro de criação."
       },
       {
-        "jp_number": 99,
-        "episode_code": "EP099",
+        "jp_number": 97,
+        "episode_code": "EP097",
         "season_reference": 2,
         "season": "Aventuras nas Ilhas Laranja",
         "title_pt": "Um Novo Amigo para o Tracey",
         "title_en": "Tracey Gets Bugged",
-        "title_ja": "",
+        "title_ja": "ストライクせんしのほこり",
         "appearance": "Pokémon selvagem",
         "description": "Vive entre os Pokémon insetos da ilha Murcott."
       },
       {
-        "jp_number": 123,
-        "episode_code": "EP123",
+        "jp_number": 121,
+        "episode_code": "EP121",
         "season_reference": 3,
         "season": "A Jornada Johto",
         "title_pt": "Confusões de Ilusões",
         "title_en": "Illusion Confusion!",
-        "title_ja": "",
+        "title_ja": "ホーホーとあやしいもり！",
         "appearance": "Ilusão",
         "description": "Haunter e Gengar criam uma ilusão de Metapod."
       },
       {
-        "jp_number": 146,
-        "episode_code": "EP146",
+        "jp_number": 144,
+        "episode_code": "EP144",
         "season_reference": 3,
         "season": "A Jornada Johto",
-        "title_pt": "",
+        "title_pt": "Enfrentando os Pokémon Insetos!",
         "title_en": "Gettin' The Bugs Out",
-        "title_ja": "",
+        "title_ja": "ヒワダジム！もりのバトルフィールド！！",
         "appearance": "Metapod de Bugsy",
-        "description": "Enfrenta Chikorita e Pikachu na batalha de ginásio; é derrotado por Thunderbolt."
+        "description": "Bugsy utiliza Metapod na batalha de ginásio contra Ash. Depois de enfrentar Chikorita, é vencido por Pikachu."
       },
       {
         "jp_number": 289,
@@ -6571,90 +6684,90 @@
         "description": "Um Metapod é emprestado a um estudante da escola de treinadores."
       },
       {
-        "jp_number": 419,
+        "jp_number": 416,
         "episode_code": "AG142",
         "season_reference": 8,
         "season": "Batalha Avançada",
-        "title_pt": "",
+        "title_pt": "O Grande Dilema de Caterpie",
         "title_en": "Caterpie's Big Dilemma",
-        "title_ja": "",
+        "title_ja": "進化！その神秘と奇跡！！",
         "appearance": "Metapod de Zander",
-        "description": "O Caterpie de Zander cresce após ingerir doces especiais, evoluindo duas vezes."
+        "description": "O Caterpie de Xander cresce de forma descomunal após ingerir doces experimentais e passa por Metapod antes de evoluir para Butterfree."
       },
       {
-        "jp_number": 533,
+        "jp_number": 530,
         "episode_code": "DP064",
         "season_reference": 11,
-        "season": "Batalha Dimensional",
-        "title_pt": "",
+        "season": "Dimensão de Batalha",
+        "title_pt": "Os Ventos da Mudança!",
         "title_en": "Riding the Winds of Change!",
-        "title_ja": "",
+        "title_ja": "グライオンとグライガー！風の迷路をぬけて！",
         "appearance": "Participação breve",
         "description": "Um Metapod aparece no viveiro do Centro Pokémon."
       },
       {
-        "jp_number": 792,
+        "jp_number": 787,
         "episode_code": "BW130",
         "season_reference": 16,
-        "season": "Preto e Branco: Aventuras em Unova e Mais Além",
-        "title_pt": "",
+        "season": "Aventuras em Unova e Mais Além",
+        "title_pt": "Butterfree e Eu!",
         "title_en": "Butterfree and Me!",
-        "title_ja": "",
+        "title_ja": "サトシとバタフリー！また会う日まで！！",
         "appearance": "Pokémon selvagem",
         "description": "Ash ajuda um Caterpie a evoluir para Metapod e depois Butterfree."
       },
       {
-        "jp_number": 951,
+        "jp_number": 947,
         "episode_code": "SM008",
         "season_reference": 20,
         "season": "Sol e Lua",
-        "title_pt": "",
+        "title_pt": "O Desafio de Lillie com o Ovo!",
         "title_en": "Lillie's Egg-xhilarating Challenge!",
-        "title_ja": "タマゴ係はだ〜れだ？",
+        "title_ja": "タマゴ係はだ～れだ？",
         "appearance": "Pokémon selvagem",
         "description": "Metapod aparece no jardim de Lillie."
       },
       {
-        "jp_number": 973,
+        "jp_number": 969,
         "episode_code": "SM030",
         "season_reference": 20,
         "season": "Sol e Lua",
-        "title_pt": "",
+        "title_pt": "Trocando os Cuidados com os Pokémon!",
         "title_en": "The Ol' Raise and Switch!",
-        "title_ja": "",
+        "title_ja": "リーリエ、ピカチュウをかわいがってあげてね",
         "appearance": "Pokémon selvagem",
         "description": "Metapod volta a aparecer no jardim de Lillie."
       },
       {
-        "jp_number": 1029,
+        "jp_number": 1025,
         "episode_code": "SM086",
         "season_reference": 21,
         "season": "Sol e Lua: Ultra-Aventuras",
-        "title_pt": "",
+        "title_pt": "Eu Escolho o Paraíso!",
         "title_en": "I Choose Paradise!",
-        "title_ja": "",
+        "title_ja": "ココにきめた！ポケモン湯けむりパラダイス！！",
         "appearance": "Pokémon de treinador",
         "description": "Visita o resort Pokémon com seu treinador."
       },
       {
-        "jp_number": 1033,
+        "jp_number": 1029,
         "episode_code": "SM090",
         "season_reference": 21,
-        "season": "Sol e Lua: Ultra-Aventuras",
-        "title_pt": "",
+        "season": "Ultra-Aventuras",
+        "title_pt": "Garantindo o Futuro!",
         "title_en": "Securing the Future!",
-        "title_ja": "",
+        "title_ja": "未来へつなげ！かがやきさまの伝説！！",
         "appearance": "Pokémon de treinador",
         "description": "Dois Metapod contribuem com luz para restaurar Necrozma."
       },
       {
-        "jp_number": 1074,
+        "jp_number": 1070,
         "episode_code": "SM131",
         "season_reference": 22,
-        "season": "Sol e Lua: Ultralendas",
-        "title_pt": "",
+        "season": "Ultralendas",
+        "title_pt": "O Campo de Batalha da Verdade e do Amor!",
         "title_en": "The Battlefield of Truth and Love!",
-        "title_ja": "",
+        "title_ja": "ムサシVSコジロウ！愛と真実のバトルフィールド！！",
         "appearance": "Pokémon selvagem",
         "description": "Observa a apresentação de Bewear e Stufful nas águas termais."
       },
@@ -6718,9 +6831,9 @@
         "episode_code": "JN021",
         "season_reference": 23,
         "season": "Jornadas",
-        "title_pt": "Em Busca de um Mistério!",
+        "title_pt": "Cuidando de um Mistério!",
         "title_en": "Caring for a Mystery!",
-        "title_ja": "",
+        "title_ja": "とどけ波導！サトシと不思議なタマゴ！！",
         "appearance": "Metapod de Goh",
         "description": "Aparece entre os Pokémon de Goh."
       },
@@ -6731,7 +6844,7 @@
         "season": "Jornadas",
         "title_pt": "Pânico no Parque!",
         "title_en": "Panic in the Park!",
-        "title_ja": "",
+        "title_ja": "大パニック！サクラギパーク！",
         "appearance": "Metapod de Goh",
         "description": "Participa do episódio no parque do Laboratório Cerejeira."
       },
@@ -6740,7 +6853,7 @@
         "episode_code": "JN031",
         "season_reference": 23,
         "season": "Jornadas",
-        "title_pt": "Excesso de fofura!",
+        "title_pt": "Excesso de Fofura!",
         "title_en": "The Cuteness Quotient!",
         "title_ja": "ヒンバスのきれいなウロコ",
         "appearance": "Metapod de Goh",
@@ -6751,7 +6864,7 @@
         "episode_code": "JN054",
         "season_reference": 24,
         "season": "Jornadas de Mestre Pokémon",
-        "title_pt": "",
+        "title_pt": "Sobble Espia uma Estratégia Secreta!",
         "title_en": "Sobble Spies a Stealthy Strategy!",
         "title_ja": "メッソン・イン・ポッシブル！",
         "appearance": "Metapod de Goh",
@@ -6761,8 +6874,8 @@
         "jp_number": 1147,
         "episode_code": "JN062",
         "season_reference": 24,
-        "season": "Jornadas de Mestre Pokémon",
-        "title_pt": "",
+        "season": "Jornadas de Mestre",
+        "title_pt": "Não Tão Perto para o Conforto!",
         "title_en": "Not Too Close for Comfort!",
         "title_ja": "じめじめジメレオン",
         "appearance": "Imagem",
@@ -6772,10 +6885,10 @@
         "jp_number": 1155,
         "episode_code": "JN070",
         "season_reference": 24,
-        "season": "Jornadas de Mestre Pokémon",
-        "title_pt": "",
+        "season": "Jornadas de Mestre",
+        "title_pt": "Leve Meu Ladrão, Por Favor!",
         "title_en": "Take My Thief! Please!",
-        "title_ja": "",
+        "title_ja": "おねがい！モルペコゲットして！！",
         "appearance": "Pokémon de treinador",
         "description": "Metapod está entre os Pokémon capturados pela Equipe Rocket e posteriormente resgatados."
       },
@@ -6784,9 +6897,9 @@
         "episode_code": "JN135",
         "season_reference": 25,
         "season": "Jornadas Supremas",
-        "title_pt": "",
+        "title_pt": "Heróis Unidos!",
         "title_en": "Heroes Unite!",
-        "title_ja": "",
+        "title_ja": "ポケモン！きみにあえてよかった！",
         "appearance": "Pokémon selvagem",
         "description": "Diversos Metapod evoluem para Butterfree."
       },
@@ -6802,13 +6915,13 @@
         "description": "Aparece no episódio de despedida da jornada de Ash e Goh."
       },
       {
-        "jp_number": 1283,
+        "jp_number": 1279,
         "episode_code": "HZ047",
-        "season_reference": 27,
+        "season_reference": 26,
         "season": "Horizontes Pokémon",
-        "title_pt": "",
+        "title_pt": "Coloque Seu Coração Nisso!",
         "title_en": "Put Your Heart Into It!",
-        "title_ja": "",
+        "title_ja": "リコとニャローテ、心をこめて",
         "appearance": "Pokémon de treinador",
         "description": "Um treinador apresenta seu Metapod na confeitaria."
       }
@@ -6868,8 +6981,8 @@
         "series": "Pokémon Adventures",
         "chapter": 2,
         "title_en": "Bulbasaur, Come Home!",
-        "title_pt": "",
-        "title_ja": "",
+        "title_pt": "Bulbasaur, Volte para Casa!",
+        "title_ja": "VS ゴーリキー",
         "volume": 1,
         "category": "Red, Green & Blue",
         "appearance": "Pokémon do laboratório",
@@ -6881,8 +6994,8 @@
         "series": "Pokémon Adventures",
         "chapter": 89,
         "title_en": "The Might of... Metapod?",
-        "title_pt": "",
-        "title_ja": "",
+        "title_pt": "O Poder de... Metapod?!",
+        "title_ja": "VS トランセル",
         "category": "Yellow",
         "appearance": "Kitty de Yellow",
         "description": "Kitty evolui brevemente de Caterpie para Metapod e depois para Butterfree no confronto com Lance.",
@@ -6893,31 +7006,31 @@
         "series": "Pokémon Adventures",
         "chapter": 100,
         "title_en": "Into the Unown",
-        "title_pt": "",
-        "title_ja": "",
+        "title_pt": "Entre os Unown",
+        "title_ja": "VS アンノーン",
         "category": "Gold & Silver",
         "appearance": "Metapod de Bugsy",
         "description": "Bugsy utiliza um de seus Metapod.",
         "title": "Pokémon Adventures — Into the Unown"
       },
       {
-        "code": "ETP02",
+        "code": "ET02",
         "series": "The Electric Tale of Pikachu",
         "chapter": 2,
         "title_en": "Play Misty For Me",
-        "title_pt": "",
-        "title_ja": "",
+        "title_pt": "O Conto Elétrico de Pikachu — Misty",
+        "title_ja": "カスミ",
         "category": "The Electric Tale of Pikachu",
         "appearance": "Metapod de Ash",
         "description": "Caterpie de Ash evolui para Metapod; seu desenho apresenta um espinho nas costas.",
         "title": "The Electric Tale of Pikachu — Play Misty For Me"
       },
       {
-        "code": "MPJ02",
+        "code": "PPP02",
         "series": "Magical Pokémon Journey",
         "chapter": 2,
         "title_en": "Clefairy Comes Through",
-        "title_pt": "",
+        "title_pt": "Clefairy Ajuda",
         "title_ja": "",
         "category": "Magical Pokémon Journey",
         "appearance": "Pokémon selvagem",
@@ -6929,12 +7042,51 @@
         "series": "Pokémon Gold & Silver: The Golden Boys",
         "chapter": 4,
         "title_en": "Let's Aim For The Goal!",
-        "title_pt": "",
+        "title_pt": "Vamos Alcançar o Objetivo!",
         "title_ja": "",
         "category": "Gold & Silver",
         "appearance": "Metapod de Bugsy",
         "description": "Butterfree de Bugsy aparece em sua fase Metapod.",
         "title": "Pokémon Gold & Silver: The Golden Boys — Let's Aim For The Goal!"
+      },
+      {
+        "title_en": "Pokémon: Yeah! I Got Pokémon! · Shu and Pikachu's Debut!",
+        "description": "Metapod aparece no capítulo de estreia de Shu e Pikachu.",
+        "title_pt": "Pokémon: Yeah! I Got Pokémon! — A Estreia de Shu e Pikachu!",
+        "title_ja": "シュウ&ピカチュウ登場!",
+        "title": "Pokémon: Yeah! I Got Pokémon! — A Estreia de Shu e Pikachu!",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "code": "GDZ01",
+        "chapter": 1,
+        "volume": 1,
+        "appearance": "Participação breve"
+      },
+      {
+        "title_en": "Pokémon: Yeah! I Got Pokémon! · Shu's Christmas",
+        "code": "GDZ23",
+        "description": "Metapod aparece no capítulo natalino de Shu.",
+        "title_pt": "Pokémon: Yeah! I Got Pokémon! — O Natal de Shu",
+        "title_ja": "シュウのクリスマス",
+        "title": "Pokémon: Yeah! I Got Pokémon! — O Natal de Shu",
+        "series": "Pokémon: Yeah! I Got Pokémon!",
+        "title_pt_note": "Tradução editorial baseada no título original; localização brasileira oficial ainda não conferida.",
+        "chapter": 23,
+        "volume": 2,
+        "title_en_note": "Tradução do título japonês.",
+        "appearance": "Participação breve"
+      },
+      {
+        "code": "PASS04",
+        "series": "Pokémon Adventures",
+        "chapter": 4,
+        "title_en": "Zap!! A Rising Beam of Light",
+        "title_pt": "Um Feixe de Luz se Eleva!",
+        "title_ja": "ホワホワ！！",
+        "category": "Sword & Shield",
+        "appearance": "Pokémon selvagem",
+        "description": "Metapod aparece na Wild Area de Galar.",
+        "title": "Pokémon Adventures — Um Feixe de Luz se Eleva!"
       }
     ]
   }
