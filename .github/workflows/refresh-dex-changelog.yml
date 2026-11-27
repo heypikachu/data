@@ -1,0 +1,49 @@
+name: dexH!P - Atualizar changelog publico
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'hp-dex/changelog.json'
+      - '.github/workflows/refresh-dex-changelog.yml'
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: hp-dex-changelog-refresh
+  cancel-in-progress: false
+
+jobs:
+  atualizar-changelog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Validar changelog e atualizar cache publico
+        shell: bash
+        run: |
+          set -euo pipefail
+          raw="https://raw.githubusercontent.com/heypikachu/data/main/hp-dex/changelog.json"
+          cdn="https://cdn.jsdelivr.net/gh/heypikachu/data@main/hp-dex/changelog.json"
+          purge="https://purge.jsdelivr.net/gh/heypikachu/data@main/hp-dex/changelog.json"
+          tmp="$(mktemp -d)"
+          trap 'rm -rf "$tmp"' EXIT
+          curl -fsSL --retry 2 --max-time 25 -H 'Cache-Control: no-cache' "$raw?run=$GITHUB_RUN_ID-$GITHUB_RUN_ATTEMPT" -o "$tmp/origin.json"
+          python3 -c 'import json,sys; d=json.load(open(sys.argv[1])); assert d["schema"]==1 and isinstance(d["latest"]["changes"],list) and d["latest"]["version"] and d["latest"]["date"]; print("Versao esperada:",d["latest"]["version"],d["latest"]["date"])' "$tmp/origin.json"
+          for attempt in 1 2 3 4 5; do
+            echo "Tentativa $attempt: solicitando atualizacao do jsDelivr"
+            if curl -fsSL --retry 1 --max-time 25 "$purge" -o "$tmp/purge.json"; then
+              cat "$tmp/purge.json"
+              echo
+            else
+              echo "::warning::O servico de purge nao respondeu nesta tentativa."
+            fi
+            if curl -fsSL --retry 1 --max-time 25 "$cdn" -o "$tmp/cdn.json" && cmp -s "$tmp/origin.json" "$tmp/cdn.json"; then
+              echo "Changelog publico confirmado: conteudo identico ao GitHub."
+              python3 -c 'import json,sys; d=json.load(open(sys.argv[1])); print("Versao publicada:",d["latest"]["version"],d["latest"]["date"])' "$tmp/cdn.json"
+              exit 0
+            fi
+            if [ "$attempt" -lt 5 ]; then sleep 12; fi
+          done
+          echo "::error::O changelog no CDN ainda nao corresponde ao GitHub. Execute novamente o workflow."
+          exit 1
