@@ -276,7 +276,11 @@
         "year": 2018,
         "category": "Luta",
         "description": "Metapod aparece como espírito colecionável, não como lutador jogável.",
-        "obtaining": "Na batalha de espírito, Yoshi representa Metapod em Distant Planet, com chão pegajoso e aumento de defesa após 30 segundos."
+        "obtaining": "Na batalha de espírito, Yoshi representa Metapod em Distant Planet, com chão pegajoso e aumento de defesa após 30 segundos.",
+        "icon": {
+          "url": "https://raw.githubusercontent.com/heypikachu/data/main/pokemon/media/metapod/spinoff/0011-smash-ultimate.png",
+          "alt": "Espírito colecionável de Metapod em Super Smash Bros. Ultimate"
+        }
       },
       {
         "game": "Pokémon Rumble Rush",
