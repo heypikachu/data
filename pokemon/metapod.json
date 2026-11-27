@@ -385,7 +385,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -395,12 +395,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Em Red/Green/Blue, Harden consta no nível 1, mas não é aprendido automaticamente na evolução normal de Caterpie no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "pokedex_number": "Kanto #011",
       "ev_yield": [
@@ -540,7 +540,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -550,12 +550,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "pokedex_number": "Kanto #011",
       "ev_yield": [
@@ -788,7 +788,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -798,12 +798,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "pokedex_number": "Johto #025",
@@ -941,7 +941,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -951,12 +951,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "pokedex_number": "Johto #025",
@@ -1118,7 +1118,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -1128,12 +1128,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "pokedex_number": "Johto #025",
@@ -1265,7 +1265,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -1275,12 +1275,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1412,7 +1412,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -1422,12 +1422,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1583,7 +1583,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -1593,12 +1593,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1754,7 +1754,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -1764,12 +1764,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -1901,7 +1901,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -1911,12 +1911,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2066,7 +2066,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -2076,12 +2076,42 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
+          },
+          {
+            "name": "Bug Bite",
+            "method": "other",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "note": "Não pode ser ensinado em Diamond/Pearl; obtenha por troca de um Metapod que aprendeu o golpe em Platinum ou HeartGold/SoulSilver."
+          },
+          {
+            "name": "Iron Defense",
+            "method": "other",
+            "type": "Aço",
+            "category": "Status",
+            "power": "—",
+            "accuracy": "—",
+            "pp": 15,
+            "note": "Somente por troca de Metapod que recebeu o golpe de tutor em Platinum, HeartGold ou SoulSilver."
+          },
+          {
+            "name": "Snore",
+            "method": "other",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15,
+            "note": "Somente por troca de Pokémon que aprendeu o golpe na fase Caterpie por tutor em Platinum ou HeartGold/SoulSilver."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Golpes de outras edições compatíveis são identificados em Outros; não representam aprendizado direto neste cartucho. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2231,7 +2261,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -2241,12 +2271,42 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
+          },
+          {
+            "name": "Bug Bite",
+            "method": "other",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "note": "Não pode ser ensinado em Diamond/Pearl; obtenha por troca de um Metapod que aprendeu o golpe em Platinum ou HeartGold/SoulSilver."
+          },
+          {
+            "name": "Iron Defense",
+            "method": "other",
+            "type": "Aço",
+            "category": "Status",
+            "power": "—",
+            "accuracy": "—",
+            "pp": 15,
+            "note": "Somente por troca de Metapod que recebeu o golpe de tutor em Platinum, HeartGold ou SoulSilver."
+          },
+          {
+            "name": "Snore",
+            "method": "other",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15,
+            "note": "Somente por troca de Pokémon que aprendeu o golpe na fase Caterpie por tutor em Platinum ou HeartGold/SoulSilver."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Golpes de outras edições compatíveis são identificados em Outros; não representam aprendizado direto neste cartucho. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2393,7 +2453,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Platinum."
           }
         ],
         "tr": [],
@@ -2406,7 +2467,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -2416,7 +2477,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -2426,7 +2487,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir."
           },
           {
             "name": "Snore",
@@ -2436,12 +2497,12 @@
             "power": 40,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível. Bug Bite e String Shot também podem ser recebidos de HGSS, mas não são tutores diretos de Platinum.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2624,22 +2685,24 @@
         "egg": [],
         "tutor": [
           {
-            "name": "Bug Bite",
-            "method": "tutor",
-            "type": "Inseto",
-            "category": "Físico",
-            "power": 60,
-            "accuracy": 100,
-            "pp": 20
-          },
-          {
             "name": "Iron Defense",
             "method": "tutor",
             "type": "Aço",
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de HeartGold e SoulSilver."
+          },
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "note": "Tutor de movimentos de HeartGold e SoulSilver."
           },
           {
             "name": "String Shot",
@@ -2648,7 +2711,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": 95,
-            "pp": 40
+            "pp": 40,
+            "note": "Tutor de movimentos de HeartGold e SoulSilver."
           }
         ],
         "tr": [],
@@ -2661,7 +2725,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -2671,7 +2735,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir; também disponível por tutor diretamente para Metapod."
           },
           {
             "name": "Bug Bite",
@@ -2681,7 +2745,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir. Também disponível diretamente por tutor."
           },
           {
             "name": "Snore",
@@ -2691,12 +2755,12 @@
             "power": 40,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -2831,22 +2895,24 @@
         "egg": [],
         "tutor": [
           {
-            "name": "Bug Bite",
-            "method": "tutor",
-            "type": "Inseto",
-            "category": "Físico",
-            "power": 60,
-            "accuracy": 100,
-            "pp": 20
-          },
-          {
             "name": "Iron Defense",
             "method": "tutor",
             "type": "Aço",
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de HeartGold e SoulSilver."
+          },
+          {
+            "name": "Bug Bite",
+            "method": "tutor",
+            "type": "Inseto",
+            "category": "Físico",
+            "power": 60,
+            "accuracy": 100,
+            "pp": 20,
+            "note": "Tutor de movimentos de HeartGold e SoulSilver."
           },
           {
             "name": "String Shot",
@@ -2855,7 +2921,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": 95,
-            "pp": 40
+            "pp": 40,
+            "note": "Tutor de movimentos de HeartGold e SoulSilver."
           }
         ],
         "tr": [],
@@ -2868,7 +2935,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -2878,7 +2945,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir; também disponível por tutor diretamente para Metapod."
           },
           {
             "name": "Bug Bite",
@@ -2888,7 +2955,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir. Também disponível diretamente por tutor."
           },
           {
             "name": "Snore",
@@ -2898,12 +2965,12 @@
             "power": 40,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3035,7 +3102,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -3045,7 +3112,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -3055,12 +3122,42 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir."
+          },
+          {
+            "name": "Electroweb",
+            "method": "other",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "note": "Somente por troca de Pokémon que aprendeu por tutor em Black 2/White 2; não há tutor local compatível."
+          },
+          {
+            "name": "Iron Defense",
+            "method": "other",
+            "type": "Aço",
+            "category": "Status",
+            "power": "—",
+            "accuracy": "—",
+            "pp": 15,
+            "note": "Obtido por troca de Pokémon que aprendeu por tutor em Black 2/White 2 ou por transferência de geração anterior compatível; não há tutor local."
+          },
+          {
+            "name": "Snore",
+            "method": "other",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15,
+            "note": "Obtido por transferência de geração anterior compatível ou troca de Pokémon que aprendeu por tutor ainda como Caterpie em Black 2/White 2."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Golpes de outras edições compatíveis são identificados em Outros; não representam aprendizado direto neste cartucho. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3198,7 +3295,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -3208,7 +3305,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -3218,12 +3315,42 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir."
+          },
+          {
+            "name": "Electroweb",
+            "method": "other",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "note": "Somente por troca de Pokémon que aprendeu por tutor em Black 2/White 2; não há tutor local compatível."
+          },
+          {
+            "name": "Iron Defense",
+            "method": "other",
+            "type": "Aço",
+            "category": "Status",
+            "power": "—",
+            "accuracy": "—",
+            "pp": 15,
+            "note": "Obtido por troca de Pokémon que aprendeu por tutor em Black 2/White 2 ou por transferência de geração anterior compatível; não há tutor local."
+          },
+          {
+            "name": "Snore",
+            "method": "other",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 15,
+            "note": "Obtido por transferência de geração anterior compatível ou troca de Pokémon que aprendeu por tutor ainda como Caterpie em Black 2/White 2."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Golpes de outras edições compatíveis são identificados em Outros; não representam aprendizado direto neste cartucho. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3352,7 +3479,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 20
+            "pp": 20,
+            "note": "Tutor de movimentos de Black 2 e White 2."
           },
           {
             "name": "Electroweb",
@@ -3361,7 +3489,8 @@
             "category": "Especial",
             "power": 55,
             "accuracy": 95,
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Black 2 e White 2."
           },
           {
             "name": "Iron Defense",
@@ -3370,7 +3499,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Black 2 e White 2."
           }
         ],
         "tr": [],
@@ -3383,7 +3513,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -3393,7 +3523,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -3403,7 +3533,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir. Também disponível diretamente por tutor."
           },
           {
             "name": "Snore",
@@ -3413,12 +3543,12 @@
             "power": 40,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3547,7 +3677,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 20
+            "pp": 20,
+            "note": "Tutor de movimentos de Black 2 e White 2."
           },
           {
             "name": "Electroweb",
@@ -3556,7 +3687,8 @@
             "category": "Especial",
             "power": 55,
             "accuracy": 95,
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Black 2 e White 2."
           },
           {
             "name": "Iron Defense",
@@ -3565,7 +3697,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Black 2 e White 2."
           }
         ],
         "tr": [],
@@ -3578,7 +3711,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -3588,7 +3721,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -3598,7 +3731,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir. Também disponível diretamente por tutor."
           },
           {
             "name": "Snore",
@@ -3608,12 +3741,12 @@
             "power": 40,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3745,7 +3878,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -3755,7 +3888,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -3765,12 +3898,42 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir."
+          },
+          {
+            "name": "Electroweb",
+            "method": "other",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "note": "Somente por troca de Pokémon que aprendeu por tutor em Omega Ruby/Alpha Sapphire; não há tutor local compatível. Também pode ser conservado por transferência de geração anterior compatível."
+          },
+          {
+            "name": "Iron Defense",
+            "method": "other",
+            "type": "Aço",
+            "category": "Status",
+            "power": "—",
+            "accuracy": "—",
+            "pp": 15,
+            "note": "Obtido por troca de Pokémon que aprendeu por tutor em Omega Ruby/Alpha Sapphire ou por transferência de geração anterior compatível; não há tutor local."
+          },
+          {
+            "name": "Snore",
+            "method": "other",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 15,
+            "note": "Obtido por transferência de geração anterior compatível ou troca de Pokémon que aprendeu por tutor ainda como Caterpie em Omega Ruby/Alpha Sapphire."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Golpes de outras edições compatíveis são identificados em Outros; não representam aprendizado direto neste cartucho. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -3908,7 +4071,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -3918,7 +4081,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -3928,12 +4091,42 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir."
+          },
+          {
+            "name": "Electroweb",
+            "method": "other",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "note": "Somente por troca de Pokémon que aprendeu por tutor em Omega Ruby/Alpha Sapphire; não há tutor local compatível. Também pode ser conservado por transferência de geração anterior compatível."
+          },
+          {
+            "name": "Iron Defense",
+            "method": "other",
+            "type": "Aço",
+            "category": "Status",
+            "power": "—",
+            "accuracy": "—",
+            "pp": 15,
+            "note": "Obtido por troca de Pokémon que aprendeu por tutor em Omega Ruby/Alpha Sapphire ou por transferência de geração anterior compatível; não há tutor local."
+          },
+          {
+            "name": "Snore",
+            "method": "other",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 15,
+            "note": "Obtido por transferência de geração anterior compatível ou troca de Pokémon que aprendeu por tutor ainda como Caterpie em Omega Ruby/Alpha Sapphire."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Golpes de outras edições compatíveis são identificados em Outros; não representam aprendizado direto neste cartucho. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4062,7 +4255,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 20
+            "pp": 20,
+            "note": "Tutor de movimentos de Omega Ruby e Alpha Sapphire."
           },
           {
             "name": "Electroweb",
@@ -4071,7 +4265,8 @@
             "category": "Especial",
             "power": 55,
             "accuracy": 95,
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Omega Ruby e Alpha Sapphire."
           },
           {
             "name": "Iron Defense",
@@ -4080,7 +4275,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Omega Ruby e Alpha Sapphire."
           }
         ],
         "tr": [],
@@ -4093,7 +4289,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -4103,7 +4299,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -4113,7 +4309,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir. Também disponível diretamente por tutor."
           },
           {
             "name": "Snore",
@@ -4123,12 +4319,12 @@
             "power": 50,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4257,7 +4453,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 20
+            "pp": 20,
+            "note": "Tutor de movimentos de Omega Ruby e Alpha Sapphire."
           },
           {
             "name": "Electroweb",
@@ -4266,7 +4463,8 @@
             "category": "Especial",
             "power": 55,
             "accuracy": 95,
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Omega Ruby e Alpha Sapphire."
           },
           {
             "name": "Iron Defense",
@@ -4275,7 +4473,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Omega Ruby e Alpha Sapphire."
           }
         ],
         "tr": [],
@@ -4288,7 +4487,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -4298,7 +4497,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -4308,7 +4507,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 15; adie a evolução até esse nível e conserve o golpe ao evoluir. Também disponível diretamente por tutor."
           },
           {
             "name": "Snore",
@@ -4318,12 +4517,12 @@
             "power": 50,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden consta nos níveis 1 e 7; a partir do nível 8, atrasar a evolução pode impedir o aprendizado natural no nível 7. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4469,7 +4668,7 @@
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -4479,7 +4678,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -4489,7 +4688,37 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 9; adie a evolução até esse nível e conserve o golpe ao evoluir."
+          },
+          {
+            "name": "Electroweb",
+            "method": "other",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "note": "Somente por troca de Pokémon que aprendeu por tutor em Ultra Sun/Ultra Moon; não há tutor local compatível. Também pode ser conservado por transferência de geração anterior compatível."
+          },
+          {
+            "name": "Iron Defense",
+            "method": "other",
+            "type": "Aço",
+            "category": "Status",
+            "power": "—",
+            "accuracy": "—",
+            "pp": 15,
+            "note": "Obtido por troca de Pokémon que aprendeu por tutor em Ultra Sun/Ultra Moon ou por transferência de geração anterior compatível; não há tutor local."
+          },
+          {
+            "name": "Snore",
+            "method": "other",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 15,
+            "note": "Obtido por transferência de geração anterior compatível ou troca de Pokémon que aprendeu por tutor ainda como Caterpie em Ultra Sun/Ultra Moon."
           }
         ],
         "evolution": [
@@ -4504,7 +4733,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Golpes de outras edições compatíveis são identificados em Outros; não representam aprendizado direto neste cartucho. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4650,7 +4879,7 @@
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -4660,7 +4889,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -4670,7 +4899,37 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 9; adie a evolução até esse nível e conserve o golpe ao evoluir."
+          },
+          {
+            "name": "Electroweb",
+            "method": "other",
+            "type": "Elétrico",
+            "category": "Especial",
+            "power": 55,
+            "accuracy": 95,
+            "pp": 15,
+            "note": "Somente por troca de Pokémon que aprendeu por tutor em Ultra Sun/Ultra Moon; não há tutor local compatível. Também pode ser conservado por transferência de geração anterior compatível."
+          },
+          {
+            "name": "Iron Defense",
+            "method": "other",
+            "type": "Aço",
+            "category": "Status",
+            "power": "—",
+            "accuracy": "—",
+            "pp": 15,
+            "note": "Obtido por troca de Pokémon que aprendeu por tutor em Ultra Sun/Ultra Moon ou por transferência de geração anterior compatível; não há tutor local."
+          },
+          {
+            "name": "Snore",
+            "method": "other",
+            "type": "Normal",
+            "category": "Especial",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 15,
+            "note": "Obtido por transferência de geração anterior compatível ou troca de Pokémon que aprendeu por tutor ainda como Caterpie em Ultra Sun/Ultra Moon."
           }
         ],
         "evolution": [
@@ -4685,7 +4944,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Golpes de outras edições compatíveis são identificados em Outros; não representam aprendizado direto neste cartucho. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -4822,7 +5081,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 20
+            "pp": 20,
+            "note": "Tutor de movimentos de Ultra Sun e Ultra Moon."
           },
           {
             "name": "Electroweb",
@@ -4831,7 +5091,8 @@
             "category": "Especial",
             "power": 55,
             "accuracy": 95,
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Ultra Sun e Ultra Moon."
           },
           {
             "name": "Iron Defense",
@@ -4840,7 +5101,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Ultra Sun e Ultra Moon."
           }
         ],
         "tr": [],
@@ -4853,7 +5115,7 @@
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -4863,7 +5125,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -4873,7 +5135,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 9; adie a evolução até esse nível e conserve o golpe ao evoluir. Também disponível diretamente por tutor."
           },
           {
             "name": "Snore",
@@ -4883,7 +5145,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": [
@@ -4898,7 +5160,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -5035,7 +5297,8 @@
             "category": "Físico",
             "power": 60,
             "accuracy": 100,
-            "pp": 20
+            "pp": 20,
+            "note": "Tutor de movimentos de Ultra Sun e Ultra Moon."
           },
           {
             "name": "Electroweb",
@@ -5044,7 +5307,8 @@
             "category": "Especial",
             "power": 55,
             "accuracy": 95,
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Ultra Sun e Ultra Moon."
           },
           {
             "name": "Iron Defense",
@@ -5053,7 +5317,8 @@
             "category": "Status",
             "power": "—",
             "accuracy": "—",
-            "pp": 15
+            "pp": 15,
+            "note": "Tutor de movimentos de Ultra Sun e Ultra Moon."
           }
         ],
         "tr": [],
@@ -5066,7 +5331,7 @@
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -5076,7 +5341,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -5086,7 +5351,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 9; adie a evolução até esse nível e conserve o golpe ao evoluir. Também disponível diretamente por tutor."
           },
           {
             "name": "Snore",
@@ -5096,7 +5361,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 15,
-            "note": "Aprendido por tutor na fase Caterpie antes da evolução."
+            "note": "Ensine a Caterpie por tutor de movimentos nesta edição e depois evolua; Metapod não é compatível diretamente com esse tutor."
           }
         ],
         "evolution": [
@@ -5111,7 +5376,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, HM ou golpe de ovo compatível.",
       "base_exp": 72,
       "base_friendship": 70,
       "ev_yield": [
@@ -5230,7 +5495,28 @@
         "egg": [],
         "tutor": [],
         "tr": [],
-        "other": [],
+        "other": [
+          {
+            "name": "Tackle",
+            "method": "other",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
+          },
+          {
+            "name": "String Shot",
+            "method": "other",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
+          }
+        ],
         "evolution": [
           {
             "name": "Harden",
@@ -5243,7 +5529,7 @@
           }
         ]
       },
-      "learnset_notes": "Harden é aprendido no nível 1 e ao evoluir. Esta edição não usa habilidades, reprodução, TRs ou EVs tradicionais. Não há compatibilidade com TM.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Não há TM compatível, tutor de golpes para Metapod, reprodução ou transferência de golpes de outras gerações.",
       "pokedex_number": "Kanto #011"
     },
     "lets-go-eevee": {
@@ -5352,7 +5638,28 @@
         "egg": [],
         "tutor": [],
         "tr": [],
-        "other": [],
+        "other": [
+          {
+            "name": "Tackle",
+            "method": "other",
+            "type": "Normal",
+            "category": "Físico",
+            "power": 40,
+            "accuracy": 100,
+            "pp": 35,
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
+          },
+          {
+            "name": "String Shot",
+            "method": "other",
+            "type": "Inseto",
+            "category": "Status",
+            "power": "—",
+            "accuracy": 95,
+            "pp": 40,
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
+          }
+        ],
         "evolution": [
           {
             "name": "Harden",
@@ -5365,7 +5672,7 @@
           }
         ]
       },
-      "learnset_notes": "Harden é aprendido no nível 1 e ao evoluir. Esta edição não usa habilidades, reprodução, TRs ou EVs tradicionais. Não há compatibilidade com TM.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Não há TM compatível, tutor de golpes para Metapod, reprodução ou transferência de golpes de outras gerações.",
       "pokedex_number": "Kanto #011"
     },
     "sword": {
@@ -5529,7 +5836,7 @@
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -5539,7 +5846,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -5549,7 +5856,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 9; adie a evolução até esse nível e conserve o golpe ao evoluir."
           },
           {
             "name": "Snore",
@@ -5559,7 +5866,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 15,
-            "note": "Exclusivo por transferência de gerações anteriores, quando conservado pelo jogo."
+            "note": "Exclusivo por transferência de gerações anteriores via Pokémon HOME, quando conservado. Não é aprendido diretamente nem por Caterpie em Sword/Shield; a redefinição para o símbolo de aptidão de batalha pode removê-lo."
           }
         ],
         "evolution": [
@@ -5574,7 +5881,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. TM82 Electroweb e TR46 Iron Defense são as únicas máquinas compatíveis. Não há tutor ou golpe de ovo. Max Moves são transformações temporárias de golpes durante Dynamax, não golpes aprendidos separadamente.",
       "base_exp": 72,
       "base_friendship": 50,
       "ev_yield": [
@@ -5748,7 +6055,7 @@
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -5758,7 +6065,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -5768,7 +6075,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 9; adie a evolução até esse nível e conserve o golpe ao evoluir."
           },
           {
             "name": "Snore",
@@ -5778,7 +6085,7 @@
             "power": 50,
             "accuracy": 100,
             "pp": 15,
-            "note": "Exclusivo por transferência de gerações anteriores, quando conservado pelo jogo."
+            "note": "Exclusivo por transferência de gerações anteriores via Pokémon HOME, quando conservado. Não é aprendido diretamente nem por Caterpie em Sword/Shield; a redefinição para o símbolo de aptidão de batalha pode removê-lo."
           }
         ],
         "evolution": [
@@ -5793,7 +6100,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. TM82 Electroweb e TR46 Iron Defense são as únicas máquinas compatíveis. Não há tutor ou golpe de ovo. Max Moves são transformações temporárias de golpes durante Dynamax, não golpes aprendidos separadamente.",
       "base_exp": 72,
       "base_friendship": 50,
       "ev_yield": [
@@ -5915,7 +6222,7 @@
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -5925,7 +6232,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -5935,7 +6242,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 9; adie a evolução até esse nível e conserve o golpe ao evoluir."
           }
         ],
         "evolution": [
@@ -5950,7 +6257,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, tutor ou golpe de ovo compatível. Transferências via HOME usam os golpes próprios da edição; Snore de outras gerações não é incluído.",
       "base_exp": 72,
       "base_friendship": 50,
       "ev_yield": [
@@ -6072,7 +6379,7 @@
             "power": 40,
             "accuracy": 100,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -6082,7 +6389,7 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "Bug Bite",
@@ -6092,7 +6399,7 @@
             "power": 60,
             "accuracy": 100,
             "pp": 20,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 9; adie a evolução até esse nível e conserve o golpe ao evoluir."
           }
         ],
         "evolution": [
@@ -6107,7 +6414,7 @@
           }
         ]
       },
-      "learnset_notes": "Golpes diretos, de evolução, máquinas e tutores são separados por método. A seção de outros golpes indica movimentos conservados de Caterpie ou de transferência histórica, quando compatíveis; Metapod não possui golpes de ovo.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Harden também é oferecido no momento da evolução, independentemente do nível. Bug Bite pode ser conservado se Caterpie aprender antes de evoluir. Não há TM, tutor ou golpe de ovo compatível. Transferências via HOME usam os golpes próprios da edição; Snore de outras gerações não é incluído.",
       "base_exp": 72,
       "base_friendship": 50,
       "ev_yield": [
@@ -6244,7 +6551,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -6254,12 +6561,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Em Red/Green/Blue, Harden consta no nível 1, mas não é aprendido automaticamente na evolução normal de Caterpie no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "pokedex_number": "Kanto #011",
       "ev_yield": [
@@ -6401,7 +6708,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -6411,12 +6718,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Em Red/Green/Blue, Harden consta no nível 1, mas não é aprendido automaticamente na evolução normal de Caterpie no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "pokedex_number": "Kanto #011",
       "ev_yield": [
@@ -6558,7 +6865,7 @@
             "power": 35,
             "accuracy": 95,
             "pp": 35,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           },
           {
             "name": "String Shot",
@@ -6568,12 +6875,12 @@
             "power": "—",
             "accuracy": 95,
             "pp": 40,
-            "note": "Aprendido na fase Caterpie antes da evolução."
+            "note": "Aprendido por Caterpie no nível 1 e conservado ao evoluir."
           }
         ],
         "evolution": []
       },
-      "learnset_notes": "Harden é o único golpe aprendido diretamente. Tackle e String Shot podem ser conservados da fase Caterpie. Não há EVs modernos nesta geração.",
+      "learnset_notes": "Harden é o único golpe aprendido diretamente por nível. Tackle e String Shot podem ser conservados de Caterpie. Em Red/Green/Blue, Harden consta no nível 1, mas não é aprendido automaticamente na evolução normal de Caterpie no nível 7. Não há TM, HM ou tutor compatível; nenhum golpe de ovo.",
       "base_exp": 72,
       "pokedex_number": "Kanto #011",
       "ev_yield": [
@@ -6589,7 +6896,7 @@
   "audit": {
     "status": "partial",
     "review_date": "2026-11-27",
-    "notes": "Revisão incremental do arquivo existente: 36 edições preservadas; quatro jogos indisponíveis; biologia, crescimento, morfologia, histórico de golpes, localizações gerais, spin-offs e metadados de anime revisados. Títulos em português não confirmados oficialmente são traduções editoriais; a numeração contínua segue a convenção utilizada pela dexH!P. Mangás adicionais registrados, com dois títulos japoneses ainda pendentes. Imagens de mídia e ícones específicos dos spin-offs ainda aguardam pesquisa visual, aprovação e hospedagem. Taxas/níveis individuais de encontros, valores históricos completos e renderização no Blogger ainda não auditados integralmente. Metapod não deixa pegada."
+    "notes": "Revisão incremental do arquivo existente: 36 edições preservadas; quatro jogos indisponíveis; biologia, crescimento, morfologia, histórico de golpes, localizações gerais, spin-offs e metadados de anime revisados. Títulos em português não confirmados oficialmente são traduções editoriais; a numeração contínua segue a convenção utilizada pela dexH!P. Mangás adicionais registrados, com dois títulos japoneses ainda pendentes. Imagens de mídia e ícones específicos dos spin-offs ainda aguardam pesquisa visual, aprovação e hospedagem. Taxas/níveis individuais de encontros, valores históricos completos e renderização no Blogger ainda não auditados integralmente. Metapod não deixa pegada. Auditoria de movimentos em 27/11/2026: revisadas as 36 edições (gerações I–VIII), com nível, evolução, máquinas, tutores, golpes herdados de Caterpie e transferências/trocas compatíveis, incluindo parâmetros históricos. A revisão não altera o status geral parcial, pois as outras seções permanecem pendentes."
   },
   "media_appearances": {
     "title": "Aparições em outras mídias",
